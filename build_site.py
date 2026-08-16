@@ -378,6 +378,35 @@ def build_hero(seasons, owner_rows, games_log):
     }
 
 
+def enrich_games_for_frontend(seasons, games_log):
+    """The game-log JS expects `type`, `home_owner`, and `away_owner` fields
+    that don't exist in the raw pull — map them in here from each season's
+    standings (team name -> owner), same enrichment the manual builds did
+    by hand."""
+    team_owner_by_year = defaultdict(dict)
+    for s in seasons:
+        for row in s["standings"]:
+            team_owner_by_year[s["year"]][row["team"]] = row["owner"]
+
+    enriched = []
+    for g in games_log:
+        year = g["year"]
+        owners = team_owner_by_year.get(year, {})
+        enriched.append({
+            "year": year,
+            "week": g["week"],
+            "type": g.get("matchup_type"),
+            "home_team": g.get("home_team"),
+            "home_owner": owners.get(g.get("home_team")),
+            "home_score": g.get("home_score"),
+            "away_team": g.get("away_team"),
+            "away_owner": owners.get(g.get("away_team")) if g.get("away_team") else None,
+            "away_score": g.get("away_score"),
+            "margin": g.get("margin"),
+        })
+    return enriched
+
+
 def main():
     seasons = load_json("league_data.json")
     owner_rows = build_owner_stats(seasons)
@@ -395,7 +424,7 @@ def main():
     standings_rows_html = build_standings_rows(owner_rows)
     title_labels, title_data, title_colors, win_labels, win_data = build_charts_js(owner_rows)
 
-    games_json = json.dumps(games_log, ensure_ascii=False)
+    games_json = json.dumps(enrich_games_for_frontend(seasons, games_log), ensure_ascii=False)
     player_success_json = json.dumps(player_success, ensure_ascii=False)
 
     total_players = len(player_success)

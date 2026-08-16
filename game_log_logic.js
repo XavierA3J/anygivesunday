@@ -59,7 +59,7 @@ function renderLog() {
     return `<tr${rowClass}>
       <td>${g.year}</td>
       <td>${g.week}</td>
-      <td><span class="${tagClass}">${TYPE_LABELS[g.type] || g.type}</span></td>
+      <td><span class="${tagClass}">${TYPE_LABELS[g.type] || g.type || 'Regular'}</span></td>
       <td>${g.home_owner || ''} <span style="color:var(--chalk-dim);font-size:0.8em;">(${g.home_team})</span></td>
       <td class="gg-num" style="${homeWin ? 'color:var(--amber);font-weight:700;' : ''}">${g.home_score.toFixed(2)}</td>
       <td>${g.away_owner || ''} <span style="color:var(--chalk-dim);font-size:0.8em;">(${g.away_team})</span></td>

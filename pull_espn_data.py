@@ -65,7 +65,13 @@ def pull_season(year):
             "win_pct": safe_pct(team.wins, team.losses),
         })
 
-    if standings:
+    # Only treat someone as "champion" if the league has actually recorded
+    # real results this season. Before a season starts (or very early, before
+    # any games post), ESPN's standings() just returns teams in an arbitrary
+    # default order — treating standings[0] as champion in that case would
+    # falsely crown whoever happens to be first alphabetically/by team ID.
+    total_wins_this_season = sum(row["wins"] for row in season["standings"])
+    if standings and total_wins_this_season > 0:
         champ = standings[0]
         season["champion"] = champ.team_name
 
@@ -84,7 +90,11 @@ def pull_season(year):
         if not box_scores:
             break
         for bs in box_scores:
-            if bs.home_score == 0 and bs.away_score == 0:
+            # Skip matchups with no real activity yet: either both sides are
+            # exactly 0 (a scheduled-but-unplayed bye/placeholder), or the
+            # scores are None (which is what ESPN returns for weeks that
+            # haven't happened yet, e.g. during the preseason).
+            if not bs.home_score and not bs.away_score:
                 continue
 
             # Bye weeks / playoff byes: one side may be None. Skip those for
