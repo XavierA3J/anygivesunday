@@ -1,0 +1,310 @@
+  :root{
+    --night: #0B1420;
+    --night-2: #0F1B29;
+    --turf: #1F4D36;
+    --turf-light: #2E6B4A;
+    --amber: #F2A93B;
+    --amber-dim: #C98726;
+    --chalk: #F2EFE4;
+    --chalk-dim: rgba(242,239,228,0.62);
+    --red: #C43B3B;
+    --line: rgba(242,239,228,0.14);
+    --display: 'Anton', sans-serif;
+    --body: 'Inter', sans-serif;
+    --mono: 'Space Mono', monospace;
+  }
+
+  *{ box-sizing: border-box; margin:0; padding:0; }
+  html{ scroll-behavior: smooth; }
+  body{
+    background: var(--night);
+    color: var(--chalk);
+    font-family: var(--body);
+    line-height: 1.5;
+    overflow-x: hidden;
+  }
+
+  @media (prefers-reduced-motion: reduce){
+    *{ animation-duration: 0.01ms !important; animation-iteration-count: 1 !important; transition-duration: 0.01ms !important; scroll-behavior: auto !important; }
+  }
+
+  a{ color: inherit; }
+  img{ max-width: 100%; display:block; }
+
+  /* ---------- layout shell ---------- */
+  .gg-wrap{ max-width: 1180px; margin: 0 auto; padding: 0 28px; }
+  .gg-eyebrow{
+    font-family: var(--mono);
+    font-size: 0.72rem;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--amber);
+  }
+
+  /* ---------- nav ---------- */
+  .gg-nav{
+    position: sticky; top:0; z-index: 50;
+    background: rgba(11,20,32,0.86);
+    backdrop-filter: blur(10px);
+    border-bottom: 1px solid var(--line);
+  }
+  .gg-nav-inner{
+    display:flex; align-items:center; justify-content: space-between;
+    padding: 16px 28px; max-width: 1180px; margin:0 auto;
+  }
+  .gg-brand{
+    font-family: var(--display);
+    font-size: 1.25rem;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+  }
+  .gg-brand span{ color: var(--amber); }
+  .gg-navlinks{ display:flex; gap: 28px; list-style:none; font-size: 0.85rem; font-weight: 600; letter-spacing: 0.02em; }
+  .gg-navlinks a{ text-decoration:none; color: var(--chalk-dim); transition: color .2s ease; }
+  .gg-navlinks a:hover, .gg-navlinks a:focus-visible{ color: var(--amber); }
+  @media (max-width: 720px){ .gg-navlinks{ display:none; } }
+
+  /* ---------- hero / scoreboard ---------- */
+  .gg-hero{
+    position: relative;
+    padding: 88px 0 64px;
+    background:
+      radial-gradient(ellipse 900px 500px at 50% -10%, rgba(31,77,54,0.55), transparent 60%),
+      repeating-linear-gradient(90deg, rgba(242,239,228,0.035) 0 1px, transparent 1px 64px),
+      var(--night);
+    border-bottom: 1px solid var(--line);
+  }
+  .gg-hero-grid{
+    display: grid;
+    grid-template-columns: 1.1fr 0.9fr;
+    gap: 48px;
+    align-items: center;
+  }
+  @media (max-width: 900px){ .gg-hero-grid{ grid-template-columns: 1fr; } }
+
+  .gg-hero h1{
+    font-family: var(--display);
+    font-size: clamp(2.6rem, 5.6vw, 4.6rem);
+    line-height: 0.98;
+    text-transform: uppercase;
+    letter-spacing: 0.01em;
+    margin: 14px 0 18px;
+  }
+  .gg-hero h1 em{
+    font-style: normal;
+    color: var(--amber);
+    -webkit-text-stroke: 0;
+  }
+  .gg-hero p.gg-sub{
+    font-size: 1.05rem;
+    color: var(--chalk-dim);
+    max-width: 46ch;
+    margin-bottom: 28px;
+  }
+  .gg-cta-row{ display:flex; gap: 14px; flex-wrap: wrap; }
+  .gg-btn{
+    display:inline-flex; align-items:center; gap:8px;
+    padding: 13px 22px;
+    font-weight: 700; font-size: 0.9rem;
+    text-decoration: none;
+    border-radius: 3px;
+    border: 1px solid transparent;
+    cursor: pointer;
+    transition: transform .15s ease, background .15s ease, border-color .15s ease;
+  }
+  .gg-btn:hover{ transform: translateY(-1px); }
+  .gg-btn-primary{ background: var(--amber); color: #1a1204; }
+  .gg-btn-primary:hover{ background: #ffbe5c; }
+  .gg-btn-ghost{ border-color: var(--line); color: var(--chalk); background: transparent; }
+  .gg-btn-ghost:hover{ border-color: var(--amber); color: var(--amber); }
+
+  /* scoreboard panel */
+  .gg-board{
+    background: linear-gradient(180deg, #0d1a12, #0a140e);
+    border: 1px solid rgba(46,107,74,0.55);
+    border-radius: 6px;
+    padding: 22px 22px 18px;
+    box-shadow: 0 0 0 1px rgba(0,0,0,0.4), 0 24px 60px -20px rgba(0,0,0,0.6), inset 0 0 40px rgba(31,77,54,0.25);
+  }
+  .gg-board-top{
+    display:flex; justify-content: space-between; align-items:center;
+    font-family: var(--mono); font-size: 0.68rem; letter-spacing: 0.12em;
+    color: var(--turf-light); text-transform: uppercase;
+    padding-bottom: 12px; border-bottom: 1px dashed rgba(46,107,74,0.5);
+    margin-bottom: 14px;
+  }
+  .gg-board-top .gg-live{ color: var(--red); display:flex; align-items:center; gap:6px; }
+  .gg-live::before{
+    content:''; width:7px; height:7px; border-radius:50%; background: var(--red);
+    animation: gg-pulse 1.6s ease-in-out infinite;
+  }
+  @keyframes gg-pulse{ 0%,100%{ opacity:1; } 50%{ opacity:0.25; } }
+
+  .gg-board-grid{ display:grid; grid-template-columns: repeat(2, 1fr); gap: 14px; }
+  .gg-cell{ background: rgba(242,239,228,0.03); border: 1px solid rgba(242,239,228,0.06); border-radius: 4px; padding: 14px 14px 12px; }
+  .gg-cell-label{ font-family: var(--mono); font-size: 0.62rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--chalk-dim); margin-bottom: 6px; }
+  .gg-cell-value{ font-family: var(--mono); font-weight: 700; font-size: 1.8rem; color: var(--amber); font-variant-numeric: tabular-nums; }
+  .gg-cell-value small{ font-size: 0.9rem; color: var(--chalk-dim); font-weight: 400; margin-left: 4px; }
+
+  /* ---------- section shells ---------- */
+  .gg-section{ padding: 84px 0; }
+  .gg-section-head{ margin-bottom: 44px; max-width: 62ch; }
+  .gg-section-head h2{
+    font-family: var(--display);
+    font-size: clamp(1.9rem, 3.4vw, 2.7rem);
+    text-transform: uppercase;
+    margin-top: 8px;
+  }
+  .gg-section-head p{ color: var(--chalk-dim); margin-top: 10px; }
+  .gg-section-alt{ background: var(--night-2); border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
+
+  /* ---------- trophy case (champions timeline) ---------- */
+  .gg-timeline{ position: relative; }
+  .gg-timeline::before{
+    content:''; position:absolute; left: 97px; top: 6px; bottom: 6px; width: 2px;
+    background: repeating-linear-gradient(180deg, var(--turf-light) 0 10px, transparent 10px 18px);
+  }
+  @media (max-width: 720px){ .gg-timeline::before{ left: 53px; } }
+
+  .gg-champ{ position: relative; display:grid; grid-template-columns: 96px 1fr; gap: 28px; padding-bottom: 46px; }
+  @media (max-width: 720px){ .gg-champ{ grid-template-columns: 52px 1fr; gap: 16px; } }
+  .gg-champ:last-child{ padding-bottom: 0; }
+  .gg-champ-year{
+    font-family: var(--mono); font-weight: 700; font-size: 0.95rem; color: var(--turf-light);
+    padding-top: 4px; padding-right: 18px; text-align: right;
+  }
+  .gg-champ-dot{
+    position:absolute; left: 90px; top: 8px; width: 14px; height: 14px; border-radius: 50%;
+    background: var(--amber); box-shadow: 0 0 0 5px var(--night), 0 0 0 6px rgba(46,107,74,0.6);
+  }
+  @media (max-width: 720px){ .gg-champ-dot{ left: 46px; } .gg-champ-year{ font-size: 0.8rem; padding-right: 10px; } }
+
+  .gg-champ-card{
+    background: rgba(242,239,228,0.03);
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    padding: 24px 26px;
+    transition: border-color .2s ease, background .2s ease;
+  }
+  .gg-champ-card:hover{ border-color: rgba(242,169,59,0.4); background: rgba(242,239,228,0.045); }
+  .gg-champ-top{ display:flex; justify-content: space-between; align-items: flex-start; gap: 16px; flex-wrap: wrap; }
+  .gg-champ-name{ font-family: var(--display); font-size: 1.5rem; text-transform: uppercase; letter-spacing: 0.01em; }
+  .gg-champ-team{ color: var(--amber); font-family: var(--mono); font-size: 0.85rem; margin-top: 2px; }
+  .gg-champ-record{
+    font-family: var(--mono); font-size: 0.85rem; color: var(--chalk-dim);
+    border: 1px solid var(--line); border-radius: 3px; padding: 5px 10px; white-space: nowrap;
+  }
+  .gg-champ-fact{ margin-top: 14px; color: var(--chalk-dim); font-size: 0.96rem; max-width: 60ch; }
+  .gg-champ-fact strong{ color: var(--chalk); font-weight: 600; }
+
+  /* ---------- stat grid ---------- */
+  .gg-stats-grid{ display:grid; grid-template-columns: repeat(3, 1fr); gap: 18px; }
+  @media (max-width: 900px){ .gg-stats-grid{ grid-template-columns: repeat(2, 1fr); } }
+  @media (max-width: 600px){ .gg-stats-grid{ grid-template-columns: 1fr; } }
+  .gg-stat-card{
+    background: rgba(242,239,228,0.03); border: 1px solid var(--line); border-radius: 6px;
+    padding: 22px; position: relative; overflow: hidden;
+  }
+  .gg-stat-card::before{
+    content: attr(data-tag); position:absolute; top:12px; right:14px;
+    font-family: var(--mono); font-size: 0.6rem; letter-spacing: 0.1em; color: var(--chalk-dim); text-transform: uppercase;
+  }
+  .gg-stat-value{ font-family: var(--mono); font-weight:700; font-size: 2.1rem; color: var(--amber); font-variant-numeric: tabular-nums; }
+  .gg-stat-label{ font-size: 0.85rem; color: var(--chalk-dim); margin-top: 6px; }
+  .gg-stat-sub{ font-size: 0.8rem; color: var(--turf-light); margin-top: 10px; font-weight: 600; }
+
+  /* ---------- charts ---------- */
+  .gg-chart-grid{ display:grid; grid-template-columns: 1.3fr 1fr; gap: 24px; }
+  @media (max-width: 900px){ .gg-chart-grid{ grid-template-columns: 1fr; } }
+  .gg-chart-card{ background: rgba(242,239,228,0.03); border: 1px solid var(--line); border-radius: 6px; padding: 22px; }
+  .gg-chart-card h3{ font-family: var(--display); font-size: 1.1rem; text-transform: uppercase; margin-bottom: 4px; letter-spacing: 0.01em; }
+  .gg-chart-card .gg-chart-desc{ font-size: 0.82rem; color: var(--chalk-dim); margin-bottom: 16px; }
+  .gg-chart-wrap{ position: relative; height: 260px; }
+
+  /* ---------- standings table ---------- */
+  .gg-table-wrap{ overflow-x: auto; border: 1px solid var(--line); border-radius: 6px; }
+  table.gg-table{ width: 100%; border-collapse: collapse; font-size: 0.9rem; min-width: 560px; }
+  table.gg-table th{
+    font-family: var(--mono); font-size: 0.68rem; letter-spacing: 0.08em; text-transform: uppercase;
+    text-align: left; color: var(--chalk-dim); padding: 14px 16px; border-bottom: 1px solid var(--line);
+    background: rgba(242,239,228,0.03);
+  }
+  table.gg-table td{ padding: 14px 16px; border-bottom: 1px solid var(--line); }
+  table.gg-table tr:last-child td{ border-bottom: none; }
+  table.gg-table tr:hover td{ background: rgba(242,169,59,0.05); }
+  .gg-rank{ font-family: var(--mono); color: var(--turf-light); font-weight:700; }
+  .gg-rank.gg-rank-1{ color: var(--amber); }
+  td.gg-num, th.gg-num{ text-align: right; font-family: var(--mono); font-variant-numeric: tabular-nums; }
+
+  /* ---------- footer ---------- */
+  .gg-footer{
+    padding: 40px 0 50px; border-top: 1px solid var(--line);
+    display:flex; justify-content: space-between; align-items:center; flex-wrap: wrap; gap: 12px;
+    color: var(--chalk-dim); font-size: 0.82rem;
+  }
+  .gg-footer .gg-brand{ font-size: 1rem; }
+
+  /* ---------- game log / filters ---------- */
+  .gg-filter-bar{ display:flex; gap:12px; flex-wrap:wrap; margin-bottom: 22px; }
+  .gg-select{
+    background-color: var(--night-2);
+    border: 1px solid rgba(242,169,59,0.35);
+    color: var(--chalk);
+    font-family: var(--mono); font-size: 0.78rem; padding: 10px 12px; border-radius: 4px;
+    min-width: 150px; cursor: pointer;
+  }
+  select.gg-select{
+    background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6' viewBox='0 0 10 6'%3E%3Cpath d='M0 0L5 6L10 0Z' fill='%23F2A93B'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 12px center;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    padding-right: 32px;
+  }
+  select.gg-select option{ background-color: var(--night-2); color: var(--chalk); }
+  input.gg-select{ cursor: text; }
+  input.gg-select::placeholder{ color: var(--chalk-dim); }
+  .gg-select:hover{ border-color: rgba(242,169,59,0.6); }
+  .gg-select:focus-visible{ outline: 2px solid var(--amber); outline-offset: 2px; }
+  .gg-log-count{ font-family: var(--mono); font-size: 0.78rem; color: var(--chalk-dim); margin-bottom: 14px; }
+  .gg-log-scroll{ max-height: 560px; overflow-y: auto; }
+  .gg-log-scroll table.gg-table thead th{ position: sticky; top: 0; z-index: 2; }
+  tr.gg-log-playoff td{ background: rgba(242,169,59,0.045); }
+  .gg-tag{
+    font-family: var(--mono); font-size: 0.62rem; letter-spacing: 0.06em; text-transform: uppercase;
+    padding: 2px 7px; border-radius: 3px; border: 1px solid var(--line); color: var(--chalk-dim); white-space: nowrap;
+  }
+  .gg-tag-playoff{ color: var(--amber); border-color: rgba(242,169,59,0.4); }
+
+  .gg-h2h{
+    background: rgba(242,239,228,0.03); border: 1px solid var(--line); border-radius: 6px;
+    padding: 24px; margin-bottom: 32px;
+  }
+  .gg-h2h-controls{ display:flex; align-items:center; gap: 14px; flex-wrap: wrap; margin-bottom: 18px; }
+  .gg-h2h-vs{ font-family: var(--display); color: var(--chalk-dim); text-transform: uppercase; font-size: 0.9rem; }
+  .gg-h2h-result{ font-family: var(--mono); font-size: 0.95rem; color: var(--chalk-dim); min-height: 1.4em; }
+  .gg-h2h-result strong{ color: var(--amber); font-size: 1.3rem; }
+
+  /* ---------- players ---------- */
+  tr.gg-player-row{ cursor: pointer; }
+  tr.gg-player-row:hover td{ background: rgba(242,169,59,0.06); }
+  tr.gg-player-detail-row td{ background: rgba(242,239,228,0.02); padding: 0; }
+  .gg-player-detail{ padding: 16px 16px 18px; }
+  .gg-player-detail table{ width: 100%; border-collapse: collapse; font-size: 0.82rem; }
+  .gg-player-detail th{
+    text-align: left; font-family: var(--mono); font-size: 0.62rem; letter-spacing: 0.08em;
+    text-transform: uppercase; color: var(--chalk-dim); padding: 6px 10px; border-bottom: 1px solid var(--line);
+  }
+  .gg-player-detail td{ padding: 6px 10px; border-bottom: 1px solid rgba(242,239,228,0.06); }
+  .gg-player-detail td.gg-num, .gg-player-detail th.gg-num{ text-align: right; font-family: var(--mono); }
+  .gg-pos-tag{
+    font-family: var(--mono); font-size: 0.62rem; letter-spacing: 0.06em; padding: 2px 7px;
+    border-radius: 3px; border: 1px solid var(--line); color: var(--chalk-dim);
+  }
+  .gg-sort-th{ cursor: pointer; user-select: none; }
+  .gg-sort-th:hover{ color: var(--amber); }
+  .gg-sort-th .gg-sort-arrow{ opacity: 0.5; margin-left: 3px; }
+
+  /* focus visibility */
+  a:focus-visible, button:focus-visible{ outline: 2px solid var(--amber); outline-offset: 3px; }
