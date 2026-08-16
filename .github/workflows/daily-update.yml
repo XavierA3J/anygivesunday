@@ -1,0 +1,49 @@
+name: Daily league data refresh
+
+on:
+  schedule:
+    # Runs at 13:00 UTC every day (~9am Eastern / 8am Auburndale time in EST,
+    # 1 hour earlier during EDT). Adjust the cron below if you want a
+    # different time — GitHub Actions cron is always in UTC.
+    - cron: "0 13 * * *"
+  workflow_dispatch: {}  # lets you also trigger it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install espn-api
+
+      - name: Pull ESPN league data
+        env:
+          LEAGUE_ID: ${{ secrets.LEAGUE_ID }}
+          ESPN_S2: ${{ secrets.ESPN_S2 }}
+          SWID: ${{ secrets.SWID }}
+        run: python pull_espn_data.py
+
+      - name: Rebuild the site
+        run: python build_site.py
+
+      - name: Commit and push if anything changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add index.html data/
+          if git diff --cached --quiet; then
+            echo "No changes — league data is the same as last run."
+          else
+            git commit -m "Auto-update: refresh league data $(date -u +'%Y-%m-%d')"
+            git push
+          fi
