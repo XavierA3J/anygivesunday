@@ -1,0 +1,413 @@
+year,week,matchup_type,home_team,home_score,away_team,away_score,margin
+2022,1,NONE,TuAnon .,123.8,KyleShanahanThe NflTerrorrist,121.4,2.4
+2022,1,NONE,Dallas AllWeGotIsMicah,131.02,Free Lamar  Woe,134.86,3.84
+2022,1,NONE,The Hennynator's ,116.22,Chiefs Kingdom,131.0,14.78
+2022,1,NONE,The Fantasy  Reaper,71.06,WILSONS IN  YOUR MOM,129.08,58.02
+2022,1,NONE,Griddy and  Ganja,144.72,K-town Binshine,124.0,20.72
+2022,1,NONE,Orlando GOONS,130.38,The Shiva Whisperer,100.32,30.06
+2022,2,NONE,KyleShanahanThe NflTerrorrist,123.88,Free Lamar  Woe,145.06,21.18
+2022,2,NONE,Chiefs Kingdom,113.7,TuAnon .,96.26,17.44
+2022,2,NONE,The Hennynator's ,84.16,Dallas AllWeGotIsMicah,121.92,37.76
+2022,2,NONE,WILSONS IN  YOUR MOM,150.18,K-town Binshine,143.06,7.12
+2022,2,NONE,The Shiva Whisperer,156.52,The Fantasy  Reaper,118.58,37.94
+2022,2,NONE,Orlando GOONS,126.88,Griddy and  Ganja,159.68,32.8
+2022,3,NONE,Chiefs Kingdom,117.48,KyleShanahanThe NflTerrorrist,79.16,38.32
+2022,3,NONE,Free Lamar  Woe,114.78,The Hennynator's ,123.7,8.92
+2022,3,NONE,TuAnon .,75.44,Dallas AllWeGotIsMicah,127.32,51.88
+2022,3,NONE,The Shiva Whisperer,131.4,WILSONS IN  YOUR MOM,134.22,2.82
+2022,3,NONE,K-town Binshine,103.9,Orlando GOONS,108.4,4.5
+2022,3,NONE,The Fantasy  Reaper,101.14,Griddy and  Ganja,119.96,18.82
+2022,4,NONE,KyleShanahanThe NflTerrorrist,153.76,The Hennynator's ,88.38,65.38
+2022,4,NONE,Dallas AllWeGotIsMicah,117.56,Chiefs Kingdom,111.16,6.4
+2022,4,NONE,TuAnon .,92.8,Free Lamar  Woe,134.8,42.0
+2022,4,NONE,WILSONS IN  YOUR MOM,104.32,Orlando GOONS,117.32,13.0
+2022,4,NONE,Griddy and  Ganja,192.28,The Shiva Whisperer,120.66,71.62
+2022,4,NONE,The Fantasy  Reaper,99.9,K-town Binshine,128.24,28.34
+2022,5,NONE,Dallas AllWeGotIsMicah,138.46,KyleShanahanThe NflTerrorrist,184.72,46.26
+2022,5,NONE,The Hennynator's ,109.44,TuAnon .,96.26,13.18
+2022,5,NONE,Chiefs Kingdom,127.58,Free Lamar  Woe,131.62,4.04
+2022,5,NONE,Griddy and  Ganja,122.42,WILSONS IN  YOUR MOM,85.14,37.28
+2022,5,NONE,Orlando GOONS,170.66,The Fantasy  Reaper,128.86,41.8
+2022,5,NONE,The Shiva Whisperer,80.36,K-town Binshine,103.68,23.32
+2022,6,NONE,KyleShanahanThe NflTerrorrist,112.08,WILSONS IN  YOUR MOM,112.28,0.2
+2022,6,NONE,TuAnon .,104.92,The Fantasy  Reaper,84.16,20.76
+2022,6,NONE,Free Lamar  Woe,112.12,K-town Binshine,88.24,23.88
+2022,6,NONE,Chiefs Kingdom,93.22,The Shiva Whisperer,86.3,6.92
+2022,6,NONE,The Hennynator's ,76.92,Orlando GOONS,118.26,41.34
+2022,6,NONE,Dallas AllWeGotIsMicah,133.3,Griddy and  Ganja,121.78,11.52
+2022,7,NONE,WILSONS IN  YOUR MOM,80.14,TuAnon .,157.64,77.5
+2022,7,NONE,The Fantasy  Reaper,103.88,Free Lamar  Woe,115.92,12.04
+2022,7,NONE,K-town Binshine,88.34,Chiefs Kingdom,144.32,55.98
+2022,7,NONE,The Shiva Whisperer,102.2,The Hennynator's ,67.9,34.3
+2022,7,NONE,Orlando GOONS,138.08,Dallas AllWeGotIsMicah,96.8,41.28
+2022,7,NONE,Griddy and  Ganja,135.26,KyleShanahanThe NflTerrorrist,92.7,42.56
+2022,8,NONE,Free Lamar  Woe,76.74,WILSONS IN  YOUR MOM,125.94,49.2
+2022,8,NONE,Chiefs Kingdom,181.58,The Fantasy  Reaper,171.6,9.98
+2022,8,NONE,The Hennynator's ,112.1,K-town Binshine,126.88,14.78
+2022,8,NONE,Dallas AllWeGotIsMicah,127.52,The Shiva Whisperer,102.46,25.06
+2022,8,NONE,KyleShanahanThe NflTerrorrist,129.48,Orlando GOONS,146.98,17.5
+2022,8,NONE,TuAnon .,104.38,Griddy and  Ganja,146.84,42.46
+2022,9,NONE,WILSONS IN  YOUR MOM,110.94,Chiefs Kingdom,148.04,37.1
+2022,9,NONE,The Fantasy  Reaper,70.98,The Hennynator's ,129.12,58.14
+2022,9,NONE,K-town Binshine,124.24,Dallas AllWeGotIsMicah,159.02,34.78
+2022,9,NONE,The Shiva Whisperer,86.02,KyleShanahanThe NflTerrorrist,121.2,35.18
+2022,9,NONE,Orlando GOONS,104.2,TuAnon .,69.88,34.32
+2022,9,NONE,Griddy and  Ganja,149.5,Free Lamar  Woe,107.9,41.6
+2022,10,NONE,The Hennynator's ,125.08,WILSONS IN  YOUR MOM,114.44,10.64
+2022,10,NONE,Dallas AllWeGotIsMicah,151.0,The Fantasy  Reaper,96.6,54.4
+2022,10,NONE,KyleShanahanThe NflTerrorrist,74.6,K-town Binshine,57.68,16.92
+2022,10,NONE,TuAnon .,99.3,The Shiva Whisperer,103.6,4.3
+2022,10,NONE,Free Lamar  Woe,102.44,Orlando GOONS,107.6,5.16
+2022,10,NONE,Chiefs Kingdom,132.54,Griddy and  Ganja,110.98,21.56
+2022,11,NONE,WILSONS IN  YOUR MOM,119.78,Dallas AllWeGotIsMicah,153.76,33.98
+2022,11,NONE,The Fantasy  Reaper,91.54,KyleShanahanThe NflTerrorrist,116.88,25.34
+2022,11,NONE,K-town Binshine,91.4,TuAnon .,96.98,5.58
+2022,11,NONE,The Shiva Whisperer,134.0,Free Lamar  Woe,105.72,28.28
+2022,11,NONE,Orlando GOONS,100.38,Chiefs Kingdom,165.86,65.48
+2022,11,NONE,Griddy and  Ganja,101.6,The Hennynator's ,114.7,13.1
+2022,12,NONE,WILSONS IN  YOUR MOM,128.94,KyleShanahanThe NflTerrorrist,123.32,5.62
+2022,12,NONE,The Fantasy  Reaper,100.24,TuAnon .,78.76,21.48
+2022,12,NONE,K-town Binshine,109.4,Free Lamar  Woe,126.8,17.4
+2022,12,NONE,The Shiva Whisperer,133.22,Chiefs Kingdom,112.2,21.02
+2022,12,NONE,Orlando GOONS,167.62,The Hennynator's ,116.06,51.56
+2022,12,NONE,Griddy and  Ganja,162.98,Dallas AllWeGotIsMicah,95.36,67.62
+2022,13,NONE,TuAnon .,124.0,WILSONS IN  YOUR MOM,64.44,59.56
+2022,13,NONE,K-town Binshine,157.34,The Fantasy  Reaper,129.9,27.44
+2022,13,NONE,Chiefs Kingdom,124.42,Free Lamar  Woe,95.96,28.46
+2022,13,NONE,The Hennynator's ,120.8,The Shiva Whisperer,115.5,5.3
+2022,13,NONE,Dallas AllWeGotIsMicah,100.24,Orlando GOONS,118.32,18.08
+2022,13,NONE,KyleShanahanThe NflTerrorrist,148.52,Griddy and  Ganja,138.02,10.5
+2022,14,NONE,Chiefs Kingdom,96.28,K-town Binshine,120.36,24.08
+2022,14,NONE,Free Lamar  Woe,129.82,The Fantasy  Reaper,96.66,33.16
+2022,14,NONE,WILSONS IN  YOUR MOM,87.16,Dallas AllWeGotIsMicah,83.14,4.02
+2022,14,NONE,The Shiva Whisperer,102.78,Griddy and  Ganja,148.2,45.42
+2022,14,NONE,The Hennynator's ,89.48,TuAnon .,129.0,39.52
+2022,14,NONE,Orlando GOONS,146.18,KyleShanahanThe NflTerrorrist,108.46,37.72
+2022,15,WINNERS_BRACKET,Orlando GOONS,112.76,,0,
+2022,15,WINNERS_BRACKET,Free Lamar  Woe,94.88,Dallas AllWeGotIsMicah,111.74,16.86
+2022,15,WINNERS_BRACKET,Chiefs Kingdom,126.84,WILSONS IN  YOUR MOM,145.18,18.34
+2022,15,WINNERS_BRACKET,Griddy and  Ganja,140.0,,0,
+2022,15,LOSERS_CONSOLATION_LADDER,KyleShanahanThe NflTerrorrist,104.82,The Hennynator's ,101.12,3.7
+2022,15,LOSERS_CONSOLATION_LADDER,TuAnon .,165.86,K-town Binshine,114.8,51.06
+2022,15,LOSERS_CONSOLATION_LADDER,The Shiva Whisperer,121.8,The Fantasy  Reaper,106.34,15.46
+2022,16,WINNERS_BRACKET,Orlando GOONS,102.78,Dallas AllWeGotIsMicah,101.86,0.92
+2022,16,WINNERS_BRACKET,Griddy and  Ganja,162.96,WILSONS IN  YOUR MOM,131.84,31.12
+2022,16,WINNERS_CONSOLATION_LADDER,Chiefs Kingdom,147.06,Free Lamar  Woe,90.76,56.3
+2022,16,LOSERS_CONSOLATION_LADDER,KyleShanahanThe NflTerrorrist,58.0,TuAnon .,134.6,76.6
+2022,16,LOSERS_CONSOLATION_LADDER,The Hennynator's ,60.0,The Shiva Whisperer,92.0,32.0
+2022,16,LOSERS_CONSOLATION_LADDER,K-town Binshine,90.1,The Fantasy  Reaper,101.88,11.78
+2022,17,WINNERS_BRACKET,Orlando GOONS,121.6,Griddy and  Ganja,79.8,41.8
+2022,17,WINNERS_CONSOLATION_LADDER,Dallas AllWeGotIsMicah,101.16,WILSONS IN  YOUR MOM,148.88,47.72
+2022,17,WINNERS_CONSOLATION_LADDER,Chiefs Kingdom,103.32,Free Lamar  Woe,134.9,31.58
+2022,17,LOSERS_CONSOLATION_LADDER,TuAnon .,92.8,The Shiva Whisperer,66.8,26.0
+2022,17,LOSERS_CONSOLATION_LADDER,KyleShanahanThe NflTerrorrist,69.72,The Fantasy  Reaper,102.78,33.06
+2022,17,LOSERS_CONSOLATION_LADDER,The Hennynator's ,62.18,K-town Binshine,78.6,16.42
+2023,1,NONE,Me and Mahomies ,130.74,NoMorePieces💔,75.94,54.8
+2023,1,NONE,The Indians ,89.0,Amon a Mission,123.94,34.94
+2023,1,NONE,Orlando GOONS,81.04,Houston we have a problem ,133.54,52.5
+2023,1,NONE,Out of business ,129.38,The Shiva Whisperer,101.42,27.96
+2023,1,NONE,Bijan and The Riddlers,137.46,ParsonTheInterruption,102.26,35.2
+2023,1,NONE,13 BLOCK ,72.06,Cooper City Penguins,113.66,41.6
+2023,2,NONE,NoMorePieces💔,103.36,Amon a Mission,101.54,1.82
+2023,2,NONE,Houston we have a problem ,134.16,Me and Mahomies ,125.3,8.86
+2023,2,NONE,The Shiva Whisperer,104.2,The Indians ,107.12,2.92
+2023,2,NONE,ParsonTheInterruption,135.7,Orlando GOONS,125.84,9.86
+2023,2,NONE,Cooper City Penguins,133.98,Out of business ,130.88,3.1
+2023,2,NONE,13 BLOCK ,137.74,Bijan and The Riddlers,127.7,10.04
+2023,3,NONE,Houston we have a problem ,140.56,NoMorePieces💔,113.22,27.34
+2023,3,NONE,Amon a Mission,120.26,The Shiva Whisperer,131.18,10.92
+2023,3,NONE,Me and Mahomies ,121.78,ParsonTheInterruption,138.5,16.72
+2023,3,NONE,The Indians ,123.08,Cooper City Penguins,118.78,4.3
+2023,3,NONE,Orlando GOONS,116.46,13 BLOCK ,180.02,63.56
+2023,3,NONE,Out of business ,124.7,Bijan and The Riddlers,103.12,21.58
+2023,4,NONE,NoMorePieces💔,146.1,The Shiva Whisperer,77.56,68.54
+2023,4,NONE,ParsonTheInterruption,128.58,Houston we have a problem ,137.48,8.9
+2023,4,NONE,Cooper City Penguins,122.44,Amon a Mission,133.16,10.72
+2023,4,NONE,13 BLOCK ,105.12,Me and Mahomies ,113.52,8.4
+2023,4,NONE,Bijan and The Riddlers,123.7,The Indians ,94.16,29.54
+2023,4,NONE,Out of business ,112.0,Orlando GOONS,116.72,4.72
+2023,5,NONE,ParsonTheInterruption,136.74,NoMorePieces💔,178.06,41.32
+2023,5,NONE,The Shiva Whisperer,112.46,Cooper City Penguins,183.04,70.58
+2023,5,NONE,Houston we have a problem ,115.52,13 BLOCK ,105.68,9.84
+2023,5,NONE,Amon a Mission,119.8,Bijan and The Riddlers,105.14,14.66
+2023,5,NONE,Me and Mahomies ,109.24,Out of business ,99.52,9.72
+2023,5,NONE,The Indians ,131.42,Orlando GOONS,141.88,10.46
+2023,6,NONE,NoMorePieces💔,114.06,Cooper City Penguins,163.22,49.16
+2023,6,NONE,13 BLOCK ,92.44,ParsonTheInterruption,126.78,34.34
+2023,6,NONE,Bijan and The Riddlers,110.12,The Shiva Whisperer,101.94,8.18
+2023,6,NONE,Out of business ,115.3,Houston we have a problem ,124.68,9.38
+2023,6,NONE,Orlando GOONS,87.52,Amon a Mission,125.84,38.32
+2023,6,NONE,The Indians ,98.2,Me and Mahomies ,97.24,0.96
+2023,7,NONE,13 BLOCK ,101.54,NoMorePieces💔,134.1,32.56
+2023,7,NONE,Cooper City Penguins,118.78,Bijan and The Riddlers,75.26,43.52
+2023,7,NONE,ParsonTheInterruption,144.56,Out of business ,75.46,69.1
+2023,7,NONE,The Shiva Whisperer,151.52,Orlando GOONS,130.56,20.96
+2023,7,NONE,Houston we have a problem ,125.44,The Indians ,136.66,11.22
+2023,7,NONE,Amon a Mission,111.8,Me and Mahomies ,119.36,7.56
+2023,8,NONE,NoMorePieces💔,152.66,Bijan and The Riddlers,118.18,34.48
+2023,8,NONE,Out of business ,143.82,13 BLOCK ,100.18,43.64
+2023,8,NONE,Orlando GOONS,120.16,Cooper City Penguins,135.38,15.22
+2023,8,NONE,The Indians ,125.86,ParsonTheInterruption,107.02,18.84
+2023,8,NONE,Me and Mahomies ,102.6,The Shiva Whisperer,148.56,45.96
+2023,8,NONE,Amon a Mission,132.48,Houston we have a problem ,154.46,21.98
+2023,9,NONE,Out of business ,111.62,NoMorePieces💔,132.62,21.0
+2023,9,NONE,Bijan and The Riddlers,119.94,Orlando GOONS,143.8,23.86
+2023,9,NONE,13 BLOCK ,97.4,The Indians ,69.48,27.92
+2023,9,NONE,Cooper City Penguins,106.4,Me and Mahomies ,69.1,37.3
+2023,9,NONE,ParsonTheInterruption,99.94,Amon a Mission,141.32,41.38
+2023,9,NONE,The Shiva Whisperer,164.96,Houston we have a problem ,81.02,83.94
+2023,10,NONE,NoMorePieces💔,117.88,Orlando GOONS,135.82,17.94
+2023,10,NONE,The Indians ,120.32,Out of business ,124.48,4.16
+2023,10,NONE,Me and Mahomies ,105.7,Bijan and The Riddlers,168.12,62.42
+2023,10,NONE,Amon a Mission,81.5,13 BLOCK ,132.86,51.36
+2023,10,NONE,Houston we have a problem ,155.74,Cooper City Penguins,76.42,79.32
+2023,10,NONE,The Shiva Whisperer,124.96,ParsonTheInterruption,123.02,1.94
+2023,11,NONE,The Indians ,108.5,NoMorePieces💔,101.54,6.96
+2023,11,NONE,Orlando GOONS,116.16,Me and Mahomies ,124.58,8.42
+2023,11,NONE,Out of business ,96.24,Amon a Mission,128.18,31.94
+2023,11,NONE,Bijan and The Riddlers,122.14,Houston we have a problem ,122.7,0.56
+2023,11,NONE,13 BLOCK ,143.04,The Shiva Whisperer,76.66,66.38
+2023,11,NONE,Cooper City Penguins,148.86,ParsonTheInterruption,156.8,7.94
+2023,12,NONE,NoMorePieces💔,174.06,Me and Mahomies ,88.22,85.84
+2023,12,NONE,Amon a Mission,143.16,The Indians ,145.9,2.74
+2023,12,NONE,Houston we have a problem ,162.06,Orlando GOONS,73.68,88.38
+2023,12,NONE,The Shiva Whisperer,125.94,Out of business ,122.86,3.08
+2023,12,NONE,ParsonTheInterruption,128.58,Bijan and The Riddlers,140.98,12.4
+2023,12,NONE,Cooper City Penguins,105.58,13 BLOCK ,124.34,18.76
+2023,13,NONE,Amon a Mission,143.32,NoMorePieces💔,133.28,10.04
+2023,13,NONE,Me and Mahomies ,146.9,Houston we have a problem ,144.3,2.6
+2023,13,NONE,The Indians ,88.82,The Shiva Whisperer,119.06,30.24
+2023,13,NONE,Orlando GOONS,79.98,ParsonTheInterruption,76.18,3.8
+2023,13,NONE,Out of business ,152.84,Cooper City Penguins,160.76,7.92
+2023,13,NONE,Bijan and The Riddlers,128.32,13 BLOCK ,125.38,2.94
+2023,14,NONE,NoMorePieces💔,113.42,Houston we have a problem ,120.6,7.18
+2023,14,NONE,The Shiva Whisperer,105.34,Amon a Mission,84.22,21.12
+2023,14,NONE,ParsonTheInterruption,125.44,Me and Mahomies ,97.74,27.7
+2023,14,NONE,Cooper City Penguins,156.34,The Indians ,85.18,71.16
+2023,14,NONE,13 BLOCK ,140.2,Orlando GOONS,127.32,12.88
+2023,14,NONE,Bijan and The Riddlers,84.54,Out of business ,154.26,69.72
+2023,15,WINNERS_BRACKET,Houston we have a problem ,170.48,,0,
+2023,15,WINNERS_BRACKET,NoMorePieces💔,132.34,Amon a Mission,109.86,22.48
+2023,15,WINNERS_BRACKET,The Shiva Whisperer,91.56,13 BLOCK ,131.32,39.76
+2023,15,WINNERS_BRACKET,Cooper City Penguins,136.94,,0,
+2023,15,LOSERS_CONSOLATION_LADDER,The Indians ,113.02,ParsonTheInterruption,110.0,3.02
+2023,15,LOSERS_CONSOLATION_LADDER,Bijan and The Riddlers,123.52,Me and Mahomies ,116.5,7.02
+2023,15,LOSERS_CONSOLATION_LADDER,Orlando GOONS,99.74,Out of business ,140.86,41.12
+2023,16,WINNERS_BRACKET,Houston we have a problem ,96.9,NoMorePieces💔,88.48,8.42
+2023,16,WINNERS_BRACKET,Cooper City Penguins,127.98,13 BLOCK ,151.3,23.32
+2023,16,WINNERS_CONSOLATION_LADDER,The Shiva Whisperer,106.72,Amon a Mission,134.64,27.92
+2023,16,LOSERS_CONSOLATION_LADDER,The Indians ,80.74,Bijan and The Riddlers,163.98,83.24
+2023,16,LOSERS_CONSOLATION_LADDER,ParsonTheInterruption,89.34,Out of business ,65.1,24.24
+2023,16,LOSERS_CONSOLATION_LADDER,Me and Mahomies ,112.8,Orlando GOONS,153.0,40.2
+2023,17,WINNERS_BRACKET,Houston we have a problem ,132.6,13 BLOCK ,175.98,43.38
+2023,17,WINNERS_CONSOLATION_LADDER,Cooper City Penguins,150.94,NoMorePieces💔,135.06,15.88
+2023,17,WINNERS_CONSOLATION_LADDER,The Shiva Whisperer,123.0,Amon a Mission,134.94,11.94
+2023,17,LOSERS_CONSOLATION_LADDER,ParsonTheInterruption,103.16,Bijan and The Riddlers,123.64,20.48
+2023,17,LOSERS_CONSOLATION_LADDER,The Indians ,100.58,Orlando GOONS,88.32,12.26
+2023,17,LOSERS_CONSOLATION_LADDER,Me and Mahomies ,88.0,Out of business ,55.64,32.36
+2024,1,NONE,To Infinity and Bijan,142.76,Orlando GOONS,123.1,19.66
+2024,1,NONE,Houston Texans ,91.74,13 BLOCK ,130.38,38.64
+2024,1,NONE,Franklin's Football Turtles,95.68,Kyle shanahan the terrorist,130.06,34.38
+2024,1,NONE,CMC Cursed My Ceason,107.62,The Indians ,133.52,25.9
+2024,1,NONE,The Shiva Whisperer,127.42,Garbage Collector,100.78,26.64
+2024,1,NONE,Ceedee's TDs,134.66,Washington Commanders,129.96,4.7
+2024,2,NONE,Orlando GOONS,123.3,13 BLOCK ,103.76,19.54
+2024,2,NONE,Kyle shanahan the terrorist,160.74,To Infinity and Bijan,139.94,20.8
+2024,2,NONE,Franklin's Football Turtles,142.76,Houston Texans ,86.64,56.12
+2024,2,NONE,The Indians ,127.78,Garbage Collector,121.84,5.94
+2024,2,NONE,Washington Commanders,115.6,CMC Cursed My Ceason,126.7,11.1
+2024,2,NONE,Ceedee's TDs,102.42,The Shiva Whisperer,124.22,21.8
+2024,3,NONE,Kyle shanahan the terrorist,201.96,Orlando GOONS,107.62,94.34
+2024,3,NONE,13 BLOCK ,103.48,Franklin's Football Turtles,148.42,44.94
+2024,3,NONE,To Infinity and Bijan,93.96,Houston Texans ,135.48,41.52
+2024,3,NONE,Washington Commanders,99.5,The Indians ,80.08,19.42
+2024,3,NONE,Garbage Collector,99.18,Ceedee's TDs,122.76,23.58
+2024,3,NONE,CMC Cursed My Ceason,94.06,The Shiva Whisperer,99.94,5.88
+2024,4,NONE,Orlando GOONS,130.28,Franklin's Football Turtles,86.5,43.78
+2024,4,NONE,Houston Texans ,125.2,Kyle shanahan the terrorist,172.94,47.74
+2024,4,NONE,To Infinity and Bijan,126.72,13 BLOCK ,101.64,25.08
+2024,4,NONE,The Indians ,136.94,Ceedee's TDs,126.08,10.86
+2024,4,NONE,The Shiva Whisperer,92.22,Washington Commanders,153.08,60.86
+2024,4,NONE,CMC Cursed My Ceason,126.9,Garbage Collector,60.58,66.32
+2024,5,NONE,Houston Texans ,94.34,Orlando GOONS,116.76,22.42
+2024,5,NONE,Franklin's Football Turtles,140.64,To Infinity and Bijan,145.82,5.18
+2024,5,NONE,Kyle shanahan the terrorist,121.58,13 BLOCK ,127.86,6.28
+2024,5,NONE,The Shiva Whisperer,119.56,The Indians ,133.02,13.46
+2024,5,NONE,Ceedee's TDs,156.46,CMC Cursed My Ceason,136.46,20.0
+2024,5,NONE,Washington Commanders,123.54,Garbage Collector,129.1,5.56
+2024,6,NONE,Orlando GOONS,148.72,The Indians ,86.72,62.0
+2024,6,NONE,To Infinity and Bijan,120.66,CMC Cursed My Ceason,136.2,15.54
+2024,6,NONE,13 BLOCK ,108.2,Garbage Collector,57.96,50.24
+2024,6,NONE,Kyle shanahan the terrorist,112.32,Washington Commanders,132.18,19.86
+2024,6,NONE,Franklin's Football Turtles,113.3,Ceedee's TDs,131.12,17.82
+2024,6,NONE,Houston Texans ,160.3,The Shiva Whisperer,135.06,25.24
+2024,7,NONE,The Indians ,129.24,To Infinity and Bijan,83.74,45.5
+2024,7,NONE,CMC Cursed My Ceason,128.86,13 BLOCK ,120.86,8.0
+2024,7,NONE,Garbage Collector,83.6,Kyle shanahan the terrorist,116.18,32.58
+2024,7,NONE,Washington Commanders,127.04,Franklin's Football Turtles,136.82,9.78
+2024,7,NONE,Ceedee's TDs,111.44,Houston Texans ,88.76,22.68
+2024,7,NONE,The Shiva Whisperer,103.56,Orlando GOONS,121.0,17.44
+2024,8,NONE,13 BLOCK ,85.76,The Indians ,113.46,27.7
+2024,8,NONE,Kyle shanahan the terrorist,126.74,CMC Cursed My Ceason,106.24,20.5
+2024,8,NONE,Franklin's Football Turtles,133.92,Garbage Collector,122.28,11.64
+2024,8,NONE,Houston Texans ,163.8,Washington Commanders,120.28,43.52
+2024,8,NONE,Orlando GOONS,135.26,Ceedee's TDs,151.36,16.1
+2024,8,NONE,To Infinity and Bijan,115.22,The Shiva Whisperer,115.24,0.02
+2024,9,NONE,The Indians ,117.08,Kyle shanahan the terrorist,132.38,15.3
+2024,9,NONE,CMC Cursed My Ceason,115.32,Franklin's Football Turtles,106.3,9.02
+2024,9,NONE,Garbage Collector,70.66,Houston Texans ,94.14,23.48
+2024,9,NONE,Washington Commanders,121.14,Orlando GOONS,139.32,18.18
+2024,9,NONE,Ceedee's TDs,129.14,To Infinity and Bijan,158.56,29.42
+2024,9,NONE,The Shiva Whisperer,113.0,13 BLOCK ,132.32,19.32
+2024,10,NONE,Franklin's Football Turtles,118.1,The Indians ,113.3,4.8
+2024,10,NONE,Houston Texans ,104.9,CMC Cursed My Ceason,106.5,1.6
+2024,10,NONE,Orlando GOONS,96.74,Garbage Collector,138.84,42.1
+2024,10,NONE,To Infinity and Bijan,108.88,Washington Commanders,92.86,16.02
+2024,10,NONE,13 BLOCK ,144.32,Ceedee's TDs,159.44,15.12
+2024,10,NONE,Kyle shanahan the terrorist,108.14,The Shiva Whisperer,133.18,25.04
+2024,11,NONE,The Indians ,77.08,Houston Texans ,103.8,26.72
+2024,11,NONE,CMC Cursed My Ceason,114.48,Orlando GOONS,157.24,42.76
+2024,11,NONE,Garbage Collector,112.6,To Infinity and Bijan,122.44,9.84
+2024,11,NONE,Washington Commanders,136.98,13 BLOCK ,149.16,12.18
+2024,11,NONE,Ceedee's TDs,157.34,Kyle shanahan the terrorist,85.22,72.12
+2024,11,NONE,The Shiva Whisperer,125.94,Franklin's Football Turtles,115.78,10.16
+2024,12,NONE,The Indians ,91.58,Orlando GOONS,135.66,44.08
+2024,12,NONE,CMC Cursed My Ceason,107.22,To Infinity and Bijan,114.2,6.98
+2024,12,NONE,Garbage Collector,93.7,13 BLOCK ,134.68,40.98
+2024,12,NONE,Washington Commanders,108.12,Kyle shanahan the terrorist,160.06,51.94
+2024,12,NONE,Ceedee's TDs,124.5,Franklin's Football Turtles,100.66,23.84
+2024,12,NONE,The Shiva Whisperer,142.96,Houston Texans ,107.8,35.16
+2024,13,NONE,To Infinity and Bijan,172.44,The Indians ,128.08,44.36
+2024,13,NONE,13 BLOCK ,123.0,CMC Cursed My Ceason,115.96,7.04
+2024,13,NONE,Kyle shanahan the terrorist,127.0,Garbage Collector,111.5,15.5
+2024,13,NONE,Franklin's Football Turtles,125.22,Washington Commanders,121.88,3.34
+2024,13,NONE,Houston Texans ,99.08,Ceedee's TDs,121.46,22.38
+2024,13,NONE,Orlando GOONS,111.6,The Shiva Whisperer,123.72,12.12
+2024,14,NONE,The Indians ,143.06,13 BLOCK ,137.54,5.52
+2024,14,NONE,CMC Cursed My Ceason,129.32,Kyle shanahan the terrorist,104.46,24.86
+2024,14,NONE,Garbage Collector,148.66,Franklin's Football Turtles,141.38,7.28
+2024,14,NONE,Washington Commanders,76.12,Houston Texans ,152.72,76.6
+2024,14,NONE,Ceedee's TDs,151.76,Orlando GOONS,149.0,2.76
+2024,14,NONE,The Shiva Whisperer,135.22,To Infinity and Bijan,84.76,50.46
+2024,15,WINNERS_BRACKET,Ceedee's TDs,59.34,,0,
+2024,15,WINNERS_BRACKET,To Infinity and Bijan,144.94,Orlando GOONS,142.06,2.88
+2024,15,WINNERS_BRACKET,The Shiva Whisperer,154.8,The Indians ,143.9,10.9
+2024,15,WINNERS_BRACKET,Kyle shanahan the terrorist,93.84,,0,
+2024,15,LOSERS_CONSOLATION_LADDER,13 BLOCK ,118.34,CMC Cursed My Ceason,124.7,6.36
+2024,15,LOSERS_CONSOLATION_LADDER,Franklin's Football Turtles,145.48,Houston Texans ,107.74,37.74
+2024,15,LOSERS_CONSOLATION_LADDER,Garbage Collector,95.46,Washington Commanders,15.7,79.76
+2024,16,WINNERS_BRACKET,Ceedee's TDs,121.08,To Infinity and Bijan,138.72,17.64
+2024,16,WINNERS_BRACKET,Kyle shanahan the terrorist,139.5,The Shiva Whisperer,106.64,32.86
+2024,16,WINNERS_CONSOLATION_LADDER,Orlando GOONS,164.42,The Indians ,208.08,43.66
+2024,16,LOSERS_CONSOLATION_LADDER,CMC Cursed My Ceason,107.52,Franklin's Football Turtles,100.46,7.06
+2024,16,LOSERS_CONSOLATION_LADDER,13 BLOCK ,153.5,Garbage Collector,90.98,62.52
+2024,16,LOSERS_CONSOLATION_LADDER,Houston Texans ,36.86,Washington Commanders,12.2,24.66
+2024,17,WINNERS_BRACKET,Kyle shanahan the terrorist,119.48,To Infinity and Bijan,198.08,78.6
+2024,17,WINNERS_CONSOLATION_LADDER,Ceedee's TDs,112.18,The Shiva Whisperer,95.82,16.36
+2024,17,WINNERS_CONSOLATION_LADDER,Orlando GOONS,121.86,The Indians ,98.92,22.94
+2024,17,LOSERS_CONSOLATION_LADDER,13 BLOCK ,165.08,CMC Cursed My Ceason,142.86,22.22
+2024,17,LOSERS_CONSOLATION_LADDER,Franklin's Football Turtles,126.28,Houston Texans ,95.9,30.38
+2024,17,LOSERS_CONSOLATION_LADDER,Garbage Collector,131.84,Washington Commanders,14.3,117.54
+2025,1,NONE,Griddy Galaxy Gurus,94.58,Orlando GOONS,166.62,72.04
+2025,1,NONE,Fantasy Hunters 🥷🏽,116.32,News 13,139.86,23.54
+2025,1,NONE,Franklin's Football Turtles,121.88,The Huncho Pirates,114.22,7.66
+2025,1,NONE,Cooper City  Chickens,121.56,Bijan the Mustard King ,103.42,18.14
+2025,1,NONE,The Shiva Whisperer,112.02,RUMBLING,110.42,1.6
+2025,1,NONE,Don’t Go Chase-ing Waterfalls,133.38,Trash can ,136.84,3.46
+2025,2,NONE,Orlando GOONS,149.68,News 13,106.22,43.46
+2025,2,NONE,The Huncho Pirates,144.54,Griddy Galaxy Gurus,125.7,18.84
+2025,2,NONE,Franklin's Football Turtles,135.64,Fantasy Hunters 🥷🏽,119.7,15.94
+2025,2,NONE,Bijan the Mustard King ,123.2,RUMBLING,134.88,11.68
+2025,2,NONE,Trash can ,91.24,Cooper City  Chickens,112.8,21.56
+2025,2,NONE,Don’t Go Chase-ing Waterfalls,156.7,The Shiva Whisperer,188.68,31.98
+2025,3,NONE,The Huncho Pirates,116.66,Orlando GOONS,149.66,33.0
+2025,3,NONE,News 13,107.42,Franklin's Football Turtles,152.14,44.72
+2025,3,NONE,Griddy Galaxy Gurus,137.82,Fantasy Hunters 🥷🏽,131.76,6.06
+2025,3,NONE,Trash can ,118.32,Bijan the Mustard King ,131.82,13.5
+2025,3,NONE,RUMBLING,143.16,Don’t Go Chase-ing Waterfalls,86.92,56.24
+2025,3,NONE,Cooper City  Chickens,143.52,The Shiva Whisperer,135.8,7.72
+2025,4,NONE,Orlando GOONS,137.04,Franklin's Football Turtles,156.6,19.56
+2025,4,NONE,Fantasy Hunters 🥷🏽,105.1,The Huncho Pirates,101.86,3.24
+2025,4,NONE,Griddy Galaxy Gurus,227.22,News 13,102.16,125.06
+2025,4,NONE,Bijan the Mustard King ,147.18,Don’t Go Chase-ing Waterfalls,150.46,3.28
+2025,4,NONE,The Shiva Whisperer,123.22,Trash can ,137.54,14.32
+2025,4,NONE,Cooper City  Chickens,95.38,RUMBLING,118.3,22.92
+2025,5,NONE,Fantasy Hunters 🥷🏽,104.1,Orlando GOONS,137.22,33.12
+2025,5,NONE,Franklin's Football Turtles,142.7,Griddy Galaxy Gurus,129.32,13.38
+2025,5,NONE,The Huncho Pirates,126.68,News 13,119.42,7.26
+2025,5,NONE,The Shiva Whisperer,111.34,Bijan the Mustard King ,100.1,11.24
+2025,5,NONE,Don’t Go Chase-ing Waterfalls,194.76,Cooper City  Chickens,141.26,53.5
+2025,5,NONE,Trash can ,111.28,RUMBLING,174.52,63.24
+2025,6,NONE,Orlando GOONS,122.74,Bijan the Mustard King ,152.08,29.34
+2025,6,NONE,Griddy Galaxy Gurus,123.24,Cooper City  Chickens,84.3,38.94
+2025,6,NONE,News 13,66.84,RUMBLING,165.88,99.04
+2025,6,NONE,The Huncho Pirates,146.2,Trash can ,96.64,49.56
+2025,6,NONE,Franklin's Football Turtles,167.62,Don’t Go Chase-ing Waterfalls,142.24,25.38
+2025,6,NONE,Fantasy Hunters 🥷🏽,126.6,The Shiva Whisperer,104.16,22.44
+2025,7,NONE,Bijan the Mustard King ,125.02,Griddy Galaxy Gurus,124.58,0.44
+2025,7,NONE,Cooper City  Chickens,124.76,News 13,107.52,17.24
+2025,7,NONE,RUMBLING,138.74,The Huncho Pirates,86.98,51.76
+2025,7,NONE,Trash can ,106.14,Franklin's Football Turtles,184.94,78.8
+2025,7,NONE,Don’t Go Chase-ing Waterfalls,162.72,Fantasy Hunters 🥷🏽,104.54,58.18
+2025,7,NONE,The Shiva Whisperer,161.8,Orlando GOONS,192.86,31.06
+2025,8,NONE,News 13,116.32,Bijan the Mustard King ,138.18,21.86
+2025,8,NONE,The Huncho Pirates,110.32,Cooper City  Chickens,98.48,11.84
+2025,8,NONE,Franklin's Football Turtles,112.66,RUMBLING,143.66,31.0
+2025,8,NONE,Fantasy Hunters 🥷🏽,150.42,Trash can ,127.32,23.1
+2025,8,NONE,Orlando GOONS,141.82,Don’t Go Chase-ing Waterfalls,93.78,48.04
+2025,8,NONE,Griddy Galaxy Gurus,151.24,The Shiva Whisperer,111.38,39.86
+2025,9,NONE,Bijan the Mustard King ,124.78,The Huncho Pirates,141.2,16.42
+2025,9,NONE,Cooper City  Chickens,104.76,Franklin's Football Turtles,188.62,83.86
+2025,9,NONE,RUMBLING,104.1,Fantasy Hunters 🥷🏽,133.92,29.82
+2025,9,NONE,Trash can ,66.92,Orlando GOONS,121.2,54.28
+2025,9,NONE,Don’t Go Chase-ing Waterfalls,163.2,Griddy Galaxy Gurus,121.96,41.24
+2025,9,NONE,The Shiva Whisperer,156.6,News 13,120.74,35.86
+2025,10,NONE,Franklin's Football Turtles,150.02,Bijan the Mustard King ,105.8,44.22
+2025,10,NONE,Fantasy Hunters 🥷🏽,157.64,Cooper City  Chickens,82.94,74.7
+2025,10,NONE,Orlando GOONS,146.62,RUMBLING,127.92,18.7
+2025,10,NONE,Griddy Galaxy Gurus,137.1,Trash can ,95.8,41.3
+2025,10,NONE,News 13,151.88,Don’t Go Chase-ing Waterfalls,109.52,42.36
+2025,10,NONE,The Huncho Pirates,147.76,The Shiva Whisperer,140.4,7.36
+2025,11,NONE,Bijan the Mustard King ,133.34,Fantasy Hunters 🥷🏽,191.88,58.54
+2025,11,NONE,Cooper City  Chickens,104.22,Orlando GOONS,146.02,41.8
+2025,11,NONE,RUMBLING,112.44,Griddy Galaxy Gurus,112.84,0.4
+2025,11,NONE,Trash can ,133.9,News 13,95.9,38.0
+2025,11,NONE,Don’t Go Chase-ing Waterfalls,83.02,The Huncho Pirates,134.0,50.98
+2025,11,NONE,The Shiva Whisperer,118.74,Franklin's Football Turtles,115.4,3.34
+2025,12,NONE,Bijan the Mustard King ,104.04,Orlando GOONS,224.16,120.12
+2025,12,NONE,Cooper City  Chickens,118.82,Griddy Galaxy Gurus,152.06,33.24
+2025,12,NONE,RUMBLING,158.08,News 13,137.32,20.76
+2025,12,NONE,Trash can ,85.42,The Huncho Pirates,97.92,12.5
+2025,12,NONE,Don’t Go Chase-ing Waterfalls,93.84,Franklin's Football Turtles,160.76,66.92
+2025,12,NONE,The Shiva Whisperer,134.26,Fantasy Hunters 🥷🏽,121.62,12.64
+2025,13,NONE,Griddy Galaxy Gurus,114.58,Bijan the Mustard King ,118.16,3.58
+2025,13,NONE,News 13,100.56,Cooper City  Chickens,74.74,25.82
+2025,13,NONE,The Huncho Pirates,116.44,RUMBLING,118.64,2.2
+2025,13,NONE,Franklin's Football Turtles,118.9,Trash can ,109.64,9.26
+2025,13,NONE,Fantasy Hunters 🥷🏽,149.52,Don’t Go Chase-ing Waterfalls,148.32,1.2
+2025,13,NONE,Orlando GOONS,134.5,The Shiva Whisperer,99.94,34.56
+2025,14,NONE,Bijan the Mustard King ,102.6,News 13,172.24,69.64
+2025,14,NONE,Cooper City  Chickens,96.36,The Huncho Pirates,169.56,73.2
+2025,14,NONE,RUMBLING,143.9,Franklin's Football Turtles,82.3,61.6
+2025,14,NONE,Trash can ,89.58,Fantasy Hunters 🥷🏽,175.34,85.76
+2025,14,NONE,Don’t Go Chase-ing Waterfalls,107.76,Orlando GOONS,181.54,73.78
+2025,14,NONE,The Shiva Whisperer,98.06,Griddy Galaxy Gurus,86.46,11.6
+2025,15,WINNERS_BRACKET,Orlando GOONS,86.56,,0,
+2025,15,WINNERS_BRACKET,The Huncho Pirates,141.8,Fantasy Hunters 🥷🏽,210.32,68.52
+2025,15,WINNERS_BRACKET,RUMBLING,127.76,Griddy Galaxy Gurus,95.8,31.96
+2025,15,WINNERS_BRACKET,Franklin's Football Turtles,118.1,,0,
+2025,15,LOSERS_CONSOLATION_LADDER,The Shiva Whisperer,168.2,Bijan the Mustard King ,161.4,6.8
+2025,15,LOSERS_CONSOLATION_LADDER,Don’t Go Chase-ing Waterfalls,114.84,News 13,149.34,34.5
+2025,15,LOSERS_CONSOLATION_LADDER,Cooper City  Chickens,106.4,Trash can ,126.78,20.38
+2025,16,WINNERS_BRACKET,Orlando GOONS,139.46,Fantasy Hunters 🥷🏽,156.5,17.04
+2025,16,WINNERS_BRACKET,Franklin's Football Turtles,156.4,RUMBLING,108.22,48.18
+2025,16,WINNERS_CONSOLATION_LADDER,The Huncho Pirates,171.36,Griddy Galaxy Gurus,166.7,4.66
+2025,16,LOSERS_CONSOLATION_LADDER,The Shiva Whisperer,138.7,News 13,105.82,32.88
+2025,16,LOSERS_CONSOLATION_LADDER,Bijan the Mustard King ,105.46,Trash can ,110.58,5.12
+2025,16,LOSERS_CONSOLATION_LADDER,Don’t Go Chase-ing Waterfalls,123.8,Cooper City  Chickens,130.14,6.34
+2025,17,WINNERS_BRACKET,Franklin's Football Turtles,135.1,Fantasy Hunters 🥷🏽,127.98,7.12
+2025,17,WINNERS_CONSOLATION_LADDER,Orlando GOONS,100.48,RUMBLING,111.56,11.08
+2025,17,WINNERS_CONSOLATION_LADDER,The Huncho Pirates,106.0,Griddy Galaxy Gurus,147.44,41.44
+2025,17,LOSERS_CONSOLATION_LADDER,The Shiva Whisperer,103.74,Trash can ,139.78,36.04
+2025,17,LOSERS_CONSOLATION_LADDER,News 13,126.58,Cooper City  Chickens,121.08,5.5
+2025,17,LOSERS_CONSOLATION_LADDER,Bijan the Mustard King ,117.62,Don’t Go Chase-ing Waterfalls,77.48,40.14
