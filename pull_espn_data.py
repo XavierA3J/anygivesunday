@@ -211,6 +211,38 @@ def pull_season(year):
     except Exception:
         pass
 
+    # Draft results: used to compute "steals" (drafted late, produced big)
+    # and "busts" (drafted early, produced little). espn_api populates
+    # league.draft automatically on load for completed drafts; this is
+    # newer/less-tested than the rest of the pull, so it's wrapped
+    # defensively — if it fails for any reason, the season still comes
+    # through fine, it just won't have draft-based stats.
+    draft_picks = []
+    try:
+        raw_picks = getattr(league, "draft", []) or []
+        for pick in raw_picks:
+            round_num = getattr(pick, "round_num", None)
+            round_pick = getattr(pick, "round_pick", None)
+            team_obj = getattr(pick, "team", None)
+            player_name = getattr(pick, "playerName", None) or getattr(pick, "player_name", None)
+            if round_num is None or round_pick is None or not player_name:
+                continue
+            draft_picks.append({
+                "round": round_num,
+                "pick_in_round": round_pick,
+                "team": team_obj.team_name if team_obj else None,
+                "owner": team_owner.get(team_obj.team_name, "") if team_obj else "",
+                "player": player_name,
+            })
+        num_teams = len(season["standings"]) or 12
+        draft_picks.sort(key=lambda p: (p["round"], p["pick_in_round"]))
+        for i, p in enumerate(draft_picks):
+            p["overall_pick"] = (p["round"] - 1) * num_teams + p["pick_in_round"]
+    except Exception as e:
+        print(f"  Note: couldn't pull draft data for {year}: {e}")
+
+    season["draft"] = draft_picks
+
     return season
 
 def main():
@@ -322,10 +354,20 @@ def main():
     with open(os.path.join(out_dir, "player_success.json"), "w") as f:
         json.dump(player_success, f, indent=2)
 
+    # ---- Draft data, flattened across seasons ----
+    all_draft_picks = []
+    for season in all_seasons:
+        for pick in season.get("draft", []):
+            all_draft_picks.append({"year": season["year"], **pick})
+
+    with open(os.path.join(out_dir, "draft_data.json"), "w") as f:
+        json.dump(all_draft_picks, f, indent=2)
+
     print(f"\nDone. Wrote league_data.json, games_log.json, games_log.csv, "
-          f"player_appearances.json, and player_success.json "
+          f"player_appearances.json, player_success.json, and draft_data.json "
           f"({len(all_games)} games, {len(player_success)} unique players "
-          f"[starters + bench/IR], across {len(all_seasons)} seasons)")
+          f"[starters + bench/IR], {len(all_draft_picks)} draft picks, "
+          f"across {len(all_seasons)} seasons)")
 
 if __name__ == "__main__":
     main()

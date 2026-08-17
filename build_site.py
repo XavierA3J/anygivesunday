@@ -407,6 +407,283 @@ def enrich_games_for_frontend(seasons, games_log):
     return enriched
 
 
+def build_manager_analytics(owner_rows, enriched_games):
+    """Points for/against, PPG, and a luck metric (actual wins vs. an
+    'all-play' expected win total) — regular season only, so it lines up
+    with the win/loss records already shown in Standings."""
+    stats = defaultdict(lambda: {"pf": 0.0, "pa": 0.0, "games": 0})
+
+    regular = [g for g in enriched_games if g.get("type") == "NONE" and g.get("away_team")]
+
+    for g in regular:
+        if g["home_owner"]:
+            stats[g["home_owner"]]["pf"] += g["home_score"]
+            stats[g["home_owner"]]["pa"] += g["away_score"]
+            stats[g["home_owner"]]["games"] += 1
+        if g["away_owner"]:
+            stats[g["away_owner"]]["pf"] += g["away_score"]
+            stats[g["away_owner"]]["pa"] += g["home_score"]
+            stats[g["away_owner"]]["games"] += 1
+
+    # Expected wins via the "all-play" method: each week, score every team
+    # against every other team that played that week and credit fractional
+    # wins accordingly, then sum across the season/career.
+    weeks = defaultdict(list)  # (year, week) -> [(owner, score), ...]
+    for g in regular:
+        wk_key = (g["year"], g["week"])
+        if g["home_owner"]:
+            weeks[wk_key].append((g["home_owner"], g["home_score"]))
+        if g["away_owner"]:
+            weeks[wk_key].append((g["away_owner"], g["away_score"]))
+
+    expected_wins = defaultdict(float)
+    for wk_key, entries in weeks.items():
+        n = len(entries)
+        if n < 2:
+            continue
+        for owner, score in entries:
+            better = sum(1 for _, s in entries if s < score)
+            tied = sum(1 for o, s in entries if s == score and o != owner)
+            expected_wins[owner] += (better + 0.5 * tied) / (n - 1)
+
+    owner_by_name = {r["owner"]: r for r in owner_rows}
+    analytics = []
+    for owner, s in stats.items():
+        if s["games"] == 0:
+            continue
+        actual_wins = owner_by_name.get(owner, {}).get("wins", 0)
+        exp_w = round(expected_wins.get(owner, 0), 1)
+        analytics.append({
+            "owner": owner,
+            "team": owner_by_name.get(owner, {}).get("team", ""),
+            "games": s["games"],
+            "points_for": round(s["pf"], 1),
+            "points_against": round(s["pa"], 1),
+            "ppg_for": round(s["pf"] / s["games"], 1),
+            "ppg_against": round(s["pa"] / s["games"], 1),
+            "actual_wins": actual_wins,
+            "expected_wins": exp_w,
+            "luck": round(actual_wins - exp_w, 1),
+        })
+
+    analytics.sort(key=lambda a: a["points_for"], reverse=True)
+    return analytics
+
+
+def build_analytics_rows(analytics):
+    rows = []
+    for i, a in enumerate(analytics, start=1):
+        luck_color = "var(--amber)" if a["luck"] > 0 else ("var(--red)" if a["luck"] < 0 else "var(--chalk-dim)")
+        luck_str = f"+{a['luck']}" if a["luck"] > 0 else f"{a['luck']}"
+        rows.append(f"""
+          <tr>
+            <td class="gg-rank{' gg-rank-1' if i == 1 else ''}">{i}</td>
+            <td>{esc(a['owner'])}</td>
+            <td>{esc(a['team'])}</td>
+            <td class="gg-num">{a['games']}</td>
+            <td class="gg-num">{a['points_for']}</td>
+            <td class="gg-num">{a['points_against']}</td>
+            <td class="gg-num">{a['ppg_for']}</td>
+            <td class="gg-num">{a['ppg_against']}</td>
+            <td class="gg-num">{a['actual_wins']}</td>
+            <td class="gg-num">{a['expected_wins']}</td>
+            <td class="gg-num" style="color:{luck_color};font-weight:700;">{luck_str}</td>
+          </tr>""")
+    return "".join(rows)
+
+
+def build_draft_value(seasons, player_appearances):
+    """Compares draft slot (overall pick, within position) against how many
+    points that player actually scored that season, to surface steals
+    (drafted late, produced big) and busts (drafted early, produced little).
+    Needs draft_data — if a season has no draft data (e.g. draft pull
+    failed or hasn't run yet), it's simply skipped."""
+    season_points = defaultdict(lambda: defaultdict(float))  # year -> player -> total points
+    season_position_votes = defaultdict(lambda: defaultdict(lambda: defaultdict(int)))  # year -> player -> position -> count
+
+    for a in player_appearances:
+        season_points[a["year"]][a["player"]] += a["points"]
+        season_position_votes[a["year"]][a["player"]][a["position"]] += 1
+
+    season_position = {}
+    for year, players in season_position_votes.items():
+        season_position[year] = {
+            player: max(counts.items(), key=lambda kv: kv[1])[0]
+            for player, counts in players.items()
+        }
+
+    all_values = []
+    for s in seasons:
+        year = s["year"]
+        draft = s.get("draft", [])
+        if not draft:
+            continue
+
+        by_position = defaultdict(list)
+        for pick in draft:
+            pos = season_position.get(year, {}).get(pick["player"])
+            pts = season_points.get(year, {}).get(pick["player"], 0.0)
+            if pos is None:
+                continue
+            by_position[pos].append({**pick, "position": pos, "points": pts})
+
+        for pos, picks in by_position.items():
+            if len(picks) < 4:
+                continue  # not enough players at this position that year for ranking to mean much
+            draft_order = sorted(picks, key=lambda p: p["overall_pick"])
+            points_order = sorted(picks, key=lambda p: -p["points"])
+            draft_rank = {p["player"]: i + 1 for i, p in enumerate(draft_order)}
+            points_rank = {p["player"]: i + 1 for i, p in enumerate(points_order)}
+
+            for p in picks:
+                diff = points_rank[p["player"]] - draft_rank[p["player"]]
+                all_values.append({
+                    "year": year,
+                    "player": p["player"],
+                    "position": pos,
+                    "owner": p.get("owner", ""),
+                    "round": p["round"],
+                    "pick_in_round": p["pick_in_round"],
+                    "overall_pick": p["overall_pick"],
+                    "points": round(p["points"], 1),
+                    "draft_rank": draft_rank[p["player"]],
+                    "points_rank": points_rank[p["player"]],
+                    "diff": diff,
+                })
+
+    return all_values
+
+
+def build_draft_value_js(draft_values):
+    return json.dumps(draft_values, ensure_ascii=False)
+
+
+def build_draft_section_html(has_draft_data, total_draft_values, draft_value_json):
+    if not has_draft_data:
+        body = ('\n      <p style="color:var(--chalk-dim);">No draft data available yet for this league '
+                '&mdash; either the draft pull hasn\'t run successfully, or these seasons predate it.</p>\n')
+        script = ""
+    else:
+        body = """
+    <div class="gg-filter-bar">
+      <select class="gg-select" id="draftSeasonFilter">
+        <option value="all">All seasons</option>
+      </select>
+      <select class="gg-select" id="draftPosFilter">
+        <option value="all">All positions</option>
+      </select>
+    </div>
+    <div class="gg-log-count" id="draftCount"></div>
+    <div class="gg-table-wrap gg-log-scroll">
+      <table class="gg-table">
+        <thead>
+          <tr>
+            <th class="gg-sort-th" data-sort="year">Year</th>
+            <th class="gg-sort-th" data-sort="player">Player</th>
+            <th class="gg-sort-th" data-sort="position">Pos</th>
+            <th class="gg-sort-th" data-sort="owner">Drafted By</th>
+            <th class="gg-num gg-sort-th" data-sort="overall_pick">Pick</th>
+            <th class="gg-num gg-sort-th" data-sort="points">Season Pts</th>
+            <th class="gg-sort-th" data-sort="diff">Value</th>
+          </tr>
+        </thead>
+        <tbody id="draftTbody"></tbody>
+      </table>
+    </div>
+"""
+        script = (
+            "\n<script>\nconst DRAFT_VALUES = " + draft_value_json + ";\n" +
+            r"""
+(function() {
+  if (!DRAFT_VALUES.length) return;
+  const seasonFilter = document.getElementById('draftSeasonFilter');
+  const posFilter = document.getElementById('draftPosFilter');
+  const tbody = document.getElementById('draftTbody');
+  const countEl = document.getElementById('draftCount');
+
+  const years = Array.from(new Set(DRAFT_VALUES.map(d => d.year))).sort();
+  years.forEach(y => {
+    const opt = document.createElement('option');
+    opt.value = y; opt.textContent = y;
+    seasonFilter.appendChild(opt);
+  });
+  const positions = Array.from(new Set(DRAFT_VALUES.map(d => d.position))).sort();
+  positions.forEach(p => {
+    const opt = document.createElement('option');
+    opt.value = p; opt.textContent = p;
+    posFilter.appendChild(opt);
+  });
+
+  let sortKey = 'diff';
+  let sortDir = 1; // ascending: most negative (steals) first by default
+
+  function tagFor(diff) {
+    if (diff <= -8) return '<span class="gg-tag gg-tag-playoff">STEAL</span>';
+    if (diff >= 8) return '<span class="gg-tag" style="color:var(--red);border-color:rgba(196,59,59,0.4);">BUST</span>';
+    return '';
+  }
+
+  function render() {
+    const season = seasonFilter.value;
+    const pos = posFilter.value;
+
+    let filtered = DRAFT_VALUES.filter(d => {
+      if (season !== 'all' && String(d.year) !== season) return false;
+      if (pos !== 'all' && d.position !== pos) return false;
+      return true;
+    });
+
+    filtered.sort((a, b) => {
+      const av = a[sortKey], bv = b[sortKey];
+      if (typeof av === 'string') return sortDir * av.localeCompare(bv);
+      return sortDir * ((av ?? 0) - (bv ?? 0));
+    });
+
+    countEl.textContent = `Showing ${filtered.length} of ${DRAFT_VALUES.length} draft picks`;
+
+    tbody.innerHTML = filtered.slice(0, 200).map(d => `
+      <tr>
+        <td>${d.year}</td>
+        <td>${d.player}</td>
+        <td><span class="gg-pos-tag">${d.position}</span></td>
+        <td>${d.owner || ''}</td>
+        <td class="gg-num">Rd ${d.round}, Pick ${d.pick_in_round} <span style="color:var(--chalk-dim);">(#${d.overall_pick})</span></td>
+        <td class="gg-num">${d.points.toFixed(1)}</td>
+        <td>${d.diff > 0 ? '+' : ''}${d.diff} ${tagFor(d.diff)}</td>
+      </tr>`).join('');
+  }
+
+  document.querySelectorAll('#draft-value .gg-sort-th').forEach(th => {
+    th.addEventListener('click', () => {
+      const key = th.getAttribute('data-sort');
+      if (sortKey === key) { sortDir *= -1; }
+      else { sortKey = key; sortDir = (key === 'player' || key === 'position' || key === 'owner') ? 1 : -1; }
+      render();
+    });
+  });
+
+  seasonFilter.addEventListener('change', render);
+  posFilter.addEventListener('change', render);
+  render();
+})();
+"""
+            + "\n</script>\n"
+        )
+
+    section = f"""
+<section class="gg-section" id="draft-value">
+  <div class="gg-wrap">
+    <div class="gg-section-head">
+      <div class="gg-eyebrow">Draft Value</div>
+      <h2>Steals, busts, and everything in between</h2>
+      <p>Compares each drafted player's pick slot against how many points they actually scored that season, ranked within their own position (a QB is only compared to other QBs drafted that year, etc.). {total_draft_values} draft picks with enough same-position company to rank meaningfully. Negative value = steal, positive = bust.</p>
+    </div>{body}
+  </div>
+</section>
+{script}"""
+    return section
+
+
 def main():
     seasons = load_json("league_data.json")
     owner_rows = build_owner_stats(seasons)
@@ -424,8 +701,18 @@ def main():
     standings_rows_html = build_standings_rows(owner_rows)
     title_labels, title_data, title_colors, win_labels, win_data = build_charts_js(owner_rows)
 
-    games_json = json.dumps(enrich_games_for_frontend(seasons, games_log), ensure_ascii=False)
+    enriched_games = enrich_games_for_frontend(seasons, games_log)
+    games_json = json.dumps(enriched_games, ensure_ascii=False)
     player_success_json = json.dumps(player_success, ensure_ascii=False)
+
+    analytics = build_manager_analytics(owner_rows, enriched_games)
+    analytics_rows_html = build_analytics_rows(analytics)
+
+    player_appearances = load_json("player_appearances.json")
+    draft_values = build_draft_value(seasons, player_appearances)
+    draft_value_json = build_draft_value_js(draft_values)
+    has_draft_data = len(draft_values) > 0
+    draft_section_html = build_draft_section_html(has_draft_data, len(draft_values), draft_value_json)
 
     total_players = len(player_success)
     total_games = len(games_log)
@@ -451,7 +738,9 @@ def main():
       <li><a href="#trophy-case">Trophy Case</a></li>
       <li><a href="#stats">League Stats</a></li>
       <li><a href="#standings">Standings</a></li>
+      <li><a href="#analytics">Analytics</a></li>
       <li><a href="#players">Players</a></li>
+      <li><a href="#draft-value">Draft</a></li>
       <li><a href="#game-log">Game Log</a></li>
     </ul>
   </div>
@@ -563,6 +852,37 @@ def main():
   </div>
 </section>
 
+<section class="gg-section gg-section-alt" id="analytics">
+  <div class="gg-wrap">
+    <div class="gg-section-head">
+      <div class="gg-eyebrow">Manager Analytics</div>
+      <h2>Points for, points against, and who's actually gotten lucky</h2>
+      <p>Regular season only, so it lines up with the win/loss records above. "Luck" compares each manager's real win total to an all-play expected win total &mdash; each week, every score gets compared against every other score that week, not just the one team it happened to be paired against. Positive means the schedule has been kind; negative means it hasn't.</p>
+    </div>
+    <div class="gg-table-wrap">
+      <table class="gg-table">
+        <thead>
+          <tr>
+            <th>Rank</th>
+            <th>Manager</th>
+            <th>Team</th>
+            <th class="gg-num">Gms</th>
+            <th class="gg-num">Pts For</th>
+            <th class="gg-num">Pts Against</th>
+            <th class="gg-num">PPG For</th>
+            <th class="gg-num">PPG Against</th>
+            <th class="gg-num">Actual W</th>
+            <th class="gg-num">Expected W</th>
+            <th class="gg-num">Luck</th>
+          </tr>
+        </thead>
+        <tbody>{analytics_rows_html}
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+
 <section class="gg-section" id="players">
   <div class="gg-wrap">
     <div class="gg-section-head">
@@ -599,6 +919,8 @@ def main():
     </div>
   </div>
 </section>
+
+{draft_section_html}
 
 <section class="gg-section" id="game-log">
   <div class="gg-wrap">
