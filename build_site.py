@@ -492,7 +492,453 @@ def build_analytics_rows(analytics):
     return "".join(rows)
 
 
+def build_streaks(enriched_games):
+    """Longest win/loss streak and current streak per owner, regular season
+    only, in chronological order."""
+    by_owner = defaultdict(list)  # owner -> [(year, week, won), ...]
+    for g in enriched_games:
+        if g.get("type") != "NONE" or not g.get("away_team"):
+            continue
+        home_win = g["home_score"] > g["away_score"]
+        if g["home_owner"]:
+            by_owner[g["home_owner"]].append((g["year"], g["week"], home_win))
+        if g["away_owner"]:
+            by_owner[g["away_owner"]].append((g["year"], g["week"], not home_win))
+
+    results = []
+    for owner, games in by_owner.items():
+        games.sort(key=lambda x: (x[0], x[1]))
+        longest_win = longest_loss = cur_win = cur_loss = 0
+        for _, _, won in games:
+            if won:
+                cur_win += 1
+                cur_loss = 0
+                longest_win = max(longest_win, cur_win)
+            else:
+                cur_loss += 1
+                cur_win = 0
+                longest_loss = max(longest_loss, cur_loss)
+        # current streak = run at the very end of the chronological list
+        current_type, current_len = None, 0
+        if games:
+            last_result = games[-1][2]
+            for _, _, won in reversed(games):
+                if won == last_result:
+                    current_len += 1
+                else:
+                    break
+            current_type = "W" if last_result else "L"
+        results.append({
+            "owner": owner, "longest_win": longest_win, "longest_loss": longest_loss,
+            "current_type": current_type, "current_len": current_len,
+        })
+    results.sort(key=lambda r: -r["longest_win"])
+    return results
+
+
+def build_playoff_vs_regular(enriched_games):
+    stats = defaultdict(lambda: {"reg_w": 0, "reg_l": 0, "po_w": 0, "po_l": 0})
+    for g in enriched_games:
+        if not g.get("away_team"):
+            continue
+        home_win = g["home_score"] > g["away_score"]
+        is_playoff = g.get("type") == "WINNERS_BRACKET"
+        is_regular = g.get("type") == "NONE"
+        if not (is_playoff or is_regular):
+            continue
+        for owner, won in [(g["home_owner"], home_win), (g["away_owner"], not home_win)]:
+            if not owner:
+                continue
+            bucket = stats[owner]
+            if is_regular:
+                bucket["reg_w" if won else "reg_l"] += 1
+            else:
+                bucket["po_w" if won else "po_l"] += 1
+
+    results = []
+    for owner, s in stats.items():
+        reg_total = s["reg_w"] + s["reg_l"]
+        po_total = s["po_w"] + s["po_l"]
+        if po_total == 0:
+            continue  # never made the playoffs — nothing meaningful to compare
+        results.append({
+            "owner": owner,
+            "reg_record": f"{s['reg_w']}-{s['reg_l']}",
+            "reg_pct": round(100 * s["reg_w"] / reg_total, 1) if reg_total else 0,
+            "po_record": f"{s['po_w']}-{s['po_l']}",
+            "po_pct": round(100 * s["po_w"] / po_total, 1),
+        })
+    results.sort(key=lambda r: -r["po_pct"])
+    return results
+
+
+def build_consistency(enriched_games):
+    import statistics
+    scores = defaultdict(list)
+    for g in enriched_games:
+        if g.get("type") != "NONE" or not g.get("away_team"):
+            continue
+        if g["home_owner"]:
+            scores[g["home_owner"]].append(g["home_score"])
+        if g["away_owner"]:
+            scores[g["away_owner"]].append(g["away_score"])
+
+    results = []
+    for owner, vals in scores.items():
+        if len(vals) < 2:
+            continue
+        results.append({
+            "owner": owner,
+            "avg": round(statistics.mean(vals), 1),
+            "stdev": round(statistics.stdev(vals), 1),
+            "games": len(vals),
+        })
+    results.sort(key=lambda r: r["stdev"])
+    return results
+
+
+def build_bench_management(player_appearances):
+    stats = defaultdict(lambda: {"started": 0.0, "bench": 0.0})
+    for a in player_appearances:
+        owner = a.get("owner")
+        if not owner:
+            continue
+        if a.get("started"):
+            stats[owner]["started"] += a["points"]
+        else:
+            stats[owner]["bench"] += a["points"]
+
+    results = []
+    for owner, s in stats.items():
+        total = s["started"] + s["bench"]
+        if total == 0:
+            continue
+        results.append({
+            "owner": owner,
+            "started_pts": round(s["started"], 1),
+            "bench_pts": round(s["bench"], 1),
+            "utilization": round(100 * s["started"] / total, 1),
+        })
+    results.sort(key=lambda r: -r["utilization"])
+    return results
+
+
+def build_toilet_bowl(enriched_games, n=15):
+    entries = []
+    for g in enriched_games:
+        if g.get("type") != "NONE" or not g.get("away_team"):
+            continue
+        for owner, team, score, wk, yr in [
+            (g["home_owner"], g["home_team"], g["home_score"], g["week"], g["year"]),
+            (g["away_owner"], g["away_team"], g["away_score"], g["week"], g["year"]),
+        ]:
+            if owner:
+                entries.append({"owner": owner, "team": team, "score": score, "week": wk, "year": yr})
+    entries.sort(key=lambda e: e["score"])
+    return entries[:n]
+
+
+def build_median_standings(enriched_games, owner_rows):
+    """'What if' standings if every week's score was compared to the league
+    median instead of just your one opponent."""
+    by_week = defaultdict(list)  # (year, week) -> [(owner, score), ...]
+    for g in enriched_games:
+        if g.get("type") != "NONE" or not g.get("away_team"):
+            continue
+        key = (g["year"], g["week"])
+        if g["home_owner"]:
+            by_week[key].append((g["home_owner"], g["home_score"]))
+        if g["away_owner"]:
+            by_week[key].append((g["away_owner"], g["away_score"]))
+
+    median_record = defaultdict(lambda: {"w": 0, "l": 0})
+    for key, entries in by_week.items():
+        if len(entries) < 2:
+            continue
+        scores_sorted = sorted(s for _, s in entries)
+        n = len(scores_sorted)
+        median = (scores_sorted[n // 2] if n % 2 else
+                   (scores_sorted[n // 2 - 1] + scores_sorted[n // 2]) / 2)
+        for owner, score in entries:
+            if score > median:
+                median_record[owner]["w"] += 1
+            elif score < median:
+                median_record[owner]["l"] += 1
+            else:
+                median_record[owner]["w"] += 0.5
+                median_record[owner]["l"] += 0.5
+
+    real_by_owner = {r["owner"]: r for r in owner_rows}
+    results = []
+    for owner, mr in median_record.items():
+        real = real_by_owner.get(owner)
+        if not real:
+            continue
+        median_total = mr["w"] + mr["l"]
+        median_pct = round(100 * mr["w"] / median_total, 1) if median_total else 0
+        results.append({
+            "owner": owner,
+            "real_record": f"{real['wins']}-{real['losses']}",
+            "real_pct": real["win_pct"],
+            "median_record": f"{mr['w']:g}-{mr['l']:g}",
+            "median_pct": median_pct,
+            "delta": round(median_pct - real["win_pct"], 1),
+        })
+    results.sort(key=lambda r: -r["median_pct"])
+    return results
+
+
+def build_power_rankings(enriched_games, seasons_years, window=4):
+    """Rolling composite score per owner per week per season: trailing
+    win% over the last `window` games blended with normalized recent
+    scoring, for a simple 'who's hot' line chart."""
+    by_year = defaultdict(lambda: defaultdict(list))  # year -> owner -> [(week, score, won)]
+    for g in enriched_games:
+        if g.get("type") != "NONE" or not g.get("away_team"):
+            continue
+        home_win = g["home_score"] > g["away_score"]
+        if g["home_owner"]:
+            by_year[g["year"]][g["home_owner"]].append((g["week"], g["home_score"], home_win))
+        if g["away_owner"]:
+            by_year[g["year"]][g["away_owner"]].append((g["week"], g["away_score"], not home_win))
+
+    result = {}
+    for year in seasons_years:
+        owners_data = by_year.get(year, {})
+        if not owners_data:
+            continue
+        all_scores = [s for games in owners_data.values() for _, s, _ in games]
+        if not all_scores:
+            continue
+        lo, hi = min(all_scores), max(all_scores)
+        spread = (hi - lo) or 1
+
+        weeks = sorted({wk for games in owners_data.values() for wk, _, _ in games})
+        series = {}
+        for owner, games in owners_data.items():
+            games.sort(key=lambda x: x[0])
+            points = []
+            for i in range(len(games)):
+                window_games = games[max(0, i - window + 1): i + 1]
+                win_pct = sum(1 for _, _, w in window_games if w) / len(window_games)
+                avg_score = sum(s for _, s, _ in window_games) / len(window_games)
+                norm_score = (avg_score - lo) / spread
+                power = round(100 * (0.6 * win_pct + 0.4 * norm_score), 1)
+                points.append(power)
+            series[owner] = {games[i][0]: points[i] for i in range(len(games))}
+        result[year] = {"weeks": weeks, "series": series}
+    return result
+
+
+def esc_or_dash(v):
+    return esc(v) if v is not None else "&mdash;"
+
+
+def build_deep_stats_html(streaks, playoff_data, consistency, bench, toilet_bowl, median_standings):
+    streak_rows = "".join(f"""
+          <tr>
+            <td>{esc(s['owner'])}</td>
+            <td>{s['current_type'] or '&mdash;'}{s['current_len'] if s['current_type'] else ''}</td>
+            <td class="gg-num">{s['longest_win']}</td>
+            <td class="gg-num">{s['longest_loss']}</td>
+          </tr>""" for s in streaks)
+
+    playoff_rows = "".join(f"""
+          <tr>
+            <td>{esc(p['owner'])}</td>
+            <td class="gg-num">{p['reg_record']}</td>
+            <td class="gg-num">{p['reg_pct']}%</td>
+            <td class="gg-num">{p['po_record']}</td>
+            <td class="gg-num">{p['po_pct']}%</td>
+          </tr>""" for p in playoff_data)
+
+    consistency_rows = "".join(f"""
+          <tr>
+            <td>{esc(c['owner'])}</td>
+            <td class="gg-num">{c['avg']}</td>
+            <td class="gg-num">{c['stdev']}</td>
+            <td class="gg-num">{c['games']}</td>
+          </tr>""" for c in consistency)
+
+    bench_rows = "".join(f"""
+          <tr>
+            <td>{esc(b['owner'])}</td>
+            <td class="gg-num">{b['started_pts']}</td>
+            <td class="gg-num">{b['bench_pts']}</td>
+            <td class="gg-num">{b['utilization']}%</td>
+          </tr>""" for b in bench)
+
+    toilet_rows = "".join(f"""
+          <tr>
+            <td>{t['year']}</td>
+            <td>{t['week']}</td>
+            <td>{esc(t['owner'])}</td>
+            <td>{esc(t['team'])}</td>
+            <td class="gg-num">{t['score']:.2f}</td>
+          </tr>""" for t in toilet_bowl)
+
+    median_rows = "".join(f"""
+          <tr>
+            <td>{esc(m['owner'])}</td>
+            <td class="gg-num">{m['real_record']}</td>
+            <td class="gg-num">{m['real_pct']}%</td>
+            <td class="gg-num">{m['median_record']}</td>
+            <td class="gg-num">{m['median_pct']}%</td>
+            <td class="gg-num" style="color:{'var(--amber)' if m['delta']>0 else ('var(--red)' if m['delta']<0 else 'var(--chalk-dim)')};font-weight:700;">{'+' if m['delta']>0 else ''}{m['delta']}</td>
+          </tr>""" for m in median_standings)
+
+    return f"""
+<section class="gg-section gg-section-alt" id="deep-stats">
+  <div class="gg-wrap">
+    <div class="gg-section-head">
+      <div class="gg-eyebrow">Deep Stats</div>
+      <h2>The stuff that doesn't fit in a standings column</h2>
+      <p>Streaks, playoff performance, consistency, lineup management, and the worst weeks anyone's ever had.</p>
+    </div>
+
+    <h3 style="font-family: var(--display); text-transform: uppercase; font-size: 1.1rem; margin: 32px 0 12px;">Win/Loss Streaks</h3>
+    <div class="gg-table-wrap" style="margin-bottom: 32px;">
+      <table class="gg-table">
+        <thead><tr><th>Manager</th><th>Current</th><th class="gg-num">Longest Win Streak</th><th class="gg-num">Longest Loss Streak</th></tr></thead>
+        <tbody>{streak_rows}</tbody>
+      </table>
+    </div>
+
+    <h3 style="font-family: var(--display); text-transform: uppercase; font-size: 1.1rem; margin: 32px 0 12px;">Playoffs vs. Regular Season</h3>
+    <p style="color:var(--chalk-dim); font-size: 0.9rem; margin-bottom: 16px;">Only managers who've actually made the playoff bracket at least once.</p>
+    <div class="gg-table-wrap" style="margin-bottom: 32px;">
+      <table class="gg-table">
+        <thead><tr><th>Manager</th><th class="gg-num">Reg. Record</th><th class="gg-num">Reg. Win%</th><th class="gg-num">Playoff Record</th><th class="gg-num">Playoff Win%</th></tr></thead>
+        <tbody>{playoff_rows}</tbody>
+      </table>
+    </div>
+
+    <h3 style="font-family: var(--display); text-transform: uppercase; font-size: 1.1rem; margin: 32px 0 12px;">Consistency</h3>
+    <p style="color:var(--chalk-dim); font-size: 0.9rem; margin-bottom: 16px;">Sorted steadiest to most volatile, by standard deviation of weekly score.</p>
+    <div class="gg-table-wrap" style="margin-bottom: 32px;">
+      <table class="gg-table">
+        <thead><tr><th>Manager</th><th class="gg-num">Avg Score</th><th class="gg-num">Std Dev</th><th class="gg-num">Games</th></tr></thead>
+        <tbody>{consistency_rows}</tbody>
+      </table>
+    </div>
+
+    <h3 style="font-family: var(--display); text-transform: uppercase; font-size: 1.1rem; margin: 32px 0 12px;">Bench Management</h3>
+    <p style="color:var(--chalk-dim); font-size: 0.9rem; margin-bottom: 16px;">What share of a manager's total points actually counted, vs. sat on the bench.</p>
+    <div class="gg-table-wrap" style="margin-bottom: 32px;">
+      <table class="gg-table">
+        <thead><tr><th>Manager</th><th class="gg-num">Started Pts</th><th class="gg-num">Bench Pts</th><th class="gg-num">Utilization</th></tr></thead>
+        <tbody>{bench_rows}</tbody>
+      </table>
+    </div>
+
+    <h3 style="font-family: var(--display); text-transform: uppercase; font-size: 1.1rem; margin: 32px 0 12px;">Median Standings (What If)</h3>
+    <p style="color:var(--chalk-dim); font-size: 0.9rem; margin-bottom: 16px;">If every week's result was "beat the league median" instead of head-to-head.</p>
+    <div class="gg-table-wrap" style="margin-bottom: 32px;">
+      <table class="gg-table">
+        <thead><tr><th>Manager</th><th class="gg-num">Real Record</th><th class="gg-num">Real Win%</th><th class="gg-num">Median Record</th><th class="gg-num">Median Win%</th><th class="gg-num">&Delta;</th></tr></thead>
+        <tbody>{median_rows}</tbody>
+      </table>
+    </div>
+
+    <h3 style="font-family: var(--display); text-transform: uppercase; font-size: 1.1rem; margin: 32px 0 12px;">Toilet Bowl &mdash; Worst Weekly Scores Ever</h3>
+    <div class="gg-table-wrap">
+      <table class="gg-table">
+        <thead><tr><th>Year</th><th>Wk</th><th>Manager</th><th>Team</th><th class="gg-num">Score</th></tr></thead>
+        <tbody>{toilet_rows}</tbody>
+      </table>
+    </div>
+  </div>
+</section>
+"""
+
+
+def build_power_rankings_section(power_rankings_data):
+    if not power_rankings_data:
+        return "", ""
+
+    years = sorted(power_rankings_data.keys())
+    default_year = years[-1]
+    pr_json = json.dumps(power_rankings_data, ensure_ascii=False)
+
+    year_options = "".join(f'<option value="{y}"{" selected" if y == default_year else ""}>{y}</option>' for y in years)
+
+    section = f"""
+<section class="gg-section gg-section-alt" id="power-rankings">
+  <div class="gg-wrap">
+    <div class="gg-section-head">
+      <div class="gg-eyebrow">Power Rankings</div>
+      <h2>Who's actually hot right now</h2>
+      <p>A rolling composite of each manager's trailing 4-week record and scoring, blended into one line per manager. Higher = playing better lately, not just winning on paper.</p>
+    </div>
+    <div class="gg-filter-bar">
+      <select class="gg-select" id="prYearSelect">{year_options}</select>
+    </div>
+    <div class="gg-chart-card">
+      <div class="gg-chart-wrap" style="height: 420px;"><canvas id="prChart"></canvas></div>
+    </div>
+  </div>
+</section>
+"""
+
+    script = f"""
+<script>
+const POWER_RANKINGS = {pr_json};
+(function() {{
+  const OWNER_COLORS = ['#F2A93B','#2E6B4A','#C43B3B','#7A6FF0','#4FB6C7','#D46FB5',
+                         '#8FBF3F','#E08E45','#5A8FD6','#B5843C','#3FBF9E','#C4A93B','#9E5AD6','#5AD68F'];
+
+  const yearSelect = document.getElementById('prYearSelect');
+  let chart = null;
+
+  function render() {{
+    const year = yearSelect.value;
+    const data = POWER_RANKINGS[year];
+    if (!data) return;
+
+    const owners = Object.keys(data.series).sort();
+    const datasets = owners.map((owner, i) => {{
+      const seriesMap = data.series[owner];
+      return {{
+        label: owner,
+        data: data.weeks.map(wk => seriesMap[wk] ?? null),
+        borderColor: OWNER_COLORS[i % OWNER_COLORS.length],
+        backgroundColor: 'transparent',
+        spanGaps: true,
+        tension: 0.3,
+        pointRadius: 2,
+      }};
+    }});
+
+    if (chart) chart.destroy();
+    chart = new Chart(document.getElementById('prChart'), {{
+      type: 'line',
+      data: {{
+        labels: data.weeks.map(w => 'Wk ' + w),
+        datasets: datasets,
+      }},
+      options: {{
+        responsive: true, maintainAspectRatio: false,
+        plugins: {{ legend: {{ position: 'bottom', labels: {{ color: chalkDim, boxWidth: 12, font: {{ size: 10 }} }} }} }},
+        scales: {{
+          x: {{ grid: {{ color: gridColor }}, ticks: {{ color: chalkDim, font: {{ size: 10 }} }} }},
+          y: {{ grid: {{ color: gridColor }}, ticks: {{ color: chalkDim }}, title: {{ display: true, text: 'Power Score', color: chalkDim }} }},
+        }},
+      }},
+    }});
+  }}
+
+  yearSelect.addEventListener('change', render);
+  render();
+}})();
+</script>
+"""
+    return section, script
+
+
 def build_draft_position_table(seasons):
+
+
+
     """Each manager's Round 1 pick slot per season (their 'draft position'),
     plus the average across every season they've drafted."""
     years_with_draft = sorted({s["year"] for s in seasons if s.get("draft")})
@@ -769,6 +1215,18 @@ def main():
     draft_position_table_html, _ = build_draft_position_table(seasons)
     draft_section_html = build_draft_section_html(has_draft_data, len(draft_values), draft_value_json, draft_position_table_html)
 
+    streaks = build_streaks(enriched_games)
+    playoff_data = build_playoff_vs_regular(enriched_games)
+    consistency = build_consistency(enriched_games)
+    bench = build_bench_management(player_appearances)
+    toilet_bowl = build_toilet_bowl(enriched_games)
+    median_standings = build_median_standings(enriched_games, owner_rows)
+    deep_stats_html = build_deep_stats_html(streaks, playoff_data, consistency, bench, toilet_bowl, median_standings)
+
+    years_present = sorted({s["year"] for s in seasons})
+    power_rankings_data = build_power_rankings(enriched_games, years_present)
+    power_rankings_section, power_rankings_script = build_power_rankings_section(power_rankings_data)
+
     total_players = len(player_success)
     total_games = len(games_log)
 
@@ -794,6 +1252,8 @@ def main():
       <li><a href="#stats">League Stats</a></li>
       <li><a href="#standings">Standings</a></li>
       <li><a href="#analytics">Analytics</a></li>
+      <li><a href="#deep-stats">Deep Stats</a></li>
+      <li><a href="#power-rankings">Power Rankings</a></li>
       <li><a href="#players">Players</a></li>
       <li><a href="#draft-value">Draft</a></li>
       <li><a href="#game-log">Game Log</a></li>
@@ -937,6 +1397,9 @@ def main():
     </div>
   </div>
 </section>
+
+{deep_stats_html}
+{power_rankings_section}
 
 <section class="gg-section" id="players">
   <div class="gg-wrap">
@@ -1095,6 +1558,8 @@ const GAMES = {games_json};
 const PLAYER_SUCCESS = {player_success_json};
 {app_logic}
 </script>
+
+{power_rankings_script}
 
 </body>
 </html>
