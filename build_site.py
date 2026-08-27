@@ -492,6 +492,53 @@ def build_analytics_rows(analytics):
     return "".join(rows)
 
 
+def build_draft_position_table(seasons):
+    """Each manager's Round 1 pick slot per season (their 'draft position'),
+    plus the average across every season they've drafted."""
+    years_with_draft = sorted({s["year"] for s in seasons if s.get("draft")})
+    if not years_with_draft:
+        return "", years_with_draft
+
+    owner_slots = defaultdict(dict)  # owner -> {year: slot}
+    for s in seasons:
+        for pick in s.get("draft", []):
+            if pick["round"] == 1:
+                owner_slots[pick["owner"]][s["year"]] = pick["pick_in_round"]
+
+    rows = []
+    for owner in sorted(owner_slots.keys()):
+        slots = owner_slots[owner]
+        avg = round(sum(slots.values()) / len(slots), 1)
+        cells = "".join(
+            f'<td class="gg-num">{slots.get(y, "&mdash;")}</td>' for y in years_with_draft
+        )
+        rows.append(f"""
+          <tr>
+            <td>{esc(owner)}</td>
+            {cells}
+            <td class="gg-num" style="color:var(--amber);font-weight:700;">{avg}</td>
+          </tr>""")
+
+    year_headers = "".join(f'<th class="gg-num">{y}</th>' for y in years_with_draft)
+
+    table = f"""
+    <div class="gg-table-wrap" style="margin-bottom: 32px;">
+      <table class="gg-table">
+        <thead>
+          <tr>
+            <th>Manager</th>
+            {year_headers}
+            <th class="gg-num">Avg. Draft Position</th>
+          </tr>
+        </thead>
+        <tbody>{''.join(rows)}
+        </tbody>
+      </table>
+    </div>
+"""
+    return table, years_with_draft
+
+
 def build_draft_value(seasons, player_appearances):
     """Compares draft slot (overall pick, within position) against how many
     points that player actually scored that season, to surface steals
@@ -558,12 +605,18 @@ def build_draft_value_js(draft_values):
     return json.dumps(draft_values, ensure_ascii=False)
 
 
-def build_draft_section_html(has_draft_data, total_draft_values, draft_value_json):
+def build_draft_section_html(has_draft_data, total_draft_values, draft_value_json, draft_position_table_html):
     if not has_draft_data:
         body = ('\n      <p style="color:var(--chalk-dim);">No draft data available yet for this league '
                 '&mdash; either the draft pull hasn\'t run successfully, or these seasons predate it.</p>\n')
         script = ""
+        position_block = ""
     else:
+        position_block = f"""
+    <h3 style="font-family: var(--display); text-transform: uppercase; font-size: 1.1rem; margin: 0 0 12px;">Average Draft Position by Manager</h3>
+    <p style="color:var(--chalk-dim); font-size: 0.9rem; margin-bottom: 16px;">Each manager's Round 1 pick slot, season by season, and their average across every draft they've been part of.</p>
+{draft_position_table_html}
+"""
         body = """
     <div class="gg-filter-bar">
       <select class="gg-select" id="draftSeasonFilter">
@@ -677,7 +730,8 @@ def build_draft_section_html(has_draft_data, total_draft_values, draft_value_jso
       <div class="gg-eyebrow">Draft Value</div>
       <h2>Steals, busts, and everything in between</h2>
       <p>Compares each drafted player's pick slot against how many points they actually scored that season, ranked within their own position (a QB is only compared to other QBs drafted that year, etc.). {total_draft_values} draft picks with enough same-position company to rank meaningfully. Negative value = steal, positive = bust.</p>
-    </div>{body}
+    </div>
+{position_block}{body}
   </div>
 </section>
 {script}"""
@@ -712,7 +766,8 @@ def main():
     draft_values = build_draft_value(seasons, player_appearances)
     draft_value_json = build_draft_value_js(draft_values)
     has_draft_data = len(draft_values) > 0
-    draft_section_html = build_draft_section_html(has_draft_data, len(draft_values), draft_value_json)
+    draft_position_table_html, _ = build_draft_position_table(seasons)
+    draft_section_html = build_draft_section_html(has_draft_data, len(draft_values), draft_value_json, draft_position_table_html)
 
     total_players = len(player_success)
     total_games = len(games_log)
