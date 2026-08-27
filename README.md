@@ -1,4 +1,4 @@
-# Gridiron Gauntlet — automated daily updates
+# Any Given Sunday — automated daily updates
 
 This turns the site from "I send Claude a JSON file and it rebuilds the page"
 into "GitHub pulls fresh data and rebuilds the page by itself every day."
