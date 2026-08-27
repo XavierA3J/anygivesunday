@@ -278,7 +278,11 @@
   .gg-select:focus-visible{ outline: 2px solid var(--amber); outline-offset: 2px; }
   .gg-log-count{ font-family: var(--mono); font-size: 0.78rem; color: var(--chalk-dim); margin-bottom: 14px; }
   .gg-log-scroll{ max-height: 560px; overflow-y: auto; }
-  .gg-log-scroll table.gg-table thead th{ position: sticky; top: 0; z-index: 2; }
+  .gg-log-scroll table.gg-table thead th{
+    position: sticky; top: 0; z-index: 2;
+    background-color: var(--night-2);
+    box-shadow: 0 1px 0 var(--line);
+  }
   tr.gg-log-playoff td{ background: rgba(242,169,59,0.045); }
   .gg-tag{
     font-family: var(--mono); font-size: 0.62rem; letter-spacing: 0.06em; text-transform: uppercase;
