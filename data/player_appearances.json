@@ -147791,7 +147791,7 @@
     "owner": "Sway",
     "player": "Zay Flowers",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "WR",
     "points": 0,
     "started": true
   },
@@ -147802,7 +147802,7 @@
     "owner": "Sway",
     "player": "Tee Higgins",
     "position": "WR",
-    "slot": "WR",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -147899,17 +147899,6 @@
     "week": 1,
     "team": "Kangaroo Bouncers",
     "owner": "Sway",
-    "player": "Kyler Murray",
-    "position": "QB",
-    "slot": "BE",
-    "points": 0,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 1,
-    "team": "Kangaroo Bouncers",
-    "owner": "Sway",
     "player": "Tre' Harris",
     "position": "WR",
     "slot": "BE",
@@ -147923,6 +147912,17 @@
     "owner": "Sway",
     "player": "Jonah Coleman",
     "position": "RB",
+    "slot": "BE",
+    "points": 0,
+    "started": false
+  },
+  {
+    "year": 2026,
+    "week": 1,
+    "team": "Kangaroo Bouncers",
+    "owner": "Sway",
+    "player": "Malachi Fields",
+    "position": "WR",
     "slot": "BE",
     "points": 0,
     "started": false
@@ -149617,9 +149617,9 @@
     "owner": "Luis",
     "player": "Patrick Mahomes",
     "position": "QB",
-    "slot": "QB",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -149694,9 +149694,9 @@
     "owner": "Luis",
     "player": "Tyler Shough",
     "position": "QB",
-    "slot": "BE",
+    "slot": "QB",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -149936,7 +149936,7 @@
     "owner": "Sway",
     "player": "Zay Flowers",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "WR",
     "points": 0,
     "started": true
   },
@@ -149947,7 +149947,7 @@
     "owner": "Sway",
     "player": "Tee Higgins",
     "position": "WR",
-    "slot": "WR",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -150044,17 +150044,6 @@
     "week": 2,
     "team": "Kangaroo Bouncers",
     "owner": "Sway",
-    "player": "Kyler Murray",
-    "position": "QB",
-    "slot": "BE",
-    "points": 0,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 2,
-    "team": "Kangaroo Bouncers",
-    "owner": "Sway",
     "player": "Tre' Harris",
     "position": "WR",
     "slot": "BE",
@@ -150068,6 +150057,17 @@
     "owner": "Sway",
     "player": "Jonah Coleman",
     "position": "RB",
+    "slot": "BE",
+    "points": 0,
+    "started": false
+  },
+  {
+    "year": 2026,
+    "week": 2,
+    "team": "Kangaroo Bouncers",
+    "owner": "Sway",
+    "player": "Malachi Fields",
+    "position": "WR",
     "slot": "BE",
     "points": 0,
     "started": false
@@ -151762,9 +151762,9 @@
     "owner": "Luis",
     "player": "Patrick Mahomes",
     "position": "QB",
-    "slot": "QB",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -151839,9 +151839,9 @@
     "owner": "Luis",
     "player": "Tyler Shough",
     "position": "QB",
-    "slot": "BE",
+    "slot": "QB",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -152081,7 +152081,7 @@
     "owner": "Sway",
     "player": "Zay Flowers",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "WR",
     "points": 0,
     "started": true
   },
@@ -152092,7 +152092,7 @@
     "owner": "Sway",
     "player": "Tee Higgins",
     "position": "WR",
-    "slot": "WR",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -152189,17 +152189,6 @@
     "week": 3,
     "team": "Kangaroo Bouncers",
     "owner": "Sway",
-    "player": "Kyler Murray",
-    "position": "QB",
-    "slot": "BE",
-    "points": 0,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 3,
-    "team": "Kangaroo Bouncers",
-    "owner": "Sway",
     "player": "Tre' Harris",
     "position": "WR",
     "slot": "BE",
@@ -152213,6 +152202,17 @@
     "owner": "Sway",
     "player": "Jonah Coleman",
     "position": "RB",
+    "slot": "BE",
+    "points": 0,
+    "started": false
+  },
+  {
+    "year": 2026,
+    "week": 3,
+    "team": "Kangaroo Bouncers",
+    "owner": "Sway",
+    "player": "Malachi Fields",
+    "position": "WR",
     "slot": "BE",
     "points": 0,
     "started": false
@@ -153907,9 +153907,9 @@
     "owner": "Luis",
     "player": "Patrick Mahomes",
     "position": "QB",
-    "slot": "QB",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -153984,9 +153984,9 @@
     "owner": "Luis",
     "player": "Tyler Shough",
     "position": "QB",
-    "slot": "BE",
+    "slot": "QB",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -154226,7 +154226,7 @@
     "owner": "Sway",
     "player": "Zay Flowers",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "WR",
     "points": 0,
     "started": true
   },
@@ -154237,7 +154237,7 @@
     "owner": "Sway",
     "player": "Tee Higgins",
     "position": "WR",
-    "slot": "WR",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -154334,17 +154334,6 @@
     "week": 4,
     "team": "Kangaroo Bouncers",
     "owner": "Sway",
-    "player": "Kyler Murray",
-    "position": "QB",
-    "slot": "BE",
-    "points": 0,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 4,
-    "team": "Kangaroo Bouncers",
-    "owner": "Sway",
     "player": "Tre' Harris",
     "position": "WR",
     "slot": "BE",
@@ -154358,6 +154347,17 @@
     "owner": "Sway",
     "player": "Jonah Coleman",
     "position": "RB",
+    "slot": "BE",
+    "points": 0,
+    "started": false
+  },
+  {
+    "year": 2026,
+    "week": 4,
+    "team": "Kangaroo Bouncers",
+    "owner": "Sway",
+    "player": "Malachi Fields",
+    "position": "WR",
     "slot": "BE",
     "points": 0,
     "started": false
@@ -156052,9 +156052,9 @@
     "owner": "Luis",
     "player": "Patrick Mahomes",
     "position": "QB",
-    "slot": "QB",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -156129,9 +156129,9 @@
     "owner": "Luis",
     "player": "Tyler Shough",
     "position": "QB",
-    "slot": "BE",
+    "slot": "QB",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -156371,7 +156371,7 @@
     "owner": "Sway",
     "player": "Zay Flowers",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "WR",
     "points": 0,
     "started": true
   },
@@ -156382,7 +156382,7 @@
     "owner": "Sway",
     "player": "Tee Higgins",
     "position": "WR",
-    "slot": "WR",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -156479,17 +156479,6 @@
     "week": 5,
     "team": "Kangaroo Bouncers",
     "owner": "Sway",
-    "player": "Kyler Murray",
-    "position": "QB",
-    "slot": "BE",
-    "points": 0,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 5,
-    "team": "Kangaroo Bouncers",
-    "owner": "Sway",
     "player": "Tre' Harris",
     "position": "WR",
     "slot": "BE",
@@ -156503,6 +156492,17 @@
     "owner": "Sway",
     "player": "Jonah Coleman",
     "position": "RB",
+    "slot": "BE",
+    "points": 0,
+    "started": false
+  },
+  {
+    "year": 2026,
+    "week": 5,
+    "team": "Kangaroo Bouncers",
+    "owner": "Sway",
+    "player": "Malachi Fields",
+    "position": "WR",
     "slot": "BE",
     "points": 0,
     "started": false
@@ -158197,9 +158197,9 @@
     "owner": "Luis",
     "player": "Patrick Mahomes",
     "position": "QB",
-    "slot": "QB",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -158274,9 +158274,9 @@
     "owner": "Luis",
     "player": "Tyler Shough",
     "position": "QB",
-    "slot": "BE",
+    "slot": "QB",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -158516,7 +158516,7 @@
     "owner": "Sway",
     "player": "Zay Flowers",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "WR",
     "points": 0,
     "started": true
   },
@@ -158527,7 +158527,7 @@
     "owner": "Sway",
     "player": "Tee Higgins",
     "position": "WR",
-    "slot": "WR",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -158624,17 +158624,6 @@
     "week": 6,
     "team": "Kangaroo Bouncers",
     "owner": "Sway",
-    "player": "Kyler Murray",
-    "position": "QB",
-    "slot": "BE",
-    "points": 0,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 6,
-    "team": "Kangaroo Bouncers",
-    "owner": "Sway",
     "player": "Tre' Harris",
     "position": "WR",
     "slot": "BE",
@@ -158648,6 +158637,17 @@
     "owner": "Sway",
     "player": "Jonah Coleman",
     "position": "RB",
+    "slot": "BE",
+    "points": 0,
+    "started": false
+  },
+  {
+    "year": 2026,
+    "week": 6,
+    "team": "Kangaroo Bouncers",
+    "owner": "Sway",
+    "player": "Malachi Fields",
+    "position": "WR",
     "slot": "BE",
     "points": 0,
     "started": false
@@ -160342,9 +160342,9 @@
     "owner": "Luis",
     "player": "Patrick Mahomes",
     "position": "QB",
-    "slot": "QB",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -160419,9 +160419,9 @@
     "owner": "Luis",
     "player": "Tyler Shough",
     "position": "QB",
-    "slot": "BE",
+    "slot": "QB",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -160661,7 +160661,7 @@
     "owner": "Sway",
     "player": "Zay Flowers",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "WR",
     "points": 0,
     "started": true
   },
@@ -160672,7 +160672,7 @@
     "owner": "Sway",
     "player": "Tee Higgins",
     "position": "WR",
-    "slot": "WR",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -160769,17 +160769,6 @@
     "week": 7,
     "team": "Kangaroo Bouncers",
     "owner": "Sway",
-    "player": "Kyler Murray",
-    "position": "QB",
-    "slot": "BE",
-    "points": 0,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 7,
-    "team": "Kangaroo Bouncers",
-    "owner": "Sway",
     "player": "Tre' Harris",
     "position": "WR",
     "slot": "BE",
@@ -160793,6 +160782,17 @@
     "owner": "Sway",
     "player": "Jonah Coleman",
     "position": "RB",
+    "slot": "BE",
+    "points": 0,
+    "started": false
+  },
+  {
+    "year": 2026,
+    "week": 7,
+    "team": "Kangaroo Bouncers",
+    "owner": "Sway",
+    "player": "Malachi Fields",
+    "position": "WR",
     "slot": "BE",
     "points": 0,
     "started": false
@@ -162487,9 +162487,9 @@
     "owner": "Luis",
     "player": "Patrick Mahomes",
     "position": "QB",
-    "slot": "QB",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -162564,9 +162564,9 @@
     "owner": "Luis",
     "player": "Tyler Shough",
     "position": "QB",
-    "slot": "BE",
+    "slot": "QB",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -162806,7 +162806,7 @@
     "owner": "Sway",
     "player": "Zay Flowers",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "WR",
     "points": 0,
     "started": true
   },
@@ -162817,7 +162817,7 @@
     "owner": "Sway",
     "player": "Tee Higgins",
     "position": "WR",
-    "slot": "WR",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -162914,17 +162914,6 @@
     "week": 8,
     "team": "Kangaroo Bouncers",
     "owner": "Sway",
-    "player": "Kyler Murray",
-    "position": "QB",
-    "slot": "BE",
-    "points": 0,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 8,
-    "team": "Kangaroo Bouncers",
-    "owner": "Sway",
     "player": "Tre' Harris",
     "position": "WR",
     "slot": "BE",
@@ -162938,6 +162927,17 @@
     "owner": "Sway",
     "player": "Jonah Coleman",
     "position": "RB",
+    "slot": "BE",
+    "points": 0,
+    "started": false
+  },
+  {
+    "year": 2026,
+    "week": 8,
+    "team": "Kangaroo Bouncers",
+    "owner": "Sway",
+    "player": "Malachi Fields",
+    "position": "WR",
     "slot": "BE",
     "points": 0,
     "started": false
@@ -164632,9 +164632,9 @@
     "owner": "Luis",
     "player": "Patrick Mahomes",
     "position": "QB",
-    "slot": "QB",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -164709,9 +164709,9 @@
     "owner": "Luis",
     "player": "Tyler Shough",
     "position": "QB",
-    "slot": "BE",
+    "slot": "QB",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -164951,7 +164951,7 @@
     "owner": "Sway",
     "player": "Zay Flowers",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "WR",
     "points": 0,
     "started": true
   },
@@ -164962,7 +164962,7 @@
     "owner": "Sway",
     "player": "Tee Higgins",
     "position": "WR",
-    "slot": "WR",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -165059,17 +165059,6 @@
     "week": 9,
     "team": "Kangaroo Bouncers",
     "owner": "Sway",
-    "player": "Kyler Murray",
-    "position": "QB",
-    "slot": "BE",
-    "points": 0,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 9,
-    "team": "Kangaroo Bouncers",
-    "owner": "Sway",
     "player": "Tre' Harris",
     "position": "WR",
     "slot": "BE",
@@ -165083,6 +165072,17 @@
     "owner": "Sway",
     "player": "Jonah Coleman",
     "position": "RB",
+    "slot": "BE",
+    "points": 0,
+    "started": false
+  },
+  {
+    "year": 2026,
+    "week": 9,
+    "team": "Kangaroo Bouncers",
+    "owner": "Sway",
+    "player": "Malachi Fields",
+    "position": "WR",
     "slot": "BE",
     "points": 0,
     "started": false
@@ -166777,9 +166777,9 @@
     "owner": "Luis",
     "player": "Patrick Mahomes",
     "position": "QB",
-    "slot": "QB",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -166854,9 +166854,9 @@
     "owner": "Luis",
     "player": "Tyler Shough",
     "position": "QB",
-    "slot": "BE",
+    "slot": "QB",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -167096,7 +167096,7 @@
     "owner": "Sway",
     "player": "Zay Flowers",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "WR",
     "points": 0,
     "started": true
   },
@@ -167107,7 +167107,7 @@
     "owner": "Sway",
     "player": "Tee Higgins",
     "position": "WR",
-    "slot": "WR",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -167204,17 +167204,6 @@
     "week": 10,
     "team": "Kangaroo Bouncers",
     "owner": "Sway",
-    "player": "Kyler Murray",
-    "position": "QB",
-    "slot": "BE",
-    "points": 0,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 10,
-    "team": "Kangaroo Bouncers",
-    "owner": "Sway",
     "player": "Tre' Harris",
     "position": "WR",
     "slot": "BE",
@@ -167228,6 +167217,17 @@
     "owner": "Sway",
     "player": "Jonah Coleman",
     "position": "RB",
+    "slot": "BE",
+    "points": 0,
+    "started": false
+  },
+  {
+    "year": 2026,
+    "week": 10,
+    "team": "Kangaroo Bouncers",
+    "owner": "Sway",
+    "player": "Malachi Fields",
+    "position": "WR",
     "slot": "BE",
     "points": 0,
     "started": false
@@ -168922,9 +168922,9 @@
     "owner": "Luis",
     "player": "Patrick Mahomes",
     "position": "QB",
-    "slot": "QB",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -168999,9 +168999,9 @@
     "owner": "Luis",
     "player": "Tyler Shough",
     "position": "QB",
-    "slot": "BE",
+    "slot": "QB",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -169241,7 +169241,7 @@
     "owner": "Sway",
     "player": "Zay Flowers",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "WR",
     "points": 0,
     "started": true
   },
@@ -169252,7 +169252,7 @@
     "owner": "Sway",
     "player": "Tee Higgins",
     "position": "WR",
-    "slot": "WR",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -169349,17 +169349,6 @@
     "week": 11,
     "team": "Kangaroo Bouncers",
     "owner": "Sway",
-    "player": "Kyler Murray",
-    "position": "QB",
-    "slot": "BE",
-    "points": 0,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 11,
-    "team": "Kangaroo Bouncers",
-    "owner": "Sway",
     "player": "Tre' Harris",
     "position": "WR",
     "slot": "BE",
@@ -169373,6 +169362,17 @@
     "owner": "Sway",
     "player": "Jonah Coleman",
     "position": "RB",
+    "slot": "BE",
+    "points": 0,
+    "started": false
+  },
+  {
+    "year": 2026,
+    "week": 11,
+    "team": "Kangaroo Bouncers",
+    "owner": "Sway",
+    "player": "Malachi Fields",
+    "position": "WR",
     "slot": "BE",
     "points": 0,
     "started": false
@@ -171067,9 +171067,9 @@
     "owner": "Luis",
     "player": "Patrick Mahomes",
     "position": "QB",
-    "slot": "QB",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -171144,9 +171144,9 @@
     "owner": "Luis",
     "player": "Tyler Shough",
     "position": "QB",
-    "slot": "BE",
+    "slot": "QB",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -171386,7 +171386,7 @@
     "owner": "Sway",
     "player": "Zay Flowers",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "WR",
     "points": 0,
     "started": true
   },
@@ -171397,7 +171397,7 @@
     "owner": "Sway",
     "player": "Tee Higgins",
     "position": "WR",
-    "slot": "WR",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -171494,17 +171494,6 @@
     "week": 12,
     "team": "Kangaroo Bouncers",
     "owner": "Sway",
-    "player": "Kyler Murray",
-    "position": "QB",
-    "slot": "BE",
-    "points": 0,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 12,
-    "team": "Kangaroo Bouncers",
-    "owner": "Sway",
     "player": "Tre' Harris",
     "position": "WR",
     "slot": "BE",
@@ -171518,6 +171507,17 @@
     "owner": "Sway",
     "player": "Jonah Coleman",
     "position": "RB",
+    "slot": "BE",
+    "points": 0,
+    "started": false
+  },
+  {
+    "year": 2026,
+    "week": 12,
+    "team": "Kangaroo Bouncers",
+    "owner": "Sway",
+    "player": "Malachi Fields",
+    "position": "WR",
     "slot": "BE",
     "points": 0,
     "started": false
@@ -173212,9 +173212,9 @@
     "owner": "Luis",
     "player": "Patrick Mahomes",
     "position": "QB",
-    "slot": "QB",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -173289,9 +173289,9 @@
     "owner": "Luis",
     "player": "Tyler Shough",
     "position": "QB",
-    "slot": "BE",
+    "slot": "QB",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -173531,7 +173531,7 @@
     "owner": "Sway",
     "player": "Zay Flowers",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "WR",
     "points": 0,
     "started": true
   },
@@ -173542,7 +173542,7 @@
     "owner": "Sway",
     "player": "Tee Higgins",
     "position": "WR",
-    "slot": "WR",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -173639,17 +173639,6 @@
     "week": 13,
     "team": "Kangaroo Bouncers",
     "owner": "Sway",
-    "player": "Kyler Murray",
-    "position": "QB",
-    "slot": "BE",
-    "points": 0,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 13,
-    "team": "Kangaroo Bouncers",
-    "owner": "Sway",
     "player": "Tre' Harris",
     "position": "WR",
     "slot": "BE",
@@ -173663,6 +173652,17 @@
     "owner": "Sway",
     "player": "Jonah Coleman",
     "position": "RB",
+    "slot": "BE",
+    "points": 0,
+    "started": false
+  },
+  {
+    "year": 2026,
+    "week": 13,
+    "team": "Kangaroo Bouncers",
+    "owner": "Sway",
+    "player": "Malachi Fields",
+    "position": "WR",
     "slot": "BE",
     "points": 0,
     "started": false
@@ -175357,9 +175357,9 @@
     "owner": "Luis",
     "player": "Patrick Mahomes",
     "position": "QB",
-    "slot": "QB",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -175434,9 +175434,9 @@
     "owner": "Luis",
     "player": "Tyler Shough",
     "position": "QB",
-    "slot": "BE",
+    "slot": "QB",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -175676,7 +175676,7 @@
     "owner": "Sway",
     "player": "Zay Flowers",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "WR",
     "points": 0,
     "started": true
   },
@@ -175687,7 +175687,7 @@
     "owner": "Sway",
     "player": "Tee Higgins",
     "position": "WR",
-    "slot": "WR",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -175784,17 +175784,6 @@
     "week": 14,
     "team": "Kangaroo Bouncers",
     "owner": "Sway",
-    "player": "Kyler Murray",
-    "position": "QB",
-    "slot": "BE",
-    "points": 0,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 14,
-    "team": "Kangaroo Bouncers",
-    "owner": "Sway",
     "player": "Tre' Harris",
     "position": "WR",
     "slot": "BE",
@@ -175808,6 +175797,17 @@
     "owner": "Sway",
     "player": "Jonah Coleman",
     "position": "RB",
+    "slot": "BE",
+    "points": 0,
+    "started": false
+  },
+  {
+    "year": 2026,
+    "week": 14,
+    "team": "Kangaroo Bouncers",
+    "owner": "Sway",
+    "player": "Malachi Fields",
+    "position": "WR",
     "slot": "BE",
     "points": 0,
     "started": false
@@ -177502,9 +177502,9 @@
     "owner": "Luis",
     "player": "Patrick Mahomes",
     "position": "QB",
-    "slot": "QB",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -177579,9 +177579,9 @@
     "owner": "Luis",
     "player": "Tyler Shough",
     "position": "QB",
-    "slot": "BE",
+    "slot": "QB",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -177821,7 +177821,7 @@
     "owner": "Sway",
     "player": "Zay Flowers",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "WR",
     "points": 0,
     "started": true
   },
@@ -177832,7 +177832,7 @@
     "owner": "Sway",
     "player": "Tee Higgins",
     "position": "WR",
-    "slot": "WR",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -177929,17 +177929,6 @@
     "week": 15,
     "team": "Kangaroo Bouncers",
     "owner": "Sway",
-    "player": "Kyler Murray",
-    "position": "QB",
-    "slot": "BE",
-    "points": 0,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 15,
-    "team": "Kangaroo Bouncers",
-    "owner": "Sway",
     "player": "Tre' Harris",
     "position": "WR",
     "slot": "BE",
@@ -177953,6 +177942,17 @@
     "owner": "Sway",
     "player": "Jonah Coleman",
     "position": "RB",
+    "slot": "BE",
+    "points": 0,
+    "started": false
+  },
+  {
+    "year": 2026,
+    "week": 15,
+    "team": "Kangaroo Bouncers",
+    "owner": "Sway",
+    "player": "Malachi Fields",
+    "position": "WR",
     "slot": "BE",
     "points": 0,
     "started": false
@@ -179647,9 +179647,9 @@
     "owner": "Luis",
     "player": "Patrick Mahomes",
     "position": "QB",
-    "slot": "QB",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -179724,9 +179724,9 @@
     "owner": "Luis",
     "player": "Tyler Shough",
     "position": "QB",
-    "slot": "BE",
+    "slot": "QB",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -179966,7 +179966,7 @@
     "owner": "Sway",
     "player": "Zay Flowers",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "WR",
     "points": 0,
     "started": true
   },
@@ -179977,7 +179977,7 @@
     "owner": "Sway",
     "player": "Tee Higgins",
     "position": "WR",
-    "slot": "WR",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -180074,17 +180074,6 @@
     "week": 16,
     "team": "Kangaroo Bouncers",
     "owner": "Sway",
-    "player": "Kyler Murray",
-    "position": "QB",
-    "slot": "BE",
-    "points": 0,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 16,
-    "team": "Kangaroo Bouncers",
-    "owner": "Sway",
     "player": "Tre' Harris",
     "position": "WR",
     "slot": "BE",
@@ -180098,6 +180087,17 @@
     "owner": "Sway",
     "player": "Jonah Coleman",
     "position": "RB",
+    "slot": "BE",
+    "points": 0,
+    "started": false
+  },
+  {
+    "year": 2026,
+    "week": 16,
+    "team": "Kangaroo Bouncers",
+    "owner": "Sway",
+    "player": "Malachi Fields",
+    "position": "WR",
     "slot": "BE",
     "points": 0,
     "started": false
@@ -181792,9 +181792,9 @@
     "owner": "Luis",
     "player": "Patrick Mahomes",
     "position": "QB",
-    "slot": "QB",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -181869,9 +181869,9 @@
     "owner": "Luis",
     "player": "Tyler Shough",
     "position": "QB",
-    "slot": "BE",
+    "slot": "QB",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -182111,7 +182111,7 @@
     "owner": "Sway",
     "player": "Zay Flowers",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "WR",
     "points": 0,
     "started": true
   },
@@ -182122,7 +182122,7 @@
     "owner": "Sway",
     "player": "Tee Higgins",
     "position": "WR",
-    "slot": "WR",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -182219,17 +182219,6 @@
     "week": 17,
     "team": "Kangaroo Bouncers",
     "owner": "Sway",
-    "player": "Kyler Murray",
-    "position": "QB",
-    "slot": "BE",
-    "points": 0,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 17,
-    "team": "Kangaroo Bouncers",
-    "owner": "Sway",
     "player": "Tre' Harris",
     "position": "WR",
     "slot": "BE",
@@ -182243,6 +182232,17 @@
     "owner": "Sway",
     "player": "Jonah Coleman",
     "position": "RB",
+    "slot": "BE",
+    "points": 0,
+    "started": false
+  },
+  {
+    "year": 2026,
+    "week": 17,
+    "team": "Kangaroo Bouncers",
+    "owner": "Sway",
+    "player": "Malachi Fields",
+    "position": "WR",
     "slot": "BE",
     "points": 0,
     "started": false
@@ -183937,9 +183937,9 @@
     "owner": "Luis",
     "player": "Patrick Mahomes",
     "position": "QB",
-    "slot": "QB",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -184014,9 +184014,9 @@
     "owner": "Luis",
     "player": "Tyler Shough",
     "position": "QB",
-    "slot": "BE",
+    "slot": "QB",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,

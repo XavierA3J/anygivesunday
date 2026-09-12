@@ -499,18 +499,18 @@
     "position": "QB",
     "overall_started_points": 1125.56,
     "overall_bench_points": 179.78,
-    "overall_started_games": 70,
-    "overall_bench_games": 15,
+    "overall_started_games": 53,
+    "overall_bench_games": 32,
     "best_team_owner": "Luis",
     "best_team_started_points": 1006.32,
-    "best_team_started_games": 63,
+    "best_team_started_games": 46,
     "teams": [
       {
         "owner": "Luis",
         "started_points": 1006.32,
-        "started_games": 63,
+        "started_games": 46,
         "bench_points": 0.0,
-        "bench_games": 5,
+        "bench_games": 22,
         "total_points": 1006.32,
         "total_games": 68
       },
@@ -2646,7 +2646,7 @@
     "overall_started_points": 631.38,
     "overall_bench_points": 69.86,
     "overall_started_games": 34,
-    "overall_bench_games": 37,
+    "overall_bench_games": 20,
     "best_team_owner": "Luis",
     "best_team_started_points": 289.36,
     "best_team_started_games": 16,
@@ -2695,15 +2695,6 @@
         "bench_games": 1,
         "total_points": 0.0,
         "total_games": 1
-      },
-      {
-        "owner": "Sway",
-        "started_points": 0.0,
-        "started_games": 0,
-        "bench_points": 0.0,
-        "bench_games": 17,
-        "total_points": 0.0,
-        "total_games": 17
       }
     ]
   },
@@ -19730,8 +19721,8 @@
     "position": "QB",
     "overall_started_points": 7.92,
     "overall_bench_points": 17.36,
-    "overall_started_games": 1,
-    "overall_bench_games": 18,
+    "overall_started_games": 18,
+    "overall_bench_games": 1,
     "best_team_owner": "kevin",
     "best_team_started_points": 7.92,
     "best_team_started_games": 1,
@@ -19748,9 +19739,9 @@
       {
         "owner": "Luis",
         "started_points": 0.0,
-        "started_games": 0,
+        "started_games": 17,
         "bench_points": 0.0,
-        "bench_games": 17,
+        "bench_games": 0,
         "total_points": 0.0,
         "total_games": 17
       }
@@ -23309,6 +23300,28 @@
   {
     "player": "Jonah Coleman",
     "position": "RB",
+    "overall_started_points": 0.0,
+    "overall_bench_points": 0.0,
+    "overall_started_games": 0,
+    "overall_bench_games": 17,
+    "best_team_owner": "Sway",
+    "best_team_started_points": 0.0,
+    "best_team_started_games": 0,
+    "teams": [
+      {
+        "owner": "Sway",
+        "started_points": 0.0,
+        "started_games": 0,
+        "bench_points": 0.0,
+        "bench_games": 17,
+        "total_points": 0.0,
+        "total_games": 17
+      }
+    ]
+  },
+  {
+    "player": "Malachi Fields",
+    "position": "WR",
     "overall_started_points": 0.0,
     "overall_bench_points": 0.0,
     "overall_started_games": 0,
