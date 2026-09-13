@@ -159739,7 +159739,7 @@
         "owner": "Sway",
         "player": "Kenneth Walker III",
         "position": "RB",
-        "slot": "RB/WR/TE",
+        "slot": "RB",
         "points": 0,
         "started": true
       },
@@ -159794,9 +159794,9 @@
         "owner": "Sway",
         "player": "Stefon Diggs",
         "position": "WR",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -159805,9 +159805,9 @@
         "owner": "Sway",
         "player": "Jonathon Brooks",
         "position": "RB",
-        "slot": "RB",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -159869,17 +159869,6 @@
         "week": 1,
         "team": "Kangaroo Bouncers",
         "owner": "Sway",
-        "player": "Tre' Harris",
-        "position": "WR",
-        "slot": "BE",
-        "points": 0,
-        "started": false
-      },
-      {
-        "year": 2026,
-        "week": 1,
-        "team": "Kangaroo Bouncers",
-        "owner": "Sway",
         "player": "Jonah Coleman",
         "position": "RB",
         "slot": "BE",
@@ -159892,6 +159881,17 @@
         "team": "Kangaroo Bouncers",
         "owner": "Sway",
         "player": "Malachi Fields",
+        "position": "WR",
+        "slot": "BE",
+        "points": 0,
+        "started": false
+      },
+      {
+        "year": 2026,
+        "week": 1,
+        "team": "Kangaroo Bouncers",
+        "owner": "Sway",
+        "player": "Rashod Bateman",
         "position": "WR",
         "slot": "BE",
         "points": 0,
@@ -160221,17 +160221,6 @@
         "week": 1,
         "team": "13 BLOCK HIT-MEN",
         "owner": "Joseph",
-        "player": "Dominic Zvada",
-        "position": "K",
-        "slot": "K",
-        "points": 0,
-        "started": true
-      },
-      {
-        "year": 2026,
-        "week": 1,
-        "team": "13 BLOCK HIT-MEN",
-        "owner": "Joseph",
         "player": "Kayshon Boutte",
         "position": "WR",
         "slot": "BE",
@@ -160248,6 +160237,17 @@
         "slot": "BE",
         "points": 0,
         "started": false
+      },
+      {
+        "year": 2026,
+        "week": 1,
+        "team": "13 BLOCK HIT-MEN",
+        "owner": "Joseph",
+        "player": "Evan McPherson",
+        "position": "K",
+        "slot": "K",
+        "points": 0,
+        "started": true
       },
       {
         "year": 2026,
@@ -160685,9 +160685,9 @@
         "owner": "Jose",
         "player": "Rico Dowdle",
         "position": "RB",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -160707,9 +160707,9 @@
         "owner": "Jose",
         "player": "Quentin Johnston",
         "position": "WR",
-        "slot": "RB/WR/TE",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -160784,6 +160784,17 @@
         "owner": "Jose",
         "player": "Alvin Kamara",
         "position": "RB",
+        "slot": "IR",
+        "points": 0,
+        "started": false
+      },
+      {
+        "year": 2026,
+        "week": 1,
+        "team": "Kingdom Builders \ud83e\udd81",
+        "owner": "Jose",
+        "player": "Kyler Murray",
+        "position": "QB",
         "slot": "BE",
         "points": 0,
         "started": false
@@ -161884,7 +161895,7 @@
         "owner": "Sway",
         "player": "Kenneth Walker III",
         "position": "RB",
-        "slot": "RB/WR/TE",
+        "slot": "RB",
         "points": 0,
         "started": true
       },
@@ -161939,9 +161950,9 @@
         "owner": "Sway",
         "player": "Stefon Diggs",
         "position": "WR",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -161950,9 +161961,9 @@
         "owner": "Sway",
         "player": "Jonathon Brooks",
         "position": "RB",
-        "slot": "RB",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -162014,17 +162025,6 @@
         "week": 2,
         "team": "Kangaroo Bouncers",
         "owner": "Sway",
-        "player": "Tre' Harris",
-        "position": "WR",
-        "slot": "BE",
-        "points": 0,
-        "started": false
-      },
-      {
-        "year": 2026,
-        "week": 2,
-        "team": "Kangaroo Bouncers",
-        "owner": "Sway",
         "player": "Jonah Coleman",
         "position": "RB",
         "slot": "BE",
@@ -162037,6 +162037,17 @@
         "team": "Kangaroo Bouncers",
         "owner": "Sway",
         "player": "Malachi Fields",
+        "position": "WR",
+        "slot": "BE",
+        "points": 0,
+        "started": false
+      },
+      {
+        "year": 2026,
+        "week": 2,
+        "team": "Kangaroo Bouncers",
+        "owner": "Sway",
+        "player": "Rashod Bateman",
         "position": "WR",
         "slot": "BE",
         "points": 0,
@@ -162366,17 +162377,6 @@
         "week": 2,
         "team": "13 BLOCK HIT-MEN",
         "owner": "Joseph",
-        "player": "Dominic Zvada",
-        "position": "K",
-        "slot": "K",
-        "points": 0,
-        "started": true
-      },
-      {
-        "year": 2026,
-        "week": 2,
-        "team": "13 BLOCK HIT-MEN",
-        "owner": "Joseph",
         "player": "Kayshon Boutte",
         "position": "WR",
         "slot": "BE",
@@ -162393,6 +162393,17 @@
         "slot": "BE",
         "points": 0,
         "started": false
+      },
+      {
+        "year": 2026,
+        "week": 2,
+        "team": "13 BLOCK HIT-MEN",
+        "owner": "Joseph",
+        "player": "Evan McPherson",
+        "position": "K",
+        "slot": "K",
+        "points": 0,
+        "started": true
       },
       {
         "year": 2026,
@@ -162830,9 +162841,9 @@
         "owner": "Jose",
         "player": "Rico Dowdle",
         "position": "RB",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -162852,9 +162863,9 @@
         "owner": "Jose",
         "player": "Quentin Johnston",
         "position": "WR",
-        "slot": "RB/WR/TE",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -162929,6 +162940,17 @@
         "owner": "Jose",
         "player": "Alvin Kamara",
         "position": "RB",
+        "slot": "IR",
+        "points": 0,
+        "started": false
+      },
+      {
+        "year": 2026,
+        "week": 2,
+        "team": "Kingdom Builders \ud83e\udd81",
+        "owner": "Jose",
+        "player": "Kyler Murray",
+        "position": "QB",
         "slot": "BE",
         "points": 0,
         "started": false
@@ -164029,7 +164051,7 @@
         "owner": "Sway",
         "player": "Kenneth Walker III",
         "position": "RB",
-        "slot": "RB/WR/TE",
+        "slot": "RB",
         "points": 0,
         "started": true
       },
@@ -164084,9 +164106,9 @@
         "owner": "Sway",
         "player": "Stefon Diggs",
         "position": "WR",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -164095,9 +164117,9 @@
         "owner": "Sway",
         "player": "Jonathon Brooks",
         "position": "RB",
-        "slot": "RB",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -164159,17 +164181,6 @@
         "week": 3,
         "team": "Kangaroo Bouncers",
         "owner": "Sway",
-        "player": "Tre' Harris",
-        "position": "WR",
-        "slot": "BE",
-        "points": 0,
-        "started": false
-      },
-      {
-        "year": 2026,
-        "week": 3,
-        "team": "Kangaroo Bouncers",
-        "owner": "Sway",
         "player": "Jonah Coleman",
         "position": "RB",
         "slot": "BE",
@@ -164182,6 +164193,17 @@
         "team": "Kangaroo Bouncers",
         "owner": "Sway",
         "player": "Malachi Fields",
+        "position": "WR",
+        "slot": "BE",
+        "points": 0,
+        "started": false
+      },
+      {
+        "year": 2026,
+        "week": 3,
+        "team": "Kangaroo Bouncers",
+        "owner": "Sway",
+        "player": "Rashod Bateman",
         "position": "WR",
         "slot": "BE",
         "points": 0,
@@ -164511,17 +164533,6 @@
         "week": 3,
         "team": "13 BLOCK HIT-MEN",
         "owner": "Joseph",
-        "player": "Dominic Zvada",
-        "position": "K",
-        "slot": "K",
-        "points": 0,
-        "started": true
-      },
-      {
-        "year": 2026,
-        "week": 3,
-        "team": "13 BLOCK HIT-MEN",
-        "owner": "Joseph",
         "player": "Kayshon Boutte",
         "position": "WR",
         "slot": "BE",
@@ -164538,6 +164549,17 @@
         "slot": "BE",
         "points": 0,
         "started": false
+      },
+      {
+        "year": 2026,
+        "week": 3,
+        "team": "13 BLOCK HIT-MEN",
+        "owner": "Joseph",
+        "player": "Evan McPherson",
+        "position": "K",
+        "slot": "K",
+        "points": 0,
+        "started": true
       },
       {
         "year": 2026,
@@ -164975,9 +164997,9 @@
         "owner": "Jose",
         "player": "Rico Dowdle",
         "position": "RB",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -164997,9 +165019,9 @@
         "owner": "Jose",
         "player": "Quentin Johnston",
         "position": "WR",
-        "slot": "RB/WR/TE",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -165074,6 +165096,17 @@
         "owner": "Jose",
         "player": "Alvin Kamara",
         "position": "RB",
+        "slot": "IR",
+        "points": 0,
+        "started": false
+      },
+      {
+        "year": 2026,
+        "week": 3,
+        "team": "Kingdom Builders \ud83e\udd81",
+        "owner": "Jose",
+        "player": "Kyler Murray",
+        "position": "QB",
         "slot": "BE",
         "points": 0,
         "started": false
@@ -166174,7 +166207,7 @@
         "owner": "Sway",
         "player": "Kenneth Walker III",
         "position": "RB",
-        "slot": "RB/WR/TE",
+        "slot": "RB",
         "points": 0,
         "started": true
       },
@@ -166229,9 +166262,9 @@
         "owner": "Sway",
         "player": "Stefon Diggs",
         "position": "WR",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -166240,9 +166273,9 @@
         "owner": "Sway",
         "player": "Jonathon Brooks",
         "position": "RB",
-        "slot": "RB",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -166304,17 +166337,6 @@
         "week": 4,
         "team": "Kangaroo Bouncers",
         "owner": "Sway",
-        "player": "Tre' Harris",
-        "position": "WR",
-        "slot": "BE",
-        "points": 0,
-        "started": false
-      },
-      {
-        "year": 2026,
-        "week": 4,
-        "team": "Kangaroo Bouncers",
-        "owner": "Sway",
         "player": "Jonah Coleman",
         "position": "RB",
         "slot": "BE",
@@ -166327,6 +166349,17 @@
         "team": "Kangaroo Bouncers",
         "owner": "Sway",
         "player": "Malachi Fields",
+        "position": "WR",
+        "slot": "BE",
+        "points": 0,
+        "started": false
+      },
+      {
+        "year": 2026,
+        "week": 4,
+        "team": "Kangaroo Bouncers",
+        "owner": "Sway",
+        "player": "Rashod Bateman",
         "position": "WR",
         "slot": "BE",
         "points": 0,
@@ -166656,17 +166689,6 @@
         "week": 4,
         "team": "13 BLOCK HIT-MEN",
         "owner": "Joseph",
-        "player": "Dominic Zvada",
-        "position": "K",
-        "slot": "K",
-        "points": 0,
-        "started": true
-      },
-      {
-        "year": 2026,
-        "week": 4,
-        "team": "13 BLOCK HIT-MEN",
-        "owner": "Joseph",
         "player": "Kayshon Boutte",
         "position": "WR",
         "slot": "BE",
@@ -166683,6 +166705,17 @@
         "slot": "BE",
         "points": 0,
         "started": false
+      },
+      {
+        "year": 2026,
+        "week": 4,
+        "team": "13 BLOCK HIT-MEN",
+        "owner": "Joseph",
+        "player": "Evan McPherson",
+        "position": "K",
+        "slot": "K",
+        "points": 0,
+        "started": true
       },
       {
         "year": 2026,
@@ -167120,9 +167153,9 @@
         "owner": "Jose",
         "player": "Rico Dowdle",
         "position": "RB",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -167142,9 +167175,9 @@
         "owner": "Jose",
         "player": "Quentin Johnston",
         "position": "WR",
-        "slot": "RB/WR/TE",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -167219,6 +167252,17 @@
         "owner": "Jose",
         "player": "Alvin Kamara",
         "position": "RB",
+        "slot": "IR",
+        "points": 0,
+        "started": false
+      },
+      {
+        "year": 2026,
+        "week": 4,
+        "team": "Kingdom Builders \ud83e\udd81",
+        "owner": "Jose",
+        "player": "Kyler Murray",
+        "position": "QB",
         "slot": "BE",
         "points": 0,
         "started": false
@@ -168319,7 +168363,7 @@
         "owner": "Sway",
         "player": "Kenneth Walker III",
         "position": "RB",
-        "slot": "RB/WR/TE",
+        "slot": "RB",
         "points": 0,
         "started": true
       },
@@ -168374,9 +168418,9 @@
         "owner": "Sway",
         "player": "Stefon Diggs",
         "position": "WR",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -168385,9 +168429,9 @@
         "owner": "Sway",
         "player": "Jonathon Brooks",
         "position": "RB",
-        "slot": "RB",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -168449,17 +168493,6 @@
         "week": 5,
         "team": "Kangaroo Bouncers",
         "owner": "Sway",
-        "player": "Tre' Harris",
-        "position": "WR",
-        "slot": "BE",
-        "points": 0,
-        "started": false
-      },
-      {
-        "year": 2026,
-        "week": 5,
-        "team": "Kangaroo Bouncers",
-        "owner": "Sway",
         "player": "Jonah Coleman",
         "position": "RB",
         "slot": "BE",
@@ -168472,6 +168505,17 @@
         "team": "Kangaroo Bouncers",
         "owner": "Sway",
         "player": "Malachi Fields",
+        "position": "WR",
+        "slot": "BE",
+        "points": 0,
+        "started": false
+      },
+      {
+        "year": 2026,
+        "week": 5,
+        "team": "Kangaroo Bouncers",
+        "owner": "Sway",
+        "player": "Rashod Bateman",
         "position": "WR",
         "slot": "BE",
         "points": 0,
@@ -168801,17 +168845,6 @@
         "week": 5,
         "team": "13 BLOCK HIT-MEN",
         "owner": "Joseph",
-        "player": "Dominic Zvada",
-        "position": "K",
-        "slot": "K",
-        "points": 0,
-        "started": true
-      },
-      {
-        "year": 2026,
-        "week": 5,
-        "team": "13 BLOCK HIT-MEN",
-        "owner": "Joseph",
         "player": "Kayshon Boutte",
         "position": "WR",
         "slot": "BE",
@@ -168828,6 +168861,17 @@
         "slot": "BE",
         "points": 0,
         "started": false
+      },
+      {
+        "year": 2026,
+        "week": 5,
+        "team": "13 BLOCK HIT-MEN",
+        "owner": "Joseph",
+        "player": "Evan McPherson",
+        "position": "K",
+        "slot": "K",
+        "points": 0,
+        "started": true
       },
       {
         "year": 2026,
@@ -169265,9 +169309,9 @@
         "owner": "Jose",
         "player": "Rico Dowdle",
         "position": "RB",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -169287,9 +169331,9 @@
         "owner": "Jose",
         "player": "Quentin Johnston",
         "position": "WR",
-        "slot": "RB/WR/TE",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -169364,6 +169408,17 @@
         "owner": "Jose",
         "player": "Alvin Kamara",
         "position": "RB",
+        "slot": "IR",
+        "points": 0,
+        "started": false
+      },
+      {
+        "year": 2026,
+        "week": 5,
+        "team": "Kingdom Builders \ud83e\udd81",
+        "owner": "Jose",
+        "player": "Kyler Murray",
+        "position": "QB",
         "slot": "BE",
         "points": 0,
         "started": false
@@ -170464,7 +170519,7 @@
         "owner": "Sway",
         "player": "Kenneth Walker III",
         "position": "RB",
-        "slot": "RB/WR/TE",
+        "slot": "RB",
         "points": 0,
         "started": true
       },
@@ -170519,9 +170574,9 @@
         "owner": "Sway",
         "player": "Stefon Diggs",
         "position": "WR",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -170530,9 +170585,9 @@
         "owner": "Sway",
         "player": "Jonathon Brooks",
         "position": "RB",
-        "slot": "RB",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -170594,17 +170649,6 @@
         "week": 6,
         "team": "Kangaroo Bouncers",
         "owner": "Sway",
-        "player": "Tre' Harris",
-        "position": "WR",
-        "slot": "BE",
-        "points": 0,
-        "started": false
-      },
-      {
-        "year": 2026,
-        "week": 6,
-        "team": "Kangaroo Bouncers",
-        "owner": "Sway",
         "player": "Jonah Coleman",
         "position": "RB",
         "slot": "BE",
@@ -170617,6 +170661,17 @@
         "team": "Kangaroo Bouncers",
         "owner": "Sway",
         "player": "Malachi Fields",
+        "position": "WR",
+        "slot": "BE",
+        "points": 0,
+        "started": false
+      },
+      {
+        "year": 2026,
+        "week": 6,
+        "team": "Kangaroo Bouncers",
+        "owner": "Sway",
+        "player": "Rashod Bateman",
         "position": "WR",
         "slot": "BE",
         "points": 0,
@@ -170946,17 +171001,6 @@
         "week": 6,
         "team": "13 BLOCK HIT-MEN",
         "owner": "Joseph",
-        "player": "Dominic Zvada",
-        "position": "K",
-        "slot": "K",
-        "points": 0,
-        "started": true
-      },
-      {
-        "year": 2026,
-        "week": 6,
-        "team": "13 BLOCK HIT-MEN",
-        "owner": "Joseph",
         "player": "Kayshon Boutte",
         "position": "WR",
         "slot": "BE",
@@ -170973,6 +171017,17 @@
         "slot": "BE",
         "points": 0,
         "started": false
+      },
+      {
+        "year": 2026,
+        "week": 6,
+        "team": "13 BLOCK HIT-MEN",
+        "owner": "Joseph",
+        "player": "Evan McPherson",
+        "position": "K",
+        "slot": "K",
+        "points": 0,
+        "started": true
       },
       {
         "year": 2026,
@@ -171410,9 +171465,9 @@
         "owner": "Jose",
         "player": "Rico Dowdle",
         "position": "RB",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -171432,9 +171487,9 @@
         "owner": "Jose",
         "player": "Quentin Johnston",
         "position": "WR",
-        "slot": "RB/WR/TE",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -171509,6 +171564,17 @@
         "owner": "Jose",
         "player": "Alvin Kamara",
         "position": "RB",
+        "slot": "IR",
+        "points": 0,
+        "started": false
+      },
+      {
+        "year": 2026,
+        "week": 6,
+        "team": "Kingdom Builders \ud83e\udd81",
+        "owner": "Jose",
+        "player": "Kyler Murray",
+        "position": "QB",
         "slot": "BE",
         "points": 0,
         "started": false
@@ -172609,7 +172675,7 @@
         "owner": "Sway",
         "player": "Kenneth Walker III",
         "position": "RB",
-        "slot": "RB/WR/TE",
+        "slot": "RB",
         "points": 0,
         "started": true
       },
@@ -172664,9 +172730,9 @@
         "owner": "Sway",
         "player": "Stefon Diggs",
         "position": "WR",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -172675,9 +172741,9 @@
         "owner": "Sway",
         "player": "Jonathon Brooks",
         "position": "RB",
-        "slot": "RB",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -172739,17 +172805,6 @@
         "week": 7,
         "team": "Kangaroo Bouncers",
         "owner": "Sway",
-        "player": "Tre' Harris",
-        "position": "WR",
-        "slot": "BE",
-        "points": 0,
-        "started": false
-      },
-      {
-        "year": 2026,
-        "week": 7,
-        "team": "Kangaroo Bouncers",
-        "owner": "Sway",
         "player": "Jonah Coleman",
         "position": "RB",
         "slot": "BE",
@@ -172762,6 +172817,17 @@
         "team": "Kangaroo Bouncers",
         "owner": "Sway",
         "player": "Malachi Fields",
+        "position": "WR",
+        "slot": "BE",
+        "points": 0,
+        "started": false
+      },
+      {
+        "year": 2026,
+        "week": 7,
+        "team": "Kangaroo Bouncers",
+        "owner": "Sway",
+        "player": "Rashod Bateman",
         "position": "WR",
         "slot": "BE",
         "points": 0,
@@ -173091,17 +173157,6 @@
         "week": 7,
         "team": "13 BLOCK HIT-MEN",
         "owner": "Joseph",
-        "player": "Dominic Zvada",
-        "position": "K",
-        "slot": "K",
-        "points": 0,
-        "started": true
-      },
-      {
-        "year": 2026,
-        "week": 7,
-        "team": "13 BLOCK HIT-MEN",
-        "owner": "Joseph",
         "player": "Kayshon Boutte",
         "position": "WR",
         "slot": "BE",
@@ -173118,6 +173173,17 @@
         "slot": "BE",
         "points": 0,
         "started": false
+      },
+      {
+        "year": 2026,
+        "week": 7,
+        "team": "13 BLOCK HIT-MEN",
+        "owner": "Joseph",
+        "player": "Evan McPherson",
+        "position": "K",
+        "slot": "K",
+        "points": 0,
+        "started": true
       },
       {
         "year": 2026,
@@ -173555,9 +173621,9 @@
         "owner": "Jose",
         "player": "Rico Dowdle",
         "position": "RB",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -173577,9 +173643,9 @@
         "owner": "Jose",
         "player": "Quentin Johnston",
         "position": "WR",
-        "slot": "RB/WR/TE",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -173654,6 +173720,17 @@
         "owner": "Jose",
         "player": "Alvin Kamara",
         "position": "RB",
+        "slot": "IR",
+        "points": 0,
+        "started": false
+      },
+      {
+        "year": 2026,
+        "week": 7,
+        "team": "Kingdom Builders \ud83e\udd81",
+        "owner": "Jose",
+        "player": "Kyler Murray",
+        "position": "QB",
         "slot": "BE",
         "points": 0,
         "started": false
@@ -174754,7 +174831,7 @@
         "owner": "Sway",
         "player": "Kenneth Walker III",
         "position": "RB",
-        "slot": "RB/WR/TE",
+        "slot": "RB",
         "points": 0,
         "started": true
       },
@@ -174809,9 +174886,9 @@
         "owner": "Sway",
         "player": "Stefon Diggs",
         "position": "WR",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -174820,9 +174897,9 @@
         "owner": "Sway",
         "player": "Jonathon Brooks",
         "position": "RB",
-        "slot": "RB",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -174884,17 +174961,6 @@
         "week": 8,
         "team": "Kangaroo Bouncers",
         "owner": "Sway",
-        "player": "Tre' Harris",
-        "position": "WR",
-        "slot": "BE",
-        "points": 0,
-        "started": false
-      },
-      {
-        "year": 2026,
-        "week": 8,
-        "team": "Kangaroo Bouncers",
-        "owner": "Sway",
         "player": "Jonah Coleman",
         "position": "RB",
         "slot": "BE",
@@ -174907,6 +174973,17 @@
         "team": "Kangaroo Bouncers",
         "owner": "Sway",
         "player": "Malachi Fields",
+        "position": "WR",
+        "slot": "BE",
+        "points": 0,
+        "started": false
+      },
+      {
+        "year": 2026,
+        "week": 8,
+        "team": "Kangaroo Bouncers",
+        "owner": "Sway",
+        "player": "Rashod Bateman",
         "position": "WR",
         "slot": "BE",
         "points": 0,
@@ -175236,17 +175313,6 @@
         "week": 8,
         "team": "13 BLOCK HIT-MEN",
         "owner": "Joseph",
-        "player": "Dominic Zvada",
-        "position": "K",
-        "slot": "K",
-        "points": 0,
-        "started": true
-      },
-      {
-        "year": 2026,
-        "week": 8,
-        "team": "13 BLOCK HIT-MEN",
-        "owner": "Joseph",
         "player": "Kayshon Boutte",
         "position": "WR",
         "slot": "BE",
@@ -175263,6 +175329,17 @@
         "slot": "BE",
         "points": 0,
         "started": false
+      },
+      {
+        "year": 2026,
+        "week": 8,
+        "team": "13 BLOCK HIT-MEN",
+        "owner": "Joseph",
+        "player": "Evan McPherson",
+        "position": "K",
+        "slot": "K",
+        "points": 0,
+        "started": true
       },
       {
         "year": 2026,
@@ -175700,9 +175777,9 @@
         "owner": "Jose",
         "player": "Rico Dowdle",
         "position": "RB",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -175722,9 +175799,9 @@
         "owner": "Jose",
         "player": "Quentin Johnston",
         "position": "WR",
-        "slot": "RB/WR/TE",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -175799,6 +175876,17 @@
         "owner": "Jose",
         "player": "Alvin Kamara",
         "position": "RB",
+        "slot": "IR",
+        "points": 0,
+        "started": false
+      },
+      {
+        "year": 2026,
+        "week": 8,
+        "team": "Kingdom Builders \ud83e\udd81",
+        "owner": "Jose",
+        "player": "Kyler Murray",
+        "position": "QB",
         "slot": "BE",
         "points": 0,
         "started": false
@@ -176899,7 +176987,7 @@
         "owner": "Sway",
         "player": "Kenneth Walker III",
         "position": "RB",
-        "slot": "RB/WR/TE",
+        "slot": "RB",
         "points": 0,
         "started": true
       },
@@ -176954,9 +177042,9 @@
         "owner": "Sway",
         "player": "Stefon Diggs",
         "position": "WR",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -176965,9 +177053,9 @@
         "owner": "Sway",
         "player": "Jonathon Brooks",
         "position": "RB",
-        "slot": "RB",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -177029,17 +177117,6 @@
         "week": 9,
         "team": "Kangaroo Bouncers",
         "owner": "Sway",
-        "player": "Tre' Harris",
-        "position": "WR",
-        "slot": "BE",
-        "points": 0,
-        "started": false
-      },
-      {
-        "year": 2026,
-        "week": 9,
-        "team": "Kangaroo Bouncers",
-        "owner": "Sway",
         "player": "Jonah Coleman",
         "position": "RB",
         "slot": "BE",
@@ -177052,6 +177129,17 @@
         "team": "Kangaroo Bouncers",
         "owner": "Sway",
         "player": "Malachi Fields",
+        "position": "WR",
+        "slot": "BE",
+        "points": 0,
+        "started": false
+      },
+      {
+        "year": 2026,
+        "week": 9,
+        "team": "Kangaroo Bouncers",
+        "owner": "Sway",
+        "player": "Rashod Bateman",
         "position": "WR",
         "slot": "BE",
         "points": 0,
@@ -177381,17 +177469,6 @@
         "week": 9,
         "team": "13 BLOCK HIT-MEN",
         "owner": "Joseph",
-        "player": "Dominic Zvada",
-        "position": "K",
-        "slot": "K",
-        "points": 0,
-        "started": true
-      },
-      {
-        "year": 2026,
-        "week": 9,
-        "team": "13 BLOCK HIT-MEN",
-        "owner": "Joseph",
         "player": "Kayshon Boutte",
         "position": "WR",
         "slot": "BE",
@@ -177408,6 +177485,17 @@
         "slot": "BE",
         "points": 0,
         "started": false
+      },
+      {
+        "year": 2026,
+        "week": 9,
+        "team": "13 BLOCK HIT-MEN",
+        "owner": "Joseph",
+        "player": "Evan McPherson",
+        "position": "K",
+        "slot": "K",
+        "points": 0,
+        "started": true
       },
       {
         "year": 2026,
@@ -177845,9 +177933,9 @@
         "owner": "Jose",
         "player": "Rico Dowdle",
         "position": "RB",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -177867,9 +177955,9 @@
         "owner": "Jose",
         "player": "Quentin Johnston",
         "position": "WR",
-        "slot": "RB/WR/TE",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -177944,6 +178032,17 @@
         "owner": "Jose",
         "player": "Alvin Kamara",
         "position": "RB",
+        "slot": "IR",
+        "points": 0,
+        "started": false
+      },
+      {
+        "year": 2026,
+        "week": 9,
+        "team": "Kingdom Builders \ud83e\udd81",
+        "owner": "Jose",
+        "player": "Kyler Murray",
+        "position": "QB",
         "slot": "BE",
         "points": 0,
         "started": false
@@ -179044,7 +179143,7 @@
         "owner": "Sway",
         "player": "Kenneth Walker III",
         "position": "RB",
-        "slot": "RB/WR/TE",
+        "slot": "RB",
         "points": 0,
         "started": true
       },
@@ -179099,9 +179198,9 @@
         "owner": "Sway",
         "player": "Stefon Diggs",
         "position": "WR",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -179110,9 +179209,9 @@
         "owner": "Sway",
         "player": "Jonathon Brooks",
         "position": "RB",
-        "slot": "RB",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -179174,17 +179273,6 @@
         "week": 10,
         "team": "Kangaroo Bouncers",
         "owner": "Sway",
-        "player": "Tre' Harris",
-        "position": "WR",
-        "slot": "BE",
-        "points": 0,
-        "started": false
-      },
-      {
-        "year": 2026,
-        "week": 10,
-        "team": "Kangaroo Bouncers",
-        "owner": "Sway",
         "player": "Jonah Coleman",
         "position": "RB",
         "slot": "BE",
@@ -179197,6 +179285,17 @@
         "team": "Kangaroo Bouncers",
         "owner": "Sway",
         "player": "Malachi Fields",
+        "position": "WR",
+        "slot": "BE",
+        "points": 0,
+        "started": false
+      },
+      {
+        "year": 2026,
+        "week": 10,
+        "team": "Kangaroo Bouncers",
+        "owner": "Sway",
+        "player": "Rashod Bateman",
         "position": "WR",
         "slot": "BE",
         "points": 0,
@@ -179526,17 +179625,6 @@
         "week": 10,
         "team": "13 BLOCK HIT-MEN",
         "owner": "Joseph",
-        "player": "Dominic Zvada",
-        "position": "K",
-        "slot": "K",
-        "points": 0,
-        "started": true
-      },
-      {
-        "year": 2026,
-        "week": 10,
-        "team": "13 BLOCK HIT-MEN",
-        "owner": "Joseph",
         "player": "Kayshon Boutte",
         "position": "WR",
         "slot": "BE",
@@ -179553,6 +179641,17 @@
         "slot": "BE",
         "points": 0,
         "started": false
+      },
+      {
+        "year": 2026,
+        "week": 10,
+        "team": "13 BLOCK HIT-MEN",
+        "owner": "Joseph",
+        "player": "Evan McPherson",
+        "position": "K",
+        "slot": "K",
+        "points": 0,
+        "started": true
       },
       {
         "year": 2026,
@@ -179990,9 +180089,9 @@
         "owner": "Jose",
         "player": "Rico Dowdle",
         "position": "RB",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -180012,9 +180111,9 @@
         "owner": "Jose",
         "player": "Quentin Johnston",
         "position": "WR",
-        "slot": "RB/WR/TE",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -180089,6 +180188,17 @@
         "owner": "Jose",
         "player": "Alvin Kamara",
         "position": "RB",
+        "slot": "IR",
+        "points": 0,
+        "started": false
+      },
+      {
+        "year": 2026,
+        "week": 10,
+        "team": "Kingdom Builders \ud83e\udd81",
+        "owner": "Jose",
+        "player": "Kyler Murray",
+        "position": "QB",
         "slot": "BE",
         "points": 0,
         "started": false
@@ -181189,7 +181299,7 @@
         "owner": "Sway",
         "player": "Kenneth Walker III",
         "position": "RB",
-        "slot": "RB/WR/TE",
+        "slot": "RB",
         "points": 0,
         "started": true
       },
@@ -181244,9 +181354,9 @@
         "owner": "Sway",
         "player": "Stefon Diggs",
         "position": "WR",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -181255,9 +181365,9 @@
         "owner": "Sway",
         "player": "Jonathon Brooks",
         "position": "RB",
-        "slot": "RB",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -181319,17 +181429,6 @@
         "week": 11,
         "team": "Kangaroo Bouncers",
         "owner": "Sway",
-        "player": "Tre' Harris",
-        "position": "WR",
-        "slot": "BE",
-        "points": 0,
-        "started": false
-      },
-      {
-        "year": 2026,
-        "week": 11,
-        "team": "Kangaroo Bouncers",
-        "owner": "Sway",
         "player": "Jonah Coleman",
         "position": "RB",
         "slot": "BE",
@@ -181342,6 +181441,17 @@
         "team": "Kangaroo Bouncers",
         "owner": "Sway",
         "player": "Malachi Fields",
+        "position": "WR",
+        "slot": "BE",
+        "points": 0,
+        "started": false
+      },
+      {
+        "year": 2026,
+        "week": 11,
+        "team": "Kangaroo Bouncers",
+        "owner": "Sway",
+        "player": "Rashod Bateman",
         "position": "WR",
         "slot": "BE",
         "points": 0,
@@ -181671,17 +181781,6 @@
         "week": 11,
         "team": "13 BLOCK HIT-MEN",
         "owner": "Joseph",
-        "player": "Dominic Zvada",
-        "position": "K",
-        "slot": "K",
-        "points": 0,
-        "started": true
-      },
-      {
-        "year": 2026,
-        "week": 11,
-        "team": "13 BLOCK HIT-MEN",
-        "owner": "Joseph",
         "player": "Kayshon Boutte",
         "position": "WR",
         "slot": "BE",
@@ -181698,6 +181797,17 @@
         "slot": "BE",
         "points": 0,
         "started": false
+      },
+      {
+        "year": 2026,
+        "week": 11,
+        "team": "13 BLOCK HIT-MEN",
+        "owner": "Joseph",
+        "player": "Evan McPherson",
+        "position": "K",
+        "slot": "K",
+        "points": 0,
+        "started": true
       },
       {
         "year": 2026,
@@ -182135,9 +182245,9 @@
         "owner": "Jose",
         "player": "Rico Dowdle",
         "position": "RB",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -182157,9 +182267,9 @@
         "owner": "Jose",
         "player": "Quentin Johnston",
         "position": "WR",
-        "slot": "RB/WR/TE",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -182234,6 +182344,17 @@
         "owner": "Jose",
         "player": "Alvin Kamara",
         "position": "RB",
+        "slot": "IR",
+        "points": 0,
+        "started": false
+      },
+      {
+        "year": 2026,
+        "week": 11,
+        "team": "Kingdom Builders \ud83e\udd81",
+        "owner": "Jose",
+        "player": "Kyler Murray",
+        "position": "QB",
         "slot": "BE",
         "points": 0,
         "started": false
@@ -183334,7 +183455,7 @@
         "owner": "Sway",
         "player": "Kenneth Walker III",
         "position": "RB",
-        "slot": "RB/WR/TE",
+        "slot": "RB",
         "points": 0,
         "started": true
       },
@@ -183389,9 +183510,9 @@
         "owner": "Sway",
         "player": "Stefon Diggs",
         "position": "WR",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -183400,9 +183521,9 @@
         "owner": "Sway",
         "player": "Jonathon Brooks",
         "position": "RB",
-        "slot": "RB",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -183464,17 +183585,6 @@
         "week": 12,
         "team": "Kangaroo Bouncers",
         "owner": "Sway",
-        "player": "Tre' Harris",
-        "position": "WR",
-        "slot": "BE",
-        "points": 0,
-        "started": false
-      },
-      {
-        "year": 2026,
-        "week": 12,
-        "team": "Kangaroo Bouncers",
-        "owner": "Sway",
         "player": "Jonah Coleman",
         "position": "RB",
         "slot": "BE",
@@ -183487,6 +183597,17 @@
         "team": "Kangaroo Bouncers",
         "owner": "Sway",
         "player": "Malachi Fields",
+        "position": "WR",
+        "slot": "BE",
+        "points": 0,
+        "started": false
+      },
+      {
+        "year": 2026,
+        "week": 12,
+        "team": "Kangaroo Bouncers",
+        "owner": "Sway",
+        "player": "Rashod Bateman",
         "position": "WR",
         "slot": "BE",
         "points": 0,
@@ -183816,17 +183937,6 @@
         "week": 12,
         "team": "13 BLOCK HIT-MEN",
         "owner": "Joseph",
-        "player": "Dominic Zvada",
-        "position": "K",
-        "slot": "K",
-        "points": 0,
-        "started": true
-      },
-      {
-        "year": 2026,
-        "week": 12,
-        "team": "13 BLOCK HIT-MEN",
-        "owner": "Joseph",
         "player": "Kayshon Boutte",
         "position": "WR",
         "slot": "BE",
@@ -183843,6 +183953,17 @@
         "slot": "BE",
         "points": 0,
         "started": false
+      },
+      {
+        "year": 2026,
+        "week": 12,
+        "team": "13 BLOCK HIT-MEN",
+        "owner": "Joseph",
+        "player": "Evan McPherson",
+        "position": "K",
+        "slot": "K",
+        "points": 0,
+        "started": true
       },
       {
         "year": 2026,
@@ -184280,9 +184401,9 @@
         "owner": "Jose",
         "player": "Rico Dowdle",
         "position": "RB",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -184302,9 +184423,9 @@
         "owner": "Jose",
         "player": "Quentin Johnston",
         "position": "WR",
-        "slot": "RB/WR/TE",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -184379,6 +184500,17 @@
         "owner": "Jose",
         "player": "Alvin Kamara",
         "position": "RB",
+        "slot": "IR",
+        "points": 0,
+        "started": false
+      },
+      {
+        "year": 2026,
+        "week": 12,
+        "team": "Kingdom Builders \ud83e\udd81",
+        "owner": "Jose",
+        "player": "Kyler Murray",
+        "position": "QB",
         "slot": "BE",
         "points": 0,
         "started": false
@@ -185479,7 +185611,7 @@
         "owner": "Sway",
         "player": "Kenneth Walker III",
         "position": "RB",
-        "slot": "RB/WR/TE",
+        "slot": "RB",
         "points": 0,
         "started": true
       },
@@ -185534,9 +185666,9 @@
         "owner": "Sway",
         "player": "Stefon Diggs",
         "position": "WR",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -185545,9 +185677,9 @@
         "owner": "Sway",
         "player": "Jonathon Brooks",
         "position": "RB",
-        "slot": "RB",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -185609,17 +185741,6 @@
         "week": 13,
         "team": "Kangaroo Bouncers",
         "owner": "Sway",
-        "player": "Tre' Harris",
-        "position": "WR",
-        "slot": "BE",
-        "points": 0,
-        "started": false
-      },
-      {
-        "year": 2026,
-        "week": 13,
-        "team": "Kangaroo Bouncers",
-        "owner": "Sway",
         "player": "Jonah Coleman",
         "position": "RB",
         "slot": "BE",
@@ -185632,6 +185753,17 @@
         "team": "Kangaroo Bouncers",
         "owner": "Sway",
         "player": "Malachi Fields",
+        "position": "WR",
+        "slot": "BE",
+        "points": 0,
+        "started": false
+      },
+      {
+        "year": 2026,
+        "week": 13,
+        "team": "Kangaroo Bouncers",
+        "owner": "Sway",
+        "player": "Rashod Bateman",
         "position": "WR",
         "slot": "BE",
         "points": 0,
@@ -185961,17 +186093,6 @@
         "week": 13,
         "team": "13 BLOCK HIT-MEN",
         "owner": "Joseph",
-        "player": "Dominic Zvada",
-        "position": "K",
-        "slot": "K",
-        "points": 0,
-        "started": true
-      },
-      {
-        "year": 2026,
-        "week": 13,
-        "team": "13 BLOCK HIT-MEN",
-        "owner": "Joseph",
         "player": "Kayshon Boutte",
         "position": "WR",
         "slot": "BE",
@@ -185988,6 +186109,17 @@
         "slot": "BE",
         "points": 0,
         "started": false
+      },
+      {
+        "year": 2026,
+        "week": 13,
+        "team": "13 BLOCK HIT-MEN",
+        "owner": "Joseph",
+        "player": "Evan McPherson",
+        "position": "K",
+        "slot": "K",
+        "points": 0,
+        "started": true
       },
       {
         "year": 2026,
@@ -186425,9 +186557,9 @@
         "owner": "Jose",
         "player": "Rico Dowdle",
         "position": "RB",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -186447,9 +186579,9 @@
         "owner": "Jose",
         "player": "Quentin Johnston",
         "position": "WR",
-        "slot": "RB/WR/TE",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -186524,6 +186656,17 @@
         "owner": "Jose",
         "player": "Alvin Kamara",
         "position": "RB",
+        "slot": "IR",
+        "points": 0,
+        "started": false
+      },
+      {
+        "year": 2026,
+        "week": 13,
+        "team": "Kingdom Builders \ud83e\udd81",
+        "owner": "Jose",
+        "player": "Kyler Murray",
+        "position": "QB",
         "slot": "BE",
         "points": 0,
         "started": false
@@ -187624,7 +187767,7 @@
         "owner": "Sway",
         "player": "Kenneth Walker III",
         "position": "RB",
-        "slot": "RB/WR/TE",
+        "slot": "RB",
         "points": 0,
         "started": true
       },
@@ -187679,9 +187822,9 @@
         "owner": "Sway",
         "player": "Stefon Diggs",
         "position": "WR",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -187690,9 +187833,9 @@
         "owner": "Sway",
         "player": "Jonathon Brooks",
         "position": "RB",
-        "slot": "RB",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -187754,17 +187897,6 @@
         "week": 14,
         "team": "Kangaroo Bouncers",
         "owner": "Sway",
-        "player": "Tre' Harris",
-        "position": "WR",
-        "slot": "BE",
-        "points": 0,
-        "started": false
-      },
-      {
-        "year": 2026,
-        "week": 14,
-        "team": "Kangaroo Bouncers",
-        "owner": "Sway",
         "player": "Jonah Coleman",
         "position": "RB",
         "slot": "BE",
@@ -187777,6 +187909,17 @@
         "team": "Kangaroo Bouncers",
         "owner": "Sway",
         "player": "Malachi Fields",
+        "position": "WR",
+        "slot": "BE",
+        "points": 0,
+        "started": false
+      },
+      {
+        "year": 2026,
+        "week": 14,
+        "team": "Kangaroo Bouncers",
+        "owner": "Sway",
+        "player": "Rashod Bateman",
         "position": "WR",
         "slot": "BE",
         "points": 0,
@@ -188106,17 +188249,6 @@
         "week": 14,
         "team": "13 BLOCK HIT-MEN",
         "owner": "Joseph",
-        "player": "Dominic Zvada",
-        "position": "K",
-        "slot": "K",
-        "points": 0,
-        "started": true
-      },
-      {
-        "year": 2026,
-        "week": 14,
-        "team": "13 BLOCK HIT-MEN",
-        "owner": "Joseph",
         "player": "Kayshon Boutte",
         "position": "WR",
         "slot": "BE",
@@ -188133,6 +188265,17 @@
         "slot": "BE",
         "points": 0,
         "started": false
+      },
+      {
+        "year": 2026,
+        "week": 14,
+        "team": "13 BLOCK HIT-MEN",
+        "owner": "Joseph",
+        "player": "Evan McPherson",
+        "position": "K",
+        "slot": "K",
+        "points": 0,
+        "started": true
       },
       {
         "year": 2026,
@@ -188570,9 +188713,9 @@
         "owner": "Jose",
         "player": "Rico Dowdle",
         "position": "RB",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -188592,9 +188735,9 @@
         "owner": "Jose",
         "player": "Quentin Johnston",
         "position": "WR",
-        "slot": "RB/WR/TE",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -188669,6 +188812,17 @@
         "owner": "Jose",
         "player": "Alvin Kamara",
         "position": "RB",
+        "slot": "IR",
+        "points": 0,
+        "started": false
+      },
+      {
+        "year": 2026,
+        "week": 14,
+        "team": "Kingdom Builders \ud83e\udd81",
+        "owner": "Jose",
+        "player": "Kyler Murray",
+        "position": "QB",
         "slot": "BE",
         "points": 0,
         "started": false
@@ -189769,7 +189923,7 @@
         "owner": "Sway",
         "player": "Kenneth Walker III",
         "position": "RB",
-        "slot": "RB/WR/TE",
+        "slot": "RB",
         "points": 0,
         "started": true
       },
@@ -189824,9 +189978,9 @@
         "owner": "Sway",
         "player": "Stefon Diggs",
         "position": "WR",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -189835,9 +189989,9 @@
         "owner": "Sway",
         "player": "Jonathon Brooks",
         "position": "RB",
-        "slot": "RB",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -189899,17 +190053,6 @@
         "week": 15,
         "team": "Kangaroo Bouncers",
         "owner": "Sway",
-        "player": "Tre' Harris",
-        "position": "WR",
-        "slot": "BE",
-        "points": 0,
-        "started": false
-      },
-      {
-        "year": 2026,
-        "week": 15,
-        "team": "Kangaroo Bouncers",
-        "owner": "Sway",
         "player": "Jonah Coleman",
         "position": "RB",
         "slot": "BE",
@@ -189922,6 +190065,17 @@
         "team": "Kangaroo Bouncers",
         "owner": "Sway",
         "player": "Malachi Fields",
+        "position": "WR",
+        "slot": "BE",
+        "points": 0,
+        "started": false
+      },
+      {
+        "year": 2026,
+        "week": 15,
+        "team": "Kangaroo Bouncers",
+        "owner": "Sway",
+        "player": "Rashod Bateman",
         "position": "WR",
         "slot": "BE",
         "points": 0,
@@ -190251,17 +190405,6 @@
         "week": 15,
         "team": "13 BLOCK HIT-MEN",
         "owner": "Joseph",
-        "player": "Dominic Zvada",
-        "position": "K",
-        "slot": "K",
-        "points": 0,
-        "started": true
-      },
-      {
-        "year": 2026,
-        "week": 15,
-        "team": "13 BLOCK HIT-MEN",
-        "owner": "Joseph",
         "player": "Kayshon Boutte",
         "position": "WR",
         "slot": "BE",
@@ -190278,6 +190421,17 @@
         "slot": "BE",
         "points": 0,
         "started": false
+      },
+      {
+        "year": 2026,
+        "week": 15,
+        "team": "13 BLOCK HIT-MEN",
+        "owner": "Joseph",
+        "player": "Evan McPherson",
+        "position": "K",
+        "slot": "K",
+        "points": 0,
+        "started": true
       },
       {
         "year": 2026,
@@ -190715,9 +190869,9 @@
         "owner": "Jose",
         "player": "Rico Dowdle",
         "position": "RB",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -190737,9 +190891,9 @@
         "owner": "Jose",
         "player": "Quentin Johnston",
         "position": "WR",
-        "slot": "RB/WR/TE",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -190814,6 +190968,17 @@
         "owner": "Jose",
         "player": "Alvin Kamara",
         "position": "RB",
+        "slot": "IR",
+        "points": 0,
+        "started": false
+      },
+      {
+        "year": 2026,
+        "week": 15,
+        "team": "Kingdom Builders \ud83e\udd81",
+        "owner": "Jose",
+        "player": "Kyler Murray",
+        "position": "QB",
         "slot": "BE",
         "points": 0,
         "started": false
@@ -191914,7 +192079,7 @@
         "owner": "Sway",
         "player": "Kenneth Walker III",
         "position": "RB",
-        "slot": "RB/WR/TE",
+        "slot": "RB",
         "points": 0,
         "started": true
       },
@@ -191969,9 +192134,9 @@
         "owner": "Sway",
         "player": "Stefon Diggs",
         "position": "WR",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -191980,9 +192145,9 @@
         "owner": "Sway",
         "player": "Jonathon Brooks",
         "position": "RB",
-        "slot": "RB",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -192044,17 +192209,6 @@
         "week": 16,
         "team": "Kangaroo Bouncers",
         "owner": "Sway",
-        "player": "Tre' Harris",
-        "position": "WR",
-        "slot": "BE",
-        "points": 0,
-        "started": false
-      },
-      {
-        "year": 2026,
-        "week": 16,
-        "team": "Kangaroo Bouncers",
-        "owner": "Sway",
         "player": "Jonah Coleman",
         "position": "RB",
         "slot": "BE",
@@ -192067,6 +192221,17 @@
         "team": "Kangaroo Bouncers",
         "owner": "Sway",
         "player": "Malachi Fields",
+        "position": "WR",
+        "slot": "BE",
+        "points": 0,
+        "started": false
+      },
+      {
+        "year": 2026,
+        "week": 16,
+        "team": "Kangaroo Bouncers",
+        "owner": "Sway",
+        "player": "Rashod Bateman",
         "position": "WR",
         "slot": "BE",
         "points": 0,
@@ -192396,17 +192561,6 @@
         "week": 16,
         "team": "13 BLOCK HIT-MEN",
         "owner": "Joseph",
-        "player": "Dominic Zvada",
-        "position": "K",
-        "slot": "K",
-        "points": 0,
-        "started": true
-      },
-      {
-        "year": 2026,
-        "week": 16,
-        "team": "13 BLOCK HIT-MEN",
-        "owner": "Joseph",
         "player": "Kayshon Boutte",
         "position": "WR",
         "slot": "BE",
@@ -192423,6 +192577,17 @@
         "slot": "BE",
         "points": 0,
         "started": false
+      },
+      {
+        "year": 2026,
+        "week": 16,
+        "team": "13 BLOCK HIT-MEN",
+        "owner": "Joseph",
+        "player": "Evan McPherson",
+        "position": "K",
+        "slot": "K",
+        "points": 0,
+        "started": true
       },
       {
         "year": 2026,
@@ -192860,9 +193025,9 @@
         "owner": "Jose",
         "player": "Rico Dowdle",
         "position": "RB",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -192882,9 +193047,9 @@
         "owner": "Jose",
         "player": "Quentin Johnston",
         "position": "WR",
-        "slot": "RB/WR/TE",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -192959,6 +193124,17 @@
         "owner": "Jose",
         "player": "Alvin Kamara",
         "position": "RB",
+        "slot": "IR",
+        "points": 0,
+        "started": false
+      },
+      {
+        "year": 2026,
+        "week": 16,
+        "team": "Kingdom Builders \ud83e\udd81",
+        "owner": "Jose",
+        "player": "Kyler Murray",
+        "position": "QB",
         "slot": "BE",
         "points": 0,
         "started": false
@@ -194059,7 +194235,7 @@
         "owner": "Sway",
         "player": "Kenneth Walker III",
         "position": "RB",
-        "slot": "RB/WR/TE",
+        "slot": "RB",
         "points": 0,
         "started": true
       },
@@ -194114,9 +194290,9 @@
         "owner": "Sway",
         "player": "Stefon Diggs",
         "position": "WR",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -194125,9 +194301,9 @@
         "owner": "Sway",
         "player": "Jonathon Brooks",
         "position": "RB",
-        "slot": "RB",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -194189,17 +194365,6 @@
         "week": 17,
         "team": "Kangaroo Bouncers",
         "owner": "Sway",
-        "player": "Tre' Harris",
-        "position": "WR",
-        "slot": "BE",
-        "points": 0,
-        "started": false
-      },
-      {
-        "year": 2026,
-        "week": 17,
-        "team": "Kangaroo Bouncers",
-        "owner": "Sway",
         "player": "Jonah Coleman",
         "position": "RB",
         "slot": "BE",
@@ -194212,6 +194377,17 @@
         "team": "Kangaroo Bouncers",
         "owner": "Sway",
         "player": "Malachi Fields",
+        "position": "WR",
+        "slot": "BE",
+        "points": 0,
+        "started": false
+      },
+      {
+        "year": 2026,
+        "week": 17,
+        "team": "Kangaroo Bouncers",
+        "owner": "Sway",
+        "player": "Rashod Bateman",
         "position": "WR",
         "slot": "BE",
         "points": 0,
@@ -194541,17 +194717,6 @@
         "week": 17,
         "team": "13 BLOCK HIT-MEN",
         "owner": "Joseph",
-        "player": "Dominic Zvada",
-        "position": "K",
-        "slot": "K",
-        "points": 0,
-        "started": true
-      },
-      {
-        "year": 2026,
-        "week": 17,
-        "team": "13 BLOCK HIT-MEN",
-        "owner": "Joseph",
         "player": "Kayshon Boutte",
         "position": "WR",
         "slot": "BE",
@@ -194568,6 +194733,17 @@
         "slot": "BE",
         "points": 0,
         "started": false
+      },
+      {
+        "year": 2026,
+        "week": 17,
+        "team": "13 BLOCK HIT-MEN",
+        "owner": "Joseph",
+        "player": "Evan McPherson",
+        "position": "K",
+        "slot": "K",
+        "points": 0,
+        "started": true
       },
       {
         "year": 2026,
@@ -195005,9 +195181,9 @@
         "owner": "Jose",
         "player": "Rico Dowdle",
         "position": "RB",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -195027,9 +195203,9 @@
         "owner": "Jose",
         "player": "Quentin Johnston",
         "position": "WR",
-        "slot": "RB/WR/TE",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -195104,6 +195280,17 @@
         "owner": "Jose",
         "player": "Alvin Kamara",
         "position": "RB",
+        "slot": "IR",
+        "points": 0,
+        "started": false
+      },
+      {
+        "year": 2026,
+        "week": 17,
+        "team": "Kingdom Builders \ud83e\udd81",
+        "owner": "Jose",
+        "player": "Kyler Murray",
+        "position": "QB",
         "slot": "BE",
         "points": 0,
         "started": false
