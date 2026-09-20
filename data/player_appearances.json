@@ -150310,9 +150310,9 @@
     "owner": "Jose",
     "player": "Chris Olave",
     "position": "WR",
-    "slot": "BE",
+    "slot": "WR",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -150365,9 +150365,9 @@
     "owner": "Jose",
     "player": "Romeo Doubs",
     "position": "WR",
-    "slot": "WR",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -150398,9 +150398,9 @@
     "owner": "Jose",
     "player": "Broncos D/ST",
     "position": "D/ST",
-    "slot": "D/ST",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -150462,11 +150462,11 @@
     "week": 2,
     "team": "Kingdom Builders \ud83e\udd81",
     "owner": "Jose",
-    "player": "Matthew Stafford",
-    "position": "QB",
-    "slot": "BE",
+    "player": "Bengals D/ST",
+    "position": "D/ST",
+    "slot": "D/ST",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -150893,7 +150893,7 @@
     "owner": "Sway",
     "player": "Zay Flowers",
     "position": "WR",
-    "slot": "BE",
+    "slot": "IR",
     "points": 0,
     "started": false
   },
@@ -151036,6 +151036,17 @@
     "owner": "Sway",
     "player": "George Holani",
     "position": "RB",
+    "slot": "BE",
+    "points": 0,
+    "started": false
+  },
+  {
+    "year": 2026,
+    "week": 2,
+    "team": "Kangaroo Bouncers",
+    "owner": "Sway",
+    "player": "Kayshon Boutte",
+    "position": "WR",
     "slot": "BE",
     "points": 0,
     "started": false
@@ -151300,9 +151311,9 @@
     "owner": "Michael",
     "player": "Michael Pittman Jr.",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -151333,9 +151344,9 @@
     "owner": "Michael",
     "player": "Dallas Goedert",
     "position": "TE",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -151476,9 +151487,9 @@
     "owner": "Joseph",
     "player": "J.K. Dobbins",
     "position": "RB",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -151498,9 +151509,9 @@
     "owner": "Joseph",
     "player": "Jake Ferguson",
     "position": "TE",
-    "slot": "TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -151520,9 +151531,9 @@
     "owner": "Joseph",
     "player": "Juwan Johnson",
     "position": "TE",
-    "slot": "BE",
+    "slot": "TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -151564,9 +151575,9 @@
     "owner": "Joseph",
     "player": "Rashod Bateman",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -152147,9 +152158,9 @@
     "owner": "Jose",
     "player": "Chris Olave",
     "position": "WR",
-    "slot": "BE",
+    "slot": "WR",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -152202,9 +152213,9 @@
     "owner": "Jose",
     "player": "Romeo Doubs",
     "position": "WR",
-    "slot": "WR",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -152235,9 +152246,9 @@
     "owner": "Jose",
     "player": "Broncos D/ST",
     "position": "D/ST",
-    "slot": "D/ST",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -152299,11 +152310,11 @@
     "week": 3,
     "team": "Kingdom Builders \ud83e\udd81",
     "owner": "Jose",
-    "player": "Matthew Stafford",
-    "position": "QB",
-    "slot": "BE",
+    "player": "Bengals D/ST",
+    "position": "D/ST",
+    "slot": "D/ST",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -152730,7 +152741,7 @@
     "owner": "Sway",
     "player": "Zay Flowers",
     "position": "WR",
-    "slot": "BE",
+    "slot": "IR",
     "points": 0,
     "started": false
   },
@@ -152873,6 +152884,17 @@
     "owner": "Sway",
     "player": "George Holani",
     "position": "RB",
+    "slot": "BE",
+    "points": 0,
+    "started": false
+  },
+  {
+    "year": 2026,
+    "week": 3,
+    "team": "Kangaroo Bouncers",
+    "owner": "Sway",
+    "player": "Kayshon Boutte",
+    "position": "WR",
     "slot": "BE",
     "points": 0,
     "started": false
@@ -153137,9 +153159,9 @@
     "owner": "Michael",
     "player": "Michael Pittman Jr.",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -153170,9 +153192,9 @@
     "owner": "Michael",
     "player": "Dallas Goedert",
     "position": "TE",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -153313,9 +153335,9 @@
     "owner": "Joseph",
     "player": "J.K. Dobbins",
     "position": "RB",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -153335,9 +153357,9 @@
     "owner": "Joseph",
     "player": "Jake Ferguson",
     "position": "TE",
-    "slot": "TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -153357,9 +153379,9 @@
     "owner": "Joseph",
     "player": "Juwan Johnson",
     "position": "TE",
-    "slot": "BE",
+    "slot": "TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -153401,9 +153423,9 @@
     "owner": "Joseph",
     "player": "Rashod Bateman",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -153984,9 +154006,9 @@
     "owner": "Jose",
     "player": "Chris Olave",
     "position": "WR",
-    "slot": "BE",
+    "slot": "WR",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -154039,9 +154061,9 @@
     "owner": "Jose",
     "player": "Romeo Doubs",
     "position": "WR",
-    "slot": "WR",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -154072,9 +154094,9 @@
     "owner": "Jose",
     "player": "Broncos D/ST",
     "position": "D/ST",
-    "slot": "D/ST",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -154136,11 +154158,11 @@
     "week": 4,
     "team": "Kingdom Builders \ud83e\udd81",
     "owner": "Jose",
-    "player": "Matthew Stafford",
-    "position": "QB",
-    "slot": "BE",
+    "player": "Bengals D/ST",
+    "position": "D/ST",
+    "slot": "D/ST",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -154567,7 +154589,7 @@
     "owner": "Sway",
     "player": "Zay Flowers",
     "position": "WR",
-    "slot": "BE",
+    "slot": "IR",
     "points": 0,
     "started": false
   },
@@ -154710,6 +154732,17 @@
     "owner": "Sway",
     "player": "George Holani",
     "position": "RB",
+    "slot": "BE",
+    "points": 0,
+    "started": false
+  },
+  {
+    "year": 2026,
+    "week": 4,
+    "team": "Kangaroo Bouncers",
+    "owner": "Sway",
+    "player": "Kayshon Boutte",
+    "position": "WR",
     "slot": "BE",
     "points": 0,
     "started": false
@@ -154974,9 +155007,9 @@
     "owner": "Michael",
     "player": "Michael Pittman Jr.",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -155007,9 +155040,9 @@
     "owner": "Michael",
     "player": "Dallas Goedert",
     "position": "TE",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -155150,9 +155183,9 @@
     "owner": "Joseph",
     "player": "J.K. Dobbins",
     "position": "RB",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -155172,9 +155205,9 @@
     "owner": "Joseph",
     "player": "Jake Ferguson",
     "position": "TE",
-    "slot": "TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -155194,9 +155227,9 @@
     "owner": "Joseph",
     "player": "Juwan Johnson",
     "position": "TE",
-    "slot": "BE",
+    "slot": "TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -155238,9 +155271,9 @@
     "owner": "Joseph",
     "player": "Rashod Bateman",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -155821,9 +155854,9 @@
     "owner": "Jose",
     "player": "Chris Olave",
     "position": "WR",
-    "slot": "BE",
+    "slot": "WR",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -155876,9 +155909,9 @@
     "owner": "Jose",
     "player": "Romeo Doubs",
     "position": "WR",
-    "slot": "WR",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -155909,9 +155942,9 @@
     "owner": "Jose",
     "player": "Broncos D/ST",
     "position": "D/ST",
-    "slot": "D/ST",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -155973,11 +156006,11 @@
     "week": 5,
     "team": "Kingdom Builders \ud83e\udd81",
     "owner": "Jose",
-    "player": "Matthew Stafford",
-    "position": "QB",
-    "slot": "BE",
+    "player": "Bengals D/ST",
+    "position": "D/ST",
+    "slot": "D/ST",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -156404,7 +156437,7 @@
     "owner": "Sway",
     "player": "Zay Flowers",
     "position": "WR",
-    "slot": "BE",
+    "slot": "IR",
     "points": 0,
     "started": false
   },
@@ -156547,6 +156580,17 @@
     "owner": "Sway",
     "player": "George Holani",
     "position": "RB",
+    "slot": "BE",
+    "points": 0,
+    "started": false
+  },
+  {
+    "year": 2026,
+    "week": 5,
+    "team": "Kangaroo Bouncers",
+    "owner": "Sway",
+    "player": "Kayshon Boutte",
+    "position": "WR",
     "slot": "BE",
     "points": 0,
     "started": false
@@ -156811,9 +156855,9 @@
     "owner": "Michael",
     "player": "Michael Pittman Jr.",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -156844,9 +156888,9 @@
     "owner": "Michael",
     "player": "Dallas Goedert",
     "position": "TE",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -156987,9 +157031,9 @@
     "owner": "Joseph",
     "player": "J.K. Dobbins",
     "position": "RB",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -157009,9 +157053,9 @@
     "owner": "Joseph",
     "player": "Jake Ferguson",
     "position": "TE",
-    "slot": "TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -157031,9 +157075,9 @@
     "owner": "Joseph",
     "player": "Juwan Johnson",
     "position": "TE",
-    "slot": "BE",
+    "slot": "TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -157075,9 +157119,9 @@
     "owner": "Joseph",
     "player": "Rashod Bateman",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -157658,9 +157702,9 @@
     "owner": "Jose",
     "player": "Chris Olave",
     "position": "WR",
-    "slot": "BE",
+    "slot": "WR",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -157713,9 +157757,9 @@
     "owner": "Jose",
     "player": "Romeo Doubs",
     "position": "WR",
-    "slot": "WR",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -157746,9 +157790,9 @@
     "owner": "Jose",
     "player": "Broncos D/ST",
     "position": "D/ST",
-    "slot": "D/ST",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -157810,11 +157854,11 @@
     "week": 6,
     "team": "Kingdom Builders \ud83e\udd81",
     "owner": "Jose",
-    "player": "Matthew Stafford",
-    "position": "QB",
-    "slot": "BE",
+    "player": "Bengals D/ST",
+    "position": "D/ST",
+    "slot": "D/ST",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -158241,7 +158285,7 @@
     "owner": "Sway",
     "player": "Zay Flowers",
     "position": "WR",
-    "slot": "BE",
+    "slot": "IR",
     "points": 0,
     "started": false
   },
@@ -158384,6 +158428,17 @@
     "owner": "Sway",
     "player": "George Holani",
     "position": "RB",
+    "slot": "BE",
+    "points": 0,
+    "started": false
+  },
+  {
+    "year": 2026,
+    "week": 6,
+    "team": "Kangaroo Bouncers",
+    "owner": "Sway",
+    "player": "Kayshon Boutte",
+    "position": "WR",
     "slot": "BE",
     "points": 0,
     "started": false
@@ -158648,9 +158703,9 @@
     "owner": "Michael",
     "player": "Michael Pittman Jr.",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -158681,9 +158736,9 @@
     "owner": "Michael",
     "player": "Dallas Goedert",
     "position": "TE",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -158824,9 +158879,9 @@
     "owner": "Joseph",
     "player": "J.K. Dobbins",
     "position": "RB",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -158846,9 +158901,9 @@
     "owner": "Joseph",
     "player": "Jake Ferguson",
     "position": "TE",
-    "slot": "TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -158868,9 +158923,9 @@
     "owner": "Joseph",
     "player": "Juwan Johnson",
     "position": "TE",
-    "slot": "BE",
+    "slot": "TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -158912,9 +158967,9 @@
     "owner": "Joseph",
     "player": "Rashod Bateman",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -159495,9 +159550,9 @@
     "owner": "Jose",
     "player": "Chris Olave",
     "position": "WR",
-    "slot": "BE",
+    "slot": "WR",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -159550,9 +159605,9 @@
     "owner": "Jose",
     "player": "Romeo Doubs",
     "position": "WR",
-    "slot": "WR",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -159583,9 +159638,9 @@
     "owner": "Jose",
     "player": "Broncos D/ST",
     "position": "D/ST",
-    "slot": "D/ST",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -159647,11 +159702,11 @@
     "week": 7,
     "team": "Kingdom Builders \ud83e\udd81",
     "owner": "Jose",
-    "player": "Matthew Stafford",
-    "position": "QB",
-    "slot": "BE",
+    "player": "Bengals D/ST",
+    "position": "D/ST",
+    "slot": "D/ST",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -160078,7 +160133,7 @@
     "owner": "Sway",
     "player": "Zay Flowers",
     "position": "WR",
-    "slot": "BE",
+    "slot": "IR",
     "points": 0,
     "started": false
   },
@@ -160221,6 +160276,17 @@
     "owner": "Sway",
     "player": "George Holani",
     "position": "RB",
+    "slot": "BE",
+    "points": 0,
+    "started": false
+  },
+  {
+    "year": 2026,
+    "week": 7,
+    "team": "Kangaroo Bouncers",
+    "owner": "Sway",
+    "player": "Kayshon Boutte",
+    "position": "WR",
     "slot": "BE",
     "points": 0,
     "started": false
@@ -160485,9 +160551,9 @@
     "owner": "Michael",
     "player": "Michael Pittman Jr.",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -160518,9 +160584,9 @@
     "owner": "Michael",
     "player": "Dallas Goedert",
     "position": "TE",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -160661,9 +160727,9 @@
     "owner": "Joseph",
     "player": "J.K. Dobbins",
     "position": "RB",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -160683,9 +160749,9 @@
     "owner": "Joseph",
     "player": "Jake Ferguson",
     "position": "TE",
-    "slot": "TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -160705,9 +160771,9 @@
     "owner": "Joseph",
     "player": "Juwan Johnson",
     "position": "TE",
-    "slot": "BE",
+    "slot": "TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -160749,9 +160815,9 @@
     "owner": "Joseph",
     "player": "Rashod Bateman",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -161332,9 +161398,9 @@
     "owner": "Jose",
     "player": "Chris Olave",
     "position": "WR",
-    "slot": "BE",
+    "slot": "WR",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -161387,9 +161453,9 @@
     "owner": "Jose",
     "player": "Romeo Doubs",
     "position": "WR",
-    "slot": "WR",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -161420,9 +161486,9 @@
     "owner": "Jose",
     "player": "Broncos D/ST",
     "position": "D/ST",
-    "slot": "D/ST",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -161484,11 +161550,11 @@
     "week": 8,
     "team": "Kingdom Builders \ud83e\udd81",
     "owner": "Jose",
-    "player": "Matthew Stafford",
-    "position": "QB",
-    "slot": "BE",
+    "player": "Bengals D/ST",
+    "position": "D/ST",
+    "slot": "D/ST",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -161915,7 +161981,7 @@
     "owner": "Sway",
     "player": "Zay Flowers",
     "position": "WR",
-    "slot": "BE",
+    "slot": "IR",
     "points": 0,
     "started": false
   },
@@ -162058,6 +162124,17 @@
     "owner": "Sway",
     "player": "George Holani",
     "position": "RB",
+    "slot": "BE",
+    "points": 0,
+    "started": false
+  },
+  {
+    "year": 2026,
+    "week": 8,
+    "team": "Kangaroo Bouncers",
+    "owner": "Sway",
+    "player": "Kayshon Boutte",
+    "position": "WR",
     "slot": "BE",
     "points": 0,
     "started": false
@@ -162322,9 +162399,9 @@
     "owner": "Michael",
     "player": "Michael Pittman Jr.",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -162355,9 +162432,9 @@
     "owner": "Michael",
     "player": "Dallas Goedert",
     "position": "TE",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -162498,9 +162575,9 @@
     "owner": "Joseph",
     "player": "J.K. Dobbins",
     "position": "RB",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -162520,9 +162597,9 @@
     "owner": "Joseph",
     "player": "Jake Ferguson",
     "position": "TE",
-    "slot": "TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -162542,9 +162619,9 @@
     "owner": "Joseph",
     "player": "Juwan Johnson",
     "position": "TE",
-    "slot": "BE",
+    "slot": "TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -162586,9 +162663,9 @@
     "owner": "Joseph",
     "player": "Rashod Bateman",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -163169,9 +163246,9 @@
     "owner": "Jose",
     "player": "Chris Olave",
     "position": "WR",
-    "slot": "BE",
+    "slot": "WR",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -163224,9 +163301,9 @@
     "owner": "Jose",
     "player": "Romeo Doubs",
     "position": "WR",
-    "slot": "WR",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -163257,9 +163334,9 @@
     "owner": "Jose",
     "player": "Broncos D/ST",
     "position": "D/ST",
-    "slot": "D/ST",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -163321,11 +163398,11 @@
     "week": 9,
     "team": "Kingdom Builders \ud83e\udd81",
     "owner": "Jose",
-    "player": "Matthew Stafford",
-    "position": "QB",
-    "slot": "BE",
+    "player": "Bengals D/ST",
+    "position": "D/ST",
+    "slot": "D/ST",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -163752,7 +163829,7 @@
     "owner": "Sway",
     "player": "Zay Flowers",
     "position": "WR",
-    "slot": "BE",
+    "slot": "IR",
     "points": 0,
     "started": false
   },
@@ -163895,6 +163972,17 @@
     "owner": "Sway",
     "player": "George Holani",
     "position": "RB",
+    "slot": "BE",
+    "points": 0,
+    "started": false
+  },
+  {
+    "year": 2026,
+    "week": 9,
+    "team": "Kangaroo Bouncers",
+    "owner": "Sway",
+    "player": "Kayshon Boutte",
+    "position": "WR",
     "slot": "BE",
     "points": 0,
     "started": false
@@ -164159,9 +164247,9 @@
     "owner": "Michael",
     "player": "Michael Pittman Jr.",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -164192,9 +164280,9 @@
     "owner": "Michael",
     "player": "Dallas Goedert",
     "position": "TE",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -164335,9 +164423,9 @@
     "owner": "Joseph",
     "player": "J.K. Dobbins",
     "position": "RB",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -164357,9 +164445,9 @@
     "owner": "Joseph",
     "player": "Jake Ferguson",
     "position": "TE",
-    "slot": "TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -164379,9 +164467,9 @@
     "owner": "Joseph",
     "player": "Juwan Johnson",
     "position": "TE",
-    "slot": "BE",
+    "slot": "TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -164423,9 +164511,9 @@
     "owner": "Joseph",
     "player": "Rashod Bateman",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -165006,9 +165094,9 @@
     "owner": "Jose",
     "player": "Chris Olave",
     "position": "WR",
-    "slot": "BE",
+    "slot": "WR",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -165061,9 +165149,9 @@
     "owner": "Jose",
     "player": "Romeo Doubs",
     "position": "WR",
-    "slot": "WR",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -165094,9 +165182,9 @@
     "owner": "Jose",
     "player": "Broncos D/ST",
     "position": "D/ST",
-    "slot": "D/ST",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -165158,11 +165246,11 @@
     "week": 10,
     "team": "Kingdom Builders \ud83e\udd81",
     "owner": "Jose",
-    "player": "Matthew Stafford",
-    "position": "QB",
-    "slot": "BE",
+    "player": "Bengals D/ST",
+    "position": "D/ST",
+    "slot": "D/ST",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -165589,7 +165677,7 @@
     "owner": "Sway",
     "player": "Zay Flowers",
     "position": "WR",
-    "slot": "BE",
+    "slot": "IR",
     "points": 0,
     "started": false
   },
@@ -165732,6 +165820,17 @@
     "owner": "Sway",
     "player": "George Holani",
     "position": "RB",
+    "slot": "BE",
+    "points": 0,
+    "started": false
+  },
+  {
+    "year": 2026,
+    "week": 10,
+    "team": "Kangaroo Bouncers",
+    "owner": "Sway",
+    "player": "Kayshon Boutte",
+    "position": "WR",
     "slot": "BE",
     "points": 0,
     "started": false
@@ -165996,9 +166095,9 @@
     "owner": "Michael",
     "player": "Michael Pittman Jr.",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -166029,9 +166128,9 @@
     "owner": "Michael",
     "player": "Dallas Goedert",
     "position": "TE",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -166172,9 +166271,9 @@
     "owner": "Joseph",
     "player": "J.K. Dobbins",
     "position": "RB",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -166194,9 +166293,9 @@
     "owner": "Joseph",
     "player": "Jake Ferguson",
     "position": "TE",
-    "slot": "TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -166216,9 +166315,9 @@
     "owner": "Joseph",
     "player": "Juwan Johnson",
     "position": "TE",
-    "slot": "BE",
+    "slot": "TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -166260,9 +166359,9 @@
     "owner": "Joseph",
     "player": "Rashod Bateman",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -166843,9 +166942,9 @@
     "owner": "Jose",
     "player": "Chris Olave",
     "position": "WR",
-    "slot": "BE",
+    "slot": "WR",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -166898,9 +166997,9 @@
     "owner": "Jose",
     "player": "Romeo Doubs",
     "position": "WR",
-    "slot": "WR",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -166931,9 +167030,9 @@
     "owner": "Jose",
     "player": "Broncos D/ST",
     "position": "D/ST",
-    "slot": "D/ST",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -166995,11 +167094,11 @@
     "week": 11,
     "team": "Kingdom Builders \ud83e\udd81",
     "owner": "Jose",
-    "player": "Matthew Stafford",
-    "position": "QB",
-    "slot": "BE",
+    "player": "Bengals D/ST",
+    "position": "D/ST",
+    "slot": "D/ST",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -167426,7 +167525,7 @@
     "owner": "Sway",
     "player": "Zay Flowers",
     "position": "WR",
-    "slot": "BE",
+    "slot": "IR",
     "points": 0,
     "started": false
   },
@@ -167569,6 +167668,17 @@
     "owner": "Sway",
     "player": "George Holani",
     "position": "RB",
+    "slot": "BE",
+    "points": 0,
+    "started": false
+  },
+  {
+    "year": 2026,
+    "week": 11,
+    "team": "Kangaroo Bouncers",
+    "owner": "Sway",
+    "player": "Kayshon Boutte",
+    "position": "WR",
     "slot": "BE",
     "points": 0,
     "started": false
@@ -167833,9 +167943,9 @@
     "owner": "Michael",
     "player": "Michael Pittman Jr.",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -167866,9 +167976,9 @@
     "owner": "Michael",
     "player": "Dallas Goedert",
     "position": "TE",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -168009,9 +168119,9 @@
     "owner": "Joseph",
     "player": "J.K. Dobbins",
     "position": "RB",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -168031,9 +168141,9 @@
     "owner": "Joseph",
     "player": "Jake Ferguson",
     "position": "TE",
-    "slot": "TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -168053,9 +168163,9 @@
     "owner": "Joseph",
     "player": "Juwan Johnson",
     "position": "TE",
-    "slot": "BE",
+    "slot": "TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -168097,9 +168207,9 @@
     "owner": "Joseph",
     "player": "Rashod Bateman",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -168680,9 +168790,9 @@
     "owner": "Jose",
     "player": "Chris Olave",
     "position": "WR",
-    "slot": "BE",
+    "slot": "WR",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -168735,9 +168845,9 @@
     "owner": "Jose",
     "player": "Romeo Doubs",
     "position": "WR",
-    "slot": "WR",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -168768,9 +168878,9 @@
     "owner": "Jose",
     "player": "Broncos D/ST",
     "position": "D/ST",
-    "slot": "D/ST",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -168832,11 +168942,11 @@
     "week": 12,
     "team": "Kingdom Builders \ud83e\udd81",
     "owner": "Jose",
-    "player": "Matthew Stafford",
-    "position": "QB",
-    "slot": "BE",
+    "player": "Bengals D/ST",
+    "position": "D/ST",
+    "slot": "D/ST",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -169263,7 +169373,7 @@
     "owner": "Sway",
     "player": "Zay Flowers",
     "position": "WR",
-    "slot": "BE",
+    "slot": "IR",
     "points": 0,
     "started": false
   },
@@ -169406,6 +169516,17 @@
     "owner": "Sway",
     "player": "George Holani",
     "position": "RB",
+    "slot": "BE",
+    "points": 0,
+    "started": false
+  },
+  {
+    "year": 2026,
+    "week": 12,
+    "team": "Kangaroo Bouncers",
+    "owner": "Sway",
+    "player": "Kayshon Boutte",
+    "position": "WR",
     "slot": "BE",
     "points": 0,
     "started": false
@@ -169670,9 +169791,9 @@
     "owner": "Michael",
     "player": "Michael Pittman Jr.",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -169703,9 +169824,9 @@
     "owner": "Michael",
     "player": "Dallas Goedert",
     "position": "TE",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -169846,9 +169967,9 @@
     "owner": "Joseph",
     "player": "J.K. Dobbins",
     "position": "RB",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -169868,9 +169989,9 @@
     "owner": "Joseph",
     "player": "Jake Ferguson",
     "position": "TE",
-    "slot": "TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -169890,9 +170011,9 @@
     "owner": "Joseph",
     "player": "Juwan Johnson",
     "position": "TE",
-    "slot": "BE",
+    "slot": "TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -169934,9 +170055,9 @@
     "owner": "Joseph",
     "player": "Rashod Bateman",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -170517,9 +170638,9 @@
     "owner": "Jose",
     "player": "Chris Olave",
     "position": "WR",
-    "slot": "BE",
+    "slot": "WR",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -170572,9 +170693,9 @@
     "owner": "Jose",
     "player": "Romeo Doubs",
     "position": "WR",
-    "slot": "WR",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -170605,9 +170726,9 @@
     "owner": "Jose",
     "player": "Broncos D/ST",
     "position": "D/ST",
-    "slot": "D/ST",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -170669,11 +170790,11 @@
     "week": 13,
     "team": "Kingdom Builders \ud83e\udd81",
     "owner": "Jose",
-    "player": "Matthew Stafford",
-    "position": "QB",
-    "slot": "BE",
+    "player": "Bengals D/ST",
+    "position": "D/ST",
+    "slot": "D/ST",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -171100,7 +171221,7 @@
     "owner": "Sway",
     "player": "Zay Flowers",
     "position": "WR",
-    "slot": "BE",
+    "slot": "IR",
     "points": 0,
     "started": false
   },
@@ -171243,6 +171364,17 @@
     "owner": "Sway",
     "player": "George Holani",
     "position": "RB",
+    "slot": "BE",
+    "points": 0,
+    "started": false
+  },
+  {
+    "year": 2026,
+    "week": 13,
+    "team": "Kangaroo Bouncers",
+    "owner": "Sway",
+    "player": "Kayshon Boutte",
+    "position": "WR",
     "slot": "BE",
     "points": 0,
     "started": false
@@ -171507,9 +171639,9 @@
     "owner": "Michael",
     "player": "Michael Pittman Jr.",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -171540,9 +171672,9 @@
     "owner": "Michael",
     "player": "Dallas Goedert",
     "position": "TE",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -171683,9 +171815,9 @@
     "owner": "Joseph",
     "player": "J.K. Dobbins",
     "position": "RB",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -171705,9 +171837,9 @@
     "owner": "Joseph",
     "player": "Jake Ferguson",
     "position": "TE",
-    "slot": "TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -171727,9 +171859,9 @@
     "owner": "Joseph",
     "player": "Juwan Johnson",
     "position": "TE",
-    "slot": "BE",
+    "slot": "TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -171771,9 +171903,9 @@
     "owner": "Joseph",
     "player": "Rashod Bateman",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -172354,9 +172486,9 @@
     "owner": "Jose",
     "player": "Chris Olave",
     "position": "WR",
-    "slot": "BE",
+    "slot": "WR",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -172409,9 +172541,9 @@
     "owner": "Jose",
     "player": "Romeo Doubs",
     "position": "WR",
-    "slot": "WR",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -172442,9 +172574,9 @@
     "owner": "Jose",
     "player": "Broncos D/ST",
     "position": "D/ST",
-    "slot": "D/ST",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -172506,11 +172638,11 @@
     "week": 14,
     "team": "Kingdom Builders \ud83e\udd81",
     "owner": "Jose",
-    "player": "Matthew Stafford",
-    "position": "QB",
-    "slot": "BE",
+    "player": "Bengals D/ST",
+    "position": "D/ST",
+    "slot": "D/ST",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -172937,7 +173069,7 @@
     "owner": "Sway",
     "player": "Zay Flowers",
     "position": "WR",
-    "slot": "BE",
+    "slot": "IR",
     "points": 0,
     "started": false
   },
@@ -173080,6 +173212,17 @@
     "owner": "Sway",
     "player": "George Holani",
     "position": "RB",
+    "slot": "BE",
+    "points": 0,
+    "started": false
+  },
+  {
+    "year": 2026,
+    "week": 14,
+    "team": "Kangaroo Bouncers",
+    "owner": "Sway",
+    "player": "Kayshon Boutte",
+    "position": "WR",
     "slot": "BE",
     "points": 0,
     "started": false
@@ -173344,9 +173487,9 @@
     "owner": "Michael",
     "player": "Michael Pittman Jr.",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -173377,9 +173520,9 @@
     "owner": "Michael",
     "player": "Dallas Goedert",
     "position": "TE",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -173520,9 +173663,9 @@
     "owner": "Joseph",
     "player": "J.K. Dobbins",
     "position": "RB",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -173542,9 +173685,9 @@
     "owner": "Joseph",
     "player": "Jake Ferguson",
     "position": "TE",
-    "slot": "TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -173564,9 +173707,9 @@
     "owner": "Joseph",
     "player": "Juwan Johnson",
     "position": "TE",
-    "slot": "BE",
+    "slot": "TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -173608,9 +173751,9 @@
     "owner": "Joseph",
     "player": "Rashod Bateman",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -174191,9 +174334,9 @@
     "owner": "Jose",
     "player": "Chris Olave",
     "position": "WR",
-    "slot": "BE",
+    "slot": "WR",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -174246,9 +174389,9 @@
     "owner": "Jose",
     "player": "Romeo Doubs",
     "position": "WR",
-    "slot": "WR",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -174279,9 +174422,9 @@
     "owner": "Jose",
     "player": "Broncos D/ST",
     "position": "D/ST",
-    "slot": "D/ST",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -174343,11 +174486,11 @@
     "week": 15,
     "team": "Kingdom Builders \ud83e\udd81",
     "owner": "Jose",
-    "player": "Matthew Stafford",
-    "position": "QB",
-    "slot": "BE",
+    "player": "Bengals D/ST",
+    "position": "D/ST",
+    "slot": "D/ST",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -174774,7 +174917,7 @@
     "owner": "Sway",
     "player": "Zay Flowers",
     "position": "WR",
-    "slot": "BE",
+    "slot": "IR",
     "points": 0,
     "started": false
   },
@@ -174917,6 +175060,17 @@
     "owner": "Sway",
     "player": "George Holani",
     "position": "RB",
+    "slot": "BE",
+    "points": 0,
+    "started": false
+  },
+  {
+    "year": 2026,
+    "week": 15,
+    "team": "Kangaroo Bouncers",
+    "owner": "Sway",
+    "player": "Kayshon Boutte",
+    "position": "WR",
     "slot": "BE",
     "points": 0,
     "started": false
@@ -175181,9 +175335,9 @@
     "owner": "Michael",
     "player": "Michael Pittman Jr.",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -175214,9 +175368,9 @@
     "owner": "Michael",
     "player": "Dallas Goedert",
     "position": "TE",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -175357,9 +175511,9 @@
     "owner": "Joseph",
     "player": "J.K. Dobbins",
     "position": "RB",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -175379,9 +175533,9 @@
     "owner": "Joseph",
     "player": "Jake Ferguson",
     "position": "TE",
-    "slot": "TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -175401,9 +175555,9 @@
     "owner": "Joseph",
     "player": "Juwan Johnson",
     "position": "TE",
-    "slot": "BE",
+    "slot": "TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -175445,9 +175599,9 @@
     "owner": "Joseph",
     "player": "Rashod Bateman",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -176028,9 +176182,9 @@
     "owner": "Jose",
     "player": "Chris Olave",
     "position": "WR",
-    "slot": "BE",
+    "slot": "WR",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -176083,9 +176237,9 @@
     "owner": "Jose",
     "player": "Romeo Doubs",
     "position": "WR",
-    "slot": "WR",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -176116,9 +176270,9 @@
     "owner": "Jose",
     "player": "Broncos D/ST",
     "position": "D/ST",
-    "slot": "D/ST",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -176180,11 +176334,11 @@
     "week": 16,
     "team": "Kingdom Builders \ud83e\udd81",
     "owner": "Jose",
-    "player": "Matthew Stafford",
-    "position": "QB",
-    "slot": "BE",
+    "player": "Bengals D/ST",
+    "position": "D/ST",
+    "slot": "D/ST",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -176611,7 +176765,7 @@
     "owner": "Sway",
     "player": "Zay Flowers",
     "position": "WR",
-    "slot": "BE",
+    "slot": "IR",
     "points": 0,
     "started": false
   },
@@ -176754,6 +176908,17 @@
     "owner": "Sway",
     "player": "George Holani",
     "position": "RB",
+    "slot": "BE",
+    "points": 0,
+    "started": false
+  },
+  {
+    "year": 2026,
+    "week": 16,
+    "team": "Kangaroo Bouncers",
+    "owner": "Sway",
+    "player": "Kayshon Boutte",
+    "position": "WR",
     "slot": "BE",
     "points": 0,
     "started": false
@@ -177018,9 +177183,9 @@
     "owner": "Michael",
     "player": "Michael Pittman Jr.",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -177051,9 +177216,9 @@
     "owner": "Michael",
     "player": "Dallas Goedert",
     "position": "TE",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -177194,9 +177359,9 @@
     "owner": "Joseph",
     "player": "J.K. Dobbins",
     "position": "RB",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -177216,9 +177381,9 @@
     "owner": "Joseph",
     "player": "Jake Ferguson",
     "position": "TE",
-    "slot": "TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -177238,9 +177403,9 @@
     "owner": "Joseph",
     "player": "Juwan Johnson",
     "position": "TE",
-    "slot": "BE",
+    "slot": "TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -177282,9 +177447,9 @@
     "owner": "Joseph",
     "player": "Rashod Bateman",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -177865,9 +178030,9 @@
     "owner": "Jose",
     "player": "Chris Olave",
     "position": "WR",
-    "slot": "BE",
+    "slot": "WR",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -177920,9 +178085,9 @@
     "owner": "Jose",
     "player": "Romeo Doubs",
     "position": "WR",
-    "slot": "WR",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -177953,9 +178118,9 @@
     "owner": "Jose",
     "player": "Broncos D/ST",
     "position": "D/ST",
-    "slot": "D/ST",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -178017,11 +178182,11 @@
     "week": 17,
     "team": "Kingdom Builders \ud83e\udd81",
     "owner": "Jose",
-    "player": "Matthew Stafford",
-    "position": "QB",
-    "slot": "BE",
+    "player": "Bengals D/ST",
+    "position": "D/ST",
+    "slot": "D/ST",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -178448,7 +178613,7 @@
     "owner": "Sway",
     "player": "Zay Flowers",
     "position": "WR",
-    "slot": "BE",
+    "slot": "IR",
     "points": 0,
     "started": false
   },
@@ -178591,6 +178756,17 @@
     "owner": "Sway",
     "player": "George Holani",
     "position": "RB",
+    "slot": "BE",
+    "points": 0,
+    "started": false
+  },
+  {
+    "year": 2026,
+    "week": 17,
+    "team": "Kangaroo Bouncers",
+    "owner": "Sway",
+    "player": "Kayshon Boutte",
+    "position": "WR",
     "slot": "BE",
     "points": 0,
     "started": false
@@ -178855,9 +179031,9 @@
     "owner": "Michael",
     "player": "Michael Pittman Jr.",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -178888,9 +179064,9 @@
     "owner": "Michael",
     "player": "Dallas Goedert",
     "position": "TE",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -179031,9 +179207,9 @@
     "owner": "Joseph",
     "player": "J.K. Dobbins",
     "position": "RB",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -179053,9 +179229,9 @@
     "owner": "Joseph",
     "player": "Jake Ferguson",
     "position": "TE",
-    "slot": "TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -179075,9 +179251,9 @@
     "owner": "Joseph",
     "player": "Juwan Johnson",
     "position": "TE",
-    "slot": "BE",
+    "slot": "TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -179119,9 +179295,9 @@
     "owner": "Joseph",
     "player": "Rashod Bateman",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
