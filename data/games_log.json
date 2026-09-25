@@ -4238,5 +4238,455 @@
     "away_team": "Orlando GOONS",
     "away_score": 107.4,
     "margin": 1.92
+  },
+  {
+    "year": 2026,
+    "week": 3,
+    "matchup_type": "NONE",
+    "home_team": "The substation",
+    "home_score": 0.0,
+    "away_team": "THE WARHOGS",
+    "away_score": 23.0,
+    "margin": 23.0
+  },
+  {
+    "year": 2026,
+    "week": 3,
+    "matchup_type": "NONE",
+    "home_team": "Project X",
+    "home_score": 30.4,
+    "away_team": "Franklin's Football Turtles",
+    "away_score": 22.6,
+    "margin": 7.8
+  },
+  {
+    "year": 2026,
+    "week": 3,
+    "matchup_type": "NONE",
+    "home_team": "RUMBLING",
+    "home_score": 37.3,
+    "away_team": "Rome's Five-Star Chefs",
+    "away_score": 6.6,
+    "margin": 30.7
+  },
+  {
+    "year": 2026,
+    "week": 4,
+    "matchup_type": "NONE",
+    "home_team": "The substation",
+    "home_score": 0.0,
+    "away_team": "THE WARHOGS",
+    "away_score": 23.0,
+    "margin": 23.0
+  },
+  {
+    "year": 2026,
+    "week": 4,
+    "matchup_type": "NONE",
+    "home_team": "Project X",
+    "home_score": 30.4,
+    "away_team": "Franklin's Football Turtles",
+    "away_score": 22.6,
+    "margin": 7.8
+  },
+  {
+    "year": 2026,
+    "week": 4,
+    "matchup_type": "NONE",
+    "home_team": "RUMBLING",
+    "home_score": 37.3,
+    "away_team": "Rome's Five-Star Chefs",
+    "away_score": 6.6,
+    "margin": 30.7
+  },
+  {
+    "year": 2026,
+    "week": 5,
+    "matchup_type": "NONE",
+    "home_team": "The substation",
+    "home_score": 0.0,
+    "away_team": "THE WARHOGS",
+    "away_score": 23.0,
+    "margin": 23.0
+  },
+  {
+    "year": 2026,
+    "week": 5,
+    "matchup_type": "NONE",
+    "home_team": "Project X",
+    "home_score": 30.4,
+    "away_team": "Franklin's Football Turtles",
+    "away_score": 22.6,
+    "margin": 7.8
+  },
+  {
+    "year": 2026,
+    "week": 5,
+    "matchup_type": "NONE",
+    "home_team": "RUMBLING",
+    "home_score": 37.3,
+    "away_team": "Rome's Five-Star Chefs",
+    "away_score": 6.6,
+    "margin": 30.7
+  },
+  {
+    "year": 2026,
+    "week": 6,
+    "matchup_type": "NONE",
+    "home_team": "The substation",
+    "home_score": 0.0,
+    "away_team": "THE WARHOGS",
+    "away_score": 23.0,
+    "margin": 23.0
+  },
+  {
+    "year": 2026,
+    "week": 6,
+    "matchup_type": "NONE",
+    "home_team": "Project X",
+    "home_score": 30.4,
+    "away_team": "Franklin's Football Turtles",
+    "away_score": 22.6,
+    "margin": 7.8
+  },
+  {
+    "year": 2026,
+    "week": 6,
+    "matchup_type": "NONE",
+    "home_team": "RUMBLING",
+    "home_score": 37.3,
+    "away_team": "Rome's Five-Star Chefs",
+    "away_score": 6.6,
+    "margin": 30.7
+  },
+  {
+    "year": 2026,
+    "week": 7,
+    "matchup_type": "NONE",
+    "home_team": "The substation",
+    "home_score": 0.0,
+    "away_team": "THE WARHOGS",
+    "away_score": 23.0,
+    "margin": 23.0
+  },
+  {
+    "year": 2026,
+    "week": 7,
+    "matchup_type": "NONE",
+    "home_team": "Project X",
+    "home_score": 30.4,
+    "away_team": "Franklin's Football Turtles",
+    "away_score": 22.6,
+    "margin": 7.8
+  },
+  {
+    "year": 2026,
+    "week": 7,
+    "matchup_type": "NONE",
+    "home_team": "RUMBLING",
+    "home_score": 37.3,
+    "away_team": "Rome's Five-Star Chefs",
+    "away_score": 6.6,
+    "margin": 30.7
+  },
+  {
+    "year": 2026,
+    "week": 8,
+    "matchup_type": "NONE",
+    "home_team": "The substation",
+    "home_score": 0.0,
+    "away_team": "THE WARHOGS",
+    "away_score": 23.0,
+    "margin": 23.0
+  },
+  {
+    "year": 2026,
+    "week": 8,
+    "matchup_type": "NONE",
+    "home_team": "Project X",
+    "home_score": 30.4,
+    "away_team": "Franklin's Football Turtles",
+    "away_score": 22.6,
+    "margin": 7.8
+  },
+  {
+    "year": 2026,
+    "week": 8,
+    "matchup_type": "NONE",
+    "home_team": "RUMBLING",
+    "home_score": 37.3,
+    "away_team": "Rome's Five-Star Chefs",
+    "away_score": 6.6,
+    "margin": 30.7
+  },
+  {
+    "year": 2026,
+    "week": 9,
+    "matchup_type": "NONE",
+    "home_team": "The substation",
+    "home_score": 0.0,
+    "away_team": "THE WARHOGS",
+    "away_score": 23.0,
+    "margin": 23.0
+  },
+  {
+    "year": 2026,
+    "week": 9,
+    "matchup_type": "NONE",
+    "home_team": "Project X",
+    "home_score": 30.4,
+    "away_team": "Franklin's Football Turtles",
+    "away_score": 22.6,
+    "margin": 7.8
+  },
+  {
+    "year": 2026,
+    "week": 9,
+    "matchup_type": "NONE",
+    "home_team": "RUMBLING",
+    "home_score": 37.3,
+    "away_team": "Rome's Five-Star Chefs",
+    "away_score": 6.6,
+    "margin": 30.7
+  },
+  {
+    "year": 2026,
+    "week": 10,
+    "matchup_type": "NONE",
+    "home_team": "The substation",
+    "home_score": 0.0,
+    "away_team": "THE WARHOGS",
+    "away_score": 23.0,
+    "margin": 23.0
+  },
+  {
+    "year": 2026,
+    "week": 10,
+    "matchup_type": "NONE",
+    "home_team": "Project X",
+    "home_score": 30.4,
+    "away_team": "Franklin's Football Turtles",
+    "away_score": 22.6,
+    "margin": 7.8
+  },
+  {
+    "year": 2026,
+    "week": 10,
+    "matchup_type": "NONE",
+    "home_team": "RUMBLING",
+    "home_score": 37.3,
+    "away_team": "Rome's Five-Star Chefs",
+    "away_score": 6.6,
+    "margin": 30.7
+  },
+  {
+    "year": 2026,
+    "week": 11,
+    "matchup_type": "NONE",
+    "home_team": "The substation",
+    "home_score": 0.0,
+    "away_team": "THE WARHOGS",
+    "away_score": 23.0,
+    "margin": 23.0
+  },
+  {
+    "year": 2026,
+    "week": 11,
+    "matchup_type": "NONE",
+    "home_team": "Project X",
+    "home_score": 30.4,
+    "away_team": "Franklin's Football Turtles",
+    "away_score": 22.6,
+    "margin": 7.8
+  },
+  {
+    "year": 2026,
+    "week": 11,
+    "matchup_type": "NONE",
+    "home_team": "RUMBLING",
+    "home_score": 37.3,
+    "away_team": "Rome's Five-Star Chefs",
+    "away_score": 6.6,
+    "margin": 30.7
+  },
+  {
+    "year": 2026,
+    "week": 12,
+    "matchup_type": "NONE",
+    "home_team": "The substation",
+    "home_score": 0.0,
+    "away_team": "THE WARHOGS",
+    "away_score": 23.0,
+    "margin": 23.0
+  },
+  {
+    "year": 2026,
+    "week": 12,
+    "matchup_type": "NONE",
+    "home_team": "Project X",
+    "home_score": 30.4,
+    "away_team": "Franklin's Football Turtles",
+    "away_score": 22.6,
+    "margin": 7.8
+  },
+  {
+    "year": 2026,
+    "week": 12,
+    "matchup_type": "NONE",
+    "home_team": "RUMBLING",
+    "home_score": 37.3,
+    "away_team": "Rome's Five-Star Chefs",
+    "away_score": 6.6,
+    "margin": 30.7
+  },
+  {
+    "year": 2026,
+    "week": 13,
+    "matchup_type": "NONE",
+    "home_team": "The substation",
+    "home_score": 0.0,
+    "away_team": "THE WARHOGS",
+    "away_score": 23.0,
+    "margin": 23.0
+  },
+  {
+    "year": 2026,
+    "week": 13,
+    "matchup_type": "NONE",
+    "home_team": "Project X",
+    "home_score": 30.4,
+    "away_team": "Franklin's Football Turtles",
+    "away_score": 22.6,
+    "margin": 7.8
+  },
+  {
+    "year": 2026,
+    "week": 13,
+    "matchup_type": "NONE",
+    "home_team": "RUMBLING",
+    "home_score": 37.3,
+    "away_team": "Rome's Five-Star Chefs",
+    "away_score": 6.6,
+    "margin": 30.7
+  },
+  {
+    "year": 2026,
+    "week": 14,
+    "matchup_type": "NONE",
+    "home_team": "The substation",
+    "home_score": 0.0,
+    "away_team": "THE WARHOGS",
+    "away_score": 23.0,
+    "margin": 23.0
+  },
+  {
+    "year": 2026,
+    "week": 14,
+    "matchup_type": "NONE",
+    "home_team": "Project X",
+    "home_score": 30.4,
+    "away_team": "Franklin's Football Turtles",
+    "away_score": 22.6,
+    "margin": 7.8
+  },
+  {
+    "year": 2026,
+    "week": 14,
+    "matchup_type": "NONE",
+    "home_team": "RUMBLING",
+    "home_score": 37.3,
+    "away_team": "Rome's Five-Star Chefs",
+    "away_score": 6.6,
+    "margin": 30.7
+  },
+  {
+    "year": 2026,
+    "week": 15,
+    "matchup_type": "NONE",
+    "home_team": "The substation",
+    "home_score": 0.0,
+    "away_team": "THE WARHOGS",
+    "away_score": 23.0,
+    "margin": 23.0
+  },
+  {
+    "year": 2026,
+    "week": 15,
+    "matchup_type": "NONE",
+    "home_team": "Project X",
+    "home_score": 30.4,
+    "away_team": "Franklin's Football Turtles",
+    "away_score": 22.6,
+    "margin": 7.8
+  },
+  {
+    "year": 2026,
+    "week": 15,
+    "matchup_type": "NONE",
+    "home_team": "RUMBLING",
+    "home_score": 37.3,
+    "away_team": "Rome's Five-Star Chefs",
+    "away_score": 6.6,
+    "margin": 30.7
+  },
+  {
+    "year": 2026,
+    "week": 16,
+    "matchup_type": "NONE",
+    "home_team": "The substation",
+    "home_score": 0.0,
+    "away_team": "THE WARHOGS",
+    "away_score": 23.0,
+    "margin": 23.0
+  },
+  {
+    "year": 2026,
+    "week": 16,
+    "matchup_type": "NONE",
+    "home_team": "Project X",
+    "home_score": 30.4,
+    "away_team": "Franklin's Football Turtles",
+    "away_score": 22.6,
+    "margin": 7.8
+  },
+  {
+    "year": 2026,
+    "week": 16,
+    "matchup_type": "NONE",
+    "home_team": "RUMBLING",
+    "home_score": 37.3,
+    "away_team": "Rome's Five-Star Chefs",
+    "away_score": 6.6,
+    "margin": 30.7
+  },
+  {
+    "year": 2026,
+    "week": 17,
+    "matchup_type": "NONE",
+    "home_team": "The substation",
+    "home_score": 0.0,
+    "away_team": "THE WARHOGS",
+    "away_score": 23.0,
+    "margin": 23.0
+  },
+  {
+    "year": 2026,
+    "week": 17,
+    "matchup_type": "NONE",
+    "home_team": "Project X",
+    "home_score": 30.4,
+    "away_team": "Franklin's Football Turtles",
+    "away_score": 22.6,
+    "margin": 7.8
+  },
+  {
+    "year": 2026,
+    "week": 17,
+    "matchup_type": "NONE",
+    "home_team": "RUMBLING",
+    "home_score": 37.3,
+    "away_team": "Rome's Five-Star Chefs",
+    "away_score": 6.6,
+    "margin": 30.7
   }
 ]
