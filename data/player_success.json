@@ -4,7 +4,7 @@
     "position": "QB",
     "overall_started_points": 1580.6,
     "overall_bench_points": 89.34,
-    "overall_started_games": 64,
+    "overall_started_games": 78,
     "overall_bench_games": 7,
     "best_team_owner": "Jose",
     "best_team_started_points": 606.64,
@@ -40,11 +40,11 @@
       {
         "owner": "Joseph",
         "started_points": 180.16,
-        "started_games": 7,
+        "started_games": 21,
         "bench_points": 38.66,
         "bench_games": 1,
         "total_points": 218.82,
-        "total_games": 8
+        "total_games": 22
       }
     ]
   },
@@ -53,7 +53,7 @@
     "position": "QB",
     "overall_started_points": 1448.48,
     "overall_bench_points": 0.0,
-    "overall_started_games": 66,
+    "overall_started_games": 80,
     "overall_bench_games": 5,
     "best_team_owner": "Michael",
     "best_team_started_points": 708.7,
@@ -71,11 +71,11 @@
       {
         "owner": "Laureano",
         "started_points": 432.72,
-        "started_games": 19,
+        "started_games": 33,
         "bench_points": 0.0,
         "bench_games": 1,
         "total_points": 432.72,
-        "total_games": 20
+        "total_games": 34
       },
       {
         "owner": "Frankie",
@@ -93,7 +93,7 @@
     "position": "QB",
     "overall_started_points": 1299.0,
     "overall_bench_points": 1.34,
-    "overall_started_games": 58,
+    "overall_started_games": 72,
     "overall_bench_games": 13,
     "best_team_owner": "Sway",
     "best_team_started_points": 550.66,
@@ -129,11 +129,11 @@
       {
         "owner": "Fabian",
         "started_points": 66.2,
-        "started_games": 3,
+        "started_games": 17,
         "bench_points": 0.0,
         "bench_games": 0,
         "total_points": 66.2,
-        "total_games": 3
+        "total_games": 17
       }
     ]
   },
@@ -142,7 +142,7 @@
     "position": "WR",
     "overall_started_points": 1280.42,
     "overall_bench_points": 7.1,
-    "overall_started_games": 60,
+    "overall_started_games": 74,
     "overall_bench_games": 11,
     "best_team_owner": "Najee",
     "best_team_started_points": 648.4,
@@ -178,11 +178,11 @@
       {
         "owner": "Michael",
         "started_points": 54.5,
-        "started_games": 3,
+        "started_games": 17,
         "bench_points": 0.0,
         "bench_games": 0,
         "total_points": 54.5,
-        "total_games": 3
+        "total_games": 17
       }
     ]
   },
@@ -191,20 +191,20 @@
     "position": "RB",
     "overall_started_points": 1275.46,
     "overall_bench_points": 0.0,
-    "overall_started_games": 56,
+    "overall_started_games": 70,
     "overall_bench_games": 15,
     "best_team_owner": "Daniel",
     "best_team_started_points": 470.3,
-    "best_team_started_games": 19,
+    "best_team_started_games": 33,
     "teams": [
       {
         "owner": "Daniel",
         "started_points": 470.3,
-        "started_games": 19,
+        "started_games": 33,
         "bench_points": 0.0,
         "bench_games": 1,
         "total_points": 470.3,
-        "total_games": 20
+        "total_games": 34
       },
       {
         "owner": "Frankie",
@@ -249,7 +249,7 @@
     "position": "RB",
     "overall_started_points": 1217.42,
     "overall_bench_points": 0.0,
-    "overall_started_games": 66,
+    "overall_started_games": 80,
     "overall_bench_games": 5,
     "best_team_owner": "Daniel",
     "best_team_started_points": 327.3,
@@ -276,11 +276,11 @@
       {
         "owner": "Sway",
         "started_points": 264.4,
-        "started_games": 14,
+        "started_games": 28,
         "bench_points": 0.0,
         "bench_games": 1,
         "total_points": 264.4,
-        "total_games": 15
+        "total_games": 29
       },
       {
         "owner": "Xavier",
@@ -316,20 +316,20 @@
     "position": "WR",
     "overall_started_points": 1197.28,
     "overall_bench_points": 83.3,
-    "overall_started_games": 62,
+    "overall_started_games": 76,
     "overall_bench_games": 9,
     "best_team_owner": "Xavier",
     "best_team_started_points": 397.3,
-    "best_team_started_games": 18,
+    "best_team_started_games": 32,
     "teams": [
       {
         "owner": "Xavier",
         "started_points": 397.3,
-        "started_games": 18,
+        "started_games": 32,
         "bench_points": 0.0,
         "bench_games": 2,
         "total_points": 397.3,
-        "total_games": 20
+        "total_games": 34
       },
       {
         "owner": "Michael",
@@ -374,20 +374,20 @@
     "position": "QB",
     "overall_started_points": 1172.48,
     "overall_bench_points": 201.44,
-    "overall_started_games": 55,
+    "overall_started_games": 69,
     "overall_bench_games": 16,
     "best_team_owner": "Luis",
     "best_team_started_points": 1053.24,
-    "best_team_started_games": 48,
+    "best_team_started_games": 62,
     "teams": [
       {
         "owner": "Luis",
         "started_points": 1053.24,
-        "started_games": 48,
+        "started_games": 62,
         "bench_points": 21.66,
         "bench_games": 6,
         "total_points": 1074.9,
-        "total_games": 54
+        "total_games": 68
       },
       {
         "owner": "Jose",
@@ -414,7 +414,7 @@
     "position": "WR",
     "overall_started_points": 1164.9,
     "overall_bench_points": 89.0,
-    "overall_started_games": 61,
+    "overall_started_games": 75,
     "overall_bench_games": 10,
     "best_team_owner": "Najee",
     "best_team_started_points": 623.1,
@@ -450,11 +450,11 @@
       {
         "owner": "Frankie",
         "started_points": 74.9,
-        "started_games": 3,
+        "started_games": 17,
         "bench_points": 0.0,
         "bench_games": 0,
         "total_points": 74.9,
-        "total_games": 3
+        "total_games": 17
       },
       {
         "owner": "Jose",
@@ -481,7 +481,7 @@
     "position": "RB",
     "overall_started_points": 1157.1,
     "overall_bench_points": 0.0,
-    "overall_started_games": 64,
+    "overall_started_games": 78,
     "overall_bench_games": 7,
     "best_team_owner": "Daniel",
     "best_team_started_points": 399.3,
@@ -526,11 +526,11 @@
       {
         "owner": "Joseph",
         "started_points": 83.7,
-        "started_games": 7,
+        "started_games": 21,
         "bench_points": 0.0,
         "bench_games": 0,
         "total_points": 83.7,
-        "total_games": 7
+        "total_games": 21
       },
       {
         "owner": "kevin",
@@ -548,20 +548,20 @@
     "position": "WR",
     "overall_started_points": 1112.14,
     "overall_bench_points": 0.0,
-    "overall_started_games": 60,
+    "overall_started_games": 74,
     "overall_bench_games": 11,
     "best_team_owner": "Najee",
     "best_team_started_points": 416.76,
-    "best_team_started_games": 19,
+    "best_team_started_games": 33,
     "teams": [
       {
         "owner": "Najee",
         "started_points": 416.76,
-        "started_games": 19,
+        "started_games": 33,
         "bench_points": 0.0,
         "bench_games": 1,
         "total_points": 416.76,
-        "total_games": 20
+        "total_games": 34
       },
       {
         "owner": "Laureano",
@@ -597,7 +597,7 @@
     "position": "WR",
     "overall_started_points": 1110.9,
     "overall_bench_points": 12.3,
-    "overall_started_games": 61,
+    "overall_started_games": 75,
     "overall_bench_games": 10,
     "best_team_owner": "Frankie",
     "best_team_started_points": 564.1,
@@ -624,11 +624,11 @@
       {
         "owner": "Najee",
         "started_points": 69.8,
-        "started_games": 3,
+        "started_games": 17,
         "bench_points": 0.0,
         "bench_games": 0,
         "total_points": 69.8,
-        "total_games": 3
+        "total_games": 17
       },
       {
         "owner": "Laureano",
@@ -642,12 +642,79 @@
     ]
   },
   {
+    "player": "DK Metcalf",
+    "position": "WR",
+    "overall_started_points": 1082.5,
+    "overall_bench_points": 49.6,
+    "overall_started_games": 74,
+    "overall_bench_games": 11,
+    "best_team_owner": "Luis",
+    "best_team_started_points": 329.1,
+    "best_team_started_games": 21,
+    "teams": [
+      {
+        "owner": "Luis",
+        "started_points": 329.1,
+        "started_games": 21,
+        "bench_points": 0.0,
+        "bench_games": 3,
+        "total_points": 329.1,
+        "total_games": 24
+      },
+      {
+        "owner": "Fabian",
+        "started_points": 285.8,
+        "started_games": 17,
+        "bench_points": 0.0,
+        "bench_games": 0,
+        "total_points": 285.8,
+        "total_games": 17
+      },
+      {
+        "owner": "Laureano",
+        "started_points": 195.2,
+        "started_games": 16,
+        "bench_points": 0.0,
+        "bench_games": 1,
+        "total_points": 195.2,
+        "total_games": 17
+      },
+      {
+        "owner": "Daniel",
+        "started_points": 168.3,
+        "started_games": 12,
+        "bench_points": 24.6,
+        "bench_games": 5,
+        "total_points": 192.9,
+        "total_games": 17
+      },
+      {
+        "owner": "Joseph",
+        "started_points": 74.1,
+        "started_games": 5,
+        "bench_points": 7.5,
+        "bench_games": 1,
+        "total_points": 81.6,
+        "total_games": 6
+      },
+      {
+        "owner": "kevin",
+        "started_points": 30.0,
+        "started_games": 3,
+        "bench_points": 17.5,
+        "bench_games": 1,
+        "total_points": 47.5,
+        "total_games": 4
+      }
+    ]
+  },
+  {
     "player": "A.J. Brown",
     "position": "WR",
     "overall_started_points": 1072.6,
     "overall_bench_points": 0.0,
     "overall_started_games": 61,
-    "overall_bench_games": 10,
+    "overall_bench_games": 24,
     "best_team_owner": "Fabian",
     "best_team_started_points": 308.7,
     "best_team_started_games": 16,
@@ -702,9 +769,9 @@
         "started_points": 15.1,
         "started_games": 3,
         "bench_points": 0.0,
-        "bench_games": 2,
+        "bench_games": 16,
         "total_points": 15.1,
-        "total_games": 5
+        "total_games": 19
       }
     ]
   },
@@ -713,7 +780,7 @@
     "position": "RB",
     "overall_started_points": 1034.9,
     "overall_bench_points": 0.0,
-    "overall_started_games": 49,
+    "overall_started_games": 63,
     "overall_bench_games": 5,
     "best_team_owner": "Fabian",
     "best_team_started_points": 697.5,
@@ -740,11 +807,11 @@
       {
         "owner": "Jose",
         "started_points": 100.3,
-        "started_games": 3,
+        "started_games": 17,
         "bench_points": 0.0,
         "bench_games": 0,
         "total_points": 100.3,
-        "total_games": 3
+        "total_games": 17
       }
     ]
   },
@@ -753,7 +820,7 @@
     "position": "RB",
     "overall_started_points": 1011.8,
     "overall_bench_points": 0.0,
-    "overall_started_games": 51,
+    "overall_started_games": 65,
     "overall_bench_games": 3,
     "best_team_owner": "Laureano",
     "best_team_started_points": 389.5,
@@ -789,11 +856,11 @@
       {
         "owner": "Luis",
         "started_points": 79.7,
-        "started_games": 3,
+        "started_games": 17,
         "bench_points": 0.0,
         "bench_games": 0,
         "total_points": 79.7,
-        "total_games": 3
+        "total_games": 17
       }
     ]
   },
@@ -803,7 +870,7 @@
     "overall_started_points": 994.2,
     "overall_bench_points": 40.6,
     "overall_started_games": 49,
-    "overall_bench_games": 8,
+    "overall_bench_games": 22,
     "best_team_owner": "Sway",
     "best_team_started_points": 515.1,
     "best_team_started_games": 24,
@@ -831,9 +898,9 @@
         "started_points": 67.7,
         "started_games": 5,
         "bench_points": 0.0,
-        "bench_games": 2,
+        "bench_games": 16,
         "total_points": 67.7,
-        "total_games": 7
+        "total_games": 21
       },
       {
         "owner": "Frankie",
@@ -861,7 +928,7 @@
     "overall_started_points": 979.0,
     "overall_bench_points": 68.0,
     "overall_started_games": 57,
-    "overall_bench_games": 14,
+    "overall_bench_games": 28,
     "best_team_owner": "Jose",
     "best_team_started_points": 383.4,
     "best_team_started_games": 22,
@@ -916,9 +983,9 @@
         "started_points": 0.0,
         "started_games": 0,
         "bench_points": 0.0,
-        "bench_games": 3,
+        "bench_games": 17,
         "total_points": 0.0,
-        "total_games": 3
+        "total_games": 17
       }
     ]
   },
@@ -927,7 +994,7 @@
     "position": "RB",
     "overall_started_points": 954.3,
     "overall_bench_points": 11.5,
-    "overall_started_games": 51,
+    "overall_started_games": 65,
     "overall_bench_games": 20,
     "best_team_owner": "Luis",
     "best_team_started_points": 376.4,
@@ -945,11 +1012,11 @@
       {
         "owner": "Joseph",
         "started_points": 295.9,
-        "started_games": 20,
+        "started_games": 34,
         "bench_points": 11.5,
         "bench_games": 8,
         "total_points": 307.4,
-        "total_games": 28
+        "total_games": 42
       },
       {
         "owner": "Laureano",
@@ -977,7 +1044,7 @@
     "overall_started_points": 936.82,
     "overall_bench_points": 157.46,
     "overall_started_games": 53,
-    "overall_bench_games": 12,
+    "overall_bench_games": 26,
     "best_team_owner": "Michael",
     "best_team_started_points": 299.88,
     "best_team_started_games": 16,
@@ -996,9 +1063,9 @@
         "started_points": 283.04,
         "started_games": 16,
         "bench_points": 0.0,
-        "bench_games": 1,
+        "bench_games": 15,
         "total_points": 283.04,
-        "total_games": 17
+        "total_games": 31
       },
       {
         "owner": "Sway",
@@ -1043,20 +1110,20 @@
     "position": "QB",
     "overall_started_points": 910.34,
     "overall_bench_points": 201.0,
-    "overall_started_games": 45,
+    "overall_started_games": 59,
     "overall_bench_games": 20,
     "best_team_owner": "kevin",
     "best_team_started_points": 370.66,
-    "best_team_started_games": 19,
+    "best_team_started_games": 33,
     "teams": [
       {
         "owner": "kevin",
         "started_points": 370.66,
-        "started_games": 19,
+        "started_games": 33,
         "bench_points": 39.54,
         "bench_games": 4,
         "total_points": 410.2,
-        "total_games": 23
+        "total_games": 37
       },
       {
         "owner": "Najee",
@@ -1101,7 +1168,7 @@
     "position": "TE",
     "overall_started_points": 906.7,
     "overall_bench_points": 66.7,
-    "overall_started_games": 62,
+    "overall_started_games": 76,
     "overall_bench_games": 9,
     "best_team_owner": "Laureano",
     "best_team_started_points": 386.7,
@@ -1142,6 +1209,15 @@
         "bench_games": 1,
         "total_points": 46.9,
         "total_games": 6
+      },
+      {
+        "owner": "Sway",
+        "started_points": 0.0,
+        "started_games": 14,
+        "bench_points": 0.0,
+        "bench_games": 0,
+        "total_points": 0.0,
+        "total_games": 14
       }
     ]
   },
@@ -1151,7 +1227,7 @@
     "overall_started_points": 869.76,
     "overall_bench_points": 17.7,
     "overall_started_games": 56,
-    "overall_bench_games": 5,
+    "overall_bench_games": 19,
     "best_team_owner": "Joseph",
     "best_team_started_points": 308.9,
     "best_team_started_games": 19,
@@ -1179,9 +1255,9 @@
         "started_points": 182.96,
         "started_games": 12,
         "bench_points": 0.0,
-        "bench_games": 1,
+        "bench_games": 15,
         "total_points": 182.96,
-        "total_games": 13
+        "total_games": 27
       },
       {
         "owner": "Fabian",
@@ -1208,7 +1284,7 @@
     "position": "WR",
     "overall_started_points": 851.8,
     "overall_bench_points": 102.92,
-    "overall_started_games": 51,
+    "overall_started_games": 65,
     "overall_bench_games": 11,
     "best_team_owner": "Michael",
     "best_team_started_points": 273.1,
@@ -1235,11 +1311,11 @@
       {
         "owner": "Sway",
         "started_points": 166.4,
-        "started_games": 13,
+        "started_games": 27,
         "bench_points": 33.6,
         "bench_games": 2,
         "total_points": 200.0,
-        "total_games": 15
+        "total_games": 29
       },
       {
         "owner": "Xavier",
@@ -1275,7 +1351,7 @@
     "position": "WR",
     "overall_started_points": 844.9,
     "overall_bench_points": 98.1,
-    "overall_started_games": 60,
+    "overall_started_games": 74,
     "overall_bench_games": 11,
     "best_team_owner": "Daniel",
     "best_team_started_points": 236.6,
@@ -1320,11 +1396,11 @@
       {
         "owner": "kevin",
         "started_points": 50.5,
-        "started_games": 3,
+        "started_games": 17,
         "bench_points": 0.0,
         "bench_games": 0,
         "total_points": 50.5,
-        "total_games": 3
+        "total_games": 17
       },
       {
         "owner": "Luis",
@@ -1342,7 +1418,7 @@
     "position": "QB",
     "overall_started_points": 840.52,
     "overall_bench_points": 226.74,
-    "overall_started_games": 42,
+    "overall_started_games": 56,
     "overall_bench_games": 21,
     "best_team_owner": "Michael",
     "best_team_started_points": 253.72,
@@ -1378,11 +1454,11 @@
       {
         "owner": "Daniel",
         "started_points": 151.76,
-        "started_games": 8,
+        "started_games": 22,
         "bench_points": 31.54,
         "bench_games": 3,
         "total_points": 183.3,
-        "total_games": 11
+        "total_games": 25
       },
       {
         "owner": "Joseph",
@@ -1409,7 +1485,7 @@
     "position": "TE",
     "overall_started_points": 827.7,
     "overall_bench_points": 16.0,
-    "overall_started_games": 55,
+    "overall_started_games": 69,
     "overall_bench_games": 16,
     "best_team_owner": "Michael",
     "best_team_started_points": 239.9,
@@ -1454,11 +1530,11 @@
       {
         "owner": "Frankie",
         "started_points": 44.2,
-        "started_games": 2,
+        "started_games": 16,
         "bench_points": 3.2,
         "bench_games": 1,
         "total_points": 47.4,
-        "total_games": 3
+        "total_games": 17
       },
       {
         "owner": "Joseph",
@@ -1477,7 +1553,7 @@
     "overall_started_points": 825.5,
     "overall_bench_points": 48.8,
     "overall_started_games": 50,
-    "overall_bench_games": 21,
+    "overall_bench_games": 35,
     "best_team_owner": "Najee",
     "best_team_started_points": 283.3,
     "best_team_started_games": 15,
@@ -1496,9 +1572,9 @@
         "started_points": 248.6,
         "started_games": 14,
         "bench_points": 20.6,
-        "bench_games": 6,
+        "bench_games": 20,
         "total_points": 269.2,
-        "total_games": 20
+        "total_games": 34
       },
       {
         "owner": "Sway",
@@ -1530,78 +1606,11 @@
     ]
   },
   {
-    "player": "DK Metcalf",
-    "position": "WR",
-    "overall_started_points": 823.5,
-    "overall_bench_points": 49.6,
-    "overall_started_games": 60,
-    "overall_bench_games": 11,
-    "best_team_owner": "Luis",
-    "best_team_started_points": 329.1,
-    "best_team_started_games": 21,
-    "teams": [
-      {
-        "owner": "Luis",
-        "started_points": 329.1,
-        "started_games": 21,
-        "bench_points": 0.0,
-        "bench_games": 3,
-        "total_points": 329.1,
-        "total_games": 24
-      },
-      {
-        "owner": "Laureano",
-        "started_points": 195.2,
-        "started_games": 16,
-        "bench_points": 0.0,
-        "bench_games": 1,
-        "total_points": 195.2,
-        "total_games": 17
-      },
-      {
-        "owner": "Daniel",
-        "started_points": 168.3,
-        "started_games": 12,
-        "bench_points": 24.6,
-        "bench_games": 5,
-        "total_points": 192.9,
-        "total_games": 17
-      },
-      {
-        "owner": "Joseph",
-        "started_points": 74.1,
-        "started_games": 5,
-        "bench_points": 7.5,
-        "bench_games": 1,
-        "total_points": 81.6,
-        "total_games": 6
-      },
-      {
-        "owner": "kevin",
-        "started_points": 30.0,
-        "started_games": 3,
-        "bench_points": 17.5,
-        "bench_games": 1,
-        "total_points": 47.5,
-        "total_games": 4
-      },
-      {
-        "owner": "Fabian",
-        "started_points": 26.8,
-        "started_games": 3,
-        "bench_points": 0.0,
-        "bench_games": 0,
-        "total_points": 26.8,
-        "total_games": 3
-      }
-    ]
-  },
-  {
     "player": "Kyren Williams",
     "position": "RB",
     "overall_started_points": 808.9,
     "overall_bench_points": 37.9,
-    "overall_started_games": 45,
+    "overall_started_games": 59,
     "overall_bench_games": 10,
     "best_team_owner": "Luis",
     "best_team_started_points": 230.3,
@@ -1646,11 +1655,11 @@
       {
         "owner": "Daniel",
         "started_points": 53.0,
-        "started_games": 3,
+        "started_games": 17,
         "bench_points": 0.0,
         "bench_games": 0,
         "total_points": 53.0,
-        "total_games": 3
+        "total_games": 17
       }
     ]
   },
@@ -1659,7 +1668,7 @@
     "position": "WR",
     "overall_started_points": 800.5,
     "overall_bench_points": 72.0,
-    "overall_started_games": 38,
+    "overall_started_games": 52,
     "overall_bench_games": 15,
     "best_team_owner": "Joseph",
     "best_team_started_points": 488.7,
@@ -1704,11 +1713,11 @@
       {
         "owner": "kevin",
         "started_points": 12.4,
-        "started_games": 1,
+        "started_games": 15,
         "bench_points": 0.0,
         "bench_games": 2,
         "total_points": 12.4,
-        "total_games": 3
+        "total_games": 17
       }
     ]
   },
@@ -1717,20 +1726,20 @@
     "position": "RB",
     "overall_started_points": 796.0,
     "overall_bench_points": 83.7,
-    "overall_started_games": 54,
+    "overall_started_games": 68,
     "overall_bench_games": 17,
     "best_team_owner": "Frankie",
     "best_team_started_points": 270.6,
-    "best_team_started_games": 16,
+    "best_team_started_games": 30,
     "teams": [
       {
         "owner": "Frankie",
         "started_points": 270.6,
-        "started_games": 16,
+        "started_games": 30,
         "bench_points": 10.8,
         "bench_games": 3,
         "total_points": 281.4,
-        "total_games": 19
+        "total_games": 33
       },
       {
         "owner": "Sway",
@@ -1784,7 +1793,7 @@
     "position": "WR",
     "overall_started_points": 783.62,
     "overall_bench_points": 60.0,
-    "overall_started_games": 56,
+    "overall_started_games": 70,
     "overall_bench_games": 15,
     "best_team_owner": "luis",
     "best_team_started_points": 259.9,
@@ -1838,11 +1847,11 @@
       {
         "owner": "Michael",
         "started_points": 31.4,
-        "started_games": 3,
+        "started_games": 17,
         "bench_points": 0.0,
         "bench_games": 0,
         "total_points": 31.4,
-        "total_games": 3
+        "total_games": 17
       },
       {
         "owner": "Najee",
@@ -1860,7 +1869,7 @@
     "position": "WR",
     "overall_started_points": 772.4,
     "overall_bench_points": 62.7,
-    "overall_started_games": 50,
+    "overall_started_games": 64,
     "overall_bench_games": 20,
     "best_team_owner": "Frankie",
     "best_team_started_points": 434.7,
@@ -1887,11 +1896,11 @@
       {
         "owner": "Jose",
         "started_points": 77.5,
-        "started_games": 4,
+        "started_games": 18,
         "bench_points": 0.0,
         "bench_games": 0,
         "total_points": 77.5,
-        "total_games": 4
+        "total_games": 18
       },
       {
         "owner": "kevin",
@@ -1927,7 +1936,7 @@
     "position": "RB",
     "overall_started_points": 770.3,
     "overall_bench_points": 52.7,
-    "overall_started_games": 49,
+    "overall_started_games": 63,
     "overall_bench_games": 22,
     "best_team_owner": "Daniel",
     "best_team_started_points": 580.3,
@@ -1963,11 +1972,11 @@
       {
         "owner": "Jose",
         "started_points": 0.0,
-        "started_games": 0,
+        "started_games": 14,
         "bench_points": 12.3,
         "bench_games": 3,
         "total_points": 12.3,
-        "total_games": 3
+        "total_games": 17
       }
     ]
   },
@@ -1977,7 +1986,7 @@
     "overall_started_points": 757.3,
     "overall_bench_points": 140.3,
     "overall_started_games": 54,
-    "overall_bench_games": 17,
+    "overall_bench_games": 31,
     "best_team_owner": "Xavier",
     "best_team_started_points": 291.2,
     "best_team_started_games": 17,
@@ -2005,9 +2014,9 @@
         "started_points": 143.6,
         "started_games": 16,
         "bench_points": 8.5,
-        "bench_games": 4,
+        "bench_games": 18,
         "total_points": 152.1,
-        "total_games": 20
+        "total_games": 34
       },
       {
         "owner": "Luis",
@@ -2025,7 +2034,7 @@
     "position": "WR",
     "overall_started_points": 716.1,
     "overall_bench_points": 117.8,
-    "overall_started_games": 49,
+    "overall_started_games": 63,
     "overall_bench_games": 22,
     "best_team_owner": "Michael",
     "best_team_started_points": 226.2,
@@ -2043,11 +2052,11 @@
       {
         "owner": "Joseph",
         "started_points": 218.8,
-        "started_games": 11,
+        "started_games": 25,
         "bench_points": 0.0,
         "bench_games": 6,
         "total_points": 218.8,
-        "total_games": 17
+        "total_games": 31
       },
       {
         "owner": "Daniel",
@@ -2083,7 +2092,7 @@
     "position": "WR",
     "overall_started_points": 714.1,
     "overall_bench_points": 207.78,
-    "overall_started_games": 53,
+    "overall_started_games": 67,
     "overall_bench_games": 18,
     "best_team_owner": "Sway",
     "best_team_started_points": 342.7,
@@ -2110,11 +2119,11 @@
       {
         "owner": "Luis",
         "started_points": 68.5,
-        "started_games": 7,
+        "started_games": 21,
         "bench_points": 134.3,
         "bench_games": 9,
         "total_points": 202.8,
-        "total_games": 16
+        "total_games": 30
       },
       {
         "owner": "Jose",
@@ -2150,7 +2159,7 @@
     "position": "WR",
     "overall_started_points": 702.8,
     "overall_bench_points": 126.4,
-    "overall_started_games": 50,
+    "overall_started_games": 64,
     "overall_bench_games": 21,
     "best_team_owner": "Fabian",
     "best_team_started_points": 338.9,
@@ -2186,11 +2195,11 @@
       {
         "owner": "Sway",
         "started_points": 59.3,
-        "started_games": 4,
+        "started_games": 18,
         "bench_points": 0.0,
         "bench_games": 10,
         "total_points": 59.3,
-        "total_games": 14
+        "total_games": 28
       },
       {
         "owner": "Luis",
@@ -2218,6 +2227,55 @@
         "bench_games": 1,
         "total_points": 9.2,
         "total_games": 1
+      }
+    ]
+  },
+  {
+    "player": "Michael Pittman Jr.",
+    "position": "WR",
+    "overall_started_points": 700.7,
+    "overall_bench_points": 178.9,
+    "overall_started_games": 64,
+    "overall_bench_games": 21,
+    "best_team_owner": "Michael",
+    "best_team_started_points": 274.8,
+    "best_team_started_games": 30,
+    "teams": [
+      {
+        "owner": "Michael",
+        "started_points": 274.8,
+        "started_games": 30,
+        "bench_points": 40.4,
+        "bench_games": 4,
+        "total_points": 315.2,
+        "total_games": 34
+      },
+      {
+        "owner": "Laureano",
+        "started_points": 166.2,
+        "started_games": 14,
+        "bench_points": 35.1,
+        "bench_games": 3,
+        "total_points": 201.3,
+        "total_games": 17
+      },
+      {
+        "owner": "luis",
+        "started_points": 144.5,
+        "started_games": 8,
+        "bench_points": 62.0,
+        "bench_games": 9,
+        "total_points": 206.5,
+        "total_games": 17
+      },
+      {
+        "owner": "Luis",
+        "started_points": 115.2,
+        "started_games": 12,
+        "bench_points": 41.4,
+        "bench_games": 5,
+        "total_points": 156.6,
+        "total_games": 17
       }
     ]
   },
@@ -2266,7 +2324,7 @@
     "position": "RB",
     "overall_started_points": 690.5,
     "overall_bench_points": 188.7,
-    "overall_started_games": 52,
+    "overall_started_games": 66,
     "overall_bench_games": 19,
     "best_team_owner": "Frankie",
     "best_team_started_points": 374.9,
@@ -2311,11 +2369,11 @@
       {
         "owner": "Michael",
         "started_points": 25.5,
-        "started_games": 3,
+        "started_games": 17,
         "bench_points": 0.0,
         "bench_games": 0,
         "total_points": 25.5,
-        "total_games": 3
+        "total_games": 17
       },
       {
         "owner": "Sway",
@@ -2333,7 +2391,7 @@
     "position": "RB",
     "overall_started_points": 684.3,
     "overall_bench_points": 165.1,
-    "overall_started_games": 44,
+    "overall_started_games": 58,
     "overall_bench_games": 27,
     "best_team_owner": "kevin",
     "best_team_started_points": 313.9,
@@ -2351,11 +2409,11 @@
       {
         "owner": "Sway",
         "started_points": 194.5,
-        "started_games": 12,
+        "started_games": 26,
         "bench_points": 28.2,
         "bench_games": 2,
         "total_points": 222.7,
-        "total_games": 14
+        "total_games": 28
       },
       {
         "owner": "Najee",
@@ -2400,7 +2458,7 @@
     "position": "RB",
     "overall_started_points": 678.14,
     "overall_bench_points": 134.9,
-    "overall_started_games": 51,
+    "overall_started_games": 65,
     "overall_bench_games": 20,
     "best_team_owner": "Frankie",
     "best_team_started_points": 210.2,
@@ -2427,11 +2485,11 @@
       {
         "owner": "Laureano",
         "started_points": 158.82,
-        "started_games": 14,
+        "started_games": 28,
         "bench_points": 43.7,
         "bench_games": 6,
         "total_points": 202.52,
-        "total_games": 20
+        "total_games": 34
       },
       {
         "owner": "Daniel",
@@ -2503,55 +2561,6 @@
     ]
   },
   {
-    "player": "Michael Pittman Jr.",
-    "position": "WR",
-    "overall_started_points": 651.7,
-    "overall_bench_points": 178.9,
-    "overall_started_games": 50,
-    "overall_bench_games": 21,
-    "best_team_owner": "Michael",
-    "best_team_started_points": 225.8,
-    "best_team_started_games": 16,
-    "teams": [
-      {
-        "owner": "Michael",
-        "started_points": 225.8,
-        "started_games": 16,
-        "bench_points": 40.4,
-        "bench_games": 4,
-        "total_points": 266.2,
-        "total_games": 20
-      },
-      {
-        "owner": "Laureano",
-        "started_points": 166.2,
-        "started_games": 14,
-        "bench_points": 35.1,
-        "bench_games": 3,
-        "total_points": 201.3,
-        "total_games": 17
-      },
-      {
-        "owner": "luis",
-        "started_points": 144.5,
-        "started_games": 8,
-        "bench_points": 62.0,
-        "bench_games": 9,
-        "total_points": 206.5,
-        "total_games": 17
-      },
-      {
-        "owner": "Luis",
-        "started_points": 115.2,
-        "started_games": 12,
-        "bench_points": 41.4,
-        "bench_games": 5,
-        "total_points": 156.6,
-        "total_games": 17
-      }
-    ]
-  },
-  {
     "player": "Austin Ekeler",
     "position": "RB",
     "overall_started_points": 642.1,
@@ -2606,7 +2615,7 @@
     "overall_started_points": 631.38,
     "overall_bench_points": 80.9,
     "overall_started_games": 34,
-    "overall_bench_games": 22,
+    "overall_bench_games": 36,
     "best_team_owner": "Luis",
     "best_team_started_points": 289.36,
     "best_team_started_games": 16,
@@ -2661,9 +2670,9 @@
         "started_points": 0.0,
         "started_games": 0,
         "bench_points": 11.42,
-        "bench_games": 1,
+        "bench_games": 15,
         "total_points": 11.42,
-        "total_games": 1
+        "total_games": 15
       }
     ]
   },
@@ -2673,7 +2682,7 @@
     "overall_started_points": 630.6,
     "overall_bench_points": 105.4,
     "overall_started_games": 36,
-    "overall_bench_games": 23,
+    "overall_bench_games": 37,
     "best_team_owner": "Xavier",
     "best_team_started_points": 400.6,
     "best_team_started_games": 24,
@@ -2701,9 +2710,9 @@
         "started_points": 21.2,
         "started_games": 1,
         "bench_points": 0.0,
-        "bench_games": 2,
+        "bench_games": 16,
         "total_points": 21.2,
-        "total_games": 3
+        "total_games": 17
       },
       {
         "owner": "Najee",
@@ -2730,20 +2739,20 @@
     "position": "WR",
     "overall_started_points": 626.4,
     "overall_bench_points": 73.3,
-    "overall_started_games": 46,
+    "overall_started_games": 60,
     "overall_bench_games": 8,
     "best_team_owner": "Sway",
     "best_team_started_points": 288.1,
-    "best_team_started_games": 20,
+    "best_team_started_games": 34,
     "teams": [
       {
         "owner": "Sway",
         "started_points": 288.1,
-        "started_games": 20,
+        "started_games": 34,
         "bench_points": 0.0,
         "bench_games": 2,
         "total_points": 288.1,
-        "total_games": 22
+        "total_games": 36
       },
       {
         "owner": "Daniel",
@@ -2789,7 +2798,7 @@
     "overall_started_points": 610.0,
     "overall_bench_points": 208.4,
     "overall_started_games": 47,
-    "overall_bench_games": 24,
+    "overall_bench_games": 38,
     "best_team_owner": "Daniel",
     "best_team_started_points": 228.7,
     "best_team_started_games": 13,
@@ -2865,6 +2874,15 @@
         "bench_games": 1,
         "total_points": 30.1,
         "total_games": 3
+      },
+      {
+        "owner": "Sway",
+        "started_points": 0.0,
+        "started_games": 0,
+        "bench_points": 0.0,
+        "bench_games": 14,
+        "total_points": 0.0,
+        "total_games": 14
       }
     ]
   },
@@ -2873,7 +2891,7 @@
     "position": "TE",
     "overall_started_points": 609.0,
     "overall_bench_points": 110.4,
-    "overall_started_games": 35,
+    "overall_started_games": 49,
     "overall_bench_games": 11,
     "best_team_owner": "Jose",
     "best_team_started_points": 351.9,
@@ -2891,11 +2909,11 @@
       {
         "owner": "Luis",
         "started_points": 251.9,
-        "started_games": 14,
+        "started_games": 28,
         "bench_points": 0.0,
         "bench_games": 1,
         "total_points": 251.9,
-        "total_games": 15
+        "total_games": 29
       },
       {
         "owner": "kevin",
@@ -3011,20 +3029,20 @@
     "position": "TE",
     "overall_started_points": 598.8,
     "overall_bench_points": 40.7,
-    "overall_started_games": 54,
+    "overall_started_games": 68,
     "overall_bench_games": 16,
     "best_team_owner": "Sway",
     "best_team_started_points": 262.8,
-    "best_team_started_games": 25,
+    "best_team_started_games": 39,
     "teams": [
       {
         "owner": "Sway",
         "started_points": 262.8,
-        "started_games": 25,
+        "started_games": 39,
         "bench_points": 21.5,
         "bench_games": 6,
         "total_points": 284.3,
-        "total_games": 31
+        "total_games": 45
       },
       {
         "owner": "Joseph",
@@ -3060,7 +3078,7 @@
     "position": "WR",
     "overall_started_points": 598.26,
     "overall_bench_points": 232.4,
-    "overall_started_games": 27,
+    "overall_started_games": 41,
     "overall_bench_games": 23,
     "best_team_owner": "Fabian",
     "best_team_started_points": 473.9,
@@ -3078,11 +3096,11 @@
       {
         "owner": "Laureano",
         "started_points": 115.06,
-        "started_games": 3,
+        "started_games": 17,
         "bench_points": 0.0,
         "bench_games": 0,
         "total_points": 115.06,
-        "total_games": 3
+        "total_games": 17
       },
       {
         "owner": "Sway",
@@ -3119,7 +3137,7 @@
     "overall_started_points": 589.56,
     "overall_bench_points": 219.0,
     "overall_started_games": 35,
-    "overall_bench_games": 35,
+    "overall_bench_games": 49,
     "best_team_owner": "Joseph",
     "best_team_started_points": 377.46,
     "best_team_started_games": 22,
@@ -3156,9 +3174,9 @@
         "started_points": 0.0,
         "started_games": 0,
         "bench_points": 29.0,
-        "bench_games": 3,
+        "bench_games": 17,
         "total_points": 29.0,
-        "total_games": 3
+        "total_games": 17
       }
     ]
   },
@@ -3167,20 +3185,20 @@
     "position": "RB",
     "overall_started_points": 586.7,
     "overall_bench_points": 148.2,
-    "overall_started_games": 47,
+    "overall_started_games": 61,
     "overall_bench_games": 24,
     "best_team_owner": "Xavier",
     "best_team_started_points": 281.9,
-    "best_team_started_games": 25,
+    "best_team_started_games": 39,
     "teams": [
       {
         "owner": "Xavier",
         "started_points": 281.9,
-        "started_games": 25,
+        "started_games": 39,
         "bench_points": 71.6,
         "bench_games": 12,
         "total_points": 353.5,
-        "total_games": 37
+        "total_games": 51
       },
       {
         "owner": "Daniel",
@@ -3265,7 +3283,7 @@
     "position": "WR",
     "overall_started_points": 564.2,
     "overall_bench_points": 249.68,
-    "overall_started_games": 38,
+    "overall_started_games": 52,
     "overall_bench_games": 33,
     "best_team_owner": "Frankie",
     "best_team_started_points": 436.8,
@@ -3292,11 +3310,11 @@
       {
         "owner": "Xavier",
         "started_points": 44.8,
-        "started_games": 3,
+        "started_games": 17,
         "bench_points": 0.0,
         "bench_games": 0,
         "total_points": 44.8,
-        "total_games": 3
+        "total_games": 17
       },
       {
         "owner": "Jose",
@@ -3479,7 +3497,7 @@
     "position": "TE",
     "overall_started_points": 514.9,
     "overall_bench_points": 25.1,
-    "overall_started_games": 40,
+    "overall_started_games": 54,
     "overall_bench_games": 9,
     "best_team_owner": "Fabian",
     "best_team_started_points": 224.7,
@@ -3506,11 +3524,11 @@
       {
         "owner": "Daniel",
         "started_points": 115.3,
-        "started_games": 10,
+        "started_games": 24,
         "bench_points": 0.0,
         "bench_games": 3,
         "total_points": 115.3,
-        "total_games": 13
+        "total_games": 27
       },
       {
         "owner": "Luis",
@@ -3582,12 +3600,70 @@
     ]
   },
   {
+    "player": "Jaylen Warren",
+    "position": "RB",
+    "overall_started_points": 506.2,
+    "overall_bench_points": 268.9,
+    "overall_started_games": 36,
+    "overall_bench_games": 31,
+    "best_team_owner": "Jose",
+    "best_team_started_points": 250.7,
+    "best_team_started_games": 16,
+    "teams": [
+      {
+        "owner": "Jose",
+        "started_points": 250.7,
+        "started_games": 16,
+        "bench_points": 30.6,
+        "bench_games": 3,
+        "total_points": 281.3,
+        "total_games": 19
+      },
+      {
+        "owner": "Fabian",
+        "started_points": 163.8,
+        "started_games": 13,
+        "bench_points": 96.9,
+        "bench_games": 9,
+        "total_points": 260.7,
+        "total_games": 22
+      },
+      {
+        "owner": "Xavier",
+        "started_points": 87.7,
+        "started_games": 6,
+        "bench_points": 109.7,
+        "bench_games": 11,
+        "total_points": 197.4,
+        "total_games": 17
+      },
+      {
+        "owner": "Laureano",
+        "started_points": 4.0,
+        "started_games": 1,
+        "bench_points": 29.8,
+        "bench_games": 7,
+        "total_points": 33.8,
+        "total_games": 8
+      },
+      {
+        "owner": "Luis",
+        "started_points": 0.0,
+        "started_games": 0,
+        "bench_points": 1.9,
+        "bench_games": 1,
+        "total_points": 1.9,
+        "total_games": 1
+      }
+    ]
+  },
+  {
     "player": "T.J. Hockenson",
     "position": "TE",
     "overall_started_points": 506.1,
     "overall_bench_points": 99.5,
     "overall_started_games": 44,
-    "overall_bench_games": 22,
+    "overall_bench_games": 36,
     "best_team_owner": "Najee",
     "best_team_started_points": 254.8,
     "best_team_started_games": 21,
@@ -3597,9 +3673,9 @@
         "started_points": 254.8,
         "started_games": 21,
         "bench_points": 75.7,
-        "bench_games": 18,
+        "bench_games": 32,
         "total_points": 330.5,
-        "total_games": 39
+        "total_games": 53
       },
       {
         "owner": "Daniel",
@@ -3662,7 +3738,7 @@
     "position": "WR",
     "overall_started_points": 501.8,
     "overall_bench_points": 384.4,
-    "overall_started_games": 34,
+    "overall_started_games": 48,
     "overall_bench_games": 37,
     "best_team_owner": "Xavier",
     "best_team_started_points": 301.0,
@@ -3689,11 +3765,11 @@
       {
         "owner": "Daniel",
         "started_points": 68.1,
-        "started_games": 7,
+        "started_games": 21,
         "bench_points": 198.4,
         "bench_games": 13,
         "total_points": 266.5,
-        "total_games": 20
+        "total_games": 34
       },
       {
         "owner": "Najee",
@@ -3765,6 +3841,64 @@
     ]
   },
   {
+    "player": "Quinshon Judkins",
+    "position": "RB",
+    "overall_started_points": 491.8,
+    "overall_bench_points": 10.1,
+    "overall_started_games": 30,
+    "overall_bench_games": 4,
+    "best_team_owner": "Luis",
+    "best_team_started_points": 312.3,
+    "best_team_started_games": 15,
+    "teams": [
+      {
+        "owner": "Luis",
+        "started_points": 312.3,
+        "started_games": 15,
+        "bench_points": 0.0,
+        "bench_games": 0,
+        "total_points": 312.3,
+        "total_games": 15
+      },
+      {
+        "owner": "kevin",
+        "started_points": 105.3,
+        "started_games": 9,
+        "bench_points": 0.0,
+        "bench_games": 2,
+        "total_points": 105.3,
+        "total_games": 11
+      },
+      {
+        "owner": "Joseph",
+        "started_points": 38.0,
+        "started_games": 2,
+        "bench_points": 10.1,
+        "bench_games": 2,
+        "total_points": 48.1,
+        "total_games": 4
+      },
+      {
+        "owner": "Sway",
+        "started_points": 19.4,
+        "started_games": 2,
+        "bench_points": 0.0,
+        "bench_games": 0,
+        "total_points": 19.4,
+        "total_games": 2
+      },
+      {
+        "owner": "Daniel",
+        "started_points": 16.8,
+        "started_games": 2,
+        "bench_points": 0.0,
+        "bench_games": 0,
+        "total_points": 16.8,
+        "total_games": 2
+      }
+    ]
+  },
+  {
     "player": "Amari Cooper",
     "position": "WR",
     "overall_started_points": 470.9,
@@ -3810,7 +3944,7 @@
     "overall_started_points": 467.18,
     "overall_bench_points": 50.1,
     "overall_started_games": 22,
-    "overall_bench_games": 13,
+    "overall_bench_games": 27,
     "best_team_owner": "Xavier",
     "best_team_started_points": 340.36,
     "best_team_started_games": 15,
@@ -3829,9 +3963,9 @@
         "started_points": 87.0,
         "started_games": 5,
         "bench_points": 0.0,
-        "bench_games": 4,
+        "bench_games": 18,
         "total_points": 87.0,
-        "total_games": 9
+        "total_games": 23
       },
       {
         "owner": "Laureano",
@@ -3858,7 +3992,7 @@
     "position": "TE",
     "overall_started_points": 466.5,
     "overall_bench_points": 0.0,
-    "overall_started_games": 30,
+    "overall_started_games": 44,
     "overall_bench_games": 7,
     "best_team_owner": "Xavier",
     "best_team_started_points": 256.7,
@@ -3885,11 +4019,11 @@
       {
         "owner": "Laureano",
         "started_points": 29.6,
-        "started_games": 1,
+        "started_games": 15,
         "bench_points": 0.0,
         "bench_games": 2,
         "total_points": 29.6,
-        "total_games": 3
+        "total_games": 17
       }
     ]
   },
@@ -3899,7 +4033,7 @@
     "overall_started_points": 454.04,
     "overall_bench_points": 116.36,
     "overall_started_games": 23,
-    "overall_bench_games": 9,
+    "overall_bench_games": 23,
     "best_team_owner": "Sway",
     "best_team_started_points": 243.36,
     "best_team_started_games": 11,
@@ -3909,9 +4043,9 @@
         "started_points": 243.36,
         "started_games": 11,
         "bench_points": 29.76,
-        "bench_games": 2,
+        "bench_games": 16,
         "total_points": 273.12,
-        "total_games": 13
+        "total_games": 27
       },
       {
         "owner": "kevin",
@@ -3947,7 +4081,7 @@
     "position": "RB",
     "overall_started_points": 449.4,
     "overall_bench_points": 116.1,
-    "overall_started_games": 25,
+    "overall_started_games": 39,
     "overall_bench_games": 12,
     "best_team_owner": "Jose",
     "best_team_started_points": 224.8,
@@ -3974,11 +4108,11 @@
       {
         "owner": "Fabian",
         "started_points": 38.9,
-        "started_games": 3,
+        "started_games": 17,
         "bench_points": 0.0,
         "bench_games": 0,
         "total_points": 38.9,
-        "total_games": 3
+        "total_games": 17
       }
     ]
   },
@@ -3988,7 +4122,7 @@
     "overall_started_points": 449.2,
     "overall_bench_points": 359.8,
     "overall_started_games": 42,
-    "overall_bench_games": 29,
+    "overall_bench_games": 43,
     "best_team_owner": "Jose",
     "best_team_started_points": 186.5,
     "best_team_started_games": 14,
@@ -4052,9 +4186,9 @@
         "started_points": 8.6,
         "started_games": 2,
         "bench_points": 7.6,
-        "bench_games": 1,
+        "bench_games": 15,
         "total_points": 16.2,
-        "total_games": 3
+        "total_games": 17
       }
     ]
   },
@@ -4063,7 +4197,7 @@
     "position": "RB",
     "overall_started_points": 449.0,
     "overall_bench_points": 196.1,
-    "overall_started_games": 34,
+    "overall_started_games": 48,
     "overall_bench_games": 24,
     "best_team_owner": "Najee",
     "best_team_started_points": 105.5,
@@ -4099,11 +4233,11 @@
       {
         "owner": "Luis",
         "started_points": 50.5,
-        "started_games": 3,
+        "started_games": 17,
         "bench_points": 0.0,
         "bench_games": 0,
         "total_points": 50.5,
-        "total_games": 3
+        "total_games": 17
       },
       {
         "owner": "kevin",
@@ -4139,7 +4273,7 @@
     "position": "K",
     "overall_started_points": 445.6,
     "overall_bench_points": 77.0,
-    "overall_started_games": 41,
+    "overall_started_games": 55,
     "overall_bench_games": 11,
     "best_team_owner": "Joseph",
     "best_team_started_points": 321.6,
@@ -4166,11 +4300,11 @@
       {
         "owner": "Michael",
         "started_points": 28.0,
-        "started_games": 3,
+        "started_games": 17,
         "bench_points": 0.0,
         "bench_games": 0,
         "total_points": 28.0,
-        "total_games": 3
+        "total_games": 17
       }
     ]
   },
@@ -4228,7 +4362,7 @@
     "position": "D/ST",
     "overall_started_points": 437.0,
     "overall_bench_points": 31.0,
-    "overall_started_games": 54,
+    "overall_started_games": 68,
     "overall_bench_games": 10,
     "best_team_owner": "Najee",
     "best_team_started_points": 164.0,
@@ -4269,6 +4403,15 @@
         "bench_games": 3,
         "total_points": 53.0,
         "total_games": 13
+      },
+      {
+        "owner": "Xavier",
+        "started_points": 0.0,
+        "started_games": 14,
+        "bench_points": 0.0,
+        "bench_games": 0,
+        "total_points": 0.0,
+        "total_games": 14
       }
     ]
   },
@@ -4277,7 +4420,7 @@
     "position": "RB",
     "overall_started_points": 433.0,
     "overall_bench_points": 205.5,
-    "overall_started_games": 30,
+    "overall_started_games": 44,
     "overall_bench_games": 30,
     "best_team_owner": "Sway",
     "best_team_started_points": 153.8,
@@ -4313,11 +4456,11 @@
       {
         "owner": "Daniel",
         "started_points": 53.1,
-        "started_games": 3,
+        "started_games": 17,
         "bench_points": 0.0,
         "bench_games": 0,
         "total_points": 53.1,
-        "total_games": 3
+        "total_games": 17
       },
       {
         "owner": "kevin",
@@ -4344,7 +4487,7 @@
     "position": "K",
     "overall_started_points": 426.0,
     "overall_bench_points": 6.0,
-    "overall_started_games": 53,
+    "overall_started_games": 67,
     "overall_bench_games": 9,
     "best_team_owner": "Luis",
     "best_team_started_points": 207.0,
@@ -4380,11 +4523,11 @@
       {
         "owner": "kevin",
         "started_points": 30.0,
-        "started_games": 4,
+        "started_games": 18,
         "bench_points": 0.0,
         "bench_games": 0,
         "total_points": 30.0,
-        "total_games": 4
+        "total_games": 18
       },
       {
         "owner": "Frankie",
@@ -4403,7 +4546,7 @@
     "overall_started_points": 421.0,
     "overall_bench_points": 156.8,
     "overall_started_games": 41,
-    "overall_bench_games": 28,
+    "overall_bench_games": 42,
     "best_team_owner": "Joseph",
     "best_team_started_points": 164.4,
     "best_team_started_games": 15,
@@ -4422,9 +4565,9 @@
         "started_points": 138.3,
         "started_games": 14,
         "bench_points": 24.7,
-        "bench_games": 6,
+        "bench_games": 20,
         "total_points": 163.0,
-        "total_games": 20
+        "total_games": 34
       },
       {
         "owner": "Daniel",
@@ -4461,7 +4604,7 @@
     "overall_started_points": 415.2,
     "overall_bench_points": 302.9,
     "overall_started_games": 28,
-    "overall_bench_games": 34,
+    "overall_bench_games": 48,
     "best_team_owner": "Jose",
     "best_team_started_points": 288.5,
     "best_team_started_games": 18,
@@ -4516,9 +4659,9 @@
         "started_points": 0.0,
         "started_games": 0,
         "bench_points": 30.1,
-        "bench_games": 3,
+        "bench_games": 17,
         "total_points": 30.1,
-        "total_games": 3
+        "total_games": 17
       }
     ]
   },
@@ -4705,7 +4848,7 @@
     "position": "TE",
     "overall_started_points": 399.7,
     "overall_bench_points": 84.5,
-    "overall_started_games": 36,
+    "overall_started_games": 50,
     "overall_bench_games": 18,
     "best_team_owner": "Luis",
     "best_team_started_points": 178.1,
@@ -4732,11 +4875,11 @@
       {
         "owner": "Joseph",
         "started_points": 58.8,
-        "started_games": 6,
+        "started_games": 20,
         "bench_points": 42.7,
         "bench_games": 10,
         "total_points": 101.5,
-        "total_games": 16
+        "total_games": 30
       },
       {
         "owner": "kevin",
@@ -4763,7 +4906,7 @@
     "position": "WR",
     "overall_started_points": 393.6,
     "overall_bench_points": 57.4,
-    "overall_started_games": 25,
+    "overall_started_games": 39,
     "overall_bench_games": 14,
     "best_team_owner": "Luis",
     "best_team_started_points": 284.7,
@@ -4790,11 +4933,11 @@
       {
         "owner": "kevin",
         "started_points": 38.0,
-        "started_games": 3,
+        "started_games": 17,
         "bench_points": 0.0,
         "bench_games": 0,
         "total_points": 38.0,
-        "total_games": 3
+        "total_games": 17
       }
     ]
   },
@@ -4803,7 +4946,7 @@
     "position": "WR",
     "overall_started_points": 386.38,
     "overall_bench_points": 358.7,
-    "overall_started_games": 34,
+    "overall_started_games": 48,
     "overall_bench_games": 36,
     "best_team_owner": "Daniel",
     "best_team_started_points": 166.4,
@@ -4830,11 +4973,11 @@
       {
         "owner": "Xavier",
         "started_points": 73.4,
-        "started_games": 7,
+        "started_games": 21,
         "bench_points": 103.4,
         "bench_games": 11,
         "total_points": 176.8,
-        "total_games": 18
+        "total_games": 32
       },
       {
         "owner": "Joseph",
@@ -4919,7 +5062,7 @@
     "position": "RB",
     "overall_started_points": 380.9,
     "overall_bench_points": 0.0,
-    "overall_started_games": 19,
+    "overall_started_games": 33,
     "overall_bench_games": 1,
     "best_team_owner": "Michael",
     "best_team_started_points": 326.7,
@@ -4937,11 +5080,11 @@
       {
         "owner": "Fabian",
         "started_points": 54.2,
-        "started_games": 3,
+        "started_games": 17,
         "bench_points": 0.0,
         "bench_games": 0,
         "total_points": 54.2,
-        "total_games": 3
+        "total_games": 17
       }
     ]
   },
@@ -4950,20 +5093,20 @@
     "position": "QB",
     "overall_started_points": 379.34,
     "overall_bench_points": 165.54,
-    "overall_started_games": 20,
+    "overall_started_games": 34,
     "overall_bench_games": 12,
     "best_team_owner": "Xavier",
     "best_team_started_points": 379.34,
-    "best_team_started_games": 20,
+    "best_team_started_games": 34,
     "teams": [
       {
         "owner": "Xavier",
         "started_points": 379.34,
-        "started_games": 20,
+        "started_games": 34,
         "bench_points": 165.54,
         "bench_games": 12,
         "total_points": 544.88,
-        "total_games": 32
+        "total_games": 46
       }
     ]
   },
@@ -4972,7 +5115,7 @@
     "position": "QB",
     "overall_started_points": 373.1,
     "overall_bench_points": 332.52,
-    "overall_started_games": 18,
+    "overall_started_games": 32,
     "overall_bench_games": 22,
     "best_team_owner": "Xavier",
     "best_team_started_points": 197.9,
@@ -4999,11 +5142,11 @@
       {
         "owner": "Jose",
         "started_points": 32.26,
-        "started_games": 2,
+        "started_games": 16,
         "bench_points": 19.78,
         "bench_games": 1,
         "total_points": 52.04,
-        "total_games": 3
+        "total_games": 17
       },
       {
         "owner": "Michael",
@@ -5205,7 +5348,7 @@
     "overall_started_points": 359.0,
     "overall_bench_points": 0.0,
     "overall_started_games": 45,
-    "overall_bench_games": 2,
+    "overall_bench_games": 16,
     "best_team_owner": "Xavier",
     "best_team_started_points": 226.0,
     "best_team_started_games": 30,
@@ -5215,9 +5358,9 @@
         "started_points": 226.0,
         "started_games": 30,
         "bench_points": 0.0,
-        "bench_games": 2,
+        "bench_games": 16,
         "total_points": 226.0,
-        "total_games": 32
+        "total_games": 46
       },
       {
         "owner": "Frankie",
@@ -5262,7 +5405,7 @@
     "position": "D/ST",
     "overall_started_points": 355.5,
     "overall_bench_points": 25.0,
-    "overall_started_games": 48,
+    "overall_started_games": 62,
     "overall_bench_games": 9,
     "best_team_owner": "Daniel",
     "best_team_started_points": 272.0,
@@ -5289,11 +5432,11 @@
       {
         "owner": "kevin",
         "started_points": 9.0,
-        "started_games": 2,
+        "started_games": 16,
         "bench_points": 0.0,
         "bench_games": 0,
         "total_points": 9.0,
-        "total_games": 2
+        "total_games": 16
       },
       {
         "owner": "Frankie",
@@ -5311,7 +5454,7 @@
     "position": "QB",
     "overall_started_points": 352.66,
     "overall_bench_points": 583.96,
-    "overall_started_games": 17,
+    "overall_started_games": 31,
     "overall_bench_games": 40,
     "best_team_owner": "Daniel",
     "best_team_started_points": 133.26,
@@ -5347,11 +5490,51 @@
       {
         "owner": "Frankie",
         "started_points": 33.02,
-        "started_games": 2,
+        "started_games": 16,
         "bench_points": 41.18,
         "bench_games": 2,
         "total_points": 74.2,
+        "total_games": 18
+      }
+    ]
+  },
+  {
+    "player": "Chris Boswell",
+    "position": "K",
+    "overall_started_points": 352.0,
+    "overall_bench_points": 32.0,
+    "overall_started_games": 51,
+    "overall_bench_games": 6,
+    "best_team_owner": "Fabian",
+    "best_team_started_points": 309.0,
+    "best_team_started_games": 45,
+    "teams": [
+      {
+        "owner": "Fabian",
+        "started_points": 309.0,
+        "started_games": 45,
+        "bench_points": 32.0,
+        "bench_games": 6,
+        "total_points": 341.0,
+        "total_games": 51
+      },
+      {
+        "owner": "Najee",
+        "started_points": 34.0,
+        "started_games": 4,
+        "bench_points": 0.0,
+        "bench_games": 0,
+        "total_points": 34.0,
         "total_games": 4
+      },
+      {
+        "owner": "Michael",
+        "started_points": 9.0,
+        "started_games": 2,
+        "bench_points": 0.0,
+        "bench_games": 0,
+        "total_points": 9.0,
+        "total_games": 2
       }
     ]
   },
@@ -5361,7 +5544,7 @@
     "overall_started_points": 351.7,
     "overall_bench_points": 206.2,
     "overall_started_games": 28,
-    "overall_bench_games": 39,
+    "overall_bench_games": 53,
     "best_team_owner": "kevin",
     "best_team_started_points": 273.3,
     "best_team_started_games": 23,
@@ -5398,9 +5581,67 @@
         "started_points": 0.0,
         "started_games": 0,
         "bench_points": 22.8,
-        "bench_games": 3,
+        "bench_games": 17,
         "total_points": 22.8,
-        "total_games": 3
+        "total_games": 17
+      }
+    ]
+  },
+  {
+    "player": "Browns D/ST",
+    "position": "D/ST",
+    "overall_started_points": 349.0,
+    "overall_bench_points": 69.0,
+    "overall_started_games": 38,
+    "overall_bench_games": 9,
+    "best_team_owner": "Fabian",
+    "best_team_started_points": 131.0,
+    "best_team_started_games": 13,
+    "teams": [
+      {
+        "owner": "Fabian",
+        "started_points": 131.0,
+        "started_games": 13,
+        "bench_points": 22.0,
+        "bench_games": 3,
+        "total_points": 153.0,
+        "total_games": 16
+      },
+      {
+        "owner": "Frankie",
+        "started_points": 112.0,
+        "started_games": 14,
+        "bench_points": 0.0,
+        "bench_games": 0,
+        "total_points": 112.0,
+        "total_games": 14
+      },
+      {
+        "owner": "Joseph",
+        "started_points": 58.0,
+        "started_games": 4,
+        "bench_points": 31.0,
+        "bench_games": 4,
+        "total_points": 89.0,
+        "total_games": 8
+      },
+      {
+        "owner": "Luis",
+        "started_points": 38.0,
+        "started_games": 5,
+        "bench_points": 16.0,
+        "bench_games": 2,
+        "total_points": 54.0,
+        "total_games": 7
+      },
+      {
+        "owner": "kevin",
+        "started_points": 10.0,
+        "started_games": 2,
+        "bench_points": 0.0,
+        "bench_games": 0,
+        "total_points": 10.0,
+        "total_games": 2
       }
     ]
   },
@@ -5409,7 +5650,7 @@
     "position": "WR",
     "overall_started_points": 348.9,
     "overall_bench_points": 0.0,
-    "overall_started_games": 21,
+    "overall_started_games": 35,
     "overall_bench_games": 8,
     "best_team_owner": "Xavier",
     "best_team_started_points": 267.2,
@@ -5436,11 +5677,11 @@
       {
         "owner": "Joseph",
         "started_points": 21.6,
-        "started_games": 3,
+        "started_games": 17,
         "bench_points": 0.0,
         "bench_games": 0,
         "total_points": 21.6,
-        "total_games": 3
+        "total_games": 17
       },
       {
         "owner": "Jose",
@@ -5516,7 +5757,7 @@
     "position": "D/ST",
     "overall_started_points": 344.0,
     "overall_bench_points": 74.0,
-    "overall_started_games": 40,
+    "overall_started_games": 54,
     "overall_bench_games": 13,
     "best_team_owner": "Laureano",
     "best_team_started_points": 115.0,
@@ -5593,6 +5834,15 @@
         "bench_games": 1,
         "total_points": 7.0,
         "total_games": 4
+      },
+      {
+        "owner": "Jose",
+        "started_points": 0.0,
+        "started_games": 14,
+        "bench_points": 0.0,
+        "bench_games": 0,
+        "total_points": 0.0,
+        "total_games": 14
       }
     ]
   },
@@ -5766,7 +6016,7 @@
     "position": "WR",
     "overall_started_points": 333.2,
     "overall_bench_points": 125.4,
-    "overall_started_games": 26,
+    "overall_started_games": 40,
     "overall_bench_games": 11,
     "best_team_owner": "Najee",
     "best_team_started_points": 164.9,
@@ -5793,11 +6043,11 @@
       {
         "owner": "Fabian",
         "started_points": 36.3,
-        "started_games": 3,
+        "started_games": 17,
         "bench_points": 0.0,
         "bench_games": 0,
         "total_points": 36.3,
-        "total_games": 3
+        "total_games": 17
       },
       {
         "owner": "Joseph",
@@ -5824,20 +6074,20 @@
     "position": "K",
     "overall_started_points": 328.0,
     "overall_bench_points": 60.0,
-    "overall_started_games": 45,
+    "overall_started_games": 59,
     "overall_bench_games": 7,
     "best_team_owner": "Joseph",
     "best_team_started_points": 192.0,
-    "best_team_started_games": 25,
+    "best_team_started_games": 39,
     "teams": [
       {
         "owner": "Joseph",
         "started_points": 192.0,
-        "started_games": 25,
+        "started_games": 39,
         "bench_points": 15.0,
         "bench_games": 2,
         "total_points": 207.0,
-        "total_games": 27
+        "total_games": 41
       },
       {
         "owner": "Frankie",
@@ -5878,41 +6128,77 @@
     ]
   },
   {
-    "player": "Chris Boswell",
-    "position": "K",
+    "player": "Steelers D/ST",
+    "position": "D/ST",
     "overall_started_points": 324.0,
-    "overall_bench_points": 32.0,
-    "overall_started_games": 37,
-    "overall_bench_games": 6,
-    "best_team_owner": "Fabian",
-    "best_team_started_points": 281.0,
-    "best_team_started_games": 31,
+    "overall_bench_points": 78.0,
+    "overall_started_games": 49,
+    "overall_bench_games": 22,
+    "best_team_owner": "Daniel",
+    "best_team_started_points": 115.0,
+    "best_team_started_games": 12,
     "teams": [
       {
-        "owner": "Fabian",
-        "started_points": 281.0,
-        "started_games": 31,
-        "bench_points": 32.0,
-        "bench_games": 6,
-        "total_points": 313.0,
-        "total_games": 37
+        "owner": "Daniel",
+        "started_points": 115.0,
+        "started_games": 12,
+        "bench_points": 13.0,
+        "bench_games": 5,
+        "total_points": 128.0,
+        "total_games": 17
       },
       {
         "owner": "Najee",
-        "started_points": 34.0,
-        "started_games": 4,
+        "started_points": 101.0,
+        "started_games": 17,
         "bench_points": 0.0,
         "bench_games": 0,
-        "total_points": 34.0,
-        "total_games": 4
+        "total_points": 101.0,
+        "total_games": 17
+      },
+      {
+        "owner": "Luis",
+        "started_points": 35.5,
+        "started_games": 6,
+        "bench_points": 0.0,
+        "bench_games": 2,
+        "total_points": 35.5,
+        "total_games": 8
+      },
+      {
+        "owner": "Laureano",
+        "started_points": 33.0,
+        "started_games": 6,
+        "bench_points": 46.0,
+        "bench_games": 8,
+        "total_points": 79.0,
+        "total_games": 14
       },
       {
         "owner": "Michael",
+        "started_points": 25.5,
+        "started_games": 3,
+        "bench_points": 0.0,
+        "bench_games": 0,
+        "total_points": 25.5,
+        "total_games": 3
+      },
+      {
+        "owner": "Fabian",
         "started_points": 9.0,
+        "started_games": 3,
+        "bench_points": 19.0,
+        "bench_games": 7,
+        "total_points": 28.0,
+        "total_games": 10
+      },
+      {
+        "owner": "Jose",
+        "started_points": 5.0,
         "started_games": 2,
         "bench_points": 0.0,
         "bench_games": 0,
-        "total_points": 9.0,
+        "total_points": 5.0,
         "total_games": 2
       }
     ]
@@ -5981,7 +6267,7 @@
     "overall_started_points": 318.5,
     "overall_bench_points": 249.9,
     "overall_started_games": 25,
-    "overall_bench_games": 46,
+    "overall_bench_games": 60,
     "best_team_owner": "Joseph",
     "best_team_started_points": 155.5,
     "best_team_started_games": 9,
@@ -6018,9 +6304,9 @@
         "started_points": 22.7,
         "started_games": 3,
         "bench_points": 0.0,
-        "bench_games": 0,
+        "bench_games": 14,
         "total_points": 22.7,
-        "total_games": 3
+        "total_games": 17
       },
       {
         "owner": "kevin",
@@ -6056,20 +6342,20 @@
     "position": "RB",
     "overall_started_points": 317.5,
     "overall_bench_points": 81.7,
-    "overall_started_games": 20,
+    "overall_started_games": 34,
     "overall_bench_games": 16,
     "best_team_owner": "Najee",
     "best_team_started_points": 158.8,
-    "best_team_started_games": 9,
+    "best_team_started_games": 23,
     "teams": [
       {
         "owner": "Najee",
         "started_points": 158.8,
-        "started_games": 9,
+        "started_games": 23,
         "bench_points": 65.6,
         "bench_games": 7,
         "total_points": 224.4,
-        "total_games": 16
+        "total_games": 30
       },
       {
         "owner": "Fabian",
@@ -6096,7 +6382,7 @@
     "position": "TE",
     "overall_started_points": 317.2,
     "overall_bench_points": 58.9,
-    "overall_started_games": 28,
+    "overall_started_games": 42,
     "overall_bench_games": 24,
     "best_team_owner": "Frankie",
     "best_team_started_points": 171.0,
@@ -6123,11 +6409,11 @@
       {
         "owner": "Fabian",
         "started_points": 46.3,
-        "started_games": 3,
+        "started_games": 17,
         "bench_points": 0.0,
         "bench_games": 0,
         "total_points": 46.3,
-        "total_games": 3
+        "total_games": 17
       },
       {
         "owner": "Najee",
@@ -6194,7 +6480,7 @@
     "position": "RB",
     "overall_started_points": 306.0,
     "overall_bench_points": 0.0,
-    "overall_started_games": 19,
+    "overall_started_games": 33,
     "overall_bench_games": 1,
     "best_team_owner": "Xavier",
     "best_team_started_points": 229.3,
@@ -6212,11 +6498,11 @@
       {
         "owner": "Michael",
         "started_points": 57.3,
-        "started_games": 3,
+        "started_games": 17,
         "bench_points": 0.0,
         "bench_games": 0,
         "total_points": 57.3,
-        "total_games": 3
+        "total_games": 17
       },
       {
         "owner": "kevin",
@@ -6234,20 +6520,20 @@
     "position": "WR",
     "overall_started_points": 297.8,
     "overall_bench_points": 307.7,
-    "overall_started_games": 23,
+    "overall_started_games": 37,
     "overall_bench_games": 31,
     "best_team_owner": "Jose",
     "best_team_started_points": 158.4,
-    "best_team_started_games": 11,
+    "best_team_started_games": 25,
     "teams": [
       {
         "owner": "Jose",
         "started_points": 158.4,
-        "started_games": 11,
+        "started_games": 25,
         "bench_points": 86.3,
         "bench_games": 8,
         "total_points": 244.7,
-        "total_games": 19
+        "total_games": 33
       },
       {
         "owner": "kevin",
@@ -6462,69 +6748,11 @@
     ]
   },
   {
-    "player": "Jaylen Warren",
-    "position": "RB",
-    "overall_started_points": 287.8,
-    "overall_bench_points": 268.9,
-    "overall_started_games": 22,
-    "overall_bench_games": 31,
-    "best_team_owner": "Fabian",
-    "best_team_started_points": 163.8,
-    "best_team_started_games": 13,
-    "teams": [
-      {
-        "owner": "Fabian",
-        "started_points": 163.8,
-        "started_games": 13,
-        "bench_points": 96.9,
-        "bench_games": 9,
-        "total_points": 260.7,
-        "total_games": 22
-      },
-      {
-        "owner": "Xavier",
-        "started_points": 87.7,
-        "started_games": 6,
-        "bench_points": 109.7,
-        "bench_games": 11,
-        "total_points": 197.4,
-        "total_games": 17
-      },
-      {
-        "owner": "Jose",
-        "started_points": 32.3,
-        "started_games": 2,
-        "bench_points": 30.6,
-        "bench_games": 3,
-        "total_points": 62.9,
-        "total_games": 5
-      },
-      {
-        "owner": "Laureano",
-        "started_points": 4.0,
-        "started_games": 1,
-        "bench_points": 29.8,
-        "bench_games": 7,
-        "total_points": 33.8,
-        "total_games": 8
-      },
-      {
-        "owner": "Luis",
-        "started_points": 0.0,
-        "started_games": 0,
-        "bench_points": 1.9,
-        "bench_games": 1,
-        "total_points": 1.9,
-        "total_games": 1
-      }
-    ]
-  },
-  {
     "player": "Vikings D/ST",
     "position": "D/ST",
     "overall_started_points": 285.0,
     "overall_bench_points": 11.0,
-    "overall_started_games": 34,
+    "overall_started_games": 48,
     "overall_bench_games": 4,
     "best_team_owner": "Daniel",
     "best_team_started_points": 124.0,
@@ -6542,11 +6770,11 @@
       {
         "owner": "Sway",
         "started_points": 112.0,
-        "started_games": 12,
+        "started_games": 26,
         "bench_points": 11.0,
         "bench_games": 3,
         "total_points": 123.0,
-        "total_games": 15
+        "total_games": 29
       },
       {
         "owner": "kevin",
@@ -6591,7 +6819,7 @@
     "position": "QB",
     "overall_started_points": 284.66,
     "overall_bench_points": 844.32,
-    "overall_started_games": 17,
+    "overall_started_games": 31,
     "overall_bench_games": 46,
     "best_team_owner": "Najee",
     "best_team_started_points": 244.36,
@@ -6627,11 +6855,11 @@
       {
         "owner": "Sway",
         "started_points": 0.0,
-        "started_games": 0,
+        "started_games": 14,
         "bench_points": 67.46,
         "bench_games": 3,
         "total_points": 67.46,
-        "total_games": 3
+        "total_games": 17
       },
       {
         "owner": "Luis",
@@ -6649,7 +6877,7 @@
     "position": "D/ST",
     "overall_started_points": 281.0,
     "overall_bench_points": 35.5,
-    "overall_started_games": 29,
+    "overall_started_games": 43,
     "overall_bench_games": 7,
     "best_team_owner": "Jose",
     "best_team_started_points": 172.0,
@@ -6667,11 +6895,11 @@
       {
         "owner": "Fabian",
         "started_points": 38.0,
-        "started_games": 6,
+        "started_games": 20,
         "bench_points": 0.0,
         "bench_games": 0,
         "total_points": 38.0,
-        "total_games": 6
+        "total_games": 20
       },
       {
         "owner": "kevin",
@@ -6775,7 +7003,7 @@
     "overall_started_points": 277.5,
     "overall_bench_points": 151.9,
     "overall_started_games": 22,
-    "overall_bench_games": 15,
+    "overall_bench_games": 29,
     "best_team_owner": "Frankie",
     "best_team_started_points": 154.9,
     "best_team_started_games": 8,
@@ -6803,9 +7031,40 @@
         "started_points": 8.8,
         "started_games": 2,
         "bench_points": 7.0,
-        "bench_games": 1,
+        "bench_games": 15,
         "total_points": 15.8,
-        "total_games": 3
+        "total_games": 17
+      }
+    ]
+  },
+  {
+    "player": "Harold Fannin Jr.",
+    "position": "TE",
+    "overall_started_points": 276.8,
+    "overall_bench_points": 100.4,
+    "overall_started_games": 23,
+    "overall_bench_games": 10,
+    "best_team_owner": "Najee",
+    "best_team_started_points": 167.9,
+    "best_team_started_games": 15,
+    "teams": [
+      {
+        "owner": "Najee",
+        "started_points": 167.9,
+        "started_games": 15,
+        "bench_points": 34.5,
+        "bench_games": 2,
+        "total_points": 202.4,
+        "total_games": 17
+      },
+      {
+        "owner": "Luis",
+        "started_points": 108.9,
+        "started_games": 8,
+        "bench_points": 65.9,
+        "bench_games": 8,
+        "total_points": 174.8,
+        "total_games": 16
       }
     ]
   },
@@ -6881,7 +7140,7 @@
     "position": "QB",
     "overall_started_points": 274.74,
     "overall_bench_points": 486.02,
-    "overall_started_games": 19,
+    "overall_started_games": 33,
     "overall_bench_games": 32,
     "best_team_owner": "Joseph",
     "best_team_started_points": 166.64,
@@ -6917,11 +7176,11 @@
       {
         "owner": "Najee",
         "started_points": 23.9,
-        "started_games": 1,
+        "started_games": 15,
         "bench_points": 0.0,
         "bench_games": 0,
         "total_points": 23.9,
-        "total_games": 1
+        "total_games": 15
       }
     ]
   },
@@ -6988,20 +7247,20 @@
     "position": "K",
     "overall_started_points": 272.0,
     "overall_bench_points": 9.0,
-    "overall_started_games": 28,
+    "overall_started_games": 42,
     "overall_bench_games": 3,
     "best_team_owner": "Najee",
     "best_team_started_points": 188.0,
-    "best_team_started_games": 19,
+    "best_team_started_games": 33,
     "teams": [
       {
         "owner": "Najee",
         "started_points": 188.0,
-        "started_games": 19,
+        "started_games": 33,
         "bench_points": 9.0,
         "bench_games": 2,
         "total_points": 197.0,
-        "total_games": 21
+        "total_games": 35
       },
       {
         "owner": "Luis",
@@ -7037,20 +7296,20 @@
     "position": "K",
     "overall_started_points": 272.0,
     "overall_bench_points": 0.0,
-    "overall_started_games": 33,
+    "overall_started_games": 47,
     "overall_bench_games": 1,
     "best_team_owner": "Frankie",
     "best_team_started_points": 153.0,
-    "best_team_started_games": 20,
+    "best_team_started_games": 34,
     "teams": [
       {
         "owner": "Frankie",
         "started_points": 153.0,
-        "started_games": 20,
+        "started_games": 34,
         "bench_points": 0.0,
         "bench_games": 1,
         "total_points": 153.0,
-        "total_games": 21
+        "total_games": 35
       },
       {
         "owner": "Xavier",
@@ -7078,7 +7337,7 @@
     "overall_started_points": 270.5,
     "overall_bench_points": 128.4,
     "overall_started_games": 19,
-    "overall_bench_games": 14,
+    "overall_bench_games": 28,
     "best_team_owner": "Michael",
     "best_team_started_points": 163.6,
     "best_team_started_games": 11,
@@ -7106,9 +7365,9 @@
         "started_points": 4.1,
         "started_games": 1,
         "bench_points": 6.4,
-        "bench_games": 2,
+        "bench_games": 16,
         "total_points": 10.5,
-        "total_games": 3
+        "total_games": 17
       }
     ]
   },
@@ -7118,7 +7377,7 @@
     "overall_started_points": 267.9,
     "overall_bench_points": 190.2,
     "overall_started_games": 30,
-    "overall_bench_games": 25,
+    "overall_bench_games": 39,
     "best_team_owner": "Fabian",
     "best_team_started_points": 94.7,
     "best_team_started_games": 10,
@@ -7173,9 +7432,9 @@
         "started_points": 19.4,
         "started_games": 2,
         "bench_points": 26.8,
-        "bench_games": 2,
+        "bench_games": 16,
         "total_points": 46.2,
-        "total_games": 4
+        "total_games": 18
       },
       {
         "owner": "Michael",
@@ -7212,7 +7471,7 @@
     "overall_started_points": 260.1,
     "overall_bench_points": 67.2,
     "overall_started_games": 23,
-    "overall_bench_games": 14,
+    "overall_bench_games": 28,
     "best_team_owner": "Frankie",
     "best_team_started_points": 163.8,
     "best_team_started_games": 14,
@@ -7222,9 +7481,9 @@
         "started_points": 163.8,
         "started_games": 14,
         "bench_points": 35.7,
-        "bench_games": 6,
+        "bench_games": 20,
         "total_points": 199.5,
-        "total_games": 20
+        "total_games": 34
       },
       {
         "owner": "Fabian",
@@ -7310,7 +7569,7 @@
     "overall_started_points": 258.16,
     "overall_bench_points": 489.34,
     "overall_started_games": 15,
-    "overall_bench_games": 33,
+    "overall_bench_games": 47,
     "best_team_owner": "Fabian",
     "best_team_started_points": 141.24,
     "best_team_started_games": 8,
@@ -7359,6 +7618,15 @@
         "bench_games": 2,
         "total_points": 22.62,
         "total_games": 2
+      },
+      {
+        "owner": "Jose",
+        "started_points": 0.0,
+        "started_games": 0,
+        "bench_points": 0.0,
+        "bench_games": 14,
+        "total_points": 0.0,
+        "total_games": 14
       }
     ]
   },
@@ -7368,7 +7636,7 @@
     "overall_started_points": 258.02,
     "overall_bench_points": 239.56,
     "overall_started_games": 16,
-    "overall_bench_games": 21,
+    "overall_bench_games": 35,
     "best_team_owner": "Laureano",
     "best_team_started_points": 159.98,
     "best_team_started_games": 10,
@@ -7396,9 +7664,9 @@
         "started_points": 29.78,
         "started_games": 1,
         "bench_points": 188.3,
-        "bench_games": 11,
+        "bench_games": 25,
         "total_points": 218.08,
-        "total_games": 12
+        "total_games": 26
       },
       {
         "owner": "Sway",
@@ -7457,82 +7725,6 @@
         "bench_games": 1,
         "total_points": 2.3,
         "total_games": 1
-      }
-    ]
-  },
-  {
-    "player": "Steelers D/ST",
-    "position": "D/ST",
-    "overall_started_points": 254.0,
-    "overall_bench_points": 78.0,
-    "overall_started_games": 35,
-    "overall_bench_games": 22,
-    "best_team_owner": "Daniel",
-    "best_team_started_points": 115.0,
-    "best_team_started_games": 12,
-    "teams": [
-      {
-        "owner": "Daniel",
-        "started_points": 115.0,
-        "started_games": 12,
-        "bench_points": 13.0,
-        "bench_games": 5,
-        "total_points": 128.0,
-        "total_games": 17
-      },
-      {
-        "owner": "Luis",
-        "started_points": 35.5,
-        "started_games": 6,
-        "bench_points": 0.0,
-        "bench_games": 2,
-        "total_points": 35.5,
-        "total_games": 8
-      },
-      {
-        "owner": "Laureano",
-        "started_points": 33.0,
-        "started_games": 6,
-        "bench_points": 46.0,
-        "bench_games": 8,
-        "total_points": 79.0,
-        "total_games": 14
-      },
-      {
-        "owner": "Najee",
-        "started_points": 31.0,
-        "started_games": 3,
-        "bench_points": 0.0,
-        "bench_games": 0,
-        "total_points": 31.0,
-        "total_games": 3
-      },
-      {
-        "owner": "Michael",
-        "started_points": 25.5,
-        "started_games": 3,
-        "bench_points": 0.0,
-        "bench_games": 0,
-        "total_points": 25.5,
-        "total_games": 3
-      },
-      {
-        "owner": "Fabian",
-        "started_points": 9.0,
-        "started_games": 3,
-        "bench_points": 19.0,
-        "bench_games": 7,
-        "total_points": 28.0,
-        "total_games": 10
-      },
-      {
-        "owner": "Jose",
-        "started_points": 5.0,
-        "started_games": 2,
-        "bench_points": 0.0,
-        "bench_games": 0,
-        "total_points": 5.0,
-        "total_games": 2
       }
     ]
   },
@@ -7608,7 +7800,7 @@
     "position": "D/ST",
     "overall_started_points": 248.0,
     "overall_bench_points": 104.0,
-    "overall_started_games": 32,
+    "overall_started_games": 46,
     "overall_bench_games": 21,
     "best_team_owner": "Jose",
     "best_team_started_points": 70.0,
@@ -7635,11 +7827,11 @@
       {
         "owner": "Luis",
         "started_points": 41.0,
-        "started_games": 7,
+        "started_games": 21,
         "bench_points": 19.0,
         "bench_games": 3,
         "total_points": 60.0,
-        "total_games": 10
+        "total_games": 24
       },
       {
         "owner": "Michael",
@@ -7733,7 +7925,7 @@
     "position": "K",
     "overall_started_points": 244.0,
     "overall_bench_points": 50.0,
-    "overall_started_games": 26,
+    "overall_started_games": 40,
     "overall_bench_games": 5,
     "best_team_owner": "Jose",
     "best_team_started_points": 97.0,
@@ -7769,11 +7961,11 @@
       {
         "owner": "Luis",
         "started_points": 23.0,
-        "started_games": 3,
+        "started_games": 17,
         "bench_points": 0.0,
         "bench_games": 0,
         "total_points": 23.0,
-        "total_games": 3
+        "total_games": 17
       },
       {
         "owner": "luis",
@@ -7868,7 +8060,7 @@
     "overall_started_points": 243.0,
     "overall_bench_points": 153.0,
     "overall_started_games": 27,
-    "overall_bench_games": 31,
+    "overall_bench_games": 45,
     "best_team_owner": "Joseph",
     "best_team_started_points": 101.0,
     "best_team_started_games": 11,
@@ -7896,9 +8088,9 @@
         "started_points": 25.0,
         "started_games": 4,
         "bench_points": 22.5,
-        "bench_games": 4,
+        "bench_games": 18,
         "total_points": 47.5,
-        "total_games": 8
+        "total_games": 22
       },
       {
         "owner": "Luis",
@@ -7935,7 +8127,7 @@
     "overall_started_points": 240.8,
     "overall_bench_points": 174.8,
     "overall_started_games": 21,
-    "overall_bench_games": 31,
+    "overall_bench_games": 45,
     "best_team_owner": "Jose",
     "best_team_started_points": 105.4,
     "best_team_started_games": 7,
@@ -7981,9 +8173,9 @@
         "started_points": 9.5,
         "started_games": 3,
         "bench_points": 9.9,
-        "bench_games": 6,
+        "bench_games": 20,
         "total_points": 19.4,
-        "total_games": 9
+        "total_games": 23
       },
       {
         "owner": "Najee",
@@ -7993,55 +8185,6 @@
         "bench_games": 0,
         "total_points": 9.2,
         "total_games": 1
-      }
-    ]
-  },
-  {
-    "player": "Browns D/ST",
-    "position": "D/ST",
-    "overall_started_points": 237.0,
-    "overall_bench_points": 69.0,
-    "overall_started_games": 24,
-    "overall_bench_games": 9,
-    "best_team_owner": "Fabian",
-    "best_team_started_points": 131.0,
-    "best_team_started_games": 13,
-    "teams": [
-      {
-        "owner": "Fabian",
-        "started_points": 131.0,
-        "started_games": 13,
-        "bench_points": 22.0,
-        "bench_games": 3,
-        "total_points": 153.0,
-        "total_games": 16
-      },
-      {
-        "owner": "Joseph",
-        "started_points": 58.0,
-        "started_games": 4,
-        "bench_points": 31.0,
-        "bench_games": 4,
-        "total_points": 89.0,
-        "total_games": 8
-      },
-      {
-        "owner": "Luis",
-        "started_points": 38.0,
-        "started_games": 5,
-        "bench_points": 16.0,
-        "bench_games": 2,
-        "total_points": 54.0,
-        "total_games": 7
-      },
-      {
-        "owner": "kevin",
-        "started_points": 10.0,
-        "started_games": 2,
-        "bench_points": 0.0,
-        "bench_games": 0,
-        "total_points": 10.0,
-        "total_games": 2
       }
     ]
   },
@@ -8139,7 +8282,7 @@
     "position": "WR",
     "overall_started_points": 230.9,
     "overall_bench_points": 273.2,
-    "overall_started_games": 18,
+    "overall_started_games": 32,
     "overall_bench_games": 36,
     "best_team_owner": "Fabian",
     "best_team_started_points": 81.2,
@@ -8157,11 +8300,11 @@
       {
         "owner": "Frankie",
         "started_points": 75.4,
-        "started_games": 3,
+        "started_games": 17,
         "bench_points": 8.7,
         "bench_games": 2,
         "total_points": 84.1,
-        "total_games": 5
+        "total_games": 19
       },
       {
         "owner": "Laureano",
@@ -8207,7 +8350,7 @@
     "overall_started_points": 229.3,
     "overall_bench_points": 209.2,
     "overall_started_games": 18,
-    "overall_bench_games": 35,
+    "overall_bench_games": 49,
     "best_team_owner": "Luis",
     "best_team_started_points": 130.3,
     "best_team_started_games": 9,
@@ -8235,9 +8378,9 @@
         "started_points": 8.6,
         "started_games": 1,
         "bench_points": 59.9,
-        "bench_games": 7,
+        "bench_games": 21,
         "total_points": 68.5,
-        "total_games": 8
+        "total_games": 22
       }
     ]
   },
@@ -8366,7 +8509,7 @@
     "position": "WR",
     "overall_started_points": 227.0,
     "overall_bench_points": 10.2,
-    "overall_started_games": 18,
+    "overall_started_games": 32,
     "overall_bench_games": 2,
     "best_team_owner": "Jose",
     "best_team_started_points": 165.9,
@@ -8384,11 +8527,11 @@
       {
         "owner": "Frankie",
         "started_points": 31.3,
-        "started_games": 3,
+        "started_games": 17,
         "bench_points": 0.0,
         "bench_games": 0,
         "total_points": 31.3,
-        "total_games": 3
+        "total_games": 17
       },
       {
         "owner": "Sway",
@@ -8406,20 +8549,20 @@
     "position": "WR",
     "overall_started_points": 226.9,
     "overall_bench_points": 9.8,
-    "overall_started_games": 18,
+    "overall_started_games": 32,
     "overall_bench_games": 2,
     "best_team_owner": "Najee",
     "best_team_started_points": 226.9,
-    "best_team_started_games": 18,
+    "best_team_started_games": 32,
     "teams": [
       {
         "owner": "Najee",
         "started_points": 226.9,
-        "started_games": 18,
+        "started_games": 32,
         "bench_points": 9.8,
         "bench_games": 2,
         "total_points": 236.7,
-        "total_games": 20
+        "total_games": 34
       }
     ]
   },
@@ -8584,7 +8727,7 @@
     "position": "D/ST",
     "overall_started_points": 223.0,
     "overall_bench_points": 34.0,
-    "overall_started_games": 30,
+    "overall_started_games": 44,
     "overall_bench_games": 10,
     "best_team_owner": "Frankie",
     "best_team_started_points": 121.0,
@@ -8638,11 +8781,11 @@
       {
         "owner": "Michael",
         "started_points": 11.0,
-        "started_games": 3,
+        "started_games": 17,
         "bench_points": 0.0,
         "bench_games": 0,
         "total_points": 11.0,
-        "total_games": 3
+        "total_games": 17
       }
     ]
   },
@@ -8651,7 +8794,7 @@
     "position": "TE",
     "overall_started_points": 221.9,
     "overall_bench_points": 104.2,
-    "overall_started_games": 18,
+    "overall_started_games": 32,
     "overall_bench_games": 16,
     "best_team_owner": "Michael",
     "best_team_started_points": 119.2,
@@ -8669,11 +8812,11 @@
       {
         "owner": "Joseph",
         "started_points": 48.3,
-        "started_games": 3,
+        "started_games": 17,
         "bench_points": 0.0,
         "bench_games": 0,
         "total_points": 48.3,
-        "total_games": 3
+        "total_games": 17
       },
       {
         "owner": "Daniel",
@@ -8727,7 +8870,7 @@
     "position": "TE",
     "overall_started_points": 220.3,
     "overall_bench_points": 0.0,
-    "overall_started_games": 19,
+    "overall_started_games": 33,
     "overall_bench_games": 1,
     "best_team_owner": "Xavier",
     "best_team_started_points": 180.9,
@@ -8745,11 +8888,11 @@
       {
         "owner": "Michael",
         "started_points": 39.4,
-        "started_games": 3,
+        "started_games": 17,
         "bench_points": 0.0,
         "bench_games": 0,
         "total_points": 39.4,
-        "total_games": 3
+        "total_games": 17
       }
     ]
   },
@@ -8759,7 +8902,7 @@
     "overall_started_points": 219.0,
     "overall_bench_points": 15.0,
     "overall_started_games": 28,
-    "overall_bench_games": 9,
+    "overall_bench_games": 23,
     "best_team_owner": "Sway",
     "best_team_started_points": 124.0,
     "best_team_started_games": 12,
@@ -8810,6 +8953,15 @@
         "total_games": 1
       },
       {
+        "owner": "kevin",
+        "started_points": 0.0,
+        "started_games": 0,
+        "bench_points": 0.0,
+        "bench_games": 14,
+        "total_points": 0.0,
+        "total_games": 14
+      },
+      {
         "owner": "Jose",
         "started_points": -3.0,
         "started_games": 1,
@@ -8825,7 +8977,7 @@
     "position": "WR",
     "overall_started_points": 217.6,
     "overall_bench_points": 106.8,
-    "overall_started_games": 22,
+    "overall_started_games": 36,
     "overall_bench_games": 15,
     "best_team_owner": "Daniel",
     "best_team_started_points": 113.3,
@@ -8852,11 +9004,11 @@
       {
         "owner": "Frankie",
         "started_points": 17.5,
-        "started_games": 2,
+        "started_games": 16,
         "bench_points": 4.8,
         "bench_games": 1,
         "total_points": 22.3,
-        "total_games": 3
+        "total_games": 17
       },
       {
         "owner": "Najee",
@@ -8874,7 +9026,7 @@
     "position": "RB",
     "overall_started_points": 212.8,
     "overall_bench_points": 13.6,
-    "overall_started_games": 17,
+    "overall_started_games": 31,
     "overall_bench_games": 3,
     "best_team_owner": "Michael",
     "best_team_started_points": 208.9,
@@ -8892,11 +9044,11 @@
       {
         "owner": "Fabian",
         "started_points": 3.9,
-        "started_games": 1,
+        "started_games": 15,
         "bench_points": 13.6,
         "bench_games": 2,
         "total_points": 17.5,
-        "total_games": 3
+        "total_games": 17
       }
     ]
   },
@@ -8972,7 +9124,7 @@
     "position": "D/ST",
     "overall_started_points": 211.0,
     "overall_bench_points": 35.0,
-    "overall_started_games": 25,
+    "overall_started_games": 39,
     "overall_bench_games": 5,
     "best_team_owner": "Najee",
     "best_team_started_points": 88.0,
@@ -8990,11 +9142,11 @@
       {
         "owner": "Joseph",
         "started_points": 58.0,
-        "started_games": 8,
+        "started_games": 22,
         "bench_points": 14.0,
         "bench_games": 2,
         "total_points": 72.0,
-        "total_games": 10
+        "total_games": 24
       },
       {
         "owner": "kevin",
@@ -9030,7 +9182,7 @@
     "position": "K",
     "overall_started_points": 208.0,
     "overall_bench_points": 34.0,
-    "overall_started_games": 24,
+    "overall_started_games": 38,
     "overall_bench_games": 6,
     "best_team_owner": "Frankie",
     "best_team_started_points": 113.0,
@@ -9057,11 +9209,11 @@
       {
         "owner": "Xavier",
         "started_points": 12.0,
-        "started_games": 1,
+        "started_games": 15,
         "bench_points": 0.0,
         "bench_games": 0,
         "total_points": 12.0,
-        "total_games": 1
+        "total_games": 15
       },
       {
         "owner": "kevin",
@@ -9352,60 +9504,24 @@
     ]
   },
   {
-    "player": "Quinshon Judkins",
-    "position": "RB",
-    "overall_started_points": 189.4,
-    "overall_bench_points": 10.1,
-    "overall_started_games": 16,
-    "overall_bench_games": 4,
-    "best_team_owner": "kevin",
-    "best_team_started_points": 105.3,
-    "best_team_started_games": 9,
+    "player": "Denzel Boston",
+    "position": "WR",
+    "overall_started_points": 188.7,
+    "overall_bench_points": 39.4,
+    "overall_started_games": 15,
+    "overall_bench_games": 2,
+    "best_team_owner": "Daniel",
+    "best_team_started_points": 188.7,
+    "best_team_started_games": 15,
     "teams": [
       {
-        "owner": "kevin",
-        "started_points": 105.3,
-        "started_games": 9,
-        "bench_points": 0.0,
-        "bench_games": 2,
-        "total_points": 105.3,
-        "total_games": 11
-      },
-      {
-        "owner": "Joseph",
-        "started_points": 38.0,
-        "started_games": 2,
-        "bench_points": 10.1,
-        "bench_games": 2,
-        "total_points": 48.1,
-        "total_games": 4
-      },
-      {
-        "owner": "Sway",
-        "started_points": 19.4,
-        "started_games": 2,
-        "bench_points": 0.0,
-        "bench_games": 0,
-        "total_points": 19.4,
-        "total_games": 2
-      },
-      {
         "owner": "Daniel",
-        "started_points": 16.8,
-        "started_games": 2,
-        "bench_points": 0.0,
-        "bench_games": 0,
-        "total_points": 16.8,
-        "total_games": 2
-      },
-      {
-        "owner": "Luis",
-        "started_points": 9.9,
-        "started_games": 1,
-        "bench_points": 0.0,
-        "bench_games": 0,
-        "total_points": 9.9,
-        "total_games": 1
+        "started_points": 188.7,
+        "started_games": 15,
+        "bench_points": 39.4,
+        "bench_games": 2,
+        "total_points": 228.1,
+        "total_games": 17
       }
     ]
   },
@@ -9464,7 +9580,7 @@
     "overall_started_points": 184.8,
     "overall_bench_points": 132.3,
     "overall_started_games": 15,
-    "overall_bench_games": 22,
+    "overall_bench_games": 36,
     "best_team_owner": "Fabian",
     "best_team_started_points": 150.1,
     "best_team_started_games": 12,
@@ -9492,9 +9608,9 @@
         "started_points": 14.5,
         "started_games": 2,
         "bench_points": 7.4,
-        "bench_games": 1,
+        "bench_games": 15,
         "total_points": 21.9,
-        "total_games": 3
+        "total_games": 17
       }
     ]
   },
@@ -9821,7 +9937,7 @@
     "overall_started_points": 179.6,
     "overall_bench_points": 101.7,
     "overall_started_games": 15,
-    "overall_bench_games": 11,
+    "overall_bench_games": 25,
     "best_team_owner": "Fabian",
     "best_team_started_points": 121.2,
     "best_team_started_games": 8,
@@ -9858,9 +9974,9 @@
         "started_points": 10.1,
         "started_games": 2,
         "bench_points": 9.5,
-        "bench_games": 1,
+        "bench_games": 15,
         "total_points": 19.6,
-        "total_games": 3
+        "total_games": 17
       }
     ]
   },
@@ -9870,7 +9986,7 @@
     "overall_started_points": 177.9,
     "overall_bench_points": 282.9,
     "overall_started_games": 18,
-    "overall_bench_games": 33,
+    "overall_bench_games": 47,
     "best_team_owner": "Najee",
     "best_team_started_points": 132.9,
     "best_team_started_games": 12,
@@ -9889,9 +10005,9 @@
         "started_points": 31.0,
         "started_games": 4,
         "bench_points": 33.4,
-        "bench_games": 8,
+        "bench_games": 22,
         "total_points": 64.4,
-        "total_games": 12
+        "total_games": 26
       },
       {
         "owner": "Frankie",
@@ -10169,7 +10285,7 @@
     "overall_started_points": 168.72,
     "overall_bench_points": 251.78,
     "overall_started_games": 11,
-    "overall_bench_games": 13,
+    "overall_bench_games": 27,
     "best_team_owner": "Najee",
     "best_team_started_points": 131.96,
     "best_team_started_games": 9,
@@ -10209,6 +10325,15 @@
         "bench_games": 1,
         "total_points": 8.62,
         "total_games": 1
+      },
+      {
+        "owner": "Laureano",
+        "started_points": 0.0,
+        "started_games": 0,
+        "bench_points": 0.0,
+        "bench_games": 14,
+        "total_points": 0.0,
+        "total_games": 14
       }
     ]
   },
@@ -10294,7 +10419,7 @@
     "overall_started_points": 165.0,
     "overall_bench_points": 57.0,
     "overall_started_games": 24,
-    "overall_bench_games": 15,
+    "overall_bench_games": 29,
     "best_team_owner": "Frankie",
     "best_team_started_points": 71.0,
     "best_team_started_games": 11,
@@ -10367,9 +10492,9 @@
         "started_points": 0.0,
         "started_games": 0,
         "bench_points": 5.0,
-        "bench_games": 1,
+        "bench_games": 15,
         "total_points": 5.0,
-        "total_games": 1
+        "total_games": 15
       }
     ]
   },
@@ -10410,7 +10535,7 @@
     "overall_started_points": 163.0,
     "overall_bench_points": 83.5,
     "overall_started_games": 14,
-    "overall_bench_games": 17,
+    "overall_bench_games": 31,
     "best_team_owner": "Laureano",
     "best_team_started_points": 83.1,
     "best_team_started_games": 6,
@@ -10456,9 +10581,9 @@
         "started_points": 0.0,
         "started_games": 0,
         "bench_points": 11.9,
-        "bench_games": 3,
+        "bench_games": 17,
         "total_points": 11.9,
-        "total_games": 3
+        "total_games": 17
       }
     ]
   },
@@ -10467,7 +10592,7 @@
     "position": "WR",
     "overall_started_points": 161.6,
     "overall_bench_points": 155.8,
-    "overall_started_games": 13,
+    "overall_started_games": 27,
     "overall_bench_games": 16,
     "best_team_owner": "Joseph",
     "best_team_started_points": 139.8,
@@ -10512,11 +10637,11 @@
       {
         "owner": "Xavier",
         "started_points": 0.0,
-        "started_games": 0,
+        "started_games": 14,
         "bench_points": 81.5,
         "bench_games": 8,
         "total_points": 81.5,
-        "total_games": 8
+        "total_games": 22
       }
     ]
   },
@@ -10641,7 +10766,7 @@
     "position": "RB",
     "overall_started_points": 158.4,
     "overall_bench_points": 14.7,
-    "overall_started_games": 11,
+    "overall_started_games": 25,
     "overall_bench_games": 9,
     "best_team_owner": "Xavier",
     "best_team_started_points": 127.0,
@@ -10659,11 +10784,11 @@
       {
         "owner": "Frankie",
         "started_points": 31.4,
-        "started_games": 3,
+        "started_games": 17,
         "bench_points": 0.0,
         "bench_games": 0,
         "total_points": 31.4,
-        "total_games": 3
+        "total_games": 17
       }
     ]
   },
@@ -10672,7 +10797,7 @@
     "position": "WR",
     "overall_started_points": 157.4,
     "overall_bench_points": 87.2,
-    "overall_started_games": 8,
+    "overall_started_games": 22,
     "overall_bench_games": 9,
     "best_team_owner": "Luis",
     "best_team_started_points": 154.6,
@@ -10708,11 +10833,11 @@
       {
         "owner": "Daniel",
         "started_points": 0.0,
-        "started_games": 0,
+        "started_games": 14,
         "bench_points": 40.3,
         "bench_games": 3,
         "total_points": 40.3,
-        "total_games": 3
+        "total_games": 17
       }
     ]
   },
@@ -10783,7 +10908,7 @@
     "position": "TE",
     "overall_started_points": 155.5,
     "overall_bench_points": 61.2,
-    "overall_started_games": 14,
+    "overall_started_games": 28,
     "overall_bench_games": 14,
     "best_team_owner": "Frankie",
     "best_team_started_points": 77.1,
@@ -10801,11 +10926,11 @@
       {
         "owner": "Xavier",
         "started_points": 39.4,
-        "started_games": 3,
+        "started_games": 17,
         "bench_points": 0.0,
         "bench_games": 0,
         "total_points": 39.4,
-        "total_games": 3
+        "total_games": 17
       },
       {
         "owner": "Daniel",
@@ -10957,7 +11082,7 @@
     "position": "D/ST",
     "overall_started_points": 153.0,
     "overall_bench_points": 99.0,
-    "overall_started_games": 25,
+    "overall_started_games": 39,
     "overall_bench_games": 14,
     "best_team_owner": "Fabian",
     "best_team_started_points": 59.0,
@@ -10984,11 +11109,11 @@
       {
         "owner": "Laureano",
         "started_points": 36.0,
-        "started_games": 5,
+        "started_games": 19,
         "bench_points": 36.0,
         "bench_games": 6,
         "total_points": 72.0,
-        "total_games": 11
+        "total_games": 25
       },
       {
         "owner": "Joseph",
@@ -11226,7 +11351,7 @@
     "overall_started_points": 147.2,
     "overall_bench_points": 59.3,
     "overall_started_games": 13,
-    "overall_bench_games": 7,
+    "overall_bench_games": 21,
     "best_team_owner": "Jose",
     "best_team_started_points": 121.3,
     "best_team_started_games": 11,
@@ -11245,9 +11370,9 @@
         "started_points": 25.9,
         "started_games": 2,
         "bench_points": 18.0,
-        "bench_games": 1,
+        "bench_games": 15,
         "total_points": 43.9,
-        "total_games": 3
+        "total_games": 17
       }
     ]
   },
@@ -11458,7 +11583,7 @@
     "overall_started_points": 140.94,
     "overall_bench_points": 370.18,
     "overall_started_games": 9,
-    "overall_bench_games": 22,
+    "overall_bench_games": 36,
     "best_team_owner": "Najee",
     "best_team_started_points": 44.98,
     "best_team_started_games": 2,
@@ -11468,9 +11593,9 @@
         "started_points": 44.98,
         "started_games": 2,
         "bench_points": 0.0,
-        "bench_games": 1,
+        "bench_games": 15,
         "total_points": 44.98,
-        "total_games": 3
+        "total_games": 17
       },
       {
         "owner": "Sway",
@@ -11506,7 +11631,7 @@
     "position": "RB",
     "overall_started_points": 140.2,
     "overall_bench_points": 24.1,
-    "overall_started_games": 10,
+    "overall_started_games": 24,
     "overall_bench_games": 10,
     "best_team_owner": "Daniel",
     "best_team_started_points": 103.6,
@@ -11524,11 +11649,11 @@
       {
         "owner": "kevin",
         "started_points": 36.6,
-        "started_games": 3,
+        "started_games": 17,
         "bench_points": 0.0,
         "bench_games": 0,
         "total_points": 36.6,
-        "total_games": 3
+        "total_games": 17
       }
     ]
   },
@@ -11538,7 +11663,7 @@
     "overall_started_points": 139.0,
     "overall_bench_points": 66.0,
     "overall_started_games": 12,
-    "overall_bench_games": 8,
+    "overall_bench_games": 22,
     "best_team_owner": "Daniel",
     "best_team_started_points": 139.0,
     "best_team_started_games": 12,
@@ -11548,9 +11673,9 @@
         "started_points": 139.0,
         "started_games": 12,
         "bench_points": 66.0,
-        "bench_games": 8,
+        "bench_games": 22,
         "total_points": 205.0,
-        "total_games": 20
+        "total_games": 34
       }
     ]
   },
@@ -11822,7 +11947,7 @@
     "position": "K",
     "overall_started_points": 132.0,
     "overall_bench_points": 0.0,
-    "overall_started_games": 16,
+    "overall_started_games": 30,
     "overall_bench_games": 1,
     "best_team_owner": "Sway",
     "best_team_started_points": 86.0,
@@ -11845,6 +11970,15 @@
         "bench_games": 1,
         "total_points": 46.0,
         "total_games": 7
+      },
+      {
+        "owner": "Jose",
+        "started_points": 0.0,
+        "started_games": 14,
+        "bench_points": 0.0,
+        "bench_games": 0,
+        "total_points": 0.0,
+        "total_games": 14
       }
     ]
   },
@@ -11854,7 +11988,7 @@
     "overall_started_points": 127.4,
     "overall_bench_points": 94.7,
     "overall_started_games": 9,
-    "overall_bench_games": 11,
+    "overall_bench_games": 25,
     "best_team_owner": "Michael",
     "best_team_started_points": 127.4,
     "best_team_started_games": 9,
@@ -11873,9 +12007,9 @@
         "started_points": 0.0,
         "started_games": 0,
         "bench_points": 18.8,
-        "bench_games": 3,
+        "bench_games": 17,
         "total_points": 18.8,
-        "total_games": 3
+        "total_games": 17
       }
     ]
   },
@@ -12178,7 +12312,7 @@
     "position": "WR",
     "overall_started_points": 121.1,
     "overall_bench_points": 204.0,
-    "overall_started_games": 10,
+    "overall_started_games": 24,
     "overall_bench_games": 27,
     "best_team_owner": "Jose",
     "best_team_started_points": 53.1,
@@ -12241,11 +12375,11 @@
       {
         "owner": "Michael",
         "started_points": 0.0,
-        "started_games": 0,
+        "started_games": 14,
         "bench_points": 59.1,
         "bench_games": 6,
         "total_points": 59.1,
-        "total_games": 6
+        "total_games": 20
       }
     ]
   },
@@ -12312,7 +12446,7 @@
     "position": "RB",
     "overall_started_points": 120.4,
     "overall_bench_points": 35.0,
-    "overall_started_games": 11,
+    "overall_started_games": 25,
     "overall_bench_games": 9,
     "best_team_owner": "Frankie",
     "best_team_started_points": 83.7,
@@ -12335,6 +12469,15 @@
         "bench_games": 0,
         "total_points": 36.7,
         "total_games": 3
+      },
+      {
+        "owner": "Laureano",
+        "started_points": 0.0,
+        "started_games": 14,
+        "bench_points": 0.0,
+        "bench_games": 0,
+        "total_points": 0.0,
+        "total_games": 14
       }
     ]
   },
@@ -12473,37 +12616,6 @@
         "bench_games": 2,
         "total_points": 6.4,
         "total_games": 2
-      }
-    ]
-  },
-  {
-    "player": "Harold Fannin Jr.",
-    "position": "TE",
-    "overall_started_points": 113.0,
-    "overall_bench_points": 100.4,
-    "overall_started_games": 9,
-    "overall_bench_games": 10,
-    "best_team_owner": "Luis",
-    "best_team_started_points": 108.9,
-    "best_team_started_games": 8,
-    "teams": [
-      {
-        "owner": "Luis",
-        "started_points": 108.9,
-        "started_games": 8,
-        "bench_points": 65.9,
-        "bench_games": 8,
-        "total_points": 174.8,
-        "total_games": 16
-      },
-      {
-        "owner": "Najee",
-        "started_points": 4.1,
-        "started_games": 1,
-        "bench_points": 34.5,
-        "bench_games": 2,
-        "total_points": 38.6,
-        "total_games": 3
       }
     ]
   },
@@ -12861,7 +12973,7 @@
     "overall_started_points": 106.8,
     "overall_bench_points": 206.8,
     "overall_started_games": 10,
-    "overall_bench_games": 26,
+    "overall_bench_games": 40,
     "best_team_owner": "Frankie",
     "best_team_started_points": 58.4,
     "best_team_started_games": 4,
@@ -12889,9 +13001,9 @@
         "started_points": 0.0,
         "started_games": 0,
         "bench_points": 0.0,
-        "bench_games": 3,
+        "bench_games": 17,
         "total_points": 0.0,
-        "total_games": 3
+        "total_games": 17
       }
     ]
   },
@@ -13056,20 +13168,20 @@
     "position": "K",
     "overall_started_points": 101.0,
     "overall_bench_points": 38.0,
-    "overall_started_games": 12,
+    "overall_started_games": 26,
     "overall_bench_games": 9,
     "best_team_owner": "Daniel",
     "best_team_started_points": 46.0,
-    "best_team_started_games": 6,
+    "best_team_started_games": 20,
     "teams": [
       {
         "owner": "Daniel",
         "started_points": 46.0,
-        "started_games": 6,
+        "started_games": 20,
         "bench_points": 32.0,
         "bench_games": 7,
         "total_points": 78.0,
-        "total_games": 13
+        "total_games": 27
       },
       {
         "owner": "Sway",
@@ -13114,20 +13226,20 @@
     "position": "WR",
     "overall_started_points": 99.1,
     "overall_bench_points": 6.3,
-    "overall_started_games": 10,
+    "overall_started_games": 24,
     "overall_bench_games": 4,
     "best_team_owner": "Laureano",
     "best_team_started_points": 48.3,
-    "best_team_started_games": 3,
+    "best_team_started_games": 17,
     "teams": [
       {
         "owner": "Laureano",
         "started_points": 48.3,
-        "started_games": 3,
+        "started_games": 17,
         "bench_points": 0.0,
         "bench_games": 0,
         "total_points": 48.3,
-        "total_games": 3
+        "total_games": 17
       },
       {
         "owner": "Joseph",
@@ -13164,7 +13276,7 @@
     "overall_started_points": 98.7,
     "overall_bench_points": 119.3,
     "overall_started_games": 12,
-    "overall_bench_games": 27,
+    "overall_bench_games": 41,
     "best_team_owner": "luis",
     "best_team_started_points": 49.3,
     "best_team_started_games": 6,
@@ -13213,6 +13325,15 @@
         "bench_games": 1,
         "total_points": 7.0,
         "total_games": 1
+      },
+      {
+        "owner": "Daniel",
+        "started_points": 0.0,
+        "started_games": 0,
+        "bench_points": 0.0,
+        "bench_games": 14,
+        "total_points": 0.0,
+        "total_games": 14
       }
     ]
   },
@@ -13222,7 +13343,7 @@
     "overall_started_points": 98.5,
     "overall_bench_points": 377.1,
     "overall_started_games": 12,
-    "overall_bench_games": 40,
+    "overall_bench_games": 54,
     "best_team_owner": "Najee",
     "best_team_started_points": 49.0,
     "best_team_started_games": 6,
@@ -13259,9 +13380,9 @@
         "started_points": 7.9,
         "started_games": 1,
         "bench_points": 33.6,
-        "bench_games": 5,
+        "bench_games": 19,
         "total_points": 41.5,
-        "total_games": 6
+        "total_games": 20
       },
       {
         "owner": "Luis",
@@ -13449,7 +13570,7 @@
     "overall_started_points": 95.9,
     "overall_bench_points": 135.8,
     "overall_started_games": 11,
-    "overall_bench_games": 24,
+    "overall_bench_games": 38,
     "best_team_owner": "Sway",
     "best_team_started_points": 84.3,
     "best_team_started_games": 9,
@@ -13477,9 +13598,9 @@
         "started_points": 5.7,
         "started_games": 1,
         "bench_points": 21.8,
-        "bench_games": 1,
+        "bench_games": 15,
         "total_points": 27.5,
-        "total_games": 2
+        "total_games": 16
       },
       {
         "owner": "Jose",
@@ -13537,7 +13658,7 @@
     "position": "WR",
     "overall_started_points": 92.1,
     "overall_bench_points": 13.7,
-    "overall_started_games": 9,
+    "overall_started_games": 23,
     "overall_bench_games": 11,
     "best_team_owner": "kevin",
     "best_team_started_points": 58.3,
@@ -13555,11 +13676,11 @@
       {
         "owner": "Laureano",
         "started_points": 33.8,
-        "started_games": 5,
+        "started_games": 19,
         "bench_points": 0.0,
         "bench_games": 6,
         "total_points": 33.8,
-        "total_games": 11
+        "total_games": 25
       }
     ]
   },
@@ -13756,7 +13877,7 @@
     "overall_started_points": 84.0,
     "overall_bench_points": 13.0,
     "overall_started_games": 11,
-    "overall_bench_games": 1,
+    "overall_bench_games": 15,
     "best_team_owner": "Xavier",
     "best_team_started_points": 42.0,
     "best_team_started_games": 6,
@@ -13775,9 +13896,9 @@
         "started_points": 28.0,
         "started_games": 4,
         "bench_points": 13.0,
-        "bench_games": 1,
+        "bench_games": 15,
         "total_points": 41.0,
-        "total_games": 5
+        "total_games": 19
       },
       {
         "owner": "Frankie",
@@ -13925,7 +14046,7 @@
     "overall_started_points": 80.6,
     "overall_bench_points": 150.0,
     "overall_started_games": 10,
-    "overall_bench_games": 21,
+    "overall_bench_games": 35,
     "best_team_owner": "Jean",
     "best_team_started_points": 67.2,
     "best_team_started_games": 8,
@@ -13965,6 +14086,15 @@
         "bench_games": 7,
         "total_points": 62.2,
         "total_games": 7
+      },
+      {
+        "owner": "Xavier",
+        "started_points": 0.0,
+        "started_games": 0,
+        "bench_points": 0.0,
+        "bench_games": 14,
+        "total_points": 0.0,
+        "total_games": 14
       }
     ]
   },
@@ -14031,7 +14161,7 @@
     "position": "K",
     "overall_started_points": 79.0,
     "overall_bench_points": 25.0,
-    "overall_started_games": 9,
+    "overall_started_games": 23,
     "overall_bench_games": 4,
     "best_team_owner": "Xavier",
     "best_team_started_points": 62.0,
@@ -14058,11 +14188,11 @@
       {
         "owner": "Laureano",
         "started_points": 8.0,
-        "started_games": 1,
+        "started_games": 15,
         "bench_points": 16.0,
         "bench_games": 3,
         "total_points": 24.0,
-        "total_games": 4
+        "total_games": 18
       },
       {
         "owner": "Sway",
@@ -14152,7 +14282,7 @@
     "overall_started_points": 77.8,
     "overall_bench_points": 78.1,
     "overall_started_games": 10,
-    "overall_bench_games": 7,
+    "overall_bench_games": 21,
     "best_team_owner": "kevin",
     "best_team_started_points": 77.8,
     "best_team_started_games": 10,
@@ -14171,9 +14301,9 @@
         "started_points": 0.0,
         "started_games": 0,
         "bench_points": 22.6,
-        "bench_games": 3,
+        "bench_games": 17,
         "total_points": 22.6,
-        "total_games": 3
+        "total_games": 17
       }
     ]
   },
@@ -14183,7 +14313,7 @@
     "overall_started_points": 75.7,
     "overall_bench_points": 184.2,
     "overall_started_games": 7,
-    "overall_bench_games": 22,
+    "overall_bench_games": 36,
     "best_team_owner": "Joseph",
     "best_team_started_points": 35.0,
     "best_team_started_games": 3,
@@ -14211,9 +14341,9 @@
         "started_points": 12.2,
         "started_games": 2,
         "bench_points": 0.0,
-        "bench_games": 1,
+        "bench_games": 15,
         "total_points": 12.2,
-        "total_games": 3
+        "total_games": 17
       },
       {
         "owner": "Michael",
@@ -14355,20 +14485,20 @@
     "position": "WR",
     "overall_started_points": 70.1,
     "overall_bench_points": 97.4,
-    "overall_started_games": 5,
+    "overall_started_games": 19,
     "overall_bench_games": 7,
     "best_team_owner": "kevin",
     "best_team_started_points": 49.1,
-    "best_team_started_games": 3,
+    "best_team_started_games": 17,
     "teams": [
       {
         "owner": "kevin",
         "started_points": 49.1,
-        "started_games": 3,
+        "started_games": 17,
         "bench_points": 0.0,
         "bench_games": 0,
         "total_points": 49.1,
-        "total_games": 3
+        "total_games": 17
       },
       {
         "owner": "Najee",
@@ -14649,7 +14779,7 @@
     "position": "D/ST",
     "overall_started_points": 65.0,
     "overall_bench_points": 0.0,
-    "overall_started_games": 6,
+    "overall_started_games": 20,
     "overall_bench_games": 0,
     "best_team_owner": "Joseph",
     "best_team_started_points": 26.0,
@@ -14699,6 +14829,15 @@
         "bench_games": 0,
         "total_points": 2.0,
         "total_games": 1
+      },
+      {
+        "owner": "Daniel",
+        "started_points": 0.0,
+        "started_games": 14,
+        "bench_points": 0.0,
+        "bench_games": 0,
+        "total_points": 0.0,
+        "total_games": 14
       }
     ]
   },
@@ -14708,7 +14847,7 @@
     "overall_started_points": 64.2,
     "overall_bench_points": 49.1,
     "overall_started_games": 8,
-    "overall_bench_games": 8,
+    "overall_bench_games": 22,
     "best_team_owner": "kevin",
     "best_team_started_points": 64.2,
     "best_team_started_games": 8,
@@ -14718,9 +14857,9 @@
         "started_points": 64.2,
         "started_games": 8,
         "bench_points": 36.5,
-        "bench_games": 7,
+        "bench_games": 21,
         "total_points": 100.7,
-        "total_games": 15
+        "total_games": 29
       },
       {
         "owner": "Daniel",
@@ -15019,7 +15158,7 @@
     "overall_started_points": 58.5,
     "overall_bench_points": 422.2,
     "overall_started_games": 7,
-    "overall_bench_games": 56,
+    "overall_bench_games": 70,
     "best_team_owner": "Sway",
     "best_team_started_points": 17.5,
     "best_team_started_games": 1,
@@ -15074,9 +15213,9 @@
         "started_points": 0.0,
         "started_games": 0,
         "bench_points": 17.8,
-        "bench_games": 3,
+        "bench_games": 17,
         "total_points": 17.8,
-        "total_games": 3
+        "total_games": 17
       }
     ]
   },
@@ -15255,7 +15394,7 @@
     "overall_started_points": 54.3,
     "overall_bench_points": 64.2,
     "overall_started_games": 3,
-    "overall_bench_games": 8,
+    "overall_bench_games": 22,
     "best_team_owner": "Luis",
     "best_team_started_points": 47.4,
     "best_team_started_games": 2,
@@ -15274,9 +15413,9 @@
         "started_points": 6.9,
         "started_games": 1,
         "bench_points": 21.5,
-        "bench_games": 4,
+        "bench_games": 18,
         "total_points": 28.4,
-        "total_games": 5
+        "total_games": 19
       },
       {
         "owner": "Xavier",
@@ -15316,7 +15455,7 @@
     "position": "K",
     "overall_started_points": 52.0,
     "overall_bench_points": 0.0,
-    "overall_started_games": 5,
+    "overall_started_games": 19,
     "overall_bench_games": 1,
     "best_team_owner": "kevin",
     "best_team_started_points": 22.0,
@@ -15334,11 +15473,11 @@
       {
         "owner": "Sway",
         "started_points": 17.0,
-        "started_games": 1,
+        "started_games": 15,
         "bench_points": 0.0,
         "bench_games": 0,
         "total_points": 17.0,
-        "total_games": 1
+        "total_games": 15
       },
       {
         "owner": "Daniel",
@@ -15747,20 +15886,20 @@
     "position": "RB",
     "overall_started_points": 42.4,
     "overall_bench_points": 0.0,
-    "overall_started_games": 3,
+    "overall_started_games": 17,
     "overall_bench_games": 0,
     "best_team_owner": "Xavier",
     "best_team_started_points": 42.4,
-    "best_team_started_games": 3,
+    "best_team_started_games": 17,
     "teams": [
       {
         "owner": "Xavier",
         "started_points": 42.4,
-        "started_games": 3,
+        "started_games": 17,
         "bench_points": 0.0,
         "bench_games": 0,
         "total_points": 42.4,
-        "total_games": 3
+        "total_games": 17
       }
     ]
   },
@@ -15982,20 +16121,20 @@
     "position": "WR",
     "overall_started_points": 38.6,
     "overall_bench_points": 27.0,
-    "overall_started_games": 4,
+    "overall_started_games": 18,
     "overall_bench_games": 3,
     "best_team_owner": "Najee",
     "best_team_started_points": 35.5,
-    "best_team_started_games": 3,
+    "best_team_started_games": 17,
     "teams": [
       {
         "owner": "Najee",
         "started_points": 35.5,
-        "started_games": 3,
+        "started_games": 17,
         "bench_points": 0.0,
         "bench_games": 0,
         "total_points": 35.5,
-        "total_games": 3
+        "total_games": 17
       },
       {
         "owner": "Joseph",
@@ -16116,7 +16255,7 @@
     "overall_started_points": 37.7,
     "overall_bench_points": 202.0,
     "overall_started_games": 5,
-    "overall_bench_games": 27,
+    "overall_bench_games": 41,
     "best_team_owner": "kevin",
     "best_team_started_points": 16.6,
     "best_team_started_games": 2,
@@ -16126,9 +16265,9 @@
         "started_points": 16.6,
         "started_games": 2,
         "bench_points": 30.6,
-        "bench_games": 3,
+        "bench_games": 17,
         "total_points": 47.2,
-        "total_games": 5
+        "total_games": 19
       },
       {
         "owner": "Sway",
@@ -16360,20 +16499,20 @@
     "position": "TE",
     "overall_started_points": 35.7,
     "overall_bench_points": 78.3,
-    "overall_started_games": 6,
+    "overall_started_games": 20,
     "overall_bench_games": 14,
     "best_team_owner": "Jose",
     "best_team_started_points": 14.0,
-    "best_team_started_games": 2,
+    "best_team_started_games": 16,
     "teams": [
       {
         "owner": "Jose",
         "started_points": 14.0,
-        "started_games": 2,
+        "started_games": 16,
         "bench_points": 0.0,
         "bench_games": 0,
         "total_points": 14.0,
-        "total_games": 2
+        "total_games": 16
       },
       {
         "owner": "Fabian",
@@ -16552,7 +16691,7 @@
     "overall_started_points": 34.12,
     "overall_bench_points": 63.54,
     "overall_started_games": 2,
-    "overall_bench_games": 3,
+    "overall_bench_games": 17,
     "best_team_owner": "Luis",
     "best_team_started_points": 26.2,
     "best_team_started_games": 1,
@@ -16562,9 +16701,9 @@
         "started_points": 26.2,
         "started_games": 1,
         "bench_points": 46.18,
-        "bench_games": 2,
+        "bench_games": 16,
         "total_points": 72.38,
-        "total_games": 3
+        "total_games": 17
       },
       {
         "owner": "kevin",
@@ -16654,7 +16793,7 @@
     "overall_started_points": 33.5,
     "overall_bench_points": 136.5,
     "overall_started_games": 2,
-    "overall_bench_games": 15,
+    "overall_bench_games": 29,
     "best_team_owner": "Frankie",
     "best_team_started_points": 33.5,
     "best_team_started_games": 2,
@@ -16664,9 +16803,9 @@
         "started_points": 33.5,
         "started_games": 2,
         "bench_points": 136.5,
-        "bench_games": 15,
+        "bench_games": 29,
         "total_points": 170.0,
-        "total_games": 17
+        "total_games": 31
       }
     ]
   },
@@ -16849,7 +16988,7 @@
     "overall_started_points": 32.6,
     "overall_bench_points": 21.8,
     "overall_started_games": 3,
-    "overall_bench_games": 6,
+    "overall_bench_games": 20,
     "best_team_owner": "Joseph",
     "best_team_started_points": 28.5,
     "best_team_started_games": 1,
@@ -16877,9 +17016,9 @@
         "started_points": 1.4,
         "started_games": 1,
         "bench_points": 0.0,
-        "bench_games": 0,
+        "bench_games": 14,
         "total_points": 1.4,
-        "total_games": 1
+        "total_games": 15
       },
       {
         "owner": "Laureano",
@@ -16897,20 +17036,20 @@
     "position": "QB",
     "overall_started_points": 32.56,
     "overall_bench_points": 0.0,
-    "overall_started_games": 2,
+    "overall_started_games": 16,
     "overall_bench_games": 0,
     "best_team_owner": "Michael",
     "best_team_started_points": 32.56,
-    "best_team_started_games": 2,
+    "best_team_started_games": 16,
     "teams": [
       {
         "owner": "Michael",
         "started_points": 32.56,
-        "started_games": 2,
+        "started_games": 16,
         "bench_points": 0.0,
         "bench_games": 0,
         "total_points": 32.56,
-        "total_games": 2
+        "total_games": 16
       }
     ]
   },
@@ -17323,20 +17462,20 @@
     "position": "RB",
     "overall_started_points": 27.2,
     "overall_bench_points": 44.6,
-    "overall_started_games": 3,
+    "overall_started_games": 17,
     "overall_bench_games": 7,
     "best_team_owner": "Jose",
     "best_team_started_points": 24.0,
-    "best_team_started_games": 2,
+    "best_team_started_games": 16,
     "teams": [
       {
         "owner": "Jose",
         "started_points": 24.0,
-        "started_games": 2,
+        "started_games": 16,
         "bench_points": 35.4,
         "bench_games": 5,
         "total_points": 59.4,
-        "total_games": 7
+        "total_games": 21
       },
       {
         "owner": "Sway",
@@ -17425,20 +17564,20 @@
     "position": "WR",
     "overall_started_points": 25.3,
     "overall_bench_points": 0.0,
-    "overall_started_games": 3,
+    "overall_started_games": 17,
     "overall_bench_games": 0,
     "best_team_owner": "Fabian",
     "best_team_started_points": 25.3,
-    "best_team_started_games": 3,
+    "best_team_started_games": 17,
     "teams": [
       {
         "owner": "Fabian",
         "started_points": 25.3,
-        "started_games": 3,
+        "started_games": 17,
         "bench_points": 0.0,
         "bench_games": 0,
         "total_points": 25.3,
-        "total_games": 3
+        "total_games": 17
       }
     ]
   },
@@ -17479,7 +17618,7 @@
     "overall_started_points": 24.9,
     "overall_bench_points": 79.8,
     "overall_started_games": 3,
-    "overall_bench_games": 17,
+    "overall_bench_games": 31,
     "best_team_owner": "Sway",
     "best_team_started_points": 24.9,
     "best_team_started_games": 3,
@@ -17498,9 +17637,9 @@
         "started_points": 0.0,
         "started_games": 0,
         "bench_points": 19.5,
-        "bench_games": 3,
+        "bench_games": 17,
         "total_points": 19.5,
-        "total_games": 3
+        "total_games": 17
       }
     ]
   },
@@ -18442,7 +18581,7 @@
     "overall_started_points": 17.9,
     "overall_bench_points": 10.6,
     "overall_started_games": 1,
-    "overall_bench_games": 5,
+    "overall_bench_games": 19,
     "best_team_owner": "Joseph",
     "best_team_started_points": 17.9,
     "best_team_started_games": 1,
@@ -18455,6 +18594,15 @@
         "bench_games": 5,
         "total_points": 28.5,
         "total_games": 6
+      },
+      {
+        "owner": "Frankie",
+        "started_points": 0.0,
+        "started_games": 0,
+        "bench_points": 0.0,
+        "bench_games": 14,
+        "total_points": 0.0,
+        "total_games": 14
       }
     ]
   },
@@ -18557,7 +18705,7 @@
     "overall_started_points": 16.5,
     "overall_bench_points": 108.7,
     "overall_started_games": 2,
-    "overall_bench_games": 24,
+    "overall_bench_games": 38,
     "best_team_owner": "Joseph",
     "best_team_started_points": 16.5,
     "best_team_started_games": 2,
@@ -18567,9 +18715,9 @@
         "started_points": 16.5,
         "started_games": 2,
         "bench_points": 13.8,
-        "bench_games": 3,
+        "bench_games": 17,
         "total_points": 30.3,
-        "total_games": 5
+        "total_games": 19
       },
       {
         "owner": "Fabian",
@@ -18787,7 +18935,7 @@
     "position": "RB",
     "overall_started_points": 14.7,
     "overall_bench_points": 76.4,
-    "overall_started_games": 2,
+    "overall_started_games": 16,
     "overall_bench_games": 20,
     "best_team_owner": "Frankie",
     "best_team_started_points": 14.7,
@@ -18814,11 +18962,11 @@
       {
         "owner": "kevin",
         "started_points": 0.0,
-        "started_games": 0,
+        "started_games": 14,
         "bench_points": 17.2,
         "bench_games": 3,
         "total_points": 17.2,
-        "total_games": 3
+        "total_games": 17
       }
     ]
   },
@@ -18849,20 +18997,20 @@
     "position": "TE",
     "overall_started_points": 14.4,
     "overall_bench_points": 34.1,
-    "overall_started_games": 4,
+    "overall_started_games": 18,
     "overall_bench_games": 4,
     "best_team_owner": "kevin",
     "best_team_started_points": 8.4,
-    "best_team_started_games": 3,
+    "best_team_started_games": 17,
     "teams": [
       {
         "owner": "kevin",
         "started_points": 8.4,
-        "started_games": 3,
+        "started_games": 17,
         "bench_points": 0.0,
         "bench_games": 0,
         "total_points": 8.4,
-        "total_games": 3
+        "total_games": 17
       },
       {
         "owner": "Luis",
@@ -18920,7 +19068,7 @@
     "position": "WR",
     "overall_started_points": 13.9,
     "overall_bench_points": 43.2,
-    "overall_started_games": 2,
+    "overall_started_games": 16,
     "overall_bench_games": 5,
     "best_team_owner": "kevin",
     "best_team_started_points": 7.0,
@@ -18938,11 +19086,11 @@
       {
         "owner": "Luis",
         "started_points": 6.9,
-        "started_games": 1,
+        "started_games": 15,
         "bench_points": 31.3,
         "bench_games": 2,
         "total_points": 38.2,
-        "total_games": 3
+        "total_games": 17
       }
     ]
   },
@@ -18952,7 +19100,7 @@
     "overall_started_points": 13.5,
     "overall_bench_points": 37.1,
     "overall_started_games": 3,
-    "overall_bench_games": 8,
+    "overall_bench_games": 22,
     "best_team_owner": "kevin",
     "best_team_started_points": 12.8,
     "best_team_started_games": 2,
@@ -18974,6 +19122,15 @@
         "bench_games": 0,
         "total_points": 0.7,
         "total_games": 1
+      },
+      {
+        "owner": "Jose",
+        "started_points": 0.0,
+        "started_games": 0,
+        "bench_points": 0.0,
+        "bench_games": 14,
+        "total_points": 0.0,
+        "total_games": 14
       }
     ]
   },
@@ -19157,7 +19314,7 @@
     "overall_started_points": 12.8,
     "overall_bench_points": 1.2,
     "overall_started_games": 2,
-    "overall_bench_games": 1,
+    "overall_bench_games": 15,
     "best_team_owner": "Luis",
     "best_team_started_points": 12.8,
     "best_team_started_games": 2,
@@ -19167,9 +19324,9 @@
         "started_points": 12.8,
         "started_games": 2,
         "bench_points": 1.2,
-        "bench_games": 1,
+        "bench_games": 15,
         "total_points": 14.0,
-        "total_games": 3
+        "total_games": 17
       }
     ]
   },
@@ -19250,7 +19407,7 @@
     "overall_started_points": 12.3,
     "overall_bench_points": 3.8,
     "overall_started_games": 2,
-    "overall_bench_games": 2,
+    "overall_bench_games": 16,
     "best_team_owner": "kevin",
     "best_team_started_points": 12.3,
     "best_team_started_games": 2,
@@ -19260,9 +19417,9 @@
         "started_points": 12.3,
         "started_games": 2,
         "bench_points": 3.8,
-        "bench_games": 1,
+        "bench_games": 15,
         "total_points": 16.1,
-        "total_games": 3
+        "total_games": 17
       },
       {
         "owner": "Laureano",
@@ -19361,7 +19518,7 @@
     "overall_started_points": 12.2,
     "overall_bench_points": 211.4,
     "overall_started_games": 3,
-    "overall_bench_games": 29,
+    "overall_bench_games": 43,
     "best_team_owner": "Luis",
     "best_team_started_points": 6.5,
     "best_team_started_games": 1,
@@ -19380,9 +19537,9 @@
         "started_points": 3.5,
         "started_games": 1,
         "bench_points": 40.5,
-        "bench_games": 5,
+        "bench_games": 19,
         "total_points": 44.0,
-        "total_games": 6
+        "total_games": 20
       },
       {
         "owner": "Joseph",
@@ -19428,7 +19585,7 @@
     "overall_started_points": 12.1,
     "overall_bench_points": 80.1,
     "overall_started_games": 2,
-    "overall_bench_games": 13,
+    "overall_bench_games": 27,
     "best_team_owner": "Sway",
     "best_team_started_points": 10.4,
     "best_team_started_games": 1,
@@ -19459,6 +19616,15 @@
         "bench_games": 3,
         "total_points": 10.1,
         "total_games": 3
+      },
+      {
+        "owner": "Laureano",
+        "started_points": 0.0,
+        "started_games": 0,
+        "bench_points": 0.0,
+        "bench_games": 14,
+        "total_points": 0.0,
+        "total_games": 14
       }
     ]
   },
@@ -19840,7 +20006,7 @@
     "overall_started_points": 9.6,
     "overall_bench_points": 47.4,
     "overall_started_games": 2,
-    "overall_bench_games": 7,
+    "overall_bench_games": 21,
     "best_team_owner": "Jose",
     "best_team_started_points": 6.2,
     "best_team_started_games": 1,
@@ -19886,9 +20052,9 @@
         "started_points": 0.0,
         "started_games": 0,
         "bench_points": 0.0,
-        "bench_games": 1,
+        "bench_games": 15,
         "total_points": 0.0,
-        "total_games": 1
+        "total_games": 15
       }
     ]
   },
@@ -20137,28 +20303,6 @@
         "bench_games": 0,
         "total_points": 0.8,
         "total_games": 1
-      }
-    ]
-  },
-  {
-    "player": "Denzel Boston",
-    "position": "WR",
-    "overall_started_points": 8.1,
-    "overall_bench_points": 39.4,
-    "overall_started_games": 1,
-    "overall_bench_games": 2,
-    "best_team_owner": "Daniel",
-    "best_team_started_points": 8.1,
-    "best_team_started_games": 1,
-    "teams": [
-      {
-        "owner": "Daniel",
-        "started_points": 8.1,
-        "started_games": 1,
-        "bench_points": 39.4,
-        "bench_games": 2,
-        "total_points": 47.5,
-        "total_games": 3
       }
     ]
   },
@@ -20951,7 +21095,7 @@
     "overall_started_points": 4.1,
     "overall_bench_points": 175.8,
     "overall_started_games": 2,
-    "overall_bench_games": 26,
+    "overall_bench_games": 40,
     "best_team_owner": "Xavier",
     "best_team_started_points": 4.1,
     "best_team_started_games": 1,
@@ -20979,9 +21123,9 @@
         "started_points": 0.0,
         "started_games": 0,
         "bench_points": 42.5,
-        "bench_games": 6,
+        "bench_games": 20,
         "total_points": 42.5,
-        "total_games": 6
+        "total_games": 20
       },
       {
         "owner": "Sway",
@@ -21000,7 +21144,7 @@
     "overall_started_points": 4.0,
     "overall_bench_points": 41.8,
     "overall_started_games": 1,
-    "overall_bench_games": 7,
+    "overall_bench_games": 21,
     "best_team_owner": "Joseph",
     "best_team_started_points": 4.0,
     "best_team_started_games": 1,
@@ -21046,9 +21190,9 @@
         "started_points": 0.0,
         "started_games": 0,
         "bench_points": 32.9,
-        "bench_games": 3,
+        "bench_games": 17,
         "total_points": 32.9,
-        "total_games": 3
+        "total_games": 17
       }
     ]
   },
@@ -21079,7 +21223,7 @@
     "position": "WR",
     "overall_started_points": 4.0,
     "overall_bench_points": 37.9,
-    "overall_started_games": 1,
+    "overall_started_games": 15,
     "overall_bench_games": 5,
     "best_team_owner": "Frankie",
     "best_team_started_points": 4.0,
@@ -21102,6 +21246,15 @@
         "bench_games": 2,
         "total_points": 16.5,
         "total_games": 2
+      },
+      {
+        "owner": "Joseph",
+        "started_points": 0.0,
+        "started_games": 14,
+        "bench_points": 0.0,
+        "bench_games": 0,
+        "total_points": 0.0,
+        "total_games": 14
       }
     ]
   },
@@ -21133,7 +21286,7 @@
     "overall_started_points": 3.8,
     "overall_bench_points": 72.3,
     "overall_started_games": 1,
-    "overall_bench_games": 9,
+    "overall_bench_games": 23,
     "best_team_owner": "Luis",
     "best_team_started_points": 3.8,
     "best_team_started_games": 1,
@@ -21143,9 +21296,9 @@
         "started_points": 3.8,
         "started_games": 1,
         "bench_points": 65.7,
-        "bench_games": 4,
+        "bench_games": 18,
         "total_points": 69.5,
-        "total_games": 5
+        "total_games": 19
       },
       {
         "owner": "Xavier",
@@ -21328,7 +21481,7 @@
     "overall_started_points": 2.8,
     "overall_bench_points": 7.5,
     "overall_started_games": 1,
-    "overall_bench_games": 2,
+    "overall_bench_games": 16,
     "best_team_owner": "Xavier",
     "best_team_started_points": 2.8,
     "best_team_started_games": 1,
@@ -21338,9 +21491,9 @@
         "started_points": 2.8,
         "started_games": 1,
         "bench_points": 7.5,
-        "bench_games": 2,
+        "bench_games": 16,
         "total_points": 10.3,
-        "total_games": 3
+        "total_games": 17
       }
     ]
   },
@@ -21403,7 +21556,7 @@
     "overall_started_points": 2.2,
     "overall_bench_points": 32.0,
     "overall_started_games": 1,
-    "overall_bench_games": 11,
+    "overall_bench_games": 25,
     "best_team_owner": "Laureano",
     "best_team_started_points": 2.2,
     "best_team_started_games": 1,
@@ -21452,6 +21605,15 @@
         "bench_games": 3,
         "total_points": 10.8,
         "total_games": 3
+      },
+      {
+        "owner": "Luis",
+        "started_points": 0.0,
+        "started_games": 0,
+        "bench_points": 0.0,
+        "bench_games": 14,
+        "total_points": 0.0,
+        "total_games": 14
       }
     ]
   },
@@ -22693,7 +22855,7 @@
     "overall_started_points": 0.0,
     "overall_bench_points": 4.2,
     "overall_started_games": 0,
-    "overall_bench_games": 5,
+    "overall_bench_games": 19,
     "best_team_owner": "Xavier",
     "best_team_started_points": 0.0,
     "best_team_started_games": 0,
@@ -22724,6 +22886,15 @@
         "bench_games": 1,
         "total_points": 2.1,
         "total_games": 1
+      },
+      {
+        "owner": "Sway",
+        "started_points": 0.0,
+        "started_games": 0,
+        "bench_points": 0.0,
+        "bench_games": 14,
+        "total_points": 0.0,
+        "total_games": 14
       }
     ]
   },
@@ -22795,7 +22966,7 @@
     "overall_started_points": 0.0,
     "overall_bench_points": 136.8,
     "overall_started_games": 0,
-    "overall_bench_games": 29,
+    "overall_bench_games": 43,
     "best_team_owner": "Frankie",
     "best_team_started_points": 0.0,
     "best_team_started_games": 0,
@@ -22832,9 +23003,9 @@
         "started_points": 0.0,
         "started_games": 0,
         "bench_points": 13.7,
-        "bench_games": 2,
+        "bench_games": 16,
         "total_points": 13.7,
-        "total_games": 2
+        "total_games": 16
       }
     ]
   },
@@ -23219,7 +23390,7 @@
     "overall_started_points": 0.0,
     "overall_bench_points": 15.4,
     "overall_started_games": 0,
-    "overall_bench_games": 6,
+    "overall_bench_games": 20,
     "best_team_owner": "Frankie",
     "best_team_started_points": 0.0,
     "best_team_started_games": 0,
@@ -23232,6 +23403,15 @@
         "bench_games": 6,
         "total_points": 15.4,
         "total_games": 6
+      },
+      {
+        "owner": "kevin",
+        "started_points": 0.0,
+        "started_games": 0,
+        "bench_points": 0.0,
+        "bench_games": 14,
+        "total_points": 0.0,
+        "total_games": 14
       }
     ]
   },
@@ -23351,7 +23531,7 @@
     "overall_started_points": 0.0,
     "overall_bench_points": 24.1,
     "overall_started_games": 0,
-    "overall_bench_games": 4,
+    "overall_bench_games": 18,
     "best_team_owner": "Laureano",
     "best_team_started_points": 0.0,
     "best_team_started_games": 0,
@@ -23361,9 +23541,9 @@
         "started_points": 0.0,
         "started_games": 0,
         "bench_points": 6.3,
-        "bench_games": 1,
+        "bench_games": 15,
         "total_points": 6.3,
-        "total_games": 1
+        "total_games": 15
       },
       {
         "owner": "Daniel",
@@ -23589,7 +23769,7 @@
     "overall_started_points": 0.0,
     "overall_bench_points": 0.0,
     "overall_started_games": 0,
-    "overall_bench_games": 3,
+    "overall_bench_games": 17,
     "best_team_owner": "Sway",
     "best_team_started_points": 0.0,
     "best_team_started_games": 0,
@@ -23608,9 +23788,9 @@
         "started_points": 0.0,
         "started_games": 0,
         "bench_points": 0.0,
-        "bench_games": 2,
+        "bench_games": 16,
         "total_points": 0.0,
-        "total_games": 2
+        "total_games": 16
       }
     ]
   },
@@ -23620,7 +23800,7 @@
     "overall_started_points": 0.0,
     "overall_bench_points": 14.8,
     "overall_started_games": 0,
-    "overall_bench_games": 3,
+    "overall_bench_games": 17,
     "best_team_owner": "Sway",
     "best_team_started_points": 0.0,
     "best_team_started_games": 0,
@@ -23630,9 +23810,9 @@
         "started_points": 0.0,
         "started_games": 0,
         "bench_points": 14.8,
-        "bench_games": 3,
+        "bench_games": 17,
         "total_points": 14.8,
-        "total_games": 3
+        "total_games": 17
       }
     ]
   },
@@ -23640,9 +23820,9 @@
     "player": "Roman Wilson",
     "position": "WR",
     "overall_started_points": 0.0,
-    "overall_bench_points": 5.6,
+    "overall_bench_points": 235.2,
     "overall_started_games": 0,
-    "overall_bench_games": 1,
+    "overall_bench_games": 15,
     "best_team_owner": "kevin",
     "best_team_started_points": 0.0,
     "best_team_started_games": 0,
@@ -23655,6 +23835,15 @@
         "bench_games": 1,
         "total_points": 5.6,
         "total_games": 1
+      },
+      {
+        "owner": "Joseph",
+        "started_points": 0.0,
+        "started_games": 0,
+        "bench_points": 229.6,
+        "bench_games": 14,
+        "total_points": 229.6,
+        "total_games": 14
       }
     ]
   },
@@ -23686,7 +23875,7 @@
     "overall_started_points": 0.0,
     "overall_bench_points": 10.3,
     "overall_started_games": 0,
-    "overall_bench_games": 3,
+    "overall_bench_games": 17,
     "best_team_owner": "Laureano",
     "best_team_started_points": 0.0,
     "best_team_started_games": 0,
@@ -23696,9 +23885,9 @@
         "started_points": 0.0,
         "started_games": 0,
         "bench_points": 10.3,
-        "bench_games": 3,
+        "bench_games": 17,
         "total_points": 10.3,
-        "total_games": 3
+        "total_games": 17
       }
     ]
   },
@@ -23708,7 +23897,7 @@
     "overall_started_points": 0.0,
     "overall_bench_points": 0.0,
     "overall_started_games": 0,
-    "overall_bench_games": 3,
+    "overall_bench_games": 17,
     "best_team_owner": "Xavier",
     "best_team_started_points": 0.0,
     "best_team_started_games": 0,
@@ -23718,9 +23907,9 @@
         "started_points": 0.0,
         "started_games": 0,
         "bench_points": 0.0,
-        "bench_games": 3,
+        "bench_games": 17,
         "total_points": 0.0,
-        "total_games": 3
+        "total_games": 17
       }
     ]
   },
@@ -23752,7 +23941,7 @@
     "overall_started_points": 0.0,
     "overall_bench_points": 19.3,
     "overall_started_games": 0,
-    "overall_bench_games": 3,
+    "overall_bench_games": 17,
     "best_team_owner": "Xavier",
     "best_team_started_points": 0.0,
     "best_team_started_games": 0,
@@ -23762,9 +23951,9 @@
         "started_points": 0.0,
         "started_games": 0,
         "bench_points": 19.3,
-        "bench_games": 3,
+        "bench_games": 17,
         "total_points": 19.3,
-        "total_games": 3
+        "total_games": 17
       }
     ]
   },
@@ -23772,9 +23961,9 @@
     "player": "KC Concepcion",
     "position": "WR",
     "overall_started_points": 0.0,
-    "overall_bench_points": 18.9,
+    "overall_bench_points": 178.5,
     "overall_started_games": 0,
-    "overall_bench_games": 3,
+    "overall_bench_games": 17,
     "best_team_owner": "Frankie",
     "best_team_started_points": 0.0,
     "best_team_started_games": 0,
@@ -23783,10 +23972,10 @@
         "owner": "Frankie",
         "started_points": 0.0,
         "started_games": 0,
-        "bench_points": 18.9,
-        "bench_games": 3,
-        "total_points": 18.9,
-        "total_games": 3
+        "bench_points": 178.5,
+        "bench_games": 17,
+        "total_points": 178.5,
+        "total_games": 17
       }
     ]
   },
@@ -23796,7 +23985,7 @@
     "overall_started_points": 0.0,
     "overall_bench_points": 16.2,
     "overall_started_games": 0,
-    "overall_bench_games": 3,
+    "overall_bench_games": 17,
     "best_team_owner": "Najee",
     "best_team_started_points": 0.0,
     "best_team_started_games": 0,
@@ -23806,9 +23995,9 @@
         "started_points": 0.0,
         "started_games": 0,
         "bench_points": 16.2,
-        "bench_games": 3,
+        "bench_games": 17,
         "total_points": 16.2,
-        "total_games": 3
+        "total_games": 17
       }
     ]
   },
@@ -23818,7 +24007,7 @@
     "overall_started_points": 0.0,
     "overall_bench_points": 12.2,
     "overall_started_games": 0,
-    "overall_bench_games": 3,
+    "overall_bench_games": 17,
     "best_team_owner": "Daniel",
     "best_team_started_points": 0.0,
     "best_team_started_games": 0,
@@ -23828,9 +24017,9 @@
         "started_points": 0.0,
         "started_games": 0,
         "bench_points": 12.2,
-        "bench_games": 3,
+        "bench_games": 17,
         "total_points": 12.2,
-        "total_games": 3
+        "total_games": 17
       }
     ]
   },
@@ -23840,7 +24029,7 @@
     "overall_started_points": 0.0,
     "overall_bench_points": 2.1,
     "overall_started_games": 0,
-    "overall_bench_games": 3,
+    "overall_bench_games": 17,
     "best_team_owner": "Daniel",
     "best_team_started_points": 0.0,
     "best_team_started_games": 0,
@@ -23859,9 +24048,9 @@
         "started_points": 0.0,
         "started_games": 0,
         "bench_points": 0.0,
-        "bench_games": 2,
+        "bench_games": 16,
         "total_points": 0.0,
-        "total_games": 2
+        "total_games": 16
       }
     ]
   },
@@ -23871,7 +24060,7 @@
     "overall_started_points": 0.0,
     "overall_bench_points": 18.3,
     "overall_started_games": 0,
-    "overall_bench_games": 3,
+    "overall_bench_games": 17,
     "best_team_owner": "Daniel",
     "best_team_started_points": 0.0,
     "best_team_started_games": 0,
@@ -23881,9 +24070,9 @@
         "started_points": 0.0,
         "started_games": 0,
         "bench_points": 18.3,
-        "bench_games": 3,
+        "bench_games": 17,
         "total_points": 18.3,
-        "total_games": 3
+        "total_games": 17
       }
     ]
   },
@@ -23893,7 +24082,7 @@
     "overall_started_points": 0.0,
     "overall_bench_points": 16.0,
     "overall_started_games": 0,
-    "overall_bench_games": 3,
+    "overall_bench_games": 17,
     "best_team_owner": "Luis",
     "best_team_started_points": 0.0,
     "best_team_started_games": 0,
@@ -23903,9 +24092,9 @@
         "started_points": 0.0,
         "started_games": 0,
         "bench_points": 16.0,
-        "bench_games": 3,
+        "bench_games": 17,
         "total_points": 16.0,
-        "total_games": 3
+        "total_games": 17
       }
     ]
   },
@@ -23914,20 +24103,20 @@
     "position": "TE",
     "overall_started_points": 0.0,
     "overall_bench_points": 29.2,
-    "overall_started_games": 0,
+    "overall_started_games": 14,
     "overall_bench_games": 2,
     "best_team_owner": "Luis",
     "best_team_started_points": 0.0,
-    "best_team_started_games": 0,
+    "best_team_started_games": 14,
     "teams": [
       {
         "owner": "Luis",
         "started_points": 0.0,
-        "started_games": 0,
+        "started_games": 14,
         "bench_points": 29.2,
         "bench_games": 2,
         "total_points": 29.2,
-        "total_games": 2
+        "total_games": 16
       }
     ]
   },
@@ -23937,7 +24126,7 @@
     "overall_started_points": 0.0,
     "overall_bench_points": 15.2,
     "overall_started_games": 0,
-    "overall_bench_games": 2,
+    "overall_bench_games": 16,
     "best_team_owner": "Luis",
     "best_team_started_points": 0.0,
     "best_team_started_games": 0,
@@ -23956,9 +24145,9 @@
         "started_points": 0.0,
         "started_games": 0,
         "bench_points": 8.5,
-        "bench_games": 1,
+        "bench_games": 15,
         "total_points": 8.5,
-        "total_games": 1
+        "total_games": 15
       }
     ]
   },
@@ -24012,7 +24201,7 @@
     "overall_started_points": 0.0,
     "overall_bench_points": 31.0,
     "overall_started_games": 0,
-    "overall_bench_games": 2,
+    "overall_bench_games": 16,
     "best_team_owner": "Fabian",
     "best_team_started_points": 0.0,
     "best_team_started_games": 0,
@@ -24022,9 +24211,31 @@
         "started_points": 0.0,
         "started_games": 0,
         "bench_points": 31.0,
-        "bench_games": 2,
+        "bench_games": 16,
         "total_points": 31.0,
-        "total_games": 2
+        "total_games": 16
+      }
+    ]
+  },
+  {
+    "player": "Tre' Harris",
+    "position": "WR",
+    "overall_started_points": 0.0,
+    "overall_bench_points": 0.0,
+    "overall_started_games": 14,
+    "overall_bench_games": 0,
+    "best_team_owner": "Laureano",
+    "best_team_started_points": 0.0,
+    "best_team_started_games": 14,
+    "teams": [
+      {
+        "owner": "Laureano",
+        "started_points": 0.0,
+        "started_games": 14,
+        "bench_points": 0.0,
+        "bench_games": 0,
+        "total_points": 0.0,
+        "total_games": 14
       }
     ]
   }
