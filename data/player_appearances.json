@@ -154721,7 +154721,7 @@
     "owner": "Sway",
     "player": "Garrett Wilson",
     "position": "WR",
-    "slot": "WR",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -154743,7 +154743,7 @@
     "owner": "Sway",
     "player": "Stefon Diggs",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "WR",
     "points": 0,
     "started": true
   },
@@ -154754,9 +154754,9 @@
     "owner": "Sway",
     "player": "Mark Andrews",
     "position": "TE",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -154842,9 +154842,9 @@
     "owner": "Sway",
     "player": "Jaylen Wright",
     "position": "RB",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -155084,9 +155084,9 @@
     "owner": "Najee",
     "player": "Justin Jefferson",
     "position": "WR",
-    "slot": "WR",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -155106,7 +155106,7 @@
     "owner": "Najee",
     "player": "Davante Adams",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "WR",
     "points": 0,
     "started": true
   },
@@ -155216,9 +155216,9 @@
     "owner": "Najee",
     "player": "Keenan Allen",
     "position": "WR",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -155843,9 +155843,9 @@
     "owner": "Jose",
     "player": "Nico Collins",
     "position": "WR",
-    "slot": "IR",
+    "slot": "WR",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -155953,9 +155953,9 @@
     "owner": "Jose",
     "player": "Alvin Kamara",
     "position": "RB",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -155964,7 +155964,7 @@
     "owner": "Jose",
     "player": "Jordan Addison",
     "position": "WR",
-    "slot": "WR",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -156006,17 +156006,6 @@
     "week": 4,
     "team": "Kingdom Builders \ud83e\udd81",
     "owner": "Jose",
-    "player": "Chris Rodriguez Jr.",
-    "position": "RB",
-    "slot": "BE",
-    "points": 0,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 4,
-    "team": "Kingdom Builders \ud83e\udd81",
-    "owner": "Jose",
     "player": "Jordan Love",
     "position": "QB",
     "slot": "BE",
@@ -156052,9 +156041,9 @@
     "owner": "kevin",
     "player": "DeVonta Smith",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -156151,9 +156140,9 @@
     "owner": "kevin",
     "player": "Jacory Croskey-Merritt",
     "position": "RB",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -156162,9 +156151,9 @@
     "owner": "kevin",
     "player": "49ers D/ST",
     "position": "D/ST",
-    "slot": "D/ST",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -156206,9 +156195,9 @@
     "owner": "kevin",
     "player": "Jets D/ST",
     "position": "D/ST",
-    "slot": "BE",
+    "slot": "D/ST",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -156448,7 +156437,7 @@
     "owner": "Xavier",
     "player": "Breece Hall",
     "position": "RB",
-    "slot": "IR",
+    "slot": "BE",
     "points": 0,
     "started": false
   },
@@ -156492,9 +156481,9 @@
     "owner": "Xavier",
     "player": "Wan'Dale Robinson",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -156503,9 +156492,9 @@
     "owner": "Xavier",
     "player": "Mike Evans",
     "position": "WR",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -156569,7 +156558,7 @@
     "owner": "Xavier",
     "player": "Terrance Ferguson",
     "position": "TE",
-    "slot": "BE",
+    "slot": "IR",
     "points": 0,
     "started": false
   },
@@ -156987,7 +156976,7 @@
     "owner": "Sway",
     "player": "Garrett Wilson",
     "position": "WR",
-    "slot": "WR",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -157009,7 +156998,7 @@
     "owner": "Sway",
     "player": "Stefon Diggs",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "WR",
     "points": 0,
     "started": true
   },
@@ -157020,9 +157009,9 @@
     "owner": "Sway",
     "player": "Mark Andrews",
     "position": "TE",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -157108,9 +157097,9 @@
     "owner": "Sway",
     "player": "Jaylen Wright",
     "position": "RB",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -157350,9 +157339,9 @@
     "owner": "Najee",
     "player": "Justin Jefferson",
     "position": "WR",
-    "slot": "WR",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -157372,7 +157361,7 @@
     "owner": "Najee",
     "player": "Davante Adams",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "WR",
     "points": 0,
     "started": true
   },
@@ -157482,9 +157471,9 @@
     "owner": "Najee",
     "player": "Keenan Allen",
     "position": "WR",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -158109,9 +158098,9 @@
     "owner": "Jose",
     "player": "Nico Collins",
     "position": "WR",
-    "slot": "IR",
+    "slot": "WR",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -158219,9 +158208,9 @@
     "owner": "Jose",
     "player": "Alvin Kamara",
     "position": "RB",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -158230,7 +158219,7 @@
     "owner": "Jose",
     "player": "Jordan Addison",
     "position": "WR",
-    "slot": "WR",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -158272,17 +158261,6 @@
     "week": 5,
     "team": "Kingdom Builders \ud83e\udd81",
     "owner": "Jose",
-    "player": "Chris Rodriguez Jr.",
-    "position": "RB",
-    "slot": "BE",
-    "points": 0,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 5,
-    "team": "Kingdom Builders \ud83e\udd81",
-    "owner": "Jose",
     "player": "Jordan Love",
     "position": "QB",
     "slot": "BE",
@@ -158318,9 +158296,9 @@
     "owner": "kevin",
     "player": "DeVonta Smith",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -158417,9 +158395,9 @@
     "owner": "kevin",
     "player": "Jacory Croskey-Merritt",
     "position": "RB",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -158428,9 +158406,9 @@
     "owner": "kevin",
     "player": "49ers D/ST",
     "position": "D/ST",
-    "slot": "D/ST",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -158472,9 +158450,9 @@
     "owner": "kevin",
     "player": "Jets D/ST",
     "position": "D/ST",
-    "slot": "BE",
+    "slot": "D/ST",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -158714,7 +158692,7 @@
     "owner": "Xavier",
     "player": "Breece Hall",
     "position": "RB",
-    "slot": "IR",
+    "slot": "BE",
     "points": 0,
     "started": false
   },
@@ -158758,9 +158736,9 @@
     "owner": "Xavier",
     "player": "Wan'Dale Robinson",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -158769,9 +158747,9 @@
     "owner": "Xavier",
     "player": "Mike Evans",
     "position": "WR",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -158835,7 +158813,7 @@
     "owner": "Xavier",
     "player": "Terrance Ferguson",
     "position": "TE",
-    "slot": "BE",
+    "slot": "IR",
     "points": 0,
     "started": false
   },
@@ -159253,7 +159231,7 @@
     "owner": "Sway",
     "player": "Garrett Wilson",
     "position": "WR",
-    "slot": "WR",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -159275,7 +159253,7 @@
     "owner": "Sway",
     "player": "Stefon Diggs",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "WR",
     "points": 0,
     "started": true
   },
@@ -159286,9 +159264,9 @@
     "owner": "Sway",
     "player": "Mark Andrews",
     "position": "TE",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -159374,9 +159352,9 @@
     "owner": "Sway",
     "player": "Jaylen Wright",
     "position": "RB",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -159616,9 +159594,9 @@
     "owner": "Najee",
     "player": "Justin Jefferson",
     "position": "WR",
-    "slot": "WR",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -159638,7 +159616,7 @@
     "owner": "Najee",
     "player": "Davante Adams",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "WR",
     "points": 0,
     "started": true
   },
@@ -159748,9 +159726,9 @@
     "owner": "Najee",
     "player": "Keenan Allen",
     "position": "WR",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -160375,9 +160353,9 @@
     "owner": "Jose",
     "player": "Nico Collins",
     "position": "WR",
-    "slot": "IR",
+    "slot": "WR",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -160485,9 +160463,9 @@
     "owner": "Jose",
     "player": "Alvin Kamara",
     "position": "RB",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -160496,7 +160474,7 @@
     "owner": "Jose",
     "player": "Jordan Addison",
     "position": "WR",
-    "slot": "WR",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -160538,17 +160516,6 @@
     "week": 6,
     "team": "Kingdom Builders \ud83e\udd81",
     "owner": "Jose",
-    "player": "Chris Rodriguez Jr.",
-    "position": "RB",
-    "slot": "BE",
-    "points": 0,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 6,
-    "team": "Kingdom Builders \ud83e\udd81",
-    "owner": "Jose",
     "player": "Jordan Love",
     "position": "QB",
     "slot": "BE",
@@ -160584,9 +160551,9 @@
     "owner": "kevin",
     "player": "DeVonta Smith",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -160683,9 +160650,9 @@
     "owner": "kevin",
     "player": "Jacory Croskey-Merritt",
     "position": "RB",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -160694,9 +160661,9 @@
     "owner": "kevin",
     "player": "49ers D/ST",
     "position": "D/ST",
-    "slot": "D/ST",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -160738,9 +160705,9 @@
     "owner": "kevin",
     "player": "Jets D/ST",
     "position": "D/ST",
-    "slot": "BE",
+    "slot": "D/ST",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -160980,7 +160947,7 @@
     "owner": "Xavier",
     "player": "Breece Hall",
     "position": "RB",
-    "slot": "IR",
+    "slot": "BE",
     "points": 0,
     "started": false
   },
@@ -161024,9 +160991,9 @@
     "owner": "Xavier",
     "player": "Wan'Dale Robinson",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -161035,9 +161002,9 @@
     "owner": "Xavier",
     "player": "Mike Evans",
     "position": "WR",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -161101,7 +161068,7 @@
     "owner": "Xavier",
     "player": "Terrance Ferguson",
     "position": "TE",
-    "slot": "BE",
+    "slot": "IR",
     "points": 0,
     "started": false
   },
@@ -161519,7 +161486,7 @@
     "owner": "Sway",
     "player": "Garrett Wilson",
     "position": "WR",
-    "slot": "WR",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -161541,7 +161508,7 @@
     "owner": "Sway",
     "player": "Stefon Diggs",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "WR",
     "points": 0,
     "started": true
   },
@@ -161552,9 +161519,9 @@
     "owner": "Sway",
     "player": "Mark Andrews",
     "position": "TE",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -161640,9 +161607,9 @@
     "owner": "Sway",
     "player": "Jaylen Wright",
     "position": "RB",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -161882,9 +161849,9 @@
     "owner": "Najee",
     "player": "Justin Jefferson",
     "position": "WR",
-    "slot": "WR",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -161904,7 +161871,7 @@
     "owner": "Najee",
     "player": "Davante Adams",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "WR",
     "points": 0,
     "started": true
   },
@@ -162014,9 +161981,9 @@
     "owner": "Najee",
     "player": "Keenan Allen",
     "position": "WR",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -162641,9 +162608,9 @@
     "owner": "Jose",
     "player": "Nico Collins",
     "position": "WR",
-    "slot": "IR",
+    "slot": "WR",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -162751,9 +162718,9 @@
     "owner": "Jose",
     "player": "Alvin Kamara",
     "position": "RB",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -162762,7 +162729,7 @@
     "owner": "Jose",
     "player": "Jordan Addison",
     "position": "WR",
-    "slot": "WR",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -162804,17 +162771,6 @@
     "week": 7,
     "team": "Kingdom Builders \ud83e\udd81",
     "owner": "Jose",
-    "player": "Chris Rodriguez Jr.",
-    "position": "RB",
-    "slot": "BE",
-    "points": 0,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 7,
-    "team": "Kingdom Builders \ud83e\udd81",
-    "owner": "Jose",
     "player": "Jordan Love",
     "position": "QB",
     "slot": "BE",
@@ -162850,9 +162806,9 @@
     "owner": "kevin",
     "player": "DeVonta Smith",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -162949,9 +162905,9 @@
     "owner": "kevin",
     "player": "Jacory Croskey-Merritt",
     "position": "RB",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -162960,9 +162916,9 @@
     "owner": "kevin",
     "player": "49ers D/ST",
     "position": "D/ST",
-    "slot": "D/ST",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -163004,9 +162960,9 @@
     "owner": "kevin",
     "player": "Jets D/ST",
     "position": "D/ST",
-    "slot": "BE",
+    "slot": "D/ST",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -163246,7 +163202,7 @@
     "owner": "Xavier",
     "player": "Breece Hall",
     "position": "RB",
-    "slot": "IR",
+    "slot": "BE",
     "points": 0,
     "started": false
   },
@@ -163290,9 +163246,9 @@
     "owner": "Xavier",
     "player": "Wan'Dale Robinson",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -163301,9 +163257,9 @@
     "owner": "Xavier",
     "player": "Mike Evans",
     "position": "WR",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -163367,7 +163323,7 @@
     "owner": "Xavier",
     "player": "Terrance Ferguson",
     "position": "TE",
-    "slot": "BE",
+    "slot": "IR",
     "points": 0,
     "started": false
   },
@@ -163785,7 +163741,7 @@
     "owner": "Sway",
     "player": "Garrett Wilson",
     "position": "WR",
-    "slot": "WR",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -163807,7 +163763,7 @@
     "owner": "Sway",
     "player": "Stefon Diggs",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "WR",
     "points": 0,
     "started": true
   },
@@ -163818,9 +163774,9 @@
     "owner": "Sway",
     "player": "Mark Andrews",
     "position": "TE",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -163906,9 +163862,9 @@
     "owner": "Sway",
     "player": "Jaylen Wright",
     "position": "RB",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -164148,9 +164104,9 @@
     "owner": "Najee",
     "player": "Justin Jefferson",
     "position": "WR",
-    "slot": "WR",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -164170,7 +164126,7 @@
     "owner": "Najee",
     "player": "Davante Adams",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "WR",
     "points": 0,
     "started": true
   },
@@ -164280,9 +164236,9 @@
     "owner": "Najee",
     "player": "Keenan Allen",
     "position": "WR",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -164907,9 +164863,9 @@
     "owner": "Jose",
     "player": "Nico Collins",
     "position": "WR",
-    "slot": "IR",
+    "slot": "WR",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -165017,9 +164973,9 @@
     "owner": "Jose",
     "player": "Alvin Kamara",
     "position": "RB",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -165028,7 +164984,7 @@
     "owner": "Jose",
     "player": "Jordan Addison",
     "position": "WR",
-    "slot": "WR",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -165070,17 +165026,6 @@
     "week": 8,
     "team": "Kingdom Builders \ud83e\udd81",
     "owner": "Jose",
-    "player": "Chris Rodriguez Jr.",
-    "position": "RB",
-    "slot": "BE",
-    "points": 0,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 8,
-    "team": "Kingdom Builders \ud83e\udd81",
-    "owner": "Jose",
     "player": "Jordan Love",
     "position": "QB",
     "slot": "BE",
@@ -165116,9 +165061,9 @@
     "owner": "kevin",
     "player": "DeVonta Smith",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -165215,9 +165160,9 @@
     "owner": "kevin",
     "player": "Jacory Croskey-Merritt",
     "position": "RB",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -165226,9 +165171,9 @@
     "owner": "kevin",
     "player": "49ers D/ST",
     "position": "D/ST",
-    "slot": "D/ST",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -165270,9 +165215,9 @@
     "owner": "kevin",
     "player": "Jets D/ST",
     "position": "D/ST",
-    "slot": "BE",
+    "slot": "D/ST",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -165512,7 +165457,7 @@
     "owner": "Xavier",
     "player": "Breece Hall",
     "position": "RB",
-    "slot": "IR",
+    "slot": "BE",
     "points": 0,
     "started": false
   },
@@ -165556,9 +165501,9 @@
     "owner": "Xavier",
     "player": "Wan'Dale Robinson",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -165567,9 +165512,9 @@
     "owner": "Xavier",
     "player": "Mike Evans",
     "position": "WR",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -165633,7 +165578,7 @@
     "owner": "Xavier",
     "player": "Terrance Ferguson",
     "position": "TE",
-    "slot": "BE",
+    "slot": "IR",
     "points": 0,
     "started": false
   },
@@ -166051,7 +165996,7 @@
     "owner": "Sway",
     "player": "Garrett Wilson",
     "position": "WR",
-    "slot": "WR",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -166073,7 +166018,7 @@
     "owner": "Sway",
     "player": "Stefon Diggs",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "WR",
     "points": 0,
     "started": true
   },
@@ -166084,9 +166029,9 @@
     "owner": "Sway",
     "player": "Mark Andrews",
     "position": "TE",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -166172,9 +166117,9 @@
     "owner": "Sway",
     "player": "Jaylen Wright",
     "position": "RB",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -166414,9 +166359,9 @@
     "owner": "Najee",
     "player": "Justin Jefferson",
     "position": "WR",
-    "slot": "WR",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -166436,7 +166381,7 @@
     "owner": "Najee",
     "player": "Davante Adams",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "WR",
     "points": 0,
     "started": true
   },
@@ -166546,9 +166491,9 @@
     "owner": "Najee",
     "player": "Keenan Allen",
     "position": "WR",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -167173,9 +167118,9 @@
     "owner": "Jose",
     "player": "Nico Collins",
     "position": "WR",
-    "slot": "IR",
+    "slot": "WR",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -167283,9 +167228,9 @@
     "owner": "Jose",
     "player": "Alvin Kamara",
     "position": "RB",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -167294,7 +167239,7 @@
     "owner": "Jose",
     "player": "Jordan Addison",
     "position": "WR",
-    "slot": "WR",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -167336,17 +167281,6 @@
     "week": 9,
     "team": "Kingdom Builders \ud83e\udd81",
     "owner": "Jose",
-    "player": "Chris Rodriguez Jr.",
-    "position": "RB",
-    "slot": "BE",
-    "points": 0,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 9,
-    "team": "Kingdom Builders \ud83e\udd81",
-    "owner": "Jose",
     "player": "Jordan Love",
     "position": "QB",
     "slot": "BE",
@@ -167382,9 +167316,9 @@
     "owner": "kevin",
     "player": "DeVonta Smith",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -167481,9 +167415,9 @@
     "owner": "kevin",
     "player": "Jacory Croskey-Merritt",
     "position": "RB",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -167492,9 +167426,9 @@
     "owner": "kevin",
     "player": "49ers D/ST",
     "position": "D/ST",
-    "slot": "D/ST",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -167536,9 +167470,9 @@
     "owner": "kevin",
     "player": "Jets D/ST",
     "position": "D/ST",
-    "slot": "BE",
+    "slot": "D/ST",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -167778,7 +167712,7 @@
     "owner": "Xavier",
     "player": "Breece Hall",
     "position": "RB",
-    "slot": "IR",
+    "slot": "BE",
     "points": 0,
     "started": false
   },
@@ -167822,9 +167756,9 @@
     "owner": "Xavier",
     "player": "Wan'Dale Robinson",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -167833,9 +167767,9 @@
     "owner": "Xavier",
     "player": "Mike Evans",
     "position": "WR",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -167899,7 +167833,7 @@
     "owner": "Xavier",
     "player": "Terrance Ferguson",
     "position": "TE",
-    "slot": "BE",
+    "slot": "IR",
     "points": 0,
     "started": false
   },
@@ -168317,7 +168251,7 @@
     "owner": "Sway",
     "player": "Garrett Wilson",
     "position": "WR",
-    "slot": "WR",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -168339,7 +168273,7 @@
     "owner": "Sway",
     "player": "Stefon Diggs",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "WR",
     "points": 0,
     "started": true
   },
@@ -168350,9 +168284,9 @@
     "owner": "Sway",
     "player": "Mark Andrews",
     "position": "TE",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -168438,9 +168372,9 @@
     "owner": "Sway",
     "player": "Jaylen Wright",
     "position": "RB",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -168680,9 +168614,9 @@
     "owner": "Najee",
     "player": "Justin Jefferson",
     "position": "WR",
-    "slot": "WR",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -168702,7 +168636,7 @@
     "owner": "Najee",
     "player": "Davante Adams",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "WR",
     "points": 0,
     "started": true
   },
@@ -168812,9 +168746,9 @@
     "owner": "Najee",
     "player": "Keenan Allen",
     "position": "WR",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -169439,9 +169373,9 @@
     "owner": "Jose",
     "player": "Nico Collins",
     "position": "WR",
-    "slot": "IR",
+    "slot": "WR",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -169549,9 +169483,9 @@
     "owner": "Jose",
     "player": "Alvin Kamara",
     "position": "RB",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -169560,7 +169494,7 @@
     "owner": "Jose",
     "player": "Jordan Addison",
     "position": "WR",
-    "slot": "WR",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -169602,17 +169536,6 @@
     "week": 10,
     "team": "Kingdom Builders \ud83e\udd81",
     "owner": "Jose",
-    "player": "Chris Rodriguez Jr.",
-    "position": "RB",
-    "slot": "BE",
-    "points": 0,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 10,
-    "team": "Kingdom Builders \ud83e\udd81",
-    "owner": "Jose",
     "player": "Jordan Love",
     "position": "QB",
     "slot": "BE",
@@ -169648,9 +169571,9 @@
     "owner": "kevin",
     "player": "DeVonta Smith",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -169747,9 +169670,9 @@
     "owner": "kevin",
     "player": "Jacory Croskey-Merritt",
     "position": "RB",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -169758,9 +169681,9 @@
     "owner": "kevin",
     "player": "49ers D/ST",
     "position": "D/ST",
-    "slot": "D/ST",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -169802,9 +169725,9 @@
     "owner": "kevin",
     "player": "Jets D/ST",
     "position": "D/ST",
-    "slot": "BE",
+    "slot": "D/ST",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -170044,7 +169967,7 @@
     "owner": "Xavier",
     "player": "Breece Hall",
     "position": "RB",
-    "slot": "IR",
+    "slot": "BE",
     "points": 0,
     "started": false
   },
@@ -170088,9 +170011,9 @@
     "owner": "Xavier",
     "player": "Wan'Dale Robinson",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -170099,9 +170022,9 @@
     "owner": "Xavier",
     "player": "Mike Evans",
     "position": "WR",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -170165,7 +170088,7 @@
     "owner": "Xavier",
     "player": "Terrance Ferguson",
     "position": "TE",
-    "slot": "BE",
+    "slot": "IR",
     "points": 0,
     "started": false
   },
@@ -170583,7 +170506,7 @@
     "owner": "Sway",
     "player": "Garrett Wilson",
     "position": "WR",
-    "slot": "WR",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -170605,7 +170528,7 @@
     "owner": "Sway",
     "player": "Stefon Diggs",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "WR",
     "points": 0,
     "started": true
   },
@@ -170616,9 +170539,9 @@
     "owner": "Sway",
     "player": "Mark Andrews",
     "position": "TE",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -170704,9 +170627,9 @@
     "owner": "Sway",
     "player": "Jaylen Wright",
     "position": "RB",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -170946,9 +170869,9 @@
     "owner": "Najee",
     "player": "Justin Jefferson",
     "position": "WR",
-    "slot": "WR",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -170968,7 +170891,7 @@
     "owner": "Najee",
     "player": "Davante Adams",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "WR",
     "points": 0,
     "started": true
   },
@@ -171078,9 +171001,9 @@
     "owner": "Najee",
     "player": "Keenan Allen",
     "position": "WR",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -171705,9 +171628,9 @@
     "owner": "Jose",
     "player": "Nico Collins",
     "position": "WR",
-    "slot": "IR",
+    "slot": "WR",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -171815,9 +171738,9 @@
     "owner": "Jose",
     "player": "Alvin Kamara",
     "position": "RB",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -171826,7 +171749,7 @@
     "owner": "Jose",
     "player": "Jordan Addison",
     "position": "WR",
-    "slot": "WR",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -171868,17 +171791,6 @@
     "week": 11,
     "team": "Kingdom Builders \ud83e\udd81",
     "owner": "Jose",
-    "player": "Chris Rodriguez Jr.",
-    "position": "RB",
-    "slot": "BE",
-    "points": 0,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 11,
-    "team": "Kingdom Builders \ud83e\udd81",
-    "owner": "Jose",
     "player": "Jordan Love",
     "position": "QB",
     "slot": "BE",
@@ -171914,9 +171826,9 @@
     "owner": "kevin",
     "player": "DeVonta Smith",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -172013,9 +171925,9 @@
     "owner": "kevin",
     "player": "Jacory Croskey-Merritt",
     "position": "RB",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -172024,9 +171936,9 @@
     "owner": "kevin",
     "player": "49ers D/ST",
     "position": "D/ST",
-    "slot": "D/ST",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -172068,9 +171980,9 @@
     "owner": "kevin",
     "player": "Jets D/ST",
     "position": "D/ST",
-    "slot": "BE",
+    "slot": "D/ST",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -172310,7 +172222,7 @@
     "owner": "Xavier",
     "player": "Breece Hall",
     "position": "RB",
-    "slot": "IR",
+    "slot": "BE",
     "points": 0,
     "started": false
   },
@@ -172354,9 +172266,9 @@
     "owner": "Xavier",
     "player": "Wan'Dale Robinson",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -172365,9 +172277,9 @@
     "owner": "Xavier",
     "player": "Mike Evans",
     "position": "WR",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -172431,7 +172343,7 @@
     "owner": "Xavier",
     "player": "Terrance Ferguson",
     "position": "TE",
-    "slot": "BE",
+    "slot": "IR",
     "points": 0,
     "started": false
   },
@@ -172849,7 +172761,7 @@
     "owner": "Sway",
     "player": "Garrett Wilson",
     "position": "WR",
-    "slot": "WR",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -172871,7 +172783,7 @@
     "owner": "Sway",
     "player": "Stefon Diggs",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "WR",
     "points": 0,
     "started": true
   },
@@ -172882,9 +172794,9 @@
     "owner": "Sway",
     "player": "Mark Andrews",
     "position": "TE",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -172970,9 +172882,9 @@
     "owner": "Sway",
     "player": "Jaylen Wright",
     "position": "RB",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -173212,9 +173124,9 @@
     "owner": "Najee",
     "player": "Justin Jefferson",
     "position": "WR",
-    "slot": "WR",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -173234,7 +173146,7 @@
     "owner": "Najee",
     "player": "Davante Adams",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "WR",
     "points": 0,
     "started": true
   },
@@ -173344,9 +173256,9 @@
     "owner": "Najee",
     "player": "Keenan Allen",
     "position": "WR",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -173971,9 +173883,9 @@
     "owner": "Jose",
     "player": "Nico Collins",
     "position": "WR",
-    "slot": "IR",
+    "slot": "WR",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -174081,9 +173993,9 @@
     "owner": "Jose",
     "player": "Alvin Kamara",
     "position": "RB",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -174092,7 +174004,7 @@
     "owner": "Jose",
     "player": "Jordan Addison",
     "position": "WR",
-    "slot": "WR",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -174134,17 +174046,6 @@
     "week": 12,
     "team": "Kingdom Builders \ud83e\udd81",
     "owner": "Jose",
-    "player": "Chris Rodriguez Jr.",
-    "position": "RB",
-    "slot": "BE",
-    "points": 0,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 12,
-    "team": "Kingdom Builders \ud83e\udd81",
-    "owner": "Jose",
     "player": "Jordan Love",
     "position": "QB",
     "slot": "BE",
@@ -174180,9 +174081,9 @@
     "owner": "kevin",
     "player": "DeVonta Smith",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -174279,9 +174180,9 @@
     "owner": "kevin",
     "player": "Jacory Croskey-Merritt",
     "position": "RB",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -174290,9 +174191,9 @@
     "owner": "kevin",
     "player": "49ers D/ST",
     "position": "D/ST",
-    "slot": "D/ST",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -174334,9 +174235,9 @@
     "owner": "kevin",
     "player": "Jets D/ST",
     "position": "D/ST",
-    "slot": "BE",
+    "slot": "D/ST",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -174576,7 +174477,7 @@
     "owner": "Xavier",
     "player": "Breece Hall",
     "position": "RB",
-    "slot": "IR",
+    "slot": "BE",
     "points": 0,
     "started": false
   },
@@ -174620,9 +174521,9 @@
     "owner": "Xavier",
     "player": "Wan'Dale Robinson",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -174631,9 +174532,9 @@
     "owner": "Xavier",
     "player": "Mike Evans",
     "position": "WR",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -174697,7 +174598,7 @@
     "owner": "Xavier",
     "player": "Terrance Ferguson",
     "position": "TE",
-    "slot": "BE",
+    "slot": "IR",
     "points": 0,
     "started": false
   },
@@ -175115,7 +175016,7 @@
     "owner": "Sway",
     "player": "Garrett Wilson",
     "position": "WR",
-    "slot": "WR",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -175137,7 +175038,7 @@
     "owner": "Sway",
     "player": "Stefon Diggs",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "WR",
     "points": 0,
     "started": true
   },
@@ -175148,9 +175049,9 @@
     "owner": "Sway",
     "player": "Mark Andrews",
     "position": "TE",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -175236,9 +175137,9 @@
     "owner": "Sway",
     "player": "Jaylen Wright",
     "position": "RB",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -175478,9 +175379,9 @@
     "owner": "Najee",
     "player": "Justin Jefferson",
     "position": "WR",
-    "slot": "WR",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -175500,7 +175401,7 @@
     "owner": "Najee",
     "player": "Davante Adams",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "WR",
     "points": 0,
     "started": true
   },
@@ -175610,9 +175511,9 @@
     "owner": "Najee",
     "player": "Keenan Allen",
     "position": "WR",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -176237,9 +176138,9 @@
     "owner": "Jose",
     "player": "Nico Collins",
     "position": "WR",
-    "slot": "IR",
+    "slot": "WR",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -176347,9 +176248,9 @@
     "owner": "Jose",
     "player": "Alvin Kamara",
     "position": "RB",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -176358,7 +176259,7 @@
     "owner": "Jose",
     "player": "Jordan Addison",
     "position": "WR",
-    "slot": "WR",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -176400,17 +176301,6 @@
     "week": 13,
     "team": "Kingdom Builders \ud83e\udd81",
     "owner": "Jose",
-    "player": "Chris Rodriguez Jr.",
-    "position": "RB",
-    "slot": "BE",
-    "points": 0,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 13,
-    "team": "Kingdom Builders \ud83e\udd81",
-    "owner": "Jose",
     "player": "Jordan Love",
     "position": "QB",
     "slot": "BE",
@@ -176446,9 +176336,9 @@
     "owner": "kevin",
     "player": "DeVonta Smith",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -176545,9 +176435,9 @@
     "owner": "kevin",
     "player": "Jacory Croskey-Merritt",
     "position": "RB",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -176556,9 +176446,9 @@
     "owner": "kevin",
     "player": "49ers D/ST",
     "position": "D/ST",
-    "slot": "D/ST",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -176600,9 +176490,9 @@
     "owner": "kevin",
     "player": "Jets D/ST",
     "position": "D/ST",
-    "slot": "BE",
+    "slot": "D/ST",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -176842,7 +176732,7 @@
     "owner": "Xavier",
     "player": "Breece Hall",
     "position": "RB",
-    "slot": "IR",
+    "slot": "BE",
     "points": 0,
     "started": false
   },
@@ -176886,9 +176776,9 @@
     "owner": "Xavier",
     "player": "Wan'Dale Robinson",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -176897,9 +176787,9 @@
     "owner": "Xavier",
     "player": "Mike Evans",
     "position": "WR",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -176963,7 +176853,7 @@
     "owner": "Xavier",
     "player": "Terrance Ferguson",
     "position": "TE",
-    "slot": "BE",
+    "slot": "IR",
     "points": 0,
     "started": false
   },
@@ -177381,7 +177271,7 @@
     "owner": "Sway",
     "player": "Garrett Wilson",
     "position": "WR",
-    "slot": "WR",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -177403,7 +177293,7 @@
     "owner": "Sway",
     "player": "Stefon Diggs",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "WR",
     "points": 0,
     "started": true
   },
@@ -177414,9 +177304,9 @@
     "owner": "Sway",
     "player": "Mark Andrews",
     "position": "TE",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -177502,9 +177392,9 @@
     "owner": "Sway",
     "player": "Jaylen Wright",
     "position": "RB",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -177744,9 +177634,9 @@
     "owner": "Najee",
     "player": "Justin Jefferson",
     "position": "WR",
-    "slot": "WR",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -177766,7 +177656,7 @@
     "owner": "Najee",
     "player": "Davante Adams",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "WR",
     "points": 0,
     "started": true
   },
@@ -177876,9 +177766,9 @@
     "owner": "Najee",
     "player": "Keenan Allen",
     "position": "WR",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -178503,9 +178393,9 @@
     "owner": "Jose",
     "player": "Nico Collins",
     "position": "WR",
-    "slot": "IR",
+    "slot": "WR",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -178613,9 +178503,9 @@
     "owner": "Jose",
     "player": "Alvin Kamara",
     "position": "RB",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -178624,7 +178514,7 @@
     "owner": "Jose",
     "player": "Jordan Addison",
     "position": "WR",
-    "slot": "WR",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -178666,17 +178556,6 @@
     "week": 14,
     "team": "Kingdom Builders \ud83e\udd81",
     "owner": "Jose",
-    "player": "Chris Rodriguez Jr.",
-    "position": "RB",
-    "slot": "BE",
-    "points": 0,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 14,
-    "team": "Kingdom Builders \ud83e\udd81",
-    "owner": "Jose",
     "player": "Jordan Love",
     "position": "QB",
     "slot": "BE",
@@ -178712,9 +178591,9 @@
     "owner": "kevin",
     "player": "DeVonta Smith",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -178811,9 +178690,9 @@
     "owner": "kevin",
     "player": "Jacory Croskey-Merritt",
     "position": "RB",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -178822,9 +178701,9 @@
     "owner": "kevin",
     "player": "49ers D/ST",
     "position": "D/ST",
-    "slot": "D/ST",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -178866,9 +178745,9 @@
     "owner": "kevin",
     "player": "Jets D/ST",
     "position": "D/ST",
-    "slot": "BE",
+    "slot": "D/ST",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -179108,7 +178987,7 @@
     "owner": "Xavier",
     "player": "Breece Hall",
     "position": "RB",
-    "slot": "IR",
+    "slot": "BE",
     "points": 0,
     "started": false
   },
@@ -179152,9 +179031,9 @@
     "owner": "Xavier",
     "player": "Wan'Dale Robinson",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -179163,9 +179042,9 @@
     "owner": "Xavier",
     "player": "Mike Evans",
     "position": "WR",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -179229,7 +179108,7 @@
     "owner": "Xavier",
     "player": "Terrance Ferguson",
     "position": "TE",
-    "slot": "BE",
+    "slot": "IR",
     "points": 0,
     "started": false
   },
@@ -179647,7 +179526,7 @@
     "owner": "Sway",
     "player": "Garrett Wilson",
     "position": "WR",
-    "slot": "WR",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -179669,7 +179548,7 @@
     "owner": "Sway",
     "player": "Stefon Diggs",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "WR",
     "points": 0,
     "started": true
   },
@@ -179680,9 +179559,9 @@
     "owner": "Sway",
     "player": "Mark Andrews",
     "position": "TE",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -179768,9 +179647,9 @@
     "owner": "Sway",
     "player": "Jaylen Wright",
     "position": "RB",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -180010,9 +179889,9 @@
     "owner": "Najee",
     "player": "Justin Jefferson",
     "position": "WR",
-    "slot": "WR",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -180032,7 +179911,7 @@
     "owner": "Najee",
     "player": "Davante Adams",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "WR",
     "points": 0,
     "started": true
   },
@@ -180142,9 +180021,9 @@
     "owner": "Najee",
     "player": "Keenan Allen",
     "position": "WR",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -180769,9 +180648,9 @@
     "owner": "Jose",
     "player": "Nico Collins",
     "position": "WR",
-    "slot": "IR",
+    "slot": "WR",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -180879,9 +180758,9 @@
     "owner": "Jose",
     "player": "Alvin Kamara",
     "position": "RB",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -180890,7 +180769,7 @@
     "owner": "Jose",
     "player": "Jordan Addison",
     "position": "WR",
-    "slot": "WR",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -180932,17 +180811,6 @@
     "week": 15,
     "team": "Kingdom Builders \ud83e\udd81",
     "owner": "Jose",
-    "player": "Chris Rodriguez Jr.",
-    "position": "RB",
-    "slot": "BE",
-    "points": 0,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 15,
-    "team": "Kingdom Builders \ud83e\udd81",
-    "owner": "Jose",
     "player": "Jordan Love",
     "position": "QB",
     "slot": "BE",
@@ -180978,9 +180846,9 @@
     "owner": "kevin",
     "player": "DeVonta Smith",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -181077,9 +180945,9 @@
     "owner": "kevin",
     "player": "Jacory Croskey-Merritt",
     "position": "RB",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -181088,9 +180956,9 @@
     "owner": "kevin",
     "player": "49ers D/ST",
     "position": "D/ST",
-    "slot": "D/ST",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -181132,9 +181000,9 @@
     "owner": "kevin",
     "player": "Jets D/ST",
     "position": "D/ST",
-    "slot": "BE",
+    "slot": "D/ST",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -181374,7 +181242,7 @@
     "owner": "Xavier",
     "player": "Breece Hall",
     "position": "RB",
-    "slot": "IR",
+    "slot": "BE",
     "points": 0,
     "started": false
   },
@@ -181418,9 +181286,9 @@
     "owner": "Xavier",
     "player": "Wan'Dale Robinson",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -181429,9 +181297,9 @@
     "owner": "Xavier",
     "player": "Mike Evans",
     "position": "WR",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -181495,7 +181363,7 @@
     "owner": "Xavier",
     "player": "Terrance Ferguson",
     "position": "TE",
-    "slot": "BE",
+    "slot": "IR",
     "points": 0,
     "started": false
   },
@@ -181913,7 +181781,7 @@
     "owner": "Sway",
     "player": "Garrett Wilson",
     "position": "WR",
-    "slot": "WR",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -181935,7 +181803,7 @@
     "owner": "Sway",
     "player": "Stefon Diggs",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "WR",
     "points": 0,
     "started": true
   },
@@ -181946,9 +181814,9 @@
     "owner": "Sway",
     "player": "Mark Andrews",
     "position": "TE",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -182034,9 +181902,9 @@
     "owner": "Sway",
     "player": "Jaylen Wright",
     "position": "RB",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -182276,9 +182144,9 @@
     "owner": "Najee",
     "player": "Justin Jefferson",
     "position": "WR",
-    "slot": "WR",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -182298,7 +182166,7 @@
     "owner": "Najee",
     "player": "Davante Adams",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "WR",
     "points": 0,
     "started": true
   },
@@ -182408,9 +182276,9 @@
     "owner": "Najee",
     "player": "Keenan Allen",
     "position": "WR",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -183035,9 +182903,9 @@
     "owner": "Jose",
     "player": "Nico Collins",
     "position": "WR",
-    "slot": "IR",
+    "slot": "WR",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -183145,9 +183013,9 @@
     "owner": "Jose",
     "player": "Alvin Kamara",
     "position": "RB",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -183156,7 +183024,7 @@
     "owner": "Jose",
     "player": "Jordan Addison",
     "position": "WR",
-    "slot": "WR",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -183198,17 +183066,6 @@
     "week": 16,
     "team": "Kingdom Builders \ud83e\udd81",
     "owner": "Jose",
-    "player": "Chris Rodriguez Jr.",
-    "position": "RB",
-    "slot": "BE",
-    "points": 0,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 16,
-    "team": "Kingdom Builders \ud83e\udd81",
-    "owner": "Jose",
     "player": "Jordan Love",
     "position": "QB",
     "slot": "BE",
@@ -183244,9 +183101,9 @@
     "owner": "kevin",
     "player": "DeVonta Smith",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -183343,9 +183200,9 @@
     "owner": "kevin",
     "player": "Jacory Croskey-Merritt",
     "position": "RB",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -183354,9 +183211,9 @@
     "owner": "kevin",
     "player": "49ers D/ST",
     "position": "D/ST",
-    "slot": "D/ST",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -183398,9 +183255,9 @@
     "owner": "kevin",
     "player": "Jets D/ST",
     "position": "D/ST",
-    "slot": "BE",
+    "slot": "D/ST",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -183640,7 +183497,7 @@
     "owner": "Xavier",
     "player": "Breece Hall",
     "position": "RB",
-    "slot": "IR",
+    "slot": "BE",
     "points": 0,
     "started": false
   },
@@ -183684,9 +183541,9 @@
     "owner": "Xavier",
     "player": "Wan'Dale Robinson",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -183695,9 +183552,9 @@
     "owner": "Xavier",
     "player": "Mike Evans",
     "position": "WR",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -183761,7 +183618,7 @@
     "owner": "Xavier",
     "player": "Terrance Ferguson",
     "position": "TE",
-    "slot": "BE",
+    "slot": "IR",
     "points": 0,
     "started": false
   },
@@ -184179,7 +184036,7 @@
     "owner": "Sway",
     "player": "Garrett Wilson",
     "position": "WR",
-    "slot": "WR",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -184201,7 +184058,7 @@
     "owner": "Sway",
     "player": "Stefon Diggs",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "WR",
     "points": 0,
     "started": true
   },
@@ -184212,9 +184069,9 @@
     "owner": "Sway",
     "player": "Mark Andrews",
     "position": "TE",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -184300,9 +184157,9 @@
     "owner": "Sway",
     "player": "Jaylen Wright",
     "position": "RB",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -184542,9 +184399,9 @@
     "owner": "Najee",
     "player": "Justin Jefferson",
     "position": "WR",
-    "slot": "WR",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -184564,7 +184421,7 @@
     "owner": "Najee",
     "player": "Davante Adams",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "WR",
     "points": 0,
     "started": true
   },
@@ -184674,9 +184531,9 @@
     "owner": "Najee",
     "player": "Keenan Allen",
     "position": "WR",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -185301,9 +185158,9 @@
     "owner": "Jose",
     "player": "Nico Collins",
     "position": "WR",
-    "slot": "IR",
+    "slot": "WR",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -185411,9 +185268,9 @@
     "owner": "Jose",
     "player": "Alvin Kamara",
     "position": "RB",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -185422,7 +185279,7 @@
     "owner": "Jose",
     "player": "Jordan Addison",
     "position": "WR",
-    "slot": "WR",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -185464,17 +185321,6 @@
     "week": 17,
     "team": "Kingdom Builders \ud83e\udd81",
     "owner": "Jose",
-    "player": "Chris Rodriguez Jr.",
-    "position": "RB",
-    "slot": "BE",
-    "points": 0,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 17,
-    "team": "Kingdom Builders \ud83e\udd81",
-    "owner": "Jose",
     "player": "Jordan Love",
     "position": "QB",
     "slot": "BE",
@@ -185510,9 +185356,9 @@
     "owner": "kevin",
     "player": "DeVonta Smith",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -185609,9 +185455,9 @@
     "owner": "kevin",
     "player": "Jacory Croskey-Merritt",
     "position": "RB",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -185620,9 +185466,9 @@
     "owner": "kevin",
     "player": "49ers D/ST",
     "position": "D/ST",
-    "slot": "D/ST",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -185664,9 +185510,9 @@
     "owner": "kevin",
     "player": "Jets D/ST",
     "position": "D/ST",
-    "slot": "BE",
+    "slot": "D/ST",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -185906,7 +185752,7 @@
     "owner": "Xavier",
     "player": "Breece Hall",
     "position": "RB",
-    "slot": "IR",
+    "slot": "BE",
     "points": 0,
     "started": false
   },
@@ -185950,9 +185796,9 @@
     "owner": "Xavier",
     "player": "Wan'Dale Robinson",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -185961,9 +185807,9 @@
     "owner": "Xavier",
     "player": "Mike Evans",
     "position": "WR",
-    "slot": "BE",
+    "slot": "RB/WR/TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -186027,7 +185873,7 @@
     "owner": "Xavier",
     "player": "Terrance Ferguson",
     "position": "TE",
-    "slot": "BE",
+    "slot": "IR",
     "points": 0,
     "started": false
   },
