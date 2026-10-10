@@ -168772,17 +168772,6 @@
         "owner": "Luis",
         "player": "Kenyon Sadiq",
         "position": "TE",
-        "slot": "BE",
-        "points": 0,
-        "started": false
-      },
-      {
-        "year": 2026,
-        "week": 5,
-        "team": "RUMBLING",
-        "owner": "Luis",
-        "player": "Quinshon Judkins",
-        "position": "RB",
         "slot": "RB/WR/TE",
         "points": 0,
         "started": true
@@ -168792,8 +168781,8 @@
         "week": 5,
         "team": "RUMBLING",
         "owner": "Luis",
-        "player": "Quentin Johnston",
-        "position": "WR",
+        "player": "Quinshon Judkins",
+        "position": "RB",
         "slot": "RB/WR/TE",
         "points": 0,
         "started": true
@@ -168830,6 +168819,17 @@
         "slot": "K",
         "points": 0,
         "started": true
+      },
+      {
+        "year": 2026,
+        "week": 5,
+        "team": "RUMBLING",
+        "owner": "Luis",
+        "player": "Najee Harris",
+        "position": "RB",
+        "slot": "BE",
+        "points": 0,
+        "started": false
       },
       {
         "year": 2026,
@@ -169091,7 +169091,7 @@
         "owner": "Michael",
         "player": "Michael Pittman Jr.",
         "position": "WR",
-        "slot": "BE",
+        "slot": "IR",
         "points": 0,
         "started": false
       },
@@ -169410,9 +169410,9 @@
         "owner": "Sway",
         "player": "Mark Andrews",
         "position": "TE",
-        "slot": "RB/WR/TE",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -169476,9 +169476,9 @@
         "owner": "Sway",
         "player": "Tee Higgins",
         "position": "WR",
-        "slot": "BE",
+        "slot": "WR",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -169509,9 +169509,9 @@
         "owner": "Sway",
         "player": "Dohnte Meyers",
         "position": "WR",
-        "slot": "WR",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -169531,9 +169531,9 @@
         "owner": "Sway",
         "player": "Terry McLaurin",
         "position": "WR",
-        "slot": "BE",
+        "slot": "WR",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -169575,7 +169575,7 @@
         "owner": "Sway",
         "player": "Antonio Williams",
         "position": "WR",
-        "slot": "WR",
+        "slot": "RB/WR/TE",
         "points": 0,
         "started": true
       },
@@ -170664,17 +170664,6 @@
         "owner": "Luis",
         "player": "Kenyon Sadiq",
         "position": "TE",
-        "slot": "BE",
-        "points": 0,
-        "started": false
-      },
-      {
-        "year": 2026,
-        "week": 6,
-        "team": "RUMBLING",
-        "owner": "Luis",
-        "player": "Quinshon Judkins",
-        "position": "RB",
         "slot": "RB/WR/TE",
         "points": 0,
         "started": true
@@ -170684,8 +170673,8 @@
         "week": 6,
         "team": "RUMBLING",
         "owner": "Luis",
-        "player": "Quentin Johnston",
-        "position": "WR",
+        "player": "Quinshon Judkins",
+        "position": "RB",
         "slot": "RB/WR/TE",
         "points": 0,
         "started": true
@@ -170722,6 +170711,17 @@
         "slot": "K",
         "points": 0,
         "started": true
+      },
+      {
+        "year": 2026,
+        "week": 6,
+        "team": "RUMBLING",
+        "owner": "Luis",
+        "player": "Najee Harris",
+        "position": "RB",
+        "slot": "BE",
+        "points": 0,
+        "started": false
       },
       {
         "year": 2026,
@@ -170983,7 +170983,7 @@
         "owner": "Michael",
         "player": "Michael Pittman Jr.",
         "position": "WR",
-        "slot": "BE",
+        "slot": "IR",
         "points": 0,
         "started": false
       },
@@ -171302,9 +171302,9 @@
         "owner": "Sway",
         "player": "Mark Andrews",
         "position": "TE",
-        "slot": "RB/WR/TE",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -171368,9 +171368,9 @@
         "owner": "Sway",
         "player": "Tee Higgins",
         "position": "WR",
-        "slot": "BE",
+        "slot": "WR",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -171401,9 +171401,9 @@
         "owner": "Sway",
         "player": "Dohnte Meyers",
         "position": "WR",
-        "slot": "WR",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -171423,9 +171423,9 @@
         "owner": "Sway",
         "player": "Terry McLaurin",
         "position": "WR",
-        "slot": "BE",
+        "slot": "WR",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -171467,7 +171467,7 @@
         "owner": "Sway",
         "player": "Antonio Williams",
         "position": "WR",
-        "slot": "WR",
+        "slot": "RB/WR/TE",
         "points": 0,
         "started": true
       },
@@ -172556,17 +172556,6 @@
         "owner": "Luis",
         "player": "Kenyon Sadiq",
         "position": "TE",
-        "slot": "BE",
-        "points": 0,
-        "started": false
-      },
-      {
-        "year": 2026,
-        "week": 7,
-        "team": "RUMBLING",
-        "owner": "Luis",
-        "player": "Quinshon Judkins",
-        "position": "RB",
         "slot": "RB/WR/TE",
         "points": 0,
         "started": true
@@ -172576,8 +172565,8 @@
         "week": 7,
         "team": "RUMBLING",
         "owner": "Luis",
-        "player": "Quentin Johnston",
-        "position": "WR",
+        "player": "Quinshon Judkins",
+        "position": "RB",
         "slot": "RB/WR/TE",
         "points": 0,
         "started": true
@@ -172614,6 +172603,17 @@
         "slot": "K",
         "points": 0,
         "started": true
+      },
+      {
+        "year": 2026,
+        "week": 7,
+        "team": "RUMBLING",
+        "owner": "Luis",
+        "player": "Najee Harris",
+        "position": "RB",
+        "slot": "BE",
+        "points": 0,
+        "started": false
       },
       {
         "year": 2026,
@@ -172875,7 +172875,7 @@
         "owner": "Michael",
         "player": "Michael Pittman Jr.",
         "position": "WR",
-        "slot": "BE",
+        "slot": "IR",
         "points": 0,
         "started": false
       },
@@ -173194,9 +173194,9 @@
         "owner": "Sway",
         "player": "Mark Andrews",
         "position": "TE",
-        "slot": "RB/WR/TE",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -173260,9 +173260,9 @@
         "owner": "Sway",
         "player": "Tee Higgins",
         "position": "WR",
-        "slot": "BE",
+        "slot": "WR",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -173293,9 +173293,9 @@
         "owner": "Sway",
         "player": "Dohnte Meyers",
         "position": "WR",
-        "slot": "WR",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -173315,9 +173315,9 @@
         "owner": "Sway",
         "player": "Terry McLaurin",
         "position": "WR",
-        "slot": "BE",
+        "slot": "WR",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -173359,7 +173359,7 @@
         "owner": "Sway",
         "player": "Antonio Williams",
         "position": "WR",
-        "slot": "WR",
+        "slot": "RB/WR/TE",
         "points": 0,
         "started": true
       },
@@ -174448,17 +174448,6 @@
         "owner": "Luis",
         "player": "Kenyon Sadiq",
         "position": "TE",
-        "slot": "BE",
-        "points": 0,
-        "started": false
-      },
-      {
-        "year": 2026,
-        "week": 8,
-        "team": "RUMBLING",
-        "owner": "Luis",
-        "player": "Quinshon Judkins",
-        "position": "RB",
         "slot": "RB/WR/TE",
         "points": 0,
         "started": true
@@ -174468,8 +174457,8 @@
         "week": 8,
         "team": "RUMBLING",
         "owner": "Luis",
-        "player": "Quentin Johnston",
-        "position": "WR",
+        "player": "Quinshon Judkins",
+        "position": "RB",
         "slot": "RB/WR/TE",
         "points": 0,
         "started": true
@@ -174506,6 +174495,17 @@
         "slot": "K",
         "points": 0,
         "started": true
+      },
+      {
+        "year": 2026,
+        "week": 8,
+        "team": "RUMBLING",
+        "owner": "Luis",
+        "player": "Najee Harris",
+        "position": "RB",
+        "slot": "BE",
+        "points": 0,
+        "started": false
       },
       {
         "year": 2026,
@@ -174767,7 +174767,7 @@
         "owner": "Michael",
         "player": "Michael Pittman Jr.",
         "position": "WR",
-        "slot": "BE",
+        "slot": "IR",
         "points": 0,
         "started": false
       },
@@ -175086,9 +175086,9 @@
         "owner": "Sway",
         "player": "Mark Andrews",
         "position": "TE",
-        "slot": "RB/WR/TE",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -175152,9 +175152,9 @@
         "owner": "Sway",
         "player": "Tee Higgins",
         "position": "WR",
-        "slot": "BE",
+        "slot": "WR",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -175185,9 +175185,9 @@
         "owner": "Sway",
         "player": "Dohnte Meyers",
         "position": "WR",
-        "slot": "WR",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -175207,9 +175207,9 @@
         "owner": "Sway",
         "player": "Terry McLaurin",
         "position": "WR",
-        "slot": "BE",
+        "slot": "WR",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -175251,7 +175251,7 @@
         "owner": "Sway",
         "player": "Antonio Williams",
         "position": "WR",
-        "slot": "WR",
+        "slot": "RB/WR/TE",
         "points": 0,
         "started": true
       },
@@ -176340,17 +176340,6 @@
         "owner": "Luis",
         "player": "Kenyon Sadiq",
         "position": "TE",
-        "slot": "BE",
-        "points": 0,
-        "started": false
-      },
-      {
-        "year": 2026,
-        "week": 9,
-        "team": "RUMBLING",
-        "owner": "Luis",
-        "player": "Quinshon Judkins",
-        "position": "RB",
         "slot": "RB/WR/TE",
         "points": 0,
         "started": true
@@ -176360,8 +176349,8 @@
         "week": 9,
         "team": "RUMBLING",
         "owner": "Luis",
-        "player": "Quentin Johnston",
-        "position": "WR",
+        "player": "Quinshon Judkins",
+        "position": "RB",
         "slot": "RB/WR/TE",
         "points": 0,
         "started": true
@@ -176398,6 +176387,17 @@
         "slot": "K",
         "points": 0,
         "started": true
+      },
+      {
+        "year": 2026,
+        "week": 9,
+        "team": "RUMBLING",
+        "owner": "Luis",
+        "player": "Najee Harris",
+        "position": "RB",
+        "slot": "BE",
+        "points": 0,
+        "started": false
       },
       {
         "year": 2026,
@@ -176659,7 +176659,7 @@
         "owner": "Michael",
         "player": "Michael Pittman Jr.",
         "position": "WR",
-        "slot": "BE",
+        "slot": "IR",
         "points": 0,
         "started": false
       },
@@ -176978,9 +176978,9 @@
         "owner": "Sway",
         "player": "Mark Andrews",
         "position": "TE",
-        "slot": "RB/WR/TE",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -177044,9 +177044,9 @@
         "owner": "Sway",
         "player": "Tee Higgins",
         "position": "WR",
-        "slot": "BE",
+        "slot": "WR",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -177077,9 +177077,9 @@
         "owner": "Sway",
         "player": "Dohnte Meyers",
         "position": "WR",
-        "slot": "WR",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -177099,9 +177099,9 @@
         "owner": "Sway",
         "player": "Terry McLaurin",
         "position": "WR",
-        "slot": "BE",
+        "slot": "WR",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -177143,7 +177143,7 @@
         "owner": "Sway",
         "player": "Antonio Williams",
         "position": "WR",
-        "slot": "WR",
+        "slot": "RB/WR/TE",
         "points": 0,
         "started": true
       },
@@ -178232,17 +178232,6 @@
         "owner": "Luis",
         "player": "Kenyon Sadiq",
         "position": "TE",
-        "slot": "BE",
-        "points": 0,
-        "started": false
-      },
-      {
-        "year": 2026,
-        "week": 10,
-        "team": "RUMBLING",
-        "owner": "Luis",
-        "player": "Quinshon Judkins",
-        "position": "RB",
         "slot": "RB/WR/TE",
         "points": 0,
         "started": true
@@ -178252,8 +178241,8 @@
         "week": 10,
         "team": "RUMBLING",
         "owner": "Luis",
-        "player": "Quentin Johnston",
-        "position": "WR",
+        "player": "Quinshon Judkins",
+        "position": "RB",
         "slot": "RB/WR/TE",
         "points": 0,
         "started": true
@@ -178290,6 +178279,17 @@
         "slot": "K",
         "points": 0,
         "started": true
+      },
+      {
+        "year": 2026,
+        "week": 10,
+        "team": "RUMBLING",
+        "owner": "Luis",
+        "player": "Najee Harris",
+        "position": "RB",
+        "slot": "BE",
+        "points": 0,
+        "started": false
       },
       {
         "year": 2026,
@@ -178551,7 +178551,7 @@
         "owner": "Michael",
         "player": "Michael Pittman Jr.",
         "position": "WR",
-        "slot": "BE",
+        "slot": "IR",
         "points": 0,
         "started": false
       },
@@ -178870,9 +178870,9 @@
         "owner": "Sway",
         "player": "Mark Andrews",
         "position": "TE",
-        "slot": "RB/WR/TE",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -178936,9 +178936,9 @@
         "owner": "Sway",
         "player": "Tee Higgins",
         "position": "WR",
-        "slot": "BE",
+        "slot": "WR",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -178969,9 +178969,9 @@
         "owner": "Sway",
         "player": "Dohnte Meyers",
         "position": "WR",
-        "slot": "WR",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -178991,9 +178991,9 @@
         "owner": "Sway",
         "player": "Terry McLaurin",
         "position": "WR",
-        "slot": "BE",
+        "slot": "WR",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -179035,7 +179035,7 @@
         "owner": "Sway",
         "player": "Antonio Williams",
         "position": "WR",
-        "slot": "WR",
+        "slot": "RB/WR/TE",
         "points": 0,
         "started": true
       },
@@ -180124,17 +180124,6 @@
         "owner": "Luis",
         "player": "Kenyon Sadiq",
         "position": "TE",
-        "slot": "BE",
-        "points": 0,
-        "started": false
-      },
-      {
-        "year": 2026,
-        "week": 11,
-        "team": "RUMBLING",
-        "owner": "Luis",
-        "player": "Quinshon Judkins",
-        "position": "RB",
         "slot": "RB/WR/TE",
         "points": 0,
         "started": true
@@ -180144,8 +180133,8 @@
         "week": 11,
         "team": "RUMBLING",
         "owner": "Luis",
-        "player": "Quentin Johnston",
-        "position": "WR",
+        "player": "Quinshon Judkins",
+        "position": "RB",
         "slot": "RB/WR/TE",
         "points": 0,
         "started": true
@@ -180182,6 +180171,17 @@
         "slot": "K",
         "points": 0,
         "started": true
+      },
+      {
+        "year": 2026,
+        "week": 11,
+        "team": "RUMBLING",
+        "owner": "Luis",
+        "player": "Najee Harris",
+        "position": "RB",
+        "slot": "BE",
+        "points": 0,
+        "started": false
       },
       {
         "year": 2026,
@@ -180443,7 +180443,7 @@
         "owner": "Michael",
         "player": "Michael Pittman Jr.",
         "position": "WR",
-        "slot": "BE",
+        "slot": "IR",
         "points": 0,
         "started": false
       },
@@ -180762,9 +180762,9 @@
         "owner": "Sway",
         "player": "Mark Andrews",
         "position": "TE",
-        "slot": "RB/WR/TE",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -180828,9 +180828,9 @@
         "owner": "Sway",
         "player": "Tee Higgins",
         "position": "WR",
-        "slot": "BE",
+        "slot": "WR",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -180861,9 +180861,9 @@
         "owner": "Sway",
         "player": "Dohnte Meyers",
         "position": "WR",
-        "slot": "WR",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -180883,9 +180883,9 @@
         "owner": "Sway",
         "player": "Terry McLaurin",
         "position": "WR",
-        "slot": "BE",
+        "slot": "WR",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -180927,7 +180927,7 @@
         "owner": "Sway",
         "player": "Antonio Williams",
         "position": "WR",
-        "slot": "WR",
+        "slot": "RB/WR/TE",
         "points": 0,
         "started": true
       },
@@ -182016,17 +182016,6 @@
         "owner": "Luis",
         "player": "Kenyon Sadiq",
         "position": "TE",
-        "slot": "BE",
-        "points": 0,
-        "started": false
-      },
-      {
-        "year": 2026,
-        "week": 12,
-        "team": "RUMBLING",
-        "owner": "Luis",
-        "player": "Quinshon Judkins",
-        "position": "RB",
         "slot": "RB/WR/TE",
         "points": 0,
         "started": true
@@ -182036,8 +182025,8 @@
         "week": 12,
         "team": "RUMBLING",
         "owner": "Luis",
-        "player": "Quentin Johnston",
-        "position": "WR",
+        "player": "Quinshon Judkins",
+        "position": "RB",
         "slot": "RB/WR/TE",
         "points": 0,
         "started": true
@@ -182074,6 +182063,17 @@
         "slot": "K",
         "points": 0,
         "started": true
+      },
+      {
+        "year": 2026,
+        "week": 12,
+        "team": "RUMBLING",
+        "owner": "Luis",
+        "player": "Najee Harris",
+        "position": "RB",
+        "slot": "BE",
+        "points": 0,
+        "started": false
       },
       {
         "year": 2026,
@@ -182335,7 +182335,7 @@
         "owner": "Michael",
         "player": "Michael Pittman Jr.",
         "position": "WR",
-        "slot": "BE",
+        "slot": "IR",
         "points": 0,
         "started": false
       },
@@ -182654,9 +182654,9 @@
         "owner": "Sway",
         "player": "Mark Andrews",
         "position": "TE",
-        "slot": "RB/WR/TE",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -182720,9 +182720,9 @@
         "owner": "Sway",
         "player": "Tee Higgins",
         "position": "WR",
-        "slot": "BE",
+        "slot": "WR",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -182753,9 +182753,9 @@
         "owner": "Sway",
         "player": "Dohnte Meyers",
         "position": "WR",
-        "slot": "WR",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -182775,9 +182775,9 @@
         "owner": "Sway",
         "player": "Terry McLaurin",
         "position": "WR",
-        "slot": "BE",
+        "slot": "WR",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -182819,7 +182819,7 @@
         "owner": "Sway",
         "player": "Antonio Williams",
         "position": "WR",
-        "slot": "WR",
+        "slot": "RB/WR/TE",
         "points": 0,
         "started": true
       },
@@ -183908,17 +183908,6 @@
         "owner": "Luis",
         "player": "Kenyon Sadiq",
         "position": "TE",
-        "slot": "BE",
-        "points": 0,
-        "started": false
-      },
-      {
-        "year": 2026,
-        "week": 13,
-        "team": "RUMBLING",
-        "owner": "Luis",
-        "player": "Quinshon Judkins",
-        "position": "RB",
         "slot": "RB/WR/TE",
         "points": 0,
         "started": true
@@ -183928,8 +183917,8 @@
         "week": 13,
         "team": "RUMBLING",
         "owner": "Luis",
-        "player": "Quentin Johnston",
-        "position": "WR",
+        "player": "Quinshon Judkins",
+        "position": "RB",
         "slot": "RB/WR/TE",
         "points": 0,
         "started": true
@@ -183966,6 +183955,17 @@
         "slot": "K",
         "points": 0,
         "started": true
+      },
+      {
+        "year": 2026,
+        "week": 13,
+        "team": "RUMBLING",
+        "owner": "Luis",
+        "player": "Najee Harris",
+        "position": "RB",
+        "slot": "BE",
+        "points": 0,
+        "started": false
       },
       {
         "year": 2026,
@@ -184227,7 +184227,7 @@
         "owner": "Michael",
         "player": "Michael Pittman Jr.",
         "position": "WR",
-        "slot": "BE",
+        "slot": "IR",
         "points": 0,
         "started": false
       },
@@ -184546,9 +184546,9 @@
         "owner": "Sway",
         "player": "Mark Andrews",
         "position": "TE",
-        "slot": "RB/WR/TE",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -184612,9 +184612,9 @@
         "owner": "Sway",
         "player": "Tee Higgins",
         "position": "WR",
-        "slot": "BE",
+        "slot": "WR",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -184645,9 +184645,9 @@
         "owner": "Sway",
         "player": "Dohnte Meyers",
         "position": "WR",
-        "slot": "WR",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -184667,9 +184667,9 @@
         "owner": "Sway",
         "player": "Terry McLaurin",
         "position": "WR",
-        "slot": "BE",
+        "slot": "WR",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -184711,7 +184711,7 @@
         "owner": "Sway",
         "player": "Antonio Williams",
         "position": "WR",
-        "slot": "WR",
+        "slot": "RB/WR/TE",
         "points": 0,
         "started": true
       },
@@ -185800,17 +185800,6 @@
         "owner": "Luis",
         "player": "Kenyon Sadiq",
         "position": "TE",
-        "slot": "BE",
-        "points": 0,
-        "started": false
-      },
-      {
-        "year": 2026,
-        "week": 14,
-        "team": "RUMBLING",
-        "owner": "Luis",
-        "player": "Quinshon Judkins",
-        "position": "RB",
         "slot": "RB/WR/TE",
         "points": 0,
         "started": true
@@ -185820,8 +185809,8 @@
         "week": 14,
         "team": "RUMBLING",
         "owner": "Luis",
-        "player": "Quentin Johnston",
-        "position": "WR",
+        "player": "Quinshon Judkins",
+        "position": "RB",
         "slot": "RB/WR/TE",
         "points": 0,
         "started": true
@@ -185858,6 +185847,17 @@
         "slot": "K",
         "points": 0,
         "started": true
+      },
+      {
+        "year": 2026,
+        "week": 14,
+        "team": "RUMBLING",
+        "owner": "Luis",
+        "player": "Najee Harris",
+        "position": "RB",
+        "slot": "BE",
+        "points": 0,
+        "started": false
       },
       {
         "year": 2026,
@@ -186119,7 +186119,7 @@
         "owner": "Michael",
         "player": "Michael Pittman Jr.",
         "position": "WR",
-        "slot": "BE",
+        "slot": "IR",
         "points": 0,
         "started": false
       },
@@ -186438,9 +186438,9 @@
         "owner": "Sway",
         "player": "Mark Andrews",
         "position": "TE",
-        "slot": "RB/WR/TE",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -186504,9 +186504,9 @@
         "owner": "Sway",
         "player": "Tee Higgins",
         "position": "WR",
-        "slot": "BE",
+        "slot": "WR",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -186537,9 +186537,9 @@
         "owner": "Sway",
         "player": "Dohnte Meyers",
         "position": "WR",
-        "slot": "WR",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -186559,9 +186559,9 @@
         "owner": "Sway",
         "player": "Terry McLaurin",
         "position": "WR",
-        "slot": "BE",
+        "slot": "WR",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -186603,7 +186603,7 @@
         "owner": "Sway",
         "player": "Antonio Williams",
         "position": "WR",
-        "slot": "WR",
+        "slot": "RB/WR/TE",
         "points": 0,
         "started": true
       },
@@ -187692,17 +187692,6 @@
         "owner": "Luis",
         "player": "Kenyon Sadiq",
         "position": "TE",
-        "slot": "BE",
-        "points": 0,
-        "started": false
-      },
-      {
-        "year": 2026,
-        "week": 15,
-        "team": "RUMBLING",
-        "owner": "Luis",
-        "player": "Quinshon Judkins",
-        "position": "RB",
         "slot": "RB/WR/TE",
         "points": 0,
         "started": true
@@ -187712,8 +187701,8 @@
         "week": 15,
         "team": "RUMBLING",
         "owner": "Luis",
-        "player": "Quentin Johnston",
-        "position": "WR",
+        "player": "Quinshon Judkins",
+        "position": "RB",
         "slot": "RB/WR/TE",
         "points": 0,
         "started": true
@@ -187750,6 +187739,17 @@
         "slot": "K",
         "points": 0,
         "started": true
+      },
+      {
+        "year": 2026,
+        "week": 15,
+        "team": "RUMBLING",
+        "owner": "Luis",
+        "player": "Najee Harris",
+        "position": "RB",
+        "slot": "BE",
+        "points": 0,
+        "started": false
       },
       {
         "year": 2026,
@@ -188011,7 +188011,7 @@
         "owner": "Michael",
         "player": "Michael Pittman Jr.",
         "position": "WR",
-        "slot": "BE",
+        "slot": "IR",
         "points": 0,
         "started": false
       },
@@ -188330,9 +188330,9 @@
         "owner": "Sway",
         "player": "Mark Andrews",
         "position": "TE",
-        "slot": "RB/WR/TE",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -188396,9 +188396,9 @@
         "owner": "Sway",
         "player": "Tee Higgins",
         "position": "WR",
-        "slot": "BE",
+        "slot": "WR",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -188429,9 +188429,9 @@
         "owner": "Sway",
         "player": "Dohnte Meyers",
         "position": "WR",
-        "slot": "WR",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -188451,9 +188451,9 @@
         "owner": "Sway",
         "player": "Terry McLaurin",
         "position": "WR",
-        "slot": "BE",
+        "slot": "WR",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -188495,7 +188495,7 @@
         "owner": "Sway",
         "player": "Antonio Williams",
         "position": "WR",
-        "slot": "WR",
+        "slot": "RB/WR/TE",
         "points": 0,
         "started": true
       },
@@ -189584,17 +189584,6 @@
         "owner": "Luis",
         "player": "Kenyon Sadiq",
         "position": "TE",
-        "slot": "BE",
-        "points": 0,
-        "started": false
-      },
-      {
-        "year": 2026,
-        "week": 16,
-        "team": "RUMBLING",
-        "owner": "Luis",
-        "player": "Quinshon Judkins",
-        "position": "RB",
         "slot": "RB/WR/TE",
         "points": 0,
         "started": true
@@ -189604,8 +189593,8 @@
         "week": 16,
         "team": "RUMBLING",
         "owner": "Luis",
-        "player": "Quentin Johnston",
-        "position": "WR",
+        "player": "Quinshon Judkins",
+        "position": "RB",
         "slot": "RB/WR/TE",
         "points": 0,
         "started": true
@@ -189642,6 +189631,17 @@
         "slot": "K",
         "points": 0,
         "started": true
+      },
+      {
+        "year": 2026,
+        "week": 16,
+        "team": "RUMBLING",
+        "owner": "Luis",
+        "player": "Najee Harris",
+        "position": "RB",
+        "slot": "BE",
+        "points": 0,
+        "started": false
       },
       {
         "year": 2026,
@@ -189903,7 +189903,7 @@
         "owner": "Michael",
         "player": "Michael Pittman Jr.",
         "position": "WR",
-        "slot": "BE",
+        "slot": "IR",
         "points": 0,
         "started": false
       },
@@ -190222,9 +190222,9 @@
         "owner": "Sway",
         "player": "Mark Andrews",
         "position": "TE",
-        "slot": "RB/WR/TE",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -190288,9 +190288,9 @@
         "owner": "Sway",
         "player": "Tee Higgins",
         "position": "WR",
-        "slot": "BE",
+        "slot": "WR",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -190321,9 +190321,9 @@
         "owner": "Sway",
         "player": "Dohnte Meyers",
         "position": "WR",
-        "slot": "WR",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -190343,9 +190343,9 @@
         "owner": "Sway",
         "player": "Terry McLaurin",
         "position": "WR",
-        "slot": "BE",
+        "slot": "WR",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -190387,7 +190387,7 @@
         "owner": "Sway",
         "player": "Antonio Williams",
         "position": "WR",
-        "slot": "WR",
+        "slot": "RB/WR/TE",
         "points": 0,
         "started": true
       },
@@ -191476,17 +191476,6 @@
         "owner": "Luis",
         "player": "Kenyon Sadiq",
         "position": "TE",
-        "slot": "BE",
-        "points": 0,
-        "started": false
-      },
-      {
-        "year": 2026,
-        "week": 17,
-        "team": "RUMBLING",
-        "owner": "Luis",
-        "player": "Quinshon Judkins",
-        "position": "RB",
         "slot": "RB/WR/TE",
         "points": 0,
         "started": true
@@ -191496,8 +191485,8 @@
         "week": 17,
         "team": "RUMBLING",
         "owner": "Luis",
-        "player": "Quentin Johnston",
-        "position": "WR",
+        "player": "Quinshon Judkins",
+        "position": "RB",
         "slot": "RB/WR/TE",
         "points": 0,
         "started": true
@@ -191534,6 +191523,17 @@
         "slot": "K",
         "points": 0,
         "started": true
+      },
+      {
+        "year": 2026,
+        "week": 17,
+        "team": "RUMBLING",
+        "owner": "Luis",
+        "player": "Najee Harris",
+        "position": "RB",
+        "slot": "BE",
+        "points": 0,
+        "started": false
       },
       {
         "year": 2026,
@@ -191795,7 +191795,7 @@
         "owner": "Michael",
         "player": "Michael Pittman Jr.",
         "position": "WR",
-        "slot": "BE",
+        "slot": "IR",
         "points": 0,
         "started": false
       },
@@ -192114,9 +192114,9 @@
         "owner": "Sway",
         "player": "Mark Andrews",
         "position": "TE",
-        "slot": "RB/WR/TE",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -192180,9 +192180,9 @@
         "owner": "Sway",
         "player": "Tee Higgins",
         "position": "WR",
-        "slot": "BE",
+        "slot": "WR",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -192213,9 +192213,9 @@
         "owner": "Sway",
         "player": "Dohnte Meyers",
         "position": "WR",
-        "slot": "WR",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -192235,9 +192235,9 @@
         "owner": "Sway",
         "player": "Terry McLaurin",
         "position": "WR",
-        "slot": "BE",
+        "slot": "WR",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -192279,7 +192279,7 @@
         "owner": "Sway",
         "player": "Antonio Williams",
         "position": "WR",
-        "slot": "WR",
+        "slot": "RB/WR/TE",
         "points": 0,
         "started": true
       },
