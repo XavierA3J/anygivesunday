@@ -4478,5 +4478,665 @@
     "away_team": "Project X",
     "away_score": 122.2,
     "margin": 8.3
+  },
+  {
+    "year": 2026,
+    "week": 7,
+    "matchup_type": "NONE",
+    "home_team": "Rome's Five-Star Chefs",
+    "home_score": 31.92,
+    "away_team": "The Wrath of Shiva",
+    "away_score": 0.0,
+    "margin": 31.92
+  },
+  {
+    "year": 2026,
+    "week": 7,
+    "matchup_type": "NONE",
+    "home_team": "Orlando GOONS",
+    "home_score": 4.3,
+    "away_team": "THE WARHOGS",
+    "away_score": 0.0,
+    "margin": 4.3
+  },
+  {
+    "year": 2026,
+    "week": 7,
+    "matchup_type": "NONE",
+    "home_team": "13 BLOCK HIT-MEN",
+    "home_score": 0.0,
+    "away_team": "Franklin's Football Turtles",
+    "away_score": 19.0,
+    "margin": 19.0
+  },
+  {
+    "year": 2026,
+    "week": 7,
+    "matchup_type": "NONE",
+    "home_team": "RUMBLING",
+    "home_score": 19.9,
+    "away_team": "THE ALGORITHM",
+    "away_score": 0.0,
+    "margin": 19.9
+  },
+  {
+    "year": 2026,
+    "week": 7,
+    "matchup_type": "NONE",
+    "home_team": "Kangaroo Bouncers",
+    "home_score": 0.0,
+    "away_team": "Kingdom Builders \ud83e\udd81",
+    "away_score": 25.0,
+    "margin": 25.0
+  },
+  {
+    "year": 2026,
+    "week": 7,
+    "matchup_type": "NONE",
+    "home_team": "Project X",
+    "home_score": 77.64,
+    "away_team": "The substation",
+    "away_score": 0.0,
+    "margin": 77.64
+  },
+  {
+    "year": 2026,
+    "week": 8,
+    "matchup_type": "NONE",
+    "home_team": "Rome's Five-Star Chefs",
+    "home_score": 31.92,
+    "away_team": "The Wrath of Shiva",
+    "away_score": 0.0,
+    "margin": 31.92
+  },
+  {
+    "year": 2026,
+    "week": 8,
+    "matchup_type": "NONE",
+    "home_team": "Orlando GOONS",
+    "home_score": 4.3,
+    "away_team": "THE WARHOGS",
+    "away_score": 0.0,
+    "margin": 4.3
+  },
+  {
+    "year": 2026,
+    "week": 8,
+    "matchup_type": "NONE",
+    "home_team": "13 BLOCK HIT-MEN",
+    "home_score": 0.0,
+    "away_team": "Franklin's Football Turtles",
+    "away_score": 19.0,
+    "margin": 19.0
+  },
+  {
+    "year": 2026,
+    "week": 8,
+    "matchup_type": "NONE",
+    "home_team": "RUMBLING",
+    "home_score": 19.9,
+    "away_team": "THE ALGORITHM",
+    "away_score": 0.0,
+    "margin": 19.9
+  },
+  {
+    "year": 2026,
+    "week": 8,
+    "matchup_type": "NONE",
+    "home_team": "Kangaroo Bouncers",
+    "home_score": 0.0,
+    "away_team": "Kingdom Builders \ud83e\udd81",
+    "away_score": 25.0,
+    "margin": 25.0
+  },
+  {
+    "year": 2026,
+    "week": 8,
+    "matchup_type": "NONE",
+    "home_team": "Project X",
+    "home_score": 77.64,
+    "away_team": "The substation",
+    "away_score": 0.0,
+    "margin": 77.64
+  },
+  {
+    "year": 2026,
+    "week": 9,
+    "matchup_type": "NONE",
+    "home_team": "Rome's Five-Star Chefs",
+    "home_score": 31.92,
+    "away_team": "The Wrath of Shiva",
+    "away_score": 0.0,
+    "margin": 31.92
+  },
+  {
+    "year": 2026,
+    "week": 9,
+    "matchup_type": "NONE",
+    "home_team": "Orlando GOONS",
+    "home_score": 4.3,
+    "away_team": "THE WARHOGS",
+    "away_score": 0.0,
+    "margin": 4.3
+  },
+  {
+    "year": 2026,
+    "week": 9,
+    "matchup_type": "NONE",
+    "home_team": "13 BLOCK HIT-MEN",
+    "home_score": 0.0,
+    "away_team": "Franklin's Football Turtles",
+    "away_score": 19.0,
+    "margin": 19.0
+  },
+  {
+    "year": 2026,
+    "week": 9,
+    "matchup_type": "NONE",
+    "home_team": "RUMBLING",
+    "home_score": 19.9,
+    "away_team": "THE ALGORITHM",
+    "away_score": 0.0,
+    "margin": 19.9
+  },
+  {
+    "year": 2026,
+    "week": 9,
+    "matchup_type": "NONE",
+    "home_team": "Kangaroo Bouncers",
+    "home_score": 0.0,
+    "away_team": "Kingdom Builders \ud83e\udd81",
+    "away_score": 25.0,
+    "margin": 25.0
+  },
+  {
+    "year": 2026,
+    "week": 9,
+    "matchup_type": "NONE",
+    "home_team": "Project X",
+    "home_score": 77.64,
+    "away_team": "The substation",
+    "away_score": 0.0,
+    "margin": 77.64
+  },
+  {
+    "year": 2026,
+    "week": 10,
+    "matchup_type": "NONE",
+    "home_team": "Rome's Five-Star Chefs",
+    "home_score": 31.92,
+    "away_team": "The Wrath of Shiva",
+    "away_score": 0.0,
+    "margin": 31.92
+  },
+  {
+    "year": 2026,
+    "week": 10,
+    "matchup_type": "NONE",
+    "home_team": "Orlando GOONS",
+    "home_score": 4.3,
+    "away_team": "THE WARHOGS",
+    "away_score": 0.0,
+    "margin": 4.3
+  },
+  {
+    "year": 2026,
+    "week": 10,
+    "matchup_type": "NONE",
+    "home_team": "13 BLOCK HIT-MEN",
+    "home_score": 0.0,
+    "away_team": "Franklin's Football Turtles",
+    "away_score": 19.0,
+    "margin": 19.0
+  },
+  {
+    "year": 2026,
+    "week": 10,
+    "matchup_type": "NONE",
+    "home_team": "RUMBLING",
+    "home_score": 19.9,
+    "away_team": "THE ALGORITHM",
+    "away_score": 0.0,
+    "margin": 19.9
+  },
+  {
+    "year": 2026,
+    "week": 10,
+    "matchup_type": "NONE",
+    "home_team": "Kangaroo Bouncers",
+    "home_score": 0.0,
+    "away_team": "Kingdom Builders \ud83e\udd81",
+    "away_score": 25.0,
+    "margin": 25.0
+  },
+  {
+    "year": 2026,
+    "week": 10,
+    "matchup_type": "NONE",
+    "home_team": "Project X",
+    "home_score": 77.64,
+    "away_team": "The substation",
+    "away_score": 0.0,
+    "margin": 77.64
+  },
+  {
+    "year": 2026,
+    "week": 11,
+    "matchup_type": "NONE",
+    "home_team": "Rome's Five-Star Chefs",
+    "home_score": 31.92,
+    "away_team": "The Wrath of Shiva",
+    "away_score": 0.0,
+    "margin": 31.92
+  },
+  {
+    "year": 2026,
+    "week": 11,
+    "matchup_type": "NONE",
+    "home_team": "Orlando GOONS",
+    "home_score": 4.3,
+    "away_team": "THE WARHOGS",
+    "away_score": 0.0,
+    "margin": 4.3
+  },
+  {
+    "year": 2026,
+    "week": 11,
+    "matchup_type": "NONE",
+    "home_team": "13 BLOCK HIT-MEN",
+    "home_score": 0.0,
+    "away_team": "Franklin's Football Turtles",
+    "away_score": 19.0,
+    "margin": 19.0
+  },
+  {
+    "year": 2026,
+    "week": 11,
+    "matchup_type": "NONE",
+    "home_team": "RUMBLING",
+    "home_score": 19.9,
+    "away_team": "THE ALGORITHM",
+    "away_score": 0.0,
+    "margin": 19.9
+  },
+  {
+    "year": 2026,
+    "week": 11,
+    "matchup_type": "NONE",
+    "home_team": "Kangaroo Bouncers",
+    "home_score": 0.0,
+    "away_team": "Kingdom Builders \ud83e\udd81",
+    "away_score": 25.0,
+    "margin": 25.0
+  },
+  {
+    "year": 2026,
+    "week": 11,
+    "matchup_type": "NONE",
+    "home_team": "Project X",
+    "home_score": 77.64,
+    "away_team": "The substation",
+    "away_score": 0.0,
+    "margin": 77.64
+  },
+  {
+    "year": 2026,
+    "week": 12,
+    "matchup_type": "NONE",
+    "home_team": "Rome's Five-Star Chefs",
+    "home_score": 31.92,
+    "away_team": "The Wrath of Shiva",
+    "away_score": 0.0,
+    "margin": 31.92
+  },
+  {
+    "year": 2026,
+    "week": 12,
+    "matchup_type": "NONE",
+    "home_team": "Orlando GOONS",
+    "home_score": 4.3,
+    "away_team": "THE WARHOGS",
+    "away_score": 0.0,
+    "margin": 4.3
+  },
+  {
+    "year": 2026,
+    "week": 12,
+    "matchup_type": "NONE",
+    "home_team": "13 BLOCK HIT-MEN",
+    "home_score": 0.0,
+    "away_team": "Franklin's Football Turtles",
+    "away_score": 19.0,
+    "margin": 19.0
+  },
+  {
+    "year": 2026,
+    "week": 12,
+    "matchup_type": "NONE",
+    "home_team": "RUMBLING",
+    "home_score": 19.9,
+    "away_team": "THE ALGORITHM",
+    "away_score": 0.0,
+    "margin": 19.9
+  },
+  {
+    "year": 2026,
+    "week": 12,
+    "matchup_type": "NONE",
+    "home_team": "Kangaroo Bouncers",
+    "home_score": 0.0,
+    "away_team": "Kingdom Builders \ud83e\udd81",
+    "away_score": 25.0,
+    "margin": 25.0
+  },
+  {
+    "year": 2026,
+    "week": 12,
+    "matchup_type": "NONE",
+    "home_team": "Project X",
+    "home_score": 77.64,
+    "away_team": "The substation",
+    "away_score": 0.0,
+    "margin": 77.64
+  },
+  {
+    "year": 2026,
+    "week": 13,
+    "matchup_type": "NONE",
+    "home_team": "Rome's Five-Star Chefs",
+    "home_score": 31.92,
+    "away_team": "The Wrath of Shiva",
+    "away_score": 0.0,
+    "margin": 31.92
+  },
+  {
+    "year": 2026,
+    "week": 13,
+    "matchup_type": "NONE",
+    "home_team": "Orlando GOONS",
+    "home_score": 4.3,
+    "away_team": "THE WARHOGS",
+    "away_score": 0.0,
+    "margin": 4.3
+  },
+  {
+    "year": 2026,
+    "week": 13,
+    "matchup_type": "NONE",
+    "home_team": "13 BLOCK HIT-MEN",
+    "home_score": 0.0,
+    "away_team": "Franklin's Football Turtles",
+    "away_score": 19.0,
+    "margin": 19.0
+  },
+  {
+    "year": 2026,
+    "week": 13,
+    "matchup_type": "NONE",
+    "home_team": "RUMBLING",
+    "home_score": 19.9,
+    "away_team": "THE ALGORITHM",
+    "away_score": 0.0,
+    "margin": 19.9
+  },
+  {
+    "year": 2026,
+    "week": 13,
+    "matchup_type": "NONE",
+    "home_team": "Kangaroo Bouncers",
+    "home_score": 0.0,
+    "away_team": "Kingdom Builders \ud83e\udd81",
+    "away_score": 25.0,
+    "margin": 25.0
+  },
+  {
+    "year": 2026,
+    "week": 13,
+    "matchup_type": "NONE",
+    "home_team": "Project X",
+    "home_score": 77.64,
+    "away_team": "The substation",
+    "away_score": 0.0,
+    "margin": 77.64
+  },
+  {
+    "year": 2026,
+    "week": 14,
+    "matchup_type": "NONE",
+    "home_team": "Rome's Five-Star Chefs",
+    "home_score": 31.92,
+    "away_team": "The Wrath of Shiva",
+    "away_score": 0.0,
+    "margin": 31.92
+  },
+  {
+    "year": 2026,
+    "week": 14,
+    "matchup_type": "NONE",
+    "home_team": "Orlando GOONS",
+    "home_score": 4.3,
+    "away_team": "THE WARHOGS",
+    "away_score": 0.0,
+    "margin": 4.3
+  },
+  {
+    "year": 2026,
+    "week": 14,
+    "matchup_type": "NONE",
+    "home_team": "13 BLOCK HIT-MEN",
+    "home_score": 0.0,
+    "away_team": "Franklin's Football Turtles",
+    "away_score": 19.0,
+    "margin": 19.0
+  },
+  {
+    "year": 2026,
+    "week": 14,
+    "matchup_type": "NONE",
+    "home_team": "RUMBLING",
+    "home_score": 19.9,
+    "away_team": "THE ALGORITHM",
+    "away_score": 0.0,
+    "margin": 19.9
+  },
+  {
+    "year": 2026,
+    "week": 14,
+    "matchup_type": "NONE",
+    "home_team": "Kangaroo Bouncers",
+    "home_score": 0.0,
+    "away_team": "Kingdom Builders \ud83e\udd81",
+    "away_score": 25.0,
+    "margin": 25.0
+  },
+  {
+    "year": 2026,
+    "week": 14,
+    "matchup_type": "NONE",
+    "home_team": "Project X",
+    "home_score": 77.64,
+    "away_team": "The substation",
+    "away_score": 0.0,
+    "margin": 77.64
+  },
+  {
+    "year": 2026,
+    "week": 15,
+    "matchup_type": "NONE",
+    "home_team": "Rome's Five-Star Chefs",
+    "home_score": 31.92,
+    "away_team": "The Wrath of Shiva",
+    "away_score": 0.0,
+    "margin": 31.92
+  },
+  {
+    "year": 2026,
+    "week": 15,
+    "matchup_type": "NONE",
+    "home_team": "Orlando GOONS",
+    "home_score": 4.3,
+    "away_team": "THE WARHOGS",
+    "away_score": 0.0,
+    "margin": 4.3
+  },
+  {
+    "year": 2026,
+    "week": 15,
+    "matchup_type": "NONE",
+    "home_team": "13 BLOCK HIT-MEN",
+    "home_score": 0.0,
+    "away_team": "Franklin's Football Turtles",
+    "away_score": 19.0,
+    "margin": 19.0
+  },
+  {
+    "year": 2026,
+    "week": 15,
+    "matchup_type": "NONE",
+    "home_team": "RUMBLING",
+    "home_score": 19.9,
+    "away_team": "THE ALGORITHM",
+    "away_score": 0.0,
+    "margin": 19.9
+  },
+  {
+    "year": 2026,
+    "week": 15,
+    "matchup_type": "NONE",
+    "home_team": "Kangaroo Bouncers",
+    "home_score": 0.0,
+    "away_team": "Kingdom Builders \ud83e\udd81",
+    "away_score": 25.0,
+    "margin": 25.0
+  },
+  {
+    "year": 2026,
+    "week": 15,
+    "matchup_type": "NONE",
+    "home_team": "Project X",
+    "home_score": 77.64,
+    "away_team": "The substation",
+    "away_score": 0.0,
+    "margin": 77.64
+  },
+  {
+    "year": 2026,
+    "week": 16,
+    "matchup_type": "NONE",
+    "home_team": "Rome's Five-Star Chefs",
+    "home_score": 31.92,
+    "away_team": "The Wrath of Shiva",
+    "away_score": 0.0,
+    "margin": 31.92
+  },
+  {
+    "year": 2026,
+    "week": 16,
+    "matchup_type": "NONE",
+    "home_team": "Orlando GOONS",
+    "home_score": 4.3,
+    "away_team": "THE WARHOGS",
+    "away_score": 0.0,
+    "margin": 4.3
+  },
+  {
+    "year": 2026,
+    "week": 16,
+    "matchup_type": "NONE",
+    "home_team": "13 BLOCK HIT-MEN",
+    "home_score": 0.0,
+    "away_team": "Franklin's Football Turtles",
+    "away_score": 19.0,
+    "margin": 19.0
+  },
+  {
+    "year": 2026,
+    "week": 16,
+    "matchup_type": "NONE",
+    "home_team": "RUMBLING",
+    "home_score": 19.9,
+    "away_team": "THE ALGORITHM",
+    "away_score": 0.0,
+    "margin": 19.9
+  },
+  {
+    "year": 2026,
+    "week": 16,
+    "matchup_type": "NONE",
+    "home_team": "Kangaroo Bouncers",
+    "home_score": 0.0,
+    "away_team": "Kingdom Builders \ud83e\udd81",
+    "away_score": 25.0,
+    "margin": 25.0
+  },
+  {
+    "year": 2026,
+    "week": 16,
+    "matchup_type": "NONE",
+    "home_team": "Project X",
+    "home_score": 77.64,
+    "away_team": "The substation",
+    "away_score": 0.0,
+    "margin": 77.64
+  },
+  {
+    "year": 2026,
+    "week": 17,
+    "matchup_type": "NONE",
+    "home_team": "Rome's Five-Star Chefs",
+    "home_score": 31.92,
+    "away_team": "The Wrath of Shiva",
+    "away_score": 0.0,
+    "margin": 31.92
+  },
+  {
+    "year": 2026,
+    "week": 17,
+    "matchup_type": "NONE",
+    "home_team": "Orlando GOONS",
+    "home_score": 4.3,
+    "away_team": "THE WARHOGS",
+    "away_score": 0.0,
+    "margin": 4.3
+  },
+  {
+    "year": 2026,
+    "week": 17,
+    "matchup_type": "NONE",
+    "home_team": "13 BLOCK HIT-MEN",
+    "home_score": 0.0,
+    "away_team": "Franklin's Football Turtles",
+    "away_score": 19.0,
+    "margin": 19.0
+  },
+  {
+    "year": 2026,
+    "week": 17,
+    "matchup_type": "NONE",
+    "home_team": "RUMBLING",
+    "home_score": 19.9,
+    "away_team": "THE ALGORITHM",
+    "away_score": 0.0,
+    "margin": 19.9
+  },
+  {
+    "year": 2026,
+    "week": 17,
+    "matchup_type": "NONE",
+    "home_team": "Kangaroo Bouncers",
+    "home_score": 0.0,
+    "away_team": "Kingdom Builders \ud83e\udd81",
+    "away_score": 25.0,
+    "margin": 25.0
+  },
+  {
+    "year": 2026,
+    "week": 17,
+    "matchup_type": "NONE",
+    "home_team": "Project X",
+    "home_score": 77.64,
+    "away_team": "The substation",
+    "away_score": 0.0,
+    "margin": 77.64
   }
 ]
