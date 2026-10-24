@@ -162080,9 +162080,9 @@
     "owner": "Joseph",
     "player": "Pat Freiermuth",
     "position": "TE",
-    "slot": "BE",
+    "slot": "TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -162113,17 +162113,6 @@
     "owner": "Joseph",
     "player": "Christian Kirk",
     "position": "WR",
-    "slot": "RB/WR/TE",
-    "points": 0,
-    "started": true
-  },
-  {
-    "year": 2026,
-    "week": 7,
-    "team": "13 BLOCK HIT-MEN",
-    "owner": "Joseph",
-    "player": "Tyrone Tracy Jr.",
-    "position": "RB",
     "slot": "BE",
     "points": 0,
     "started": false
@@ -162179,7 +162168,18 @@
     "owner": "Joseph",
     "player": "Cade Otton",
     "position": "TE",
-    "slot": "TE",
+    "slot": "BE",
+    "points": 0,
+    "started": false
+  },
+  {
+    "year": 2026,
+    "week": 7,
+    "team": "13 BLOCK HIT-MEN",
+    "owner": "Joseph",
+    "player": "Makai Lemon",
+    "position": "WR",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -162364,9 +162364,9 @@
     "week": 7,
     "team": "Franklin's Football Turtles",
     "owner": "Frankie",
-    "player": "Mike Washington Jr.",
-    "position": "RB",
-    "slot": "RB",
+    "player": "Titans D/ST",
+    "position": "D/ST",
+    "slot": "D/ST",
     "points": 0,
     "started": true
   },
@@ -162375,9 +162375,9 @@
     "week": 7,
     "team": "Franklin's Football Turtles",
     "owner": "Frankie",
-    "player": "Titans D/ST",
-    "position": "D/ST",
-    "slot": "D/ST",
+    "player": "Samaje Perine",
+    "position": "RB",
+    "slot": "RB",
     "points": 0,
     "started": true
   },
@@ -162573,7 +162573,7 @@
     "week": 7,
     "team": "RUMBLING",
     "owner": "Luis",
-    "player": "Colby Parkinson",
+    "player": "Harold Fannin Jr.",
     "position": "TE",
     "slot": "BE",
     "points": 0,
@@ -162586,9 +162586,9 @@
     "owner": "kevin",
     "player": "DeVonta Smith",
     "position": "WR",
-    "slot": "WR",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -162619,9 +162619,9 @@
     "owner": "kevin",
     "player": "Tre Tucker",
     "position": "WR",
-    "slot": "BE",
+    "slot": "WR",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -162674,9 +162674,9 @@
     "owner": "kevin",
     "player": "Puka Nacua",
     "position": "WR",
-    "slot": "WR",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -162727,17 +162727,6 @@
     "week": 7,
     "team": "THE ALGORITHM",
     "owner": "kevin",
-    "player": "Jaleel McLaughlin",
-    "position": "RB",
-    "slot": "BE",
-    "points": 0,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 7,
-    "team": "THE ALGORITHM",
-    "owner": "kevin",
     "player": "Quinshon Judkins",
     "position": "RB",
     "slot": "RB/WR/TE",
@@ -162765,6 +162754,17 @@
     "slot": "BE",
     "points": 0,
     "started": false
+  },
+  {
+    "year": 2026,
+    "week": 7,
+    "team": "THE ALGORITHM",
+    "owner": "kevin",
+    "player": "Darius Cooper",
+    "position": "WR",
+    "slot": "WR",
+    "points": 0,
+    "started": true
   },
   {
     "year": 2026,
@@ -164390,9 +164390,9 @@
     "owner": "Joseph",
     "player": "Pat Freiermuth",
     "position": "TE",
-    "slot": "BE",
+    "slot": "TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -164423,17 +164423,6 @@
     "owner": "Joseph",
     "player": "Christian Kirk",
     "position": "WR",
-    "slot": "RB/WR/TE",
-    "points": 0,
-    "started": true
-  },
-  {
-    "year": 2026,
-    "week": 8,
-    "team": "13 BLOCK HIT-MEN",
-    "owner": "Joseph",
-    "player": "Tyrone Tracy Jr.",
-    "position": "RB",
     "slot": "BE",
     "points": 0,
     "started": false
@@ -164489,7 +164478,18 @@
     "owner": "Joseph",
     "player": "Cade Otton",
     "position": "TE",
-    "slot": "TE",
+    "slot": "BE",
+    "points": 0,
+    "started": false
+  },
+  {
+    "year": 2026,
+    "week": 8,
+    "team": "13 BLOCK HIT-MEN",
+    "owner": "Joseph",
+    "player": "Makai Lemon",
+    "position": "WR",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -164674,9 +164674,9 @@
     "week": 8,
     "team": "Franklin's Football Turtles",
     "owner": "Frankie",
-    "player": "Mike Washington Jr.",
-    "position": "RB",
-    "slot": "RB",
+    "player": "Titans D/ST",
+    "position": "D/ST",
+    "slot": "D/ST",
     "points": 0,
     "started": true
   },
@@ -164685,9 +164685,9 @@
     "week": 8,
     "team": "Franklin's Football Turtles",
     "owner": "Frankie",
-    "player": "Titans D/ST",
-    "position": "D/ST",
-    "slot": "D/ST",
+    "player": "Samaje Perine",
+    "position": "RB",
+    "slot": "RB",
     "points": 0,
     "started": true
   },
@@ -164883,7 +164883,7 @@
     "week": 8,
     "team": "RUMBLING",
     "owner": "Luis",
-    "player": "Colby Parkinson",
+    "player": "Harold Fannin Jr.",
     "position": "TE",
     "slot": "BE",
     "points": 0,
@@ -164896,9 +164896,9 @@
     "owner": "kevin",
     "player": "DeVonta Smith",
     "position": "WR",
-    "slot": "WR",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -164929,9 +164929,9 @@
     "owner": "kevin",
     "player": "Tre Tucker",
     "position": "WR",
-    "slot": "BE",
+    "slot": "WR",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -164984,9 +164984,9 @@
     "owner": "kevin",
     "player": "Puka Nacua",
     "position": "WR",
-    "slot": "WR",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -165037,17 +165037,6 @@
     "week": 8,
     "team": "THE ALGORITHM",
     "owner": "kevin",
-    "player": "Jaleel McLaughlin",
-    "position": "RB",
-    "slot": "BE",
-    "points": 0,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 8,
-    "team": "THE ALGORITHM",
-    "owner": "kevin",
     "player": "Quinshon Judkins",
     "position": "RB",
     "slot": "RB/WR/TE",
@@ -165075,6 +165064,17 @@
     "slot": "BE",
     "points": 0,
     "started": false
+  },
+  {
+    "year": 2026,
+    "week": 8,
+    "team": "THE ALGORITHM",
+    "owner": "kevin",
+    "player": "Darius Cooper",
+    "position": "WR",
+    "slot": "WR",
+    "points": 0,
+    "started": true
   },
   {
     "year": 2026,
@@ -166700,9 +166700,9 @@
     "owner": "Joseph",
     "player": "Pat Freiermuth",
     "position": "TE",
-    "slot": "BE",
+    "slot": "TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -166733,17 +166733,6 @@
     "owner": "Joseph",
     "player": "Christian Kirk",
     "position": "WR",
-    "slot": "RB/WR/TE",
-    "points": 0,
-    "started": true
-  },
-  {
-    "year": 2026,
-    "week": 9,
-    "team": "13 BLOCK HIT-MEN",
-    "owner": "Joseph",
-    "player": "Tyrone Tracy Jr.",
-    "position": "RB",
     "slot": "BE",
     "points": 0,
     "started": false
@@ -166799,7 +166788,18 @@
     "owner": "Joseph",
     "player": "Cade Otton",
     "position": "TE",
-    "slot": "TE",
+    "slot": "BE",
+    "points": 0,
+    "started": false
+  },
+  {
+    "year": 2026,
+    "week": 9,
+    "team": "13 BLOCK HIT-MEN",
+    "owner": "Joseph",
+    "player": "Makai Lemon",
+    "position": "WR",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -166984,9 +166984,9 @@
     "week": 9,
     "team": "Franklin's Football Turtles",
     "owner": "Frankie",
-    "player": "Mike Washington Jr.",
-    "position": "RB",
-    "slot": "RB",
+    "player": "Titans D/ST",
+    "position": "D/ST",
+    "slot": "D/ST",
     "points": 0,
     "started": true
   },
@@ -166995,9 +166995,9 @@
     "week": 9,
     "team": "Franklin's Football Turtles",
     "owner": "Frankie",
-    "player": "Titans D/ST",
-    "position": "D/ST",
-    "slot": "D/ST",
+    "player": "Samaje Perine",
+    "position": "RB",
+    "slot": "RB",
     "points": 0,
     "started": true
   },
@@ -167193,7 +167193,7 @@
     "week": 9,
     "team": "RUMBLING",
     "owner": "Luis",
-    "player": "Colby Parkinson",
+    "player": "Harold Fannin Jr.",
     "position": "TE",
     "slot": "BE",
     "points": 0,
@@ -167206,9 +167206,9 @@
     "owner": "kevin",
     "player": "DeVonta Smith",
     "position": "WR",
-    "slot": "WR",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -167239,9 +167239,9 @@
     "owner": "kevin",
     "player": "Tre Tucker",
     "position": "WR",
-    "slot": "BE",
+    "slot": "WR",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -167294,9 +167294,9 @@
     "owner": "kevin",
     "player": "Puka Nacua",
     "position": "WR",
-    "slot": "WR",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -167347,17 +167347,6 @@
     "week": 9,
     "team": "THE ALGORITHM",
     "owner": "kevin",
-    "player": "Jaleel McLaughlin",
-    "position": "RB",
-    "slot": "BE",
-    "points": 0,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 9,
-    "team": "THE ALGORITHM",
-    "owner": "kevin",
     "player": "Quinshon Judkins",
     "position": "RB",
     "slot": "RB/WR/TE",
@@ -167385,6 +167374,17 @@
     "slot": "BE",
     "points": 0,
     "started": false
+  },
+  {
+    "year": 2026,
+    "week": 9,
+    "team": "THE ALGORITHM",
+    "owner": "kevin",
+    "player": "Darius Cooper",
+    "position": "WR",
+    "slot": "WR",
+    "points": 0,
+    "started": true
   },
   {
     "year": 2026,
@@ -169010,9 +169010,9 @@
     "owner": "Joseph",
     "player": "Pat Freiermuth",
     "position": "TE",
-    "slot": "BE",
+    "slot": "TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -169043,17 +169043,6 @@
     "owner": "Joseph",
     "player": "Christian Kirk",
     "position": "WR",
-    "slot": "RB/WR/TE",
-    "points": 0,
-    "started": true
-  },
-  {
-    "year": 2026,
-    "week": 10,
-    "team": "13 BLOCK HIT-MEN",
-    "owner": "Joseph",
-    "player": "Tyrone Tracy Jr.",
-    "position": "RB",
     "slot": "BE",
     "points": 0,
     "started": false
@@ -169109,7 +169098,18 @@
     "owner": "Joseph",
     "player": "Cade Otton",
     "position": "TE",
-    "slot": "TE",
+    "slot": "BE",
+    "points": 0,
+    "started": false
+  },
+  {
+    "year": 2026,
+    "week": 10,
+    "team": "13 BLOCK HIT-MEN",
+    "owner": "Joseph",
+    "player": "Makai Lemon",
+    "position": "WR",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -169294,9 +169294,9 @@
     "week": 10,
     "team": "Franklin's Football Turtles",
     "owner": "Frankie",
-    "player": "Mike Washington Jr.",
-    "position": "RB",
-    "slot": "RB",
+    "player": "Titans D/ST",
+    "position": "D/ST",
+    "slot": "D/ST",
     "points": 0,
     "started": true
   },
@@ -169305,9 +169305,9 @@
     "week": 10,
     "team": "Franklin's Football Turtles",
     "owner": "Frankie",
-    "player": "Titans D/ST",
-    "position": "D/ST",
-    "slot": "D/ST",
+    "player": "Samaje Perine",
+    "position": "RB",
+    "slot": "RB",
     "points": 0,
     "started": true
   },
@@ -169503,7 +169503,7 @@
     "week": 10,
     "team": "RUMBLING",
     "owner": "Luis",
-    "player": "Colby Parkinson",
+    "player": "Harold Fannin Jr.",
     "position": "TE",
     "slot": "BE",
     "points": 0,
@@ -169516,9 +169516,9 @@
     "owner": "kevin",
     "player": "DeVonta Smith",
     "position": "WR",
-    "slot": "WR",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -169549,9 +169549,9 @@
     "owner": "kevin",
     "player": "Tre Tucker",
     "position": "WR",
-    "slot": "BE",
+    "slot": "WR",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -169604,9 +169604,9 @@
     "owner": "kevin",
     "player": "Puka Nacua",
     "position": "WR",
-    "slot": "WR",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -169657,17 +169657,6 @@
     "week": 10,
     "team": "THE ALGORITHM",
     "owner": "kevin",
-    "player": "Jaleel McLaughlin",
-    "position": "RB",
-    "slot": "BE",
-    "points": 0,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 10,
-    "team": "THE ALGORITHM",
-    "owner": "kevin",
     "player": "Quinshon Judkins",
     "position": "RB",
     "slot": "RB/WR/TE",
@@ -169695,6 +169684,17 @@
     "slot": "BE",
     "points": 0,
     "started": false
+  },
+  {
+    "year": 2026,
+    "week": 10,
+    "team": "THE ALGORITHM",
+    "owner": "kevin",
+    "player": "Darius Cooper",
+    "position": "WR",
+    "slot": "WR",
+    "points": 0,
+    "started": true
   },
   {
     "year": 2026,
@@ -171320,9 +171320,9 @@
     "owner": "Joseph",
     "player": "Pat Freiermuth",
     "position": "TE",
-    "slot": "BE",
+    "slot": "TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -171353,17 +171353,6 @@
     "owner": "Joseph",
     "player": "Christian Kirk",
     "position": "WR",
-    "slot": "RB/WR/TE",
-    "points": 0,
-    "started": true
-  },
-  {
-    "year": 2026,
-    "week": 11,
-    "team": "13 BLOCK HIT-MEN",
-    "owner": "Joseph",
-    "player": "Tyrone Tracy Jr.",
-    "position": "RB",
     "slot": "BE",
     "points": 0,
     "started": false
@@ -171419,7 +171408,18 @@
     "owner": "Joseph",
     "player": "Cade Otton",
     "position": "TE",
-    "slot": "TE",
+    "slot": "BE",
+    "points": 0,
+    "started": false
+  },
+  {
+    "year": 2026,
+    "week": 11,
+    "team": "13 BLOCK HIT-MEN",
+    "owner": "Joseph",
+    "player": "Makai Lemon",
+    "position": "WR",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -171604,9 +171604,9 @@
     "week": 11,
     "team": "Franklin's Football Turtles",
     "owner": "Frankie",
-    "player": "Mike Washington Jr.",
-    "position": "RB",
-    "slot": "RB",
+    "player": "Titans D/ST",
+    "position": "D/ST",
+    "slot": "D/ST",
     "points": 0,
     "started": true
   },
@@ -171615,9 +171615,9 @@
     "week": 11,
     "team": "Franklin's Football Turtles",
     "owner": "Frankie",
-    "player": "Titans D/ST",
-    "position": "D/ST",
-    "slot": "D/ST",
+    "player": "Samaje Perine",
+    "position": "RB",
+    "slot": "RB",
     "points": 0,
     "started": true
   },
@@ -171813,7 +171813,7 @@
     "week": 11,
     "team": "RUMBLING",
     "owner": "Luis",
-    "player": "Colby Parkinson",
+    "player": "Harold Fannin Jr.",
     "position": "TE",
     "slot": "BE",
     "points": 0,
@@ -171826,9 +171826,9 @@
     "owner": "kevin",
     "player": "DeVonta Smith",
     "position": "WR",
-    "slot": "WR",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -171859,9 +171859,9 @@
     "owner": "kevin",
     "player": "Tre Tucker",
     "position": "WR",
-    "slot": "BE",
+    "slot": "WR",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -171914,9 +171914,9 @@
     "owner": "kevin",
     "player": "Puka Nacua",
     "position": "WR",
-    "slot": "WR",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -171967,17 +171967,6 @@
     "week": 11,
     "team": "THE ALGORITHM",
     "owner": "kevin",
-    "player": "Jaleel McLaughlin",
-    "position": "RB",
-    "slot": "BE",
-    "points": 0,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 11,
-    "team": "THE ALGORITHM",
-    "owner": "kevin",
     "player": "Quinshon Judkins",
     "position": "RB",
     "slot": "RB/WR/TE",
@@ -172005,6 +171994,17 @@
     "slot": "BE",
     "points": 0,
     "started": false
+  },
+  {
+    "year": 2026,
+    "week": 11,
+    "team": "THE ALGORITHM",
+    "owner": "kevin",
+    "player": "Darius Cooper",
+    "position": "WR",
+    "slot": "WR",
+    "points": 0,
+    "started": true
   },
   {
     "year": 2026,
@@ -173630,9 +173630,9 @@
     "owner": "Joseph",
     "player": "Pat Freiermuth",
     "position": "TE",
-    "slot": "BE",
+    "slot": "TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -173663,17 +173663,6 @@
     "owner": "Joseph",
     "player": "Christian Kirk",
     "position": "WR",
-    "slot": "RB/WR/TE",
-    "points": 0,
-    "started": true
-  },
-  {
-    "year": 2026,
-    "week": 12,
-    "team": "13 BLOCK HIT-MEN",
-    "owner": "Joseph",
-    "player": "Tyrone Tracy Jr.",
-    "position": "RB",
     "slot": "BE",
     "points": 0,
     "started": false
@@ -173729,7 +173718,18 @@
     "owner": "Joseph",
     "player": "Cade Otton",
     "position": "TE",
-    "slot": "TE",
+    "slot": "BE",
+    "points": 0,
+    "started": false
+  },
+  {
+    "year": 2026,
+    "week": 12,
+    "team": "13 BLOCK HIT-MEN",
+    "owner": "Joseph",
+    "player": "Makai Lemon",
+    "position": "WR",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -173914,9 +173914,9 @@
     "week": 12,
     "team": "Franklin's Football Turtles",
     "owner": "Frankie",
-    "player": "Mike Washington Jr.",
-    "position": "RB",
-    "slot": "RB",
+    "player": "Titans D/ST",
+    "position": "D/ST",
+    "slot": "D/ST",
     "points": 0,
     "started": true
   },
@@ -173925,9 +173925,9 @@
     "week": 12,
     "team": "Franklin's Football Turtles",
     "owner": "Frankie",
-    "player": "Titans D/ST",
-    "position": "D/ST",
-    "slot": "D/ST",
+    "player": "Samaje Perine",
+    "position": "RB",
+    "slot": "RB",
     "points": 0,
     "started": true
   },
@@ -174123,7 +174123,7 @@
     "week": 12,
     "team": "RUMBLING",
     "owner": "Luis",
-    "player": "Colby Parkinson",
+    "player": "Harold Fannin Jr.",
     "position": "TE",
     "slot": "BE",
     "points": 0,
@@ -174136,9 +174136,9 @@
     "owner": "kevin",
     "player": "DeVonta Smith",
     "position": "WR",
-    "slot": "WR",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -174169,9 +174169,9 @@
     "owner": "kevin",
     "player": "Tre Tucker",
     "position": "WR",
-    "slot": "BE",
+    "slot": "WR",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -174224,9 +174224,9 @@
     "owner": "kevin",
     "player": "Puka Nacua",
     "position": "WR",
-    "slot": "WR",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -174277,17 +174277,6 @@
     "week": 12,
     "team": "THE ALGORITHM",
     "owner": "kevin",
-    "player": "Jaleel McLaughlin",
-    "position": "RB",
-    "slot": "BE",
-    "points": 0,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 12,
-    "team": "THE ALGORITHM",
-    "owner": "kevin",
     "player": "Quinshon Judkins",
     "position": "RB",
     "slot": "RB/WR/TE",
@@ -174315,6 +174304,17 @@
     "slot": "BE",
     "points": 0,
     "started": false
+  },
+  {
+    "year": 2026,
+    "week": 12,
+    "team": "THE ALGORITHM",
+    "owner": "kevin",
+    "player": "Darius Cooper",
+    "position": "WR",
+    "slot": "WR",
+    "points": 0,
+    "started": true
   },
   {
     "year": 2026,
@@ -175940,9 +175940,9 @@
     "owner": "Joseph",
     "player": "Pat Freiermuth",
     "position": "TE",
-    "slot": "BE",
+    "slot": "TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -175973,17 +175973,6 @@
     "owner": "Joseph",
     "player": "Christian Kirk",
     "position": "WR",
-    "slot": "RB/WR/TE",
-    "points": 0,
-    "started": true
-  },
-  {
-    "year": 2026,
-    "week": 13,
-    "team": "13 BLOCK HIT-MEN",
-    "owner": "Joseph",
-    "player": "Tyrone Tracy Jr.",
-    "position": "RB",
     "slot": "BE",
     "points": 0,
     "started": false
@@ -176039,7 +176028,18 @@
     "owner": "Joseph",
     "player": "Cade Otton",
     "position": "TE",
-    "slot": "TE",
+    "slot": "BE",
+    "points": 0,
+    "started": false
+  },
+  {
+    "year": 2026,
+    "week": 13,
+    "team": "13 BLOCK HIT-MEN",
+    "owner": "Joseph",
+    "player": "Makai Lemon",
+    "position": "WR",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -176224,9 +176224,9 @@
     "week": 13,
     "team": "Franklin's Football Turtles",
     "owner": "Frankie",
-    "player": "Mike Washington Jr.",
-    "position": "RB",
-    "slot": "RB",
+    "player": "Titans D/ST",
+    "position": "D/ST",
+    "slot": "D/ST",
     "points": 0,
     "started": true
   },
@@ -176235,9 +176235,9 @@
     "week": 13,
     "team": "Franklin's Football Turtles",
     "owner": "Frankie",
-    "player": "Titans D/ST",
-    "position": "D/ST",
-    "slot": "D/ST",
+    "player": "Samaje Perine",
+    "position": "RB",
+    "slot": "RB",
     "points": 0,
     "started": true
   },
@@ -176433,7 +176433,7 @@
     "week": 13,
     "team": "RUMBLING",
     "owner": "Luis",
-    "player": "Colby Parkinson",
+    "player": "Harold Fannin Jr.",
     "position": "TE",
     "slot": "BE",
     "points": 0,
@@ -176446,9 +176446,9 @@
     "owner": "kevin",
     "player": "DeVonta Smith",
     "position": "WR",
-    "slot": "WR",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -176479,9 +176479,9 @@
     "owner": "kevin",
     "player": "Tre Tucker",
     "position": "WR",
-    "slot": "BE",
+    "slot": "WR",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -176534,9 +176534,9 @@
     "owner": "kevin",
     "player": "Puka Nacua",
     "position": "WR",
-    "slot": "WR",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -176587,17 +176587,6 @@
     "week": 13,
     "team": "THE ALGORITHM",
     "owner": "kevin",
-    "player": "Jaleel McLaughlin",
-    "position": "RB",
-    "slot": "BE",
-    "points": 0,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 13,
-    "team": "THE ALGORITHM",
-    "owner": "kevin",
     "player": "Quinshon Judkins",
     "position": "RB",
     "slot": "RB/WR/TE",
@@ -176625,6 +176614,17 @@
     "slot": "BE",
     "points": 0,
     "started": false
+  },
+  {
+    "year": 2026,
+    "week": 13,
+    "team": "THE ALGORITHM",
+    "owner": "kevin",
+    "player": "Darius Cooper",
+    "position": "WR",
+    "slot": "WR",
+    "points": 0,
+    "started": true
   },
   {
     "year": 2026,
@@ -178250,9 +178250,9 @@
     "owner": "Joseph",
     "player": "Pat Freiermuth",
     "position": "TE",
-    "slot": "BE",
+    "slot": "TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -178283,17 +178283,6 @@
     "owner": "Joseph",
     "player": "Christian Kirk",
     "position": "WR",
-    "slot": "RB/WR/TE",
-    "points": 0,
-    "started": true
-  },
-  {
-    "year": 2026,
-    "week": 14,
-    "team": "13 BLOCK HIT-MEN",
-    "owner": "Joseph",
-    "player": "Tyrone Tracy Jr.",
-    "position": "RB",
     "slot": "BE",
     "points": 0,
     "started": false
@@ -178349,7 +178338,18 @@
     "owner": "Joseph",
     "player": "Cade Otton",
     "position": "TE",
-    "slot": "TE",
+    "slot": "BE",
+    "points": 0,
+    "started": false
+  },
+  {
+    "year": 2026,
+    "week": 14,
+    "team": "13 BLOCK HIT-MEN",
+    "owner": "Joseph",
+    "player": "Makai Lemon",
+    "position": "WR",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -178534,9 +178534,9 @@
     "week": 14,
     "team": "Franklin's Football Turtles",
     "owner": "Frankie",
-    "player": "Mike Washington Jr.",
-    "position": "RB",
-    "slot": "RB",
+    "player": "Titans D/ST",
+    "position": "D/ST",
+    "slot": "D/ST",
     "points": 0,
     "started": true
   },
@@ -178545,9 +178545,9 @@
     "week": 14,
     "team": "Franklin's Football Turtles",
     "owner": "Frankie",
-    "player": "Titans D/ST",
-    "position": "D/ST",
-    "slot": "D/ST",
+    "player": "Samaje Perine",
+    "position": "RB",
+    "slot": "RB",
     "points": 0,
     "started": true
   },
@@ -178743,7 +178743,7 @@
     "week": 14,
     "team": "RUMBLING",
     "owner": "Luis",
-    "player": "Colby Parkinson",
+    "player": "Harold Fannin Jr.",
     "position": "TE",
     "slot": "BE",
     "points": 0,
@@ -178756,9 +178756,9 @@
     "owner": "kevin",
     "player": "DeVonta Smith",
     "position": "WR",
-    "slot": "WR",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -178789,9 +178789,9 @@
     "owner": "kevin",
     "player": "Tre Tucker",
     "position": "WR",
-    "slot": "BE",
+    "slot": "WR",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -178844,9 +178844,9 @@
     "owner": "kevin",
     "player": "Puka Nacua",
     "position": "WR",
-    "slot": "WR",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -178897,17 +178897,6 @@
     "week": 14,
     "team": "THE ALGORITHM",
     "owner": "kevin",
-    "player": "Jaleel McLaughlin",
-    "position": "RB",
-    "slot": "BE",
-    "points": 0,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 14,
-    "team": "THE ALGORITHM",
-    "owner": "kevin",
     "player": "Quinshon Judkins",
     "position": "RB",
     "slot": "RB/WR/TE",
@@ -178935,6 +178924,17 @@
     "slot": "BE",
     "points": 0,
     "started": false
+  },
+  {
+    "year": 2026,
+    "week": 14,
+    "team": "THE ALGORITHM",
+    "owner": "kevin",
+    "player": "Darius Cooper",
+    "position": "WR",
+    "slot": "WR",
+    "points": 0,
+    "started": true
   },
   {
     "year": 2026,
@@ -180560,9 +180560,9 @@
     "owner": "Joseph",
     "player": "Pat Freiermuth",
     "position": "TE",
-    "slot": "BE",
+    "slot": "TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -180593,17 +180593,6 @@
     "owner": "Joseph",
     "player": "Christian Kirk",
     "position": "WR",
-    "slot": "RB/WR/TE",
-    "points": 0,
-    "started": true
-  },
-  {
-    "year": 2026,
-    "week": 15,
-    "team": "13 BLOCK HIT-MEN",
-    "owner": "Joseph",
-    "player": "Tyrone Tracy Jr.",
-    "position": "RB",
     "slot": "BE",
     "points": 0,
     "started": false
@@ -180659,7 +180648,18 @@
     "owner": "Joseph",
     "player": "Cade Otton",
     "position": "TE",
-    "slot": "TE",
+    "slot": "BE",
+    "points": 0,
+    "started": false
+  },
+  {
+    "year": 2026,
+    "week": 15,
+    "team": "13 BLOCK HIT-MEN",
+    "owner": "Joseph",
+    "player": "Makai Lemon",
+    "position": "WR",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -180844,9 +180844,9 @@
     "week": 15,
     "team": "Franklin's Football Turtles",
     "owner": "Frankie",
-    "player": "Mike Washington Jr.",
-    "position": "RB",
-    "slot": "RB",
+    "player": "Titans D/ST",
+    "position": "D/ST",
+    "slot": "D/ST",
     "points": 0,
     "started": true
   },
@@ -180855,9 +180855,9 @@
     "week": 15,
     "team": "Franklin's Football Turtles",
     "owner": "Frankie",
-    "player": "Titans D/ST",
-    "position": "D/ST",
-    "slot": "D/ST",
+    "player": "Samaje Perine",
+    "position": "RB",
+    "slot": "RB",
     "points": 0,
     "started": true
   },
@@ -181053,7 +181053,7 @@
     "week": 15,
     "team": "RUMBLING",
     "owner": "Luis",
-    "player": "Colby Parkinson",
+    "player": "Harold Fannin Jr.",
     "position": "TE",
     "slot": "BE",
     "points": 0,
@@ -181066,9 +181066,9 @@
     "owner": "kevin",
     "player": "DeVonta Smith",
     "position": "WR",
-    "slot": "WR",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -181099,9 +181099,9 @@
     "owner": "kevin",
     "player": "Tre Tucker",
     "position": "WR",
-    "slot": "BE",
+    "slot": "WR",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -181154,9 +181154,9 @@
     "owner": "kevin",
     "player": "Puka Nacua",
     "position": "WR",
-    "slot": "WR",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -181207,17 +181207,6 @@
     "week": 15,
     "team": "THE ALGORITHM",
     "owner": "kevin",
-    "player": "Jaleel McLaughlin",
-    "position": "RB",
-    "slot": "BE",
-    "points": 0,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 15,
-    "team": "THE ALGORITHM",
-    "owner": "kevin",
     "player": "Quinshon Judkins",
     "position": "RB",
     "slot": "RB/WR/TE",
@@ -181245,6 +181234,17 @@
     "slot": "BE",
     "points": 0,
     "started": false
+  },
+  {
+    "year": 2026,
+    "week": 15,
+    "team": "THE ALGORITHM",
+    "owner": "kevin",
+    "player": "Darius Cooper",
+    "position": "WR",
+    "slot": "WR",
+    "points": 0,
+    "started": true
   },
   {
     "year": 2026,
@@ -182870,9 +182870,9 @@
     "owner": "Joseph",
     "player": "Pat Freiermuth",
     "position": "TE",
-    "slot": "BE",
+    "slot": "TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -182903,17 +182903,6 @@
     "owner": "Joseph",
     "player": "Christian Kirk",
     "position": "WR",
-    "slot": "RB/WR/TE",
-    "points": 0,
-    "started": true
-  },
-  {
-    "year": 2026,
-    "week": 16,
-    "team": "13 BLOCK HIT-MEN",
-    "owner": "Joseph",
-    "player": "Tyrone Tracy Jr.",
-    "position": "RB",
     "slot": "BE",
     "points": 0,
     "started": false
@@ -182969,7 +182958,18 @@
     "owner": "Joseph",
     "player": "Cade Otton",
     "position": "TE",
-    "slot": "TE",
+    "slot": "BE",
+    "points": 0,
+    "started": false
+  },
+  {
+    "year": 2026,
+    "week": 16,
+    "team": "13 BLOCK HIT-MEN",
+    "owner": "Joseph",
+    "player": "Makai Lemon",
+    "position": "WR",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -183154,9 +183154,9 @@
     "week": 16,
     "team": "Franklin's Football Turtles",
     "owner": "Frankie",
-    "player": "Mike Washington Jr.",
-    "position": "RB",
-    "slot": "RB",
+    "player": "Titans D/ST",
+    "position": "D/ST",
+    "slot": "D/ST",
     "points": 0,
     "started": true
   },
@@ -183165,9 +183165,9 @@
     "week": 16,
     "team": "Franklin's Football Turtles",
     "owner": "Frankie",
-    "player": "Titans D/ST",
-    "position": "D/ST",
-    "slot": "D/ST",
+    "player": "Samaje Perine",
+    "position": "RB",
+    "slot": "RB",
     "points": 0,
     "started": true
   },
@@ -183363,7 +183363,7 @@
     "week": 16,
     "team": "RUMBLING",
     "owner": "Luis",
-    "player": "Colby Parkinson",
+    "player": "Harold Fannin Jr.",
     "position": "TE",
     "slot": "BE",
     "points": 0,
@@ -183376,9 +183376,9 @@
     "owner": "kevin",
     "player": "DeVonta Smith",
     "position": "WR",
-    "slot": "WR",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -183409,9 +183409,9 @@
     "owner": "kevin",
     "player": "Tre Tucker",
     "position": "WR",
-    "slot": "BE",
+    "slot": "WR",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -183464,9 +183464,9 @@
     "owner": "kevin",
     "player": "Puka Nacua",
     "position": "WR",
-    "slot": "WR",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -183517,17 +183517,6 @@
     "week": 16,
     "team": "THE ALGORITHM",
     "owner": "kevin",
-    "player": "Jaleel McLaughlin",
-    "position": "RB",
-    "slot": "BE",
-    "points": 0,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 16,
-    "team": "THE ALGORITHM",
-    "owner": "kevin",
     "player": "Quinshon Judkins",
     "position": "RB",
     "slot": "RB/WR/TE",
@@ -183555,6 +183544,17 @@
     "slot": "BE",
     "points": 0,
     "started": false
+  },
+  {
+    "year": 2026,
+    "week": 16,
+    "team": "THE ALGORITHM",
+    "owner": "kevin",
+    "player": "Darius Cooper",
+    "position": "WR",
+    "slot": "WR",
+    "points": 0,
+    "started": true
   },
   {
     "year": 2026,
@@ -185180,9 +185180,9 @@
     "owner": "Joseph",
     "player": "Pat Freiermuth",
     "position": "TE",
-    "slot": "BE",
+    "slot": "TE",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -185213,17 +185213,6 @@
     "owner": "Joseph",
     "player": "Christian Kirk",
     "position": "WR",
-    "slot": "RB/WR/TE",
-    "points": 0,
-    "started": true
-  },
-  {
-    "year": 2026,
-    "week": 17,
-    "team": "13 BLOCK HIT-MEN",
-    "owner": "Joseph",
-    "player": "Tyrone Tracy Jr.",
-    "position": "RB",
     "slot": "BE",
     "points": 0,
     "started": false
@@ -185279,7 +185268,18 @@
     "owner": "Joseph",
     "player": "Cade Otton",
     "position": "TE",
-    "slot": "TE",
+    "slot": "BE",
+    "points": 0,
+    "started": false
+  },
+  {
+    "year": 2026,
+    "week": 17,
+    "team": "13 BLOCK HIT-MEN",
+    "owner": "Joseph",
+    "player": "Makai Lemon",
+    "position": "WR",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -185464,9 +185464,9 @@
     "week": 17,
     "team": "Franklin's Football Turtles",
     "owner": "Frankie",
-    "player": "Mike Washington Jr.",
-    "position": "RB",
-    "slot": "RB",
+    "player": "Titans D/ST",
+    "position": "D/ST",
+    "slot": "D/ST",
     "points": 0,
     "started": true
   },
@@ -185475,9 +185475,9 @@
     "week": 17,
     "team": "Franklin's Football Turtles",
     "owner": "Frankie",
-    "player": "Titans D/ST",
-    "position": "D/ST",
-    "slot": "D/ST",
+    "player": "Samaje Perine",
+    "position": "RB",
+    "slot": "RB",
     "points": 0,
     "started": true
   },
@@ -185673,7 +185673,7 @@
     "week": 17,
     "team": "RUMBLING",
     "owner": "Luis",
-    "player": "Colby Parkinson",
+    "player": "Harold Fannin Jr.",
     "position": "TE",
     "slot": "BE",
     "points": 0,
@@ -185686,9 +185686,9 @@
     "owner": "kevin",
     "player": "DeVonta Smith",
     "position": "WR",
-    "slot": "WR",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -185719,9 +185719,9 @@
     "owner": "kevin",
     "player": "Tre Tucker",
     "position": "WR",
-    "slot": "BE",
+    "slot": "WR",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -185774,9 +185774,9 @@
     "owner": "kevin",
     "player": "Puka Nacua",
     "position": "WR",
-    "slot": "WR",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -185827,17 +185827,6 @@
     "week": 17,
     "team": "THE ALGORITHM",
     "owner": "kevin",
-    "player": "Jaleel McLaughlin",
-    "position": "RB",
-    "slot": "BE",
-    "points": 0,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 17,
-    "team": "THE ALGORITHM",
-    "owner": "kevin",
     "player": "Quinshon Judkins",
     "position": "RB",
     "slot": "RB/WR/TE",
@@ -185865,6 +185854,17 @@
     "slot": "BE",
     "points": 0,
     "started": false
+  },
+  {
+    "year": 2026,
+    "week": 17,
+    "team": "THE ALGORITHM",
+    "owner": "kevin",
+    "player": "Darius Cooper",
+    "position": "WR",
+    "slot": "WR",
+    "points": 0,
+    "started": true
   },
   {
     "year": 2026,
