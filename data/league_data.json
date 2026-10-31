@@ -175546,9 +175546,9 @@
         "owner": "Laureano",
         "player": "Chris Godwin Jr.",
         "position": "WR",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -175612,9 +175612,9 @@
         "owner": "Laureano",
         "player": "Keon Coleman",
         "position": "WR",
-        "slot": "RB/WR/TE",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -175898,7 +175898,7 @@
         "owner": "Xavier",
         "player": "Jeremiyah Love",
         "position": "RB",
-        "slot": "RB/WR/TE",
+        "slot": "RB",
         "points": 0,
         "started": true
       },
@@ -175920,7 +175920,7 @@
         "owner": "Xavier",
         "player": "Breece Hall",
         "position": "RB",
-        "slot": "RB",
+        "slot": "RB/WR/TE",
         "points": 0,
         "started": true
       },
@@ -176481,9 +176481,9 @@
         "owner": "kevin",
         "player": "DeVonta Smith",
         "position": "WR",
-        "slot": "WR",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -176602,9 +176602,9 @@
         "owner": "kevin",
         "player": "Travis Hunter",
         "position": "WR",
-        "slot": "BE",
+        "slot": "WR",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -176638,6 +176638,28 @@
         "slot": "RB",
         "points": 0,
         "started": true
+      },
+      {
+        "year": 2026,
+        "week": 8,
+        "team": "THE ALGORITHM",
+        "owner": "kevin",
+        "player": "Kimani Vidal",
+        "position": "RB",
+        "slot": "BE",
+        "points": 0,
+        "started": false
+      },
+      {
+        "year": 2026,
+        "week": 8,
+        "team": "THE ALGORITHM",
+        "owner": "kevin",
+        "player": "Lions D/ST",
+        "position": "D/ST",
+        "slot": "BE",
+        "points": 0,
+        "started": false
       },
       {
         "year": 2026,
@@ -177405,9 +177427,9 @@
         "owner": "Najee",
         "player": "Emeka Egbuka",
         "position": "WR",
-        "slot": "RB/WR/TE",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -177449,9 +177471,9 @@
         "owner": "Najee",
         "player": "Zach Charbonnet",
         "position": "RB",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -177515,9 +177537,9 @@
         "owner": "Najee",
         "player": "A.J. Brown",
         "position": "WR",
-        "slot": "WR",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -177568,11 +177590,11 @@
         "week": 8,
         "team": "Rome's Five-Star Chefs",
         "owner": "Najee",
-        "player": "Ted Hurst III",
+        "player": "Tez Johnson",
         "position": "WR",
-        "slot": "BE",
+        "slot": "WR",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -177658,9 +177680,9 @@
         "owner": "Sway",
         "player": "Chig Okonkwo",
         "position": "TE",
-        "slot": "RB/WR/TE",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -177757,9 +177779,9 @@
         "owner": "Sway",
         "player": "DeMario Douglas",
         "position": "WR",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -177801,9 +177823,9 @@
         "owner": "Laureano",
         "player": "Chris Godwin Jr.",
         "position": "WR",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -177867,9 +177889,9 @@
         "owner": "Laureano",
         "player": "Keon Coleman",
         "position": "WR",
-        "slot": "RB/WR/TE",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -178153,7 +178175,7 @@
         "owner": "Xavier",
         "player": "Jeremiyah Love",
         "position": "RB",
-        "slot": "RB/WR/TE",
+        "slot": "RB",
         "points": 0,
         "started": true
       },
@@ -178175,7 +178197,7 @@
         "owner": "Xavier",
         "player": "Breece Hall",
         "position": "RB",
-        "slot": "RB",
+        "slot": "RB/WR/TE",
         "points": 0,
         "started": true
       },
@@ -178736,9 +178758,9 @@
         "owner": "kevin",
         "player": "DeVonta Smith",
         "position": "WR",
-        "slot": "WR",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -178857,9 +178879,9 @@
         "owner": "kevin",
         "player": "Travis Hunter",
         "position": "WR",
-        "slot": "BE",
+        "slot": "WR",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -178893,6 +178915,28 @@
         "slot": "RB",
         "points": 0,
         "started": true
+      },
+      {
+        "year": 2026,
+        "week": 9,
+        "team": "THE ALGORITHM",
+        "owner": "kevin",
+        "player": "Kimani Vidal",
+        "position": "RB",
+        "slot": "BE",
+        "points": 0,
+        "started": false
+      },
+      {
+        "year": 2026,
+        "week": 9,
+        "team": "THE ALGORITHM",
+        "owner": "kevin",
+        "player": "Lions D/ST",
+        "position": "D/ST",
+        "slot": "BE",
+        "points": 0,
+        "started": false
       },
       {
         "year": 2026,
@@ -179660,9 +179704,9 @@
         "owner": "Najee",
         "player": "Emeka Egbuka",
         "position": "WR",
-        "slot": "RB/WR/TE",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -179704,9 +179748,9 @@
         "owner": "Najee",
         "player": "Zach Charbonnet",
         "position": "RB",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -179770,9 +179814,9 @@
         "owner": "Najee",
         "player": "A.J. Brown",
         "position": "WR",
-        "slot": "WR",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -179823,11 +179867,11 @@
         "week": 9,
         "team": "Rome's Five-Star Chefs",
         "owner": "Najee",
-        "player": "Ted Hurst III",
+        "player": "Tez Johnson",
         "position": "WR",
-        "slot": "BE",
+        "slot": "WR",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -179913,9 +179957,9 @@
         "owner": "Sway",
         "player": "Chig Okonkwo",
         "position": "TE",
-        "slot": "RB/WR/TE",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -180012,9 +180056,9 @@
         "owner": "Sway",
         "player": "DeMario Douglas",
         "position": "WR",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -180056,9 +180100,9 @@
         "owner": "Laureano",
         "player": "Chris Godwin Jr.",
         "position": "WR",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -180122,9 +180166,9 @@
         "owner": "Laureano",
         "player": "Keon Coleman",
         "position": "WR",
-        "slot": "RB/WR/TE",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -180408,7 +180452,7 @@
         "owner": "Xavier",
         "player": "Jeremiyah Love",
         "position": "RB",
-        "slot": "RB/WR/TE",
+        "slot": "RB",
         "points": 0,
         "started": true
       },
@@ -180430,7 +180474,7 @@
         "owner": "Xavier",
         "player": "Breece Hall",
         "position": "RB",
-        "slot": "RB",
+        "slot": "RB/WR/TE",
         "points": 0,
         "started": true
       },
@@ -180991,9 +181035,9 @@
         "owner": "kevin",
         "player": "DeVonta Smith",
         "position": "WR",
-        "slot": "WR",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -181112,9 +181156,9 @@
         "owner": "kevin",
         "player": "Travis Hunter",
         "position": "WR",
-        "slot": "BE",
+        "slot": "WR",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -181148,6 +181192,28 @@
         "slot": "RB",
         "points": 0,
         "started": true
+      },
+      {
+        "year": 2026,
+        "week": 10,
+        "team": "THE ALGORITHM",
+        "owner": "kevin",
+        "player": "Kimani Vidal",
+        "position": "RB",
+        "slot": "BE",
+        "points": 0,
+        "started": false
+      },
+      {
+        "year": 2026,
+        "week": 10,
+        "team": "THE ALGORITHM",
+        "owner": "kevin",
+        "player": "Lions D/ST",
+        "position": "D/ST",
+        "slot": "BE",
+        "points": 0,
+        "started": false
       },
       {
         "year": 2026,
@@ -181915,9 +181981,9 @@
         "owner": "Najee",
         "player": "Emeka Egbuka",
         "position": "WR",
-        "slot": "RB/WR/TE",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -181959,9 +182025,9 @@
         "owner": "Najee",
         "player": "Zach Charbonnet",
         "position": "RB",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -182025,9 +182091,9 @@
         "owner": "Najee",
         "player": "A.J. Brown",
         "position": "WR",
-        "slot": "WR",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -182078,11 +182144,11 @@
         "week": 10,
         "team": "Rome's Five-Star Chefs",
         "owner": "Najee",
-        "player": "Ted Hurst III",
+        "player": "Tez Johnson",
         "position": "WR",
-        "slot": "BE",
+        "slot": "WR",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -182168,9 +182234,9 @@
         "owner": "Sway",
         "player": "Chig Okonkwo",
         "position": "TE",
-        "slot": "RB/WR/TE",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -182267,9 +182333,9 @@
         "owner": "Sway",
         "player": "DeMario Douglas",
         "position": "WR",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -182311,9 +182377,9 @@
         "owner": "Laureano",
         "player": "Chris Godwin Jr.",
         "position": "WR",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -182377,9 +182443,9 @@
         "owner": "Laureano",
         "player": "Keon Coleman",
         "position": "WR",
-        "slot": "RB/WR/TE",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -182663,7 +182729,7 @@
         "owner": "Xavier",
         "player": "Jeremiyah Love",
         "position": "RB",
-        "slot": "RB/WR/TE",
+        "slot": "RB",
         "points": 0,
         "started": true
       },
@@ -182685,7 +182751,7 @@
         "owner": "Xavier",
         "player": "Breece Hall",
         "position": "RB",
-        "slot": "RB",
+        "slot": "RB/WR/TE",
         "points": 0,
         "started": true
       },
@@ -183246,9 +183312,9 @@
         "owner": "kevin",
         "player": "DeVonta Smith",
         "position": "WR",
-        "slot": "WR",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -183367,9 +183433,9 @@
         "owner": "kevin",
         "player": "Travis Hunter",
         "position": "WR",
-        "slot": "BE",
+        "slot": "WR",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -183403,6 +183469,28 @@
         "slot": "RB",
         "points": 0,
         "started": true
+      },
+      {
+        "year": 2026,
+        "week": 11,
+        "team": "THE ALGORITHM",
+        "owner": "kevin",
+        "player": "Kimani Vidal",
+        "position": "RB",
+        "slot": "BE",
+        "points": 0,
+        "started": false
+      },
+      {
+        "year": 2026,
+        "week": 11,
+        "team": "THE ALGORITHM",
+        "owner": "kevin",
+        "player": "Lions D/ST",
+        "position": "D/ST",
+        "slot": "BE",
+        "points": 0,
+        "started": false
       },
       {
         "year": 2026,
@@ -184170,9 +184258,9 @@
         "owner": "Najee",
         "player": "Emeka Egbuka",
         "position": "WR",
-        "slot": "RB/WR/TE",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -184214,9 +184302,9 @@
         "owner": "Najee",
         "player": "Zach Charbonnet",
         "position": "RB",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -184280,9 +184368,9 @@
         "owner": "Najee",
         "player": "A.J. Brown",
         "position": "WR",
-        "slot": "WR",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -184333,11 +184421,11 @@
         "week": 11,
         "team": "Rome's Five-Star Chefs",
         "owner": "Najee",
-        "player": "Ted Hurst III",
+        "player": "Tez Johnson",
         "position": "WR",
-        "slot": "BE",
+        "slot": "WR",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -184423,9 +184511,9 @@
         "owner": "Sway",
         "player": "Chig Okonkwo",
         "position": "TE",
-        "slot": "RB/WR/TE",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -184522,9 +184610,9 @@
         "owner": "Sway",
         "player": "DeMario Douglas",
         "position": "WR",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -184566,9 +184654,9 @@
         "owner": "Laureano",
         "player": "Chris Godwin Jr.",
         "position": "WR",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -184632,9 +184720,9 @@
         "owner": "Laureano",
         "player": "Keon Coleman",
         "position": "WR",
-        "slot": "RB/WR/TE",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -184918,7 +185006,7 @@
         "owner": "Xavier",
         "player": "Jeremiyah Love",
         "position": "RB",
-        "slot": "RB/WR/TE",
+        "slot": "RB",
         "points": 0,
         "started": true
       },
@@ -184940,7 +185028,7 @@
         "owner": "Xavier",
         "player": "Breece Hall",
         "position": "RB",
-        "slot": "RB",
+        "slot": "RB/WR/TE",
         "points": 0,
         "started": true
       },
@@ -185501,9 +185589,9 @@
         "owner": "kevin",
         "player": "DeVonta Smith",
         "position": "WR",
-        "slot": "WR",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -185622,9 +185710,9 @@
         "owner": "kevin",
         "player": "Travis Hunter",
         "position": "WR",
-        "slot": "BE",
+        "slot": "WR",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -185658,6 +185746,28 @@
         "slot": "RB",
         "points": 0,
         "started": true
+      },
+      {
+        "year": 2026,
+        "week": 12,
+        "team": "THE ALGORITHM",
+        "owner": "kevin",
+        "player": "Kimani Vidal",
+        "position": "RB",
+        "slot": "BE",
+        "points": 0,
+        "started": false
+      },
+      {
+        "year": 2026,
+        "week": 12,
+        "team": "THE ALGORITHM",
+        "owner": "kevin",
+        "player": "Lions D/ST",
+        "position": "D/ST",
+        "slot": "BE",
+        "points": 0,
+        "started": false
       },
       {
         "year": 2026,
@@ -186425,9 +186535,9 @@
         "owner": "Najee",
         "player": "Emeka Egbuka",
         "position": "WR",
-        "slot": "RB/WR/TE",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -186469,9 +186579,9 @@
         "owner": "Najee",
         "player": "Zach Charbonnet",
         "position": "RB",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -186535,9 +186645,9 @@
         "owner": "Najee",
         "player": "A.J. Brown",
         "position": "WR",
-        "slot": "WR",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -186588,11 +186698,11 @@
         "week": 12,
         "team": "Rome's Five-Star Chefs",
         "owner": "Najee",
-        "player": "Ted Hurst III",
+        "player": "Tez Johnson",
         "position": "WR",
-        "slot": "BE",
+        "slot": "WR",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -186678,9 +186788,9 @@
         "owner": "Sway",
         "player": "Chig Okonkwo",
         "position": "TE",
-        "slot": "RB/WR/TE",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -186777,9 +186887,9 @@
         "owner": "Sway",
         "player": "DeMario Douglas",
         "position": "WR",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -186821,9 +186931,9 @@
         "owner": "Laureano",
         "player": "Chris Godwin Jr.",
         "position": "WR",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -186887,9 +186997,9 @@
         "owner": "Laureano",
         "player": "Keon Coleman",
         "position": "WR",
-        "slot": "RB/WR/TE",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -187173,7 +187283,7 @@
         "owner": "Xavier",
         "player": "Jeremiyah Love",
         "position": "RB",
-        "slot": "RB/WR/TE",
+        "slot": "RB",
         "points": 0,
         "started": true
       },
@@ -187195,7 +187305,7 @@
         "owner": "Xavier",
         "player": "Breece Hall",
         "position": "RB",
-        "slot": "RB",
+        "slot": "RB/WR/TE",
         "points": 0,
         "started": true
       },
@@ -187756,9 +187866,9 @@
         "owner": "kevin",
         "player": "DeVonta Smith",
         "position": "WR",
-        "slot": "WR",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -187877,9 +187987,9 @@
         "owner": "kevin",
         "player": "Travis Hunter",
         "position": "WR",
-        "slot": "BE",
+        "slot": "WR",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -187913,6 +188023,28 @@
         "slot": "RB",
         "points": 0,
         "started": true
+      },
+      {
+        "year": 2026,
+        "week": 13,
+        "team": "THE ALGORITHM",
+        "owner": "kevin",
+        "player": "Kimani Vidal",
+        "position": "RB",
+        "slot": "BE",
+        "points": 0,
+        "started": false
+      },
+      {
+        "year": 2026,
+        "week": 13,
+        "team": "THE ALGORITHM",
+        "owner": "kevin",
+        "player": "Lions D/ST",
+        "position": "D/ST",
+        "slot": "BE",
+        "points": 0,
+        "started": false
       },
       {
         "year": 2026,
@@ -188680,9 +188812,9 @@
         "owner": "Najee",
         "player": "Emeka Egbuka",
         "position": "WR",
-        "slot": "RB/WR/TE",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -188724,9 +188856,9 @@
         "owner": "Najee",
         "player": "Zach Charbonnet",
         "position": "RB",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -188790,9 +188922,9 @@
         "owner": "Najee",
         "player": "A.J. Brown",
         "position": "WR",
-        "slot": "WR",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -188843,11 +188975,11 @@
         "week": 13,
         "team": "Rome's Five-Star Chefs",
         "owner": "Najee",
-        "player": "Ted Hurst III",
+        "player": "Tez Johnson",
         "position": "WR",
-        "slot": "BE",
+        "slot": "WR",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -188933,9 +189065,9 @@
         "owner": "Sway",
         "player": "Chig Okonkwo",
         "position": "TE",
-        "slot": "RB/WR/TE",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -189032,9 +189164,9 @@
         "owner": "Sway",
         "player": "DeMario Douglas",
         "position": "WR",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -189076,9 +189208,9 @@
         "owner": "Laureano",
         "player": "Chris Godwin Jr.",
         "position": "WR",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -189142,9 +189274,9 @@
         "owner": "Laureano",
         "player": "Keon Coleman",
         "position": "WR",
-        "slot": "RB/WR/TE",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -189428,7 +189560,7 @@
         "owner": "Xavier",
         "player": "Jeremiyah Love",
         "position": "RB",
-        "slot": "RB/WR/TE",
+        "slot": "RB",
         "points": 0,
         "started": true
       },
@@ -189450,7 +189582,7 @@
         "owner": "Xavier",
         "player": "Breece Hall",
         "position": "RB",
-        "slot": "RB",
+        "slot": "RB/WR/TE",
         "points": 0,
         "started": true
       },
@@ -190011,9 +190143,9 @@
         "owner": "kevin",
         "player": "DeVonta Smith",
         "position": "WR",
-        "slot": "WR",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -190132,9 +190264,9 @@
         "owner": "kevin",
         "player": "Travis Hunter",
         "position": "WR",
-        "slot": "BE",
+        "slot": "WR",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -190168,6 +190300,28 @@
         "slot": "RB",
         "points": 0,
         "started": true
+      },
+      {
+        "year": 2026,
+        "week": 14,
+        "team": "THE ALGORITHM",
+        "owner": "kevin",
+        "player": "Kimani Vidal",
+        "position": "RB",
+        "slot": "BE",
+        "points": 0,
+        "started": false
+      },
+      {
+        "year": 2026,
+        "week": 14,
+        "team": "THE ALGORITHM",
+        "owner": "kevin",
+        "player": "Lions D/ST",
+        "position": "D/ST",
+        "slot": "BE",
+        "points": 0,
+        "started": false
       },
       {
         "year": 2026,
@@ -190935,9 +191089,9 @@
         "owner": "Najee",
         "player": "Emeka Egbuka",
         "position": "WR",
-        "slot": "RB/WR/TE",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -190979,9 +191133,9 @@
         "owner": "Najee",
         "player": "Zach Charbonnet",
         "position": "RB",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -191045,9 +191199,9 @@
         "owner": "Najee",
         "player": "A.J. Brown",
         "position": "WR",
-        "slot": "WR",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -191098,11 +191252,11 @@
         "week": 14,
         "team": "Rome's Five-Star Chefs",
         "owner": "Najee",
-        "player": "Ted Hurst III",
+        "player": "Tez Johnson",
         "position": "WR",
-        "slot": "BE",
+        "slot": "WR",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -191188,9 +191342,9 @@
         "owner": "Sway",
         "player": "Chig Okonkwo",
         "position": "TE",
-        "slot": "RB/WR/TE",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -191287,9 +191441,9 @@
         "owner": "Sway",
         "player": "DeMario Douglas",
         "position": "WR",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -191331,9 +191485,9 @@
         "owner": "Laureano",
         "player": "Chris Godwin Jr.",
         "position": "WR",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -191397,9 +191551,9 @@
         "owner": "Laureano",
         "player": "Keon Coleman",
         "position": "WR",
-        "slot": "RB/WR/TE",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -191683,7 +191837,7 @@
         "owner": "Xavier",
         "player": "Jeremiyah Love",
         "position": "RB",
-        "slot": "RB/WR/TE",
+        "slot": "RB",
         "points": 0,
         "started": true
       },
@@ -191705,7 +191859,7 @@
         "owner": "Xavier",
         "player": "Breece Hall",
         "position": "RB",
-        "slot": "RB",
+        "slot": "RB/WR/TE",
         "points": 0,
         "started": true
       },
@@ -192266,9 +192420,9 @@
         "owner": "kevin",
         "player": "DeVonta Smith",
         "position": "WR",
-        "slot": "WR",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -192387,9 +192541,9 @@
         "owner": "kevin",
         "player": "Travis Hunter",
         "position": "WR",
-        "slot": "BE",
+        "slot": "WR",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -192423,6 +192577,28 @@
         "slot": "RB",
         "points": 0,
         "started": true
+      },
+      {
+        "year": 2026,
+        "week": 15,
+        "team": "THE ALGORITHM",
+        "owner": "kevin",
+        "player": "Kimani Vidal",
+        "position": "RB",
+        "slot": "BE",
+        "points": 0,
+        "started": false
+      },
+      {
+        "year": 2026,
+        "week": 15,
+        "team": "THE ALGORITHM",
+        "owner": "kevin",
+        "player": "Lions D/ST",
+        "position": "D/ST",
+        "slot": "BE",
+        "points": 0,
+        "started": false
       },
       {
         "year": 2026,
@@ -193190,9 +193366,9 @@
         "owner": "Najee",
         "player": "Emeka Egbuka",
         "position": "WR",
-        "slot": "RB/WR/TE",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -193234,9 +193410,9 @@
         "owner": "Najee",
         "player": "Zach Charbonnet",
         "position": "RB",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -193300,9 +193476,9 @@
         "owner": "Najee",
         "player": "A.J. Brown",
         "position": "WR",
-        "slot": "WR",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -193353,11 +193529,11 @@
         "week": 15,
         "team": "Rome's Five-Star Chefs",
         "owner": "Najee",
-        "player": "Ted Hurst III",
+        "player": "Tez Johnson",
         "position": "WR",
-        "slot": "BE",
+        "slot": "WR",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -193443,9 +193619,9 @@
         "owner": "Sway",
         "player": "Chig Okonkwo",
         "position": "TE",
-        "slot": "RB/WR/TE",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -193542,9 +193718,9 @@
         "owner": "Sway",
         "player": "DeMario Douglas",
         "position": "WR",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -193586,9 +193762,9 @@
         "owner": "Laureano",
         "player": "Chris Godwin Jr.",
         "position": "WR",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -193652,9 +193828,9 @@
         "owner": "Laureano",
         "player": "Keon Coleman",
         "position": "WR",
-        "slot": "RB/WR/TE",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -193938,7 +194114,7 @@
         "owner": "Xavier",
         "player": "Jeremiyah Love",
         "position": "RB",
-        "slot": "RB/WR/TE",
+        "slot": "RB",
         "points": 0,
         "started": true
       },
@@ -193960,7 +194136,7 @@
         "owner": "Xavier",
         "player": "Breece Hall",
         "position": "RB",
-        "slot": "RB",
+        "slot": "RB/WR/TE",
         "points": 0,
         "started": true
       },
@@ -194521,9 +194697,9 @@
         "owner": "kevin",
         "player": "DeVonta Smith",
         "position": "WR",
-        "slot": "WR",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -194642,9 +194818,9 @@
         "owner": "kevin",
         "player": "Travis Hunter",
         "position": "WR",
-        "slot": "BE",
+        "slot": "WR",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -194678,6 +194854,28 @@
         "slot": "RB",
         "points": 0,
         "started": true
+      },
+      {
+        "year": 2026,
+        "week": 16,
+        "team": "THE ALGORITHM",
+        "owner": "kevin",
+        "player": "Kimani Vidal",
+        "position": "RB",
+        "slot": "BE",
+        "points": 0,
+        "started": false
+      },
+      {
+        "year": 2026,
+        "week": 16,
+        "team": "THE ALGORITHM",
+        "owner": "kevin",
+        "player": "Lions D/ST",
+        "position": "D/ST",
+        "slot": "BE",
+        "points": 0,
+        "started": false
       },
       {
         "year": 2026,
@@ -195445,9 +195643,9 @@
         "owner": "Najee",
         "player": "Emeka Egbuka",
         "position": "WR",
-        "slot": "RB/WR/TE",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -195489,9 +195687,9 @@
         "owner": "Najee",
         "player": "Zach Charbonnet",
         "position": "RB",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -195555,9 +195753,9 @@
         "owner": "Najee",
         "player": "A.J. Brown",
         "position": "WR",
-        "slot": "WR",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -195608,11 +195806,11 @@
         "week": 16,
         "team": "Rome's Five-Star Chefs",
         "owner": "Najee",
-        "player": "Ted Hurst III",
+        "player": "Tez Johnson",
         "position": "WR",
-        "slot": "BE",
+        "slot": "WR",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -195698,9 +195896,9 @@
         "owner": "Sway",
         "player": "Chig Okonkwo",
         "position": "TE",
-        "slot": "RB/WR/TE",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -195797,9 +195995,9 @@
         "owner": "Sway",
         "player": "DeMario Douglas",
         "position": "WR",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -195841,9 +196039,9 @@
         "owner": "Laureano",
         "player": "Chris Godwin Jr.",
         "position": "WR",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -195907,9 +196105,9 @@
         "owner": "Laureano",
         "player": "Keon Coleman",
         "position": "WR",
-        "slot": "RB/WR/TE",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -196193,7 +196391,7 @@
         "owner": "Xavier",
         "player": "Jeremiyah Love",
         "position": "RB",
-        "slot": "RB/WR/TE",
+        "slot": "RB",
         "points": 0,
         "started": true
       },
@@ -196215,7 +196413,7 @@
         "owner": "Xavier",
         "player": "Breece Hall",
         "position": "RB",
-        "slot": "RB",
+        "slot": "RB/WR/TE",
         "points": 0,
         "started": true
       },
@@ -196776,9 +196974,9 @@
         "owner": "kevin",
         "player": "DeVonta Smith",
         "position": "WR",
-        "slot": "WR",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -196897,9 +197095,9 @@
         "owner": "kevin",
         "player": "Travis Hunter",
         "position": "WR",
-        "slot": "BE",
+        "slot": "WR",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -196933,6 +197131,28 @@
         "slot": "RB",
         "points": 0,
         "started": true
+      },
+      {
+        "year": 2026,
+        "week": 17,
+        "team": "THE ALGORITHM",
+        "owner": "kevin",
+        "player": "Kimani Vidal",
+        "position": "RB",
+        "slot": "BE",
+        "points": 0,
+        "started": false
+      },
+      {
+        "year": 2026,
+        "week": 17,
+        "team": "THE ALGORITHM",
+        "owner": "kevin",
+        "player": "Lions D/ST",
+        "position": "D/ST",
+        "slot": "BE",
+        "points": 0,
+        "started": false
       },
       {
         "year": 2026,
@@ -197700,9 +197920,9 @@
         "owner": "Najee",
         "player": "Emeka Egbuka",
         "position": "WR",
-        "slot": "RB/WR/TE",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -197744,9 +197964,9 @@
         "owner": "Najee",
         "player": "Zach Charbonnet",
         "position": "RB",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -197810,9 +198030,9 @@
         "owner": "Najee",
         "player": "A.J. Brown",
         "position": "WR",
-        "slot": "WR",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -197863,11 +198083,11 @@
         "week": 17,
         "team": "Rome's Five-Star Chefs",
         "owner": "Najee",
-        "player": "Ted Hurst III",
+        "player": "Tez Johnson",
         "position": "WR",
-        "slot": "BE",
+        "slot": "WR",
         "points": 0,
-        "started": false
+        "started": true
       },
       {
         "year": 2026,
@@ -197953,9 +198173,9 @@
         "owner": "Sway",
         "player": "Chig Okonkwo",
         "position": "TE",
-        "slot": "RB/WR/TE",
+        "slot": "BE",
         "points": 0,
-        "started": true
+        "started": false
       },
       {
         "year": 2026,
@@ -198052,9 +198272,9 @@
         "owner": "Sway",
         "player": "DeMario Douglas",
         "position": "WR",
-        "slot": "BE",
+        "slot": "RB/WR/TE",
         "points": 0,
-        "started": false
+        "started": true
       }
     ],
     "draft": [
