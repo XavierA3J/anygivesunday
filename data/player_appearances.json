@@ -168141,9 +168141,9 @@
     "owner": "Jose",
     "player": "Bhayshul Tuten",
     "position": "RB",
-    "slot": "BE",
+    "slot": "RB",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -168163,7 +168163,7 @@
     "owner": "Jose",
     "player": "Jaylen Warren",
     "position": "RB",
-    "slot": "RB",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -168229,9 +168229,9 @@
     "owner": "Jose",
     "player": "Jordan Addison",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -168832,17 +168832,6 @@
     "week": 10,
     "team": "RUMBLING",
     "owner": "Luis",
-    "player": "Audric Estime",
-    "position": "RB",
-    "slot": "BE",
-    "points": 0,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 10,
-    "team": "RUMBLING",
-    "owner": "Luis",
     "player": "Konata Mumpfield",
     "position": "WR",
     "slot": "BE",
@@ -168859,6 +168848,17 @@
     "slot": "K",
     "points": 0,
     "started": true
+  },
+  {
+    "year": 2026,
+    "week": 10,
+    "team": "RUMBLING",
+    "owner": "Luis",
+    "player": "Reggie Virgil",
+    "position": "WR",
+    "slot": "BE",
+    "points": 0,
+    "started": false
   },
   {
     "year": 2026,
@@ -169461,9 +169461,9 @@
     "owner": "Najee",
     "player": "T.J. Hockenson",
     "position": "TE",
-    "slot": "TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -170044,9 +170044,9 @@
     "owner": "Jose",
     "player": "Bhayshul Tuten",
     "position": "RB",
-    "slot": "BE",
+    "slot": "RB",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -170066,7 +170066,7 @@
     "owner": "Jose",
     "player": "Jaylen Warren",
     "position": "RB",
-    "slot": "RB",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -170132,9 +170132,9 @@
     "owner": "Jose",
     "player": "Jordan Addison",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -170735,17 +170735,6 @@
     "week": 11,
     "team": "RUMBLING",
     "owner": "Luis",
-    "player": "Audric Estime",
-    "position": "RB",
-    "slot": "BE",
-    "points": 0,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 11,
-    "team": "RUMBLING",
-    "owner": "Luis",
     "player": "Konata Mumpfield",
     "position": "WR",
     "slot": "BE",
@@ -170762,6 +170751,17 @@
     "slot": "K",
     "points": 0,
     "started": true
+  },
+  {
+    "year": 2026,
+    "week": 11,
+    "team": "RUMBLING",
+    "owner": "Luis",
+    "player": "Reggie Virgil",
+    "position": "WR",
+    "slot": "BE",
+    "points": 0,
+    "started": false
   },
   {
     "year": 2026,
@@ -171364,9 +171364,9 @@
     "owner": "Najee",
     "player": "T.J. Hockenson",
     "position": "TE",
-    "slot": "TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -171947,9 +171947,9 @@
     "owner": "Jose",
     "player": "Bhayshul Tuten",
     "position": "RB",
-    "slot": "BE",
+    "slot": "RB",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -171969,7 +171969,7 @@
     "owner": "Jose",
     "player": "Jaylen Warren",
     "position": "RB",
-    "slot": "RB",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -172035,9 +172035,9 @@
     "owner": "Jose",
     "player": "Jordan Addison",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -172638,17 +172638,6 @@
     "week": 12,
     "team": "RUMBLING",
     "owner": "Luis",
-    "player": "Audric Estime",
-    "position": "RB",
-    "slot": "BE",
-    "points": 0,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 12,
-    "team": "RUMBLING",
-    "owner": "Luis",
     "player": "Konata Mumpfield",
     "position": "WR",
     "slot": "BE",
@@ -172665,6 +172654,17 @@
     "slot": "K",
     "points": 0,
     "started": true
+  },
+  {
+    "year": 2026,
+    "week": 12,
+    "team": "RUMBLING",
+    "owner": "Luis",
+    "player": "Reggie Virgil",
+    "position": "WR",
+    "slot": "BE",
+    "points": 0,
+    "started": false
   },
   {
     "year": 2026,
@@ -173267,9 +173267,9 @@
     "owner": "Najee",
     "player": "T.J. Hockenson",
     "position": "TE",
-    "slot": "TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -173850,9 +173850,9 @@
     "owner": "Jose",
     "player": "Bhayshul Tuten",
     "position": "RB",
-    "slot": "BE",
+    "slot": "RB",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -173872,7 +173872,7 @@
     "owner": "Jose",
     "player": "Jaylen Warren",
     "position": "RB",
-    "slot": "RB",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -173938,9 +173938,9 @@
     "owner": "Jose",
     "player": "Jordan Addison",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -174541,17 +174541,6 @@
     "week": 13,
     "team": "RUMBLING",
     "owner": "Luis",
-    "player": "Audric Estime",
-    "position": "RB",
-    "slot": "BE",
-    "points": 0,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 13,
-    "team": "RUMBLING",
-    "owner": "Luis",
     "player": "Konata Mumpfield",
     "position": "WR",
     "slot": "BE",
@@ -174568,6 +174557,17 @@
     "slot": "K",
     "points": 0,
     "started": true
+  },
+  {
+    "year": 2026,
+    "week": 13,
+    "team": "RUMBLING",
+    "owner": "Luis",
+    "player": "Reggie Virgil",
+    "position": "WR",
+    "slot": "BE",
+    "points": 0,
+    "started": false
   },
   {
     "year": 2026,
@@ -175170,9 +175170,9 @@
     "owner": "Najee",
     "player": "T.J. Hockenson",
     "position": "TE",
-    "slot": "TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -175753,9 +175753,9 @@
     "owner": "Jose",
     "player": "Bhayshul Tuten",
     "position": "RB",
-    "slot": "BE",
+    "slot": "RB",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -175775,7 +175775,7 @@
     "owner": "Jose",
     "player": "Jaylen Warren",
     "position": "RB",
-    "slot": "RB",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -175841,9 +175841,9 @@
     "owner": "Jose",
     "player": "Jordan Addison",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -176444,17 +176444,6 @@
     "week": 14,
     "team": "RUMBLING",
     "owner": "Luis",
-    "player": "Audric Estime",
-    "position": "RB",
-    "slot": "BE",
-    "points": 0,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 14,
-    "team": "RUMBLING",
-    "owner": "Luis",
     "player": "Konata Mumpfield",
     "position": "WR",
     "slot": "BE",
@@ -176471,6 +176460,17 @@
     "slot": "K",
     "points": 0,
     "started": true
+  },
+  {
+    "year": 2026,
+    "week": 14,
+    "team": "RUMBLING",
+    "owner": "Luis",
+    "player": "Reggie Virgil",
+    "position": "WR",
+    "slot": "BE",
+    "points": 0,
+    "started": false
   },
   {
     "year": 2026,
@@ -177073,9 +177073,9 @@
     "owner": "Najee",
     "player": "T.J. Hockenson",
     "position": "TE",
-    "slot": "TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -177656,9 +177656,9 @@
     "owner": "Jose",
     "player": "Bhayshul Tuten",
     "position": "RB",
-    "slot": "BE",
+    "slot": "RB",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -177678,7 +177678,7 @@
     "owner": "Jose",
     "player": "Jaylen Warren",
     "position": "RB",
-    "slot": "RB",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -177744,9 +177744,9 @@
     "owner": "Jose",
     "player": "Jordan Addison",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -178347,17 +178347,6 @@
     "week": 15,
     "team": "RUMBLING",
     "owner": "Luis",
-    "player": "Audric Estime",
-    "position": "RB",
-    "slot": "BE",
-    "points": 0,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 15,
-    "team": "RUMBLING",
-    "owner": "Luis",
     "player": "Konata Mumpfield",
     "position": "WR",
     "slot": "BE",
@@ -178374,6 +178363,17 @@
     "slot": "K",
     "points": 0,
     "started": true
+  },
+  {
+    "year": 2026,
+    "week": 15,
+    "team": "RUMBLING",
+    "owner": "Luis",
+    "player": "Reggie Virgil",
+    "position": "WR",
+    "slot": "BE",
+    "points": 0,
+    "started": false
   },
   {
     "year": 2026,
@@ -178976,9 +178976,9 @@
     "owner": "Najee",
     "player": "T.J. Hockenson",
     "position": "TE",
-    "slot": "TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -179559,9 +179559,9 @@
     "owner": "Jose",
     "player": "Bhayshul Tuten",
     "position": "RB",
-    "slot": "BE",
+    "slot": "RB",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -179581,7 +179581,7 @@
     "owner": "Jose",
     "player": "Jaylen Warren",
     "position": "RB",
-    "slot": "RB",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -179647,9 +179647,9 @@
     "owner": "Jose",
     "player": "Jordan Addison",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -180250,17 +180250,6 @@
     "week": 16,
     "team": "RUMBLING",
     "owner": "Luis",
-    "player": "Audric Estime",
-    "position": "RB",
-    "slot": "BE",
-    "points": 0,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 16,
-    "team": "RUMBLING",
-    "owner": "Luis",
     "player": "Konata Mumpfield",
     "position": "WR",
     "slot": "BE",
@@ -180277,6 +180266,17 @@
     "slot": "K",
     "points": 0,
     "started": true
+  },
+  {
+    "year": 2026,
+    "week": 16,
+    "team": "RUMBLING",
+    "owner": "Luis",
+    "player": "Reggie Virgil",
+    "position": "WR",
+    "slot": "BE",
+    "points": 0,
+    "started": false
   },
   {
     "year": 2026,
@@ -180879,9 +180879,9 @@
     "owner": "Najee",
     "player": "T.J. Hockenson",
     "position": "TE",
-    "slot": "TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -181462,9 +181462,9 @@
     "owner": "Jose",
     "player": "Bhayshul Tuten",
     "position": "RB",
-    "slot": "BE",
+    "slot": "RB",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -181484,7 +181484,7 @@
     "owner": "Jose",
     "player": "Jaylen Warren",
     "position": "RB",
-    "slot": "RB",
+    "slot": "RB/WR/TE",
     "points": 0,
     "started": true
   },
@@ -181550,9 +181550,9 @@
     "owner": "Jose",
     "player": "Jordan Addison",
     "position": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -182153,17 +182153,6 @@
     "week": 17,
     "team": "RUMBLING",
     "owner": "Luis",
-    "player": "Audric Estime",
-    "position": "RB",
-    "slot": "BE",
-    "points": 0,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 17,
-    "team": "RUMBLING",
-    "owner": "Luis",
     "player": "Konata Mumpfield",
     "position": "WR",
     "slot": "BE",
@@ -182180,6 +182169,17 @@
     "slot": "K",
     "points": 0,
     "started": true
+  },
+  {
+    "year": 2026,
+    "week": 17,
+    "team": "RUMBLING",
+    "owner": "Luis",
+    "player": "Reggie Virgil",
+    "position": "WR",
+    "slot": "BE",
+    "points": 0,
+    "started": false
   },
   {
     "year": 2026,
@@ -182782,9 +182782,9 @@
     "owner": "Najee",
     "player": "T.J. Hockenson",
     "position": "TE",
-    "slot": "TE",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,

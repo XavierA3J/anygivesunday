@@ -3797,18 +3797,18 @@
     "position": "TE",
     "overall_started_points": 544.4,
     "overall_bench_points": 126.4,
-    "overall_started_games": 56,
-    "overall_bench_games": 24,
+    "overall_started_games": 48,
+    "overall_bench_games": 32,
     "best_team_owner": "Najee",
     "best_team_started_points": 293.1,
-    "best_team_started_games": 33,
+    "best_team_started_games": 25,
     "teams": [
       {
         "owner": "Najee",
         "started_points": 293.1,
-        "started_games": 33,
+        "started_games": 25,
         "bench_points": 102.6,
-        "bench_games": 20,
+        "bench_games": 28,
         "total_points": 395.7,
         "total_games": 53
       },
@@ -6897,18 +6897,18 @@
     "position": "WR",
     "overall_started_points": 327.6,
     "overall_bench_points": 307.7,
-    "overall_started_games": 35,
-    "overall_bench_games": 33,
+    "overall_started_games": 27,
+    "overall_bench_games": 41,
     "best_team_owner": "Jose",
     "best_team_started_points": 188.2,
-    "best_team_started_games": 23,
+    "best_team_started_games": 15,
     "teams": [
       {
         "owner": "Jose",
         "started_points": 188.2,
-        "started_games": 23,
+        "started_games": 15,
         "bench_points": 86.3,
-        "bench_games": 10,
+        "bench_games": 18,
         "total_points": 274.5,
         "total_games": 33
       },
@@ -13552,18 +13552,18 @@
     "position": "RB",
     "overall_started_points": 115.4,
     "overall_bench_points": 44.6,
-    "overall_started_games": 8,
-    "overall_bench_games": 16,
+    "overall_started_games": 16,
+    "overall_bench_games": 8,
     "best_team_owner": "Jose",
     "best_team_started_points": 112.2,
-    "best_team_started_games": 7,
+    "best_team_started_games": 15,
     "teams": [
       {
         "owner": "Jose",
         "started_points": 112.2,
-        "started_games": 7,
+        "started_games": 15,
         "bench_points": 35.4,
-        "bench_games": 14,
+        "bench_games": 6,
         "total_points": 147.6,
         "total_games": 21
       },
@@ -19604,7 +19604,7 @@
     "overall_started_points": 20.2,
     "overall_bench_points": 24.9,
     "overall_started_games": 2,
-    "overall_bench_games": 11,
+    "overall_bench_games": 3,
     "best_team_owner": "Luis",
     "best_team_started_points": 14.7,
     "best_team_started_games": 1,
@@ -19614,9 +19614,9 @@
         "started_points": 14.7,
         "started_games": 1,
         "bench_points": 0.0,
-        "bench_games": 8,
+        "bench_games": 0,
         "total_points": 14.7,
-        "total_games": 9
+        "total_games": 1
       },
       {
         "owner": "Joseph",
@@ -25606,6 +25606,28 @@
   },
   {
     "player": "Konata Mumpfield",
+    "position": "WR",
+    "overall_started_points": 0.0,
+    "overall_bench_points": 0.0,
+    "overall_started_games": 0,
+    "overall_bench_games": 8,
+    "best_team_owner": "Luis",
+    "best_team_started_points": 0.0,
+    "best_team_started_games": 0,
+    "teams": [
+      {
+        "owner": "Luis",
+        "started_points": 0.0,
+        "started_games": 0,
+        "bench_points": 0.0,
+        "bench_games": 8,
+        "total_points": 0.0,
+        "total_games": 8
+      }
+    ]
+  },
+  {
+    "player": "Reggie Virgil",
     "position": "WR",
     "overall_started_points": 0.0,
     "overall_bench_points": 0.0,
