@@ -170397,7 +170397,7 @@
     "player": "Ollie Gordon II",
     "position": "RB",
     "slot": "RB/WR/TE",
-    "points": 4.1,
+    "points": 8.7,
     "started": true
   },
   {
@@ -170419,7 +170419,7 @@
     "player": "Chuba Hubbard",
     "position": "RB",
     "slot": "RB",
-    "points": 23.0,
+    "points": 28.0,
     "started": true
   },
   {
@@ -170430,7 +170430,7 @@
     "player": "Matt Gay",
     "position": "K",
     "slot": "BE",
-    "points": 0,
+    "points": 6.0,
     "started": false
   },
   {
@@ -170452,7 +170452,7 @@
     "player": "Keenan Allen",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 0,
+    "points": 6.8,
     "started": true
   },
   {
@@ -170463,7 +170463,7 @@
     "player": "Chris Rodriguez Jr.",
     "position": "RB",
     "slot": "BE",
-    "points": 0,
+    "points": 5.1,
     "started": false
   },
   {
@@ -170485,7 +170485,7 @@
     "player": "Deebo Samuel Sr.",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 7.7,
     "started": true
   },
   {
@@ -170496,7 +170496,7 @@
     "player": "Chiefs D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 10.0,
+    "points": 8.0,
     "started": true
   },
   {
@@ -170540,7 +170540,7 @@
     "player": "Jets D/ST",
     "position": "D/ST",
     "slot": "BE",
-    "points": 0,
+    "points": 8.0,
     "started": false
   },
   {
@@ -170551,7 +170551,7 @@
     "player": "Wil Lutz",
     "position": "K",
     "slot": "K",
-    "points": 0,
+    "points": 8.0,
     "started": true
   },
   {
@@ -170573,7 +170573,7 @@
     "player": "Ashton Jeanty",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 31.9,
     "started": true
   },
   {
@@ -170584,7 +170584,7 @@
     "player": "Travis Etienne Jr.",
     "position": "RB",
     "slot": "RB/WR/TE",
-    "points": 6.5,
+    "points": 7.6,
     "started": true
   },
   {
@@ -170595,7 +170595,7 @@
     "player": "Jaylen Waddle",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 9.1,
     "started": true
   },
   {
@@ -170617,7 +170617,7 @@
     "player": "Tony Pollard",
     "position": "RB",
     "slot": "RB",
-    "points": 7.1,
+    "points": 13.0,
     "started": true
   },
   {
@@ -170639,7 +170639,7 @@
     "player": "Brandon Aubrey",
     "position": "K",
     "slot": "K",
-    "points": 4.0,
+    "points": 10.0,
     "started": true
   },
   {
@@ -170650,7 +170650,7 @@
     "player": "Josh Downs",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 7.6,
+    "points": 9.9,
     "started": true
   },
   {
@@ -170694,7 +170694,7 @@
     "player": "Devin Singletary",
     "position": "RB",
     "slot": "BE",
-    "points": 0,
+    "points": 2.0,
     "started": false
   },
   {
@@ -170705,7 +170705,7 @@
     "player": "Bryce Young",
     "position": "QB",
     "slot": "BE",
-    "points": 12.96,
+    "points": 15.96,
     "started": false
   },
   {
@@ -170716,7 +170716,7 @@
     "player": "Tyler Shough",
     "position": "QB",
     "slot": "QB",
-    "points": 9.72,
+    "points": 14.28,
     "started": true
   },
   {
@@ -170738,7 +170738,7 @@
     "player": "Devaughn Vele",
     "position": "WR",
     "slot": "BE",
-    "points": 6.9,
+    "points": 14.6,
     "started": false
   },
   {
@@ -170749,7 +170749,7 @@
     "player": "Malik Nabers",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 18.5,
     "started": true
   },
   {
@@ -170782,7 +170782,7 @@
     "player": "Jared Goff",
     "position": "QB",
     "slot": "BE",
-    "points": 22.62,
+    "points": 24.36,
     "started": false
   },
   {
@@ -170815,7 +170815,7 @@
     "player": "Buccaneers D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 3.0,
+    "points": -1.0,
     "started": true
   },
   {
@@ -170826,7 +170826,7 @@
     "player": "Tre Tucker",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 7.0,
     "started": false
   },
   {
@@ -170848,7 +170848,7 @@
     "player": "Emeka Egbuka",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 1.6,
+    "points": 3.8,
     "started": true
   },
   {
@@ -170881,7 +170881,7 @@
     "player": "Elic Ayomanor",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 2.2,
+    "points": 5.7,
     "started": true
   },
   {
@@ -170892,7 +170892,7 @@
     "player": "Chase McLaughlin",
     "position": "K",
     "slot": "K",
-    "points": 1.0,
+    "points": 3.0,
     "started": true
   },
   {
@@ -170903,7 +170903,7 @@
     "player": "Cam Ward",
     "position": "QB",
     "slot": "QB",
-    "points": 20.1,
+    "points": 26.22,
     "started": true
   },
   {
@@ -170925,7 +170925,7 @@
     "player": "Tommy Tremble",
     "position": "TE",
     "slot": "TE",
-    "points": 0.0,
+    "points": 2.8,
     "started": true
   },
   {
@@ -170947,7 +170947,7 @@
     "player": "Vikings D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 0,
+    "points": 0.0,
     "started": true
   },
   {
@@ -170969,7 +170969,7 @@
     "player": "Saquon Barkley",
     "position": "RB",
     "slot": "RB",
-    "points": 11.8,
+    "points": 13.5,
     "started": true
   },
   {
@@ -170980,7 +170980,7 @@
     "player": "Emmett Johnson",
     "position": "RB",
     "slot": "RB",
-    "points": 21.9,
+    "points": 26.3,
     "started": true
   },
   {
@@ -171024,7 +171024,7 @@
     "player": "Kaelon Black",
     "position": "RB",
     "slot": "BE",
-    "points": 0,
+    "points": 2.5,
     "started": false
   },
   {
@@ -171035,7 +171035,7 @@
     "player": "Zay Flowers",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 13.9,
+    "points": 16.4,
     "started": true
   },
   {
@@ -171057,7 +171057,7 @@
     "player": "Garrett Wilson",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 6.9,
     "started": true
   },
   {
@@ -171079,7 +171079,7 @@
     "player": "DeVonta Smith",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 7.4,
+    "points": 9.1,
     "started": true
   },
   {
@@ -171090,7 +171090,7 @@
     "player": "Parker Washington",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 20.3,
     "started": true
   },
   {
@@ -171134,7 +171134,7 @@
     "player": "Mark Andrews",
     "position": "TE",
     "slot": "BE",
-    "points": 0.0,
+    "points": 3.4,
     "started": false
   },
   {
@@ -171145,7 +171145,7 @@
     "player": "CeeDee Lamb",
     "position": "WR",
     "slot": "WR",
-    "points": 27.3,
+    "points": 32.2,
     "started": true
   },
   {
@@ -171156,7 +171156,7 @@
     "player": "Omarion Hampton",
     "position": "RB",
     "slot": "RB/WR/TE",
-    "points": 0,
+    "points": 10.3,
     "started": true
   },
   {
@@ -171167,7 +171167,7 @@
     "player": "Tetairoa McMillan",
     "position": "WR",
     "slot": "WR",
-    "points": 10.7,
+    "points": 19.1,
     "started": true
   },
   {
@@ -171178,7 +171178,7 @@
     "player": "D'Andre Swift",
     "position": "RB",
     "slot": "RB",
-    "points": 13.5,
+    "points": 11.9,
     "started": true
   },
   {
@@ -171200,7 +171200,7 @@
     "player": "George Kittle",
     "position": "TE",
     "slot": "TE",
-    "points": 0,
+    "points": 18.4,
     "started": true
   },
   {
@@ -171211,7 +171211,7 @@
     "player": "Kyle Monangai",
     "position": "RB",
     "slot": "RB",
-    "points": 0.9,
+    "points": 1.8,
     "started": true
   },
   {
@@ -171233,7 +171233,7 @@
     "player": "Jake Bates",
     "position": "K",
     "slot": "K",
-    "points": 6.0,
+    "points": 8.0,
     "started": true
   },
   {
@@ -171244,7 +171244,7 @@
     "player": "Dak Prescott",
     "position": "QB",
     "slot": "QB",
-    "points": 21.8,
+    "points": 37.9,
     "started": true
   },
   {
@@ -171299,7 +171299,7 @@
     "player": "Steelers D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 9.0,
+    "points": 7.0,
     "started": true
   },
   {
@@ -171310,7 +171310,7 @@
     "player": "Xavier Worthy",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 3.0,
+    "points": 11.8,
     "started": true
   },
   {
@@ -171321,7 +171321,7 @@
     "player": "Christian McCaffrey",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 14.2,
     "started": true
   },
   {
@@ -171332,7 +171332,7 @@
     "player": "George Pickens",
     "position": "WR",
     "slot": "WR",
-    "points": 17.6,
+    "points": 25.8,
     "started": true
   },
   {
@@ -171343,7 +171343,7 @@
     "player": "Jameson Williams",
     "position": "WR",
     "slot": "WR",
-    "points": 22.0,
+    "points": 23.3,
     "started": true
   },
   {
@@ -171398,7 +171398,7 @@
     "player": "De'Zhaun Stribling",
     "position": "WR",
     "slot": "IR",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -171431,7 +171431,7 @@
     "player": "Darren Waller",
     "position": "TE",
     "slot": "BE",
-    "points": 3.5,
+    "points": 7.2,
     "started": false
   },
   {
@@ -171442,7 +171442,7 @@
     "player": "Brock Purdy",
     "position": "QB",
     "slot": "QB",
-    "points": 0,
+    "points": 22.2,
     "started": true
   },
   {
@@ -171453,7 +171453,7 @@
     "player": "Braelon Allen",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 9.4,
     "started": true
   },
   {
@@ -171486,7 +171486,7 @@
     "player": "Bears D/ST",
     "position": "D/ST",
     "slot": "BE",
-    "points": 12.0,
+    "points": 15.0,
     "started": false
   },
   {
@@ -171508,7 +171508,7 @@
     "player": "49ers D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 0,
+    "points": 14.0,
     "started": true
   },
   {
@@ -171519,7 +171519,7 @@
     "player": "James Cook III",
     "position": "RB",
     "slot": "RB",
-    "points": 13.5,
+    "points": 17.2,
     "started": true
   },
   {
@@ -171530,7 +171530,7 @@
     "player": "Ladd McConkey",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 20.7,
     "started": false
   },
   {
@@ -171596,7 +171596,7 @@
     "player": "Chris Boswell",
     "position": "K",
     "slot": "K",
-    "points": 7.0,
+    "points": 13.0,
     "started": true
   },
   {
@@ -171607,7 +171607,7 @@
     "player": "Bucky Irving",
     "position": "RB",
     "slot": "RB",
-    "points": 9.9,
+    "points": 19.0,
     "started": true
   },
   {
@@ -171629,7 +171629,7 @@
     "player": "Jonah Coleman",
     "position": "RB",
     "slot": "RB/WR/TE",
-    "points": 0,
+    "points": 36.9,
     "started": true
   },
   {
@@ -171640,7 +171640,7 @@
     "player": "Courtland Sutton",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 0,
+    "points": 0.0,
     "started": true
   },
   {
@@ -171651,7 +171651,7 @@
     "player": "Adonai Mitchell",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 5.0,
     "started": false
   },
   {
@@ -171673,7 +171673,7 @@
     "player": "Aaron Rodgers",
     "position": "QB",
     "slot": "QB",
-    "points": 6.88,
+    "points": 15.98,
     "started": true
   },
   {
@@ -171695,7 +171695,7 @@
     "player": "Chargers D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 0,
+    "points": 1.0,
     "started": true
   },
   {
@@ -171706,7 +171706,7 @@
     "player": "Dawson Knox",
     "position": "TE",
     "slot": "TE",
-    "points": 3.3,
+    "points": 5.1,
     "started": true
   },
   {
@@ -171717,7 +171717,7 @@
     "player": "Amon-Ra St. Brown",
     "position": "WR",
     "slot": "WR",
-    "points": 13.0,
+    "points": 14.7,
     "started": true
   },
   {
@@ -171750,7 +171750,7 @@
     "player": "Breece Hall",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 19.0,
     "started": true
   },
   {
@@ -171783,7 +171783,7 @@
     "player": "Jakobi Meyers",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 12.5,
     "started": true
   },
   {
@@ -171794,7 +171794,7 @@
     "player": "Isaiah Likely",
     "position": "TE",
     "slot": "TE",
-    "points": 0,
+    "points": 4.5,
     "started": true
   },
   {
@@ -171816,18 +171816,7 @@
     "player": "Tyler Allgeier",
     "position": "RB",
     "slot": "BE",
-    "points": 1.7,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 11,
-    "team": "Project X",
-    "owner": "Xavier",
-    "player": "Terrance Ferguson",
-    "position": "TE",
-    "slot": "BE",
-    "points": 0,
+    "points": 2.3,
     "started": false
   },
   {
@@ -171849,7 +171838,7 @@
     "player": "Brandon Aiyuk",
     "position": "WR",
     "slot": "IR",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -171871,7 +171860,7 @@
     "player": "Jason Sanders",
     "position": "K",
     "slot": "K",
-    "points": 0,
+    "points": 11.0,
     "started": true
   },
   {
@@ -171882,7 +171871,7 @@
     "player": "Derrick Henry",
     "position": "RB",
     "slot": "RB",
-    "points": 8.3,
+    "points": 19.1,
     "started": true
   },
   {
@@ -171893,7 +171882,7 @@
     "player": "Bo Nix",
     "position": "QB",
     "slot": "QB",
-    "points": 0,
+    "points": 11.5,
     "started": true
   },
   {
@@ -171904,7 +171893,7 @@
     "player": "Lions D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 7.0,
+    "points": 6.0,
     "started": true
   },
   {
@@ -171926,7 +171915,7 @@
     "player": "Brock Bowers",
     "position": "TE",
     "slot": "BE",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -171959,7 +171948,7 @@
     "player": "Will Reichard",
     "position": "K",
     "slot": "K",
-    "points": 0,
+    "points": 3.0,
     "started": true
   },
   {
@@ -171981,7 +171970,7 @@
     "player": "Aaron Jones Sr.",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 11.3,
     "started": true
   },
   {
@@ -171992,7 +171981,7 @@
     "player": "Kirk Cousins",
     "position": "QB",
     "slot": "QB",
-    "points": 0,
+    "points": 7.4,
     "started": true
   },
   {
@@ -172014,7 +172003,7 @@
     "player": "Khalil Shakir",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 4.4,
+    "points": 17.3,
     "started": true
   },
   {
@@ -172025,7 +172014,7 @@
     "player": "Bam Knight",
     "position": "RB",
     "slot": "BE",
-    "points": 2.6,
+    "points": 5.5,
     "started": false
   },
   {
@@ -172058,7 +172047,7 @@
     "player": "Michael Mayer",
     "position": "TE",
     "slot": "RB/WR/TE",
-    "points": 0,
+    "points": 1.4,
     "started": true
   },
   {
@@ -172080,7 +172069,7 @@
     "player": "Pat Freiermuth",
     "position": "TE",
     "slot": "TE",
-    "points": 6.6,
+    "points": 9.0,
     "started": true
   },
   {
@@ -172102,7 +172091,7 @@
     "player": "Javonte Williams",
     "position": "RB",
     "slot": "RB",
-    "points": 20.0,
+    "points": 24.1,
     "started": true
   },
   {
@@ -172113,7 +172102,7 @@
     "player": "Trey McBride",
     "position": "TE",
     "slot": "TE",
-    "points": 7.0,
+    "points": 14.8,
     "started": true
   },
   {
@@ -172124,7 +172113,7 @@
     "player": "DJ Moore",
     "position": "WR",
     "slot": "WR",
-    "points": 20.9,
+    "points": 23.1,
     "started": true
   },
   {
@@ -172135,7 +172124,7 @@
     "player": "Patrick Mahomes",
     "position": "QB",
     "slot": "QB",
-    "points": 18.68,
+    "points": 26.96,
     "started": true
   },
   {
@@ -172146,7 +172135,7 @@
     "player": "Jordan Mason",
     "position": "RB",
     "slot": "BE",
-    "points": 0,
+    "points": 4.7,
     "started": false
   },
   {
@@ -172157,7 +172146,7 @@
     "player": "Jalen Coker",
     "position": "WR",
     "slot": "WR",
-    "points": 4.5,
+    "points": 8.7,
     "started": true
   },
   {
@@ -172179,7 +172168,7 @@
     "player": "Jaguars D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 0,
+    "points": 5.0,
     "started": true
   },
   {
@@ -172201,7 +172190,7 @@
     "player": "Cam Skattebo",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 5.8,
     "started": true
   },
   {
@@ -172212,7 +172201,7 @@
     "player": "Colston Loveland",
     "position": "TE",
     "slot": "RB/WR/TE",
-    "points": 10.7,
+    "points": 11.9,
     "started": true
   },
   {
@@ -172256,7 +172245,7 @@
     "player": "Pat Bryant",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 6.2,
     "started": false
   },
   {
@@ -172278,7 +172267,7 @@
     "player": "Jahmyr Gibbs",
     "position": "RB",
     "slot": "RB",
-    "points": 6.0,
+    "points": 27.8,
     "started": true
   },
   {
@@ -172300,7 +172289,7 @@
     "player": "Chris Olave",
     "position": "WR",
     "slot": "WR",
-    "points": 11.3,
+    "points": 21.2,
     "started": true
   },
   {
@@ -172311,7 +172300,7 @@
     "player": "Bhayshul Tuten",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 8.3,
     "started": true
   },
   {
@@ -172333,7 +172322,7 @@
     "player": "Jaylen Warren",
     "position": "RB",
     "slot": "RB/WR/TE",
-    "points": 3.8,
+    "points": 4.9,
     "started": true
   },
   {
@@ -172344,7 +172333,7 @@
     "player": "Rico Dowdle",
     "position": "RB",
     "slot": "BE",
-    "points": 6.2,
+    "points": 7.4,
     "started": false
   },
   {
@@ -172366,7 +172355,7 @@
     "player": "Trevor Lawrence",
     "position": "QB",
     "slot": "QB",
-    "points": 0,
+    "points": 14.74,
     "started": true
   },
   {
@@ -172377,7 +172366,7 @@
     "player": "Broncos D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 0,
+    "points": 12.0,
     "started": true
   },
   {
@@ -172388,7 +172377,7 @@
     "player": "Cam Little",
     "position": "K",
     "slot": "K",
-    "points": 0,
+    "points": 13.0,
     "started": true
   },
   {
@@ -172399,7 +172388,7 @@
     "player": "Jordan Addison",
     "position": "WR",
     "slot": "IR",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -172410,7 +172399,7 @@
     "player": "Brenton Strange",
     "position": "TE",
     "slot": "TE",
-    "points": 0,
+    "points": 4.6,
     "started": true
   },
   {
@@ -172432,7 +172421,7 @@
     "player": "Brian Thomas Jr.",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 8.8,
     "started": false
   },
   {
@@ -172454,7 +172443,7 @@
     "player": "Justice Hill",
     "position": "RB",
     "slot": "BE",
-    "points": 14.7,
+    "points": 17.6,
     "started": false
   },
   {
@@ -172465,7 +172454,7 @@
     "player": "Jauan Jennings",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 5.0,
     "started": false
   },
   {
@@ -172476,7 +172465,7 @@
     "player": "Caleb Williams",
     "position": "QB",
     "slot": "BE",
-    "points": 13.82,
+    "points": 14.34,
     "started": false
   },
   {
@@ -172498,7 +172487,7 @@
     "player": "T.J. Hockenson",
     "position": "TE",
     "slot": "TE",
-    "points": 0,
+    "points": 11.5,
     "started": true
   },
   {
@@ -172509,7 +172498,7 @@
     "player": "J.K. Dobbins",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 0.0,
     "started": true
   },
   {
@@ -172553,7 +172542,7 @@
     "player": "Josh Allen",
     "position": "QB",
     "slot": "QB",
-    "points": 8.12,
+    "points": 14.16,
     "started": true
   },
   {
@@ -172564,7 +172553,7 @@
     "player": "Tyler Bass",
     "position": "K",
     "slot": "BE",
-    "points": 10.0,
+    "points": 17.0,
     "started": false
   },
   {
@@ -172575,7 +172564,7 @@
     "player": "Bills D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 12.0,
+    "points": 11.0,
     "started": true
   },
   {
@@ -172586,7 +172575,7 @@
     "player": "Justin Jefferson",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 13.7,
     "started": true
   },
   {
@@ -172597,7 +172586,7 @@
     "player": "Omar Cooper Jr.",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -172608,7 +172597,7 @@
     "player": "Mike Evans",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 0,
+    "points": 24.9,
     "started": true
   },
   {
@@ -172630,7 +172619,7 @@
     "player": "Gavin Bartholomew",
     "position": "TE",
     "slot": "BE",
-    "points": 0,
+    "points": 1.5,
     "started": false
   },
   {
@@ -172674,7 +172663,7 @@
     "player": "Ollie Gordon II",
     "position": "RB",
     "slot": "RB/WR/TE",
-    "points": 4.1,
+    "points": 8.7,
     "started": true
   },
   {
@@ -172696,7 +172685,7 @@
     "player": "Chuba Hubbard",
     "position": "RB",
     "slot": "RB",
-    "points": 23.0,
+    "points": 28.0,
     "started": true
   },
   {
@@ -172707,7 +172696,7 @@
     "player": "Matt Gay",
     "position": "K",
     "slot": "BE",
-    "points": 0,
+    "points": 6.0,
     "started": false
   },
   {
@@ -172729,7 +172718,7 @@
     "player": "Keenan Allen",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 0,
+    "points": 6.8,
     "started": true
   },
   {
@@ -172740,7 +172729,7 @@
     "player": "Chris Rodriguez Jr.",
     "position": "RB",
     "slot": "BE",
-    "points": 0,
+    "points": 5.1,
     "started": false
   },
   {
@@ -172762,7 +172751,7 @@
     "player": "Deebo Samuel Sr.",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 7.7,
     "started": true
   },
   {
@@ -172773,7 +172762,7 @@
     "player": "Chiefs D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 10.0,
+    "points": 8.0,
     "started": true
   },
   {
@@ -172817,7 +172806,7 @@
     "player": "Jets D/ST",
     "position": "D/ST",
     "slot": "BE",
-    "points": 0,
+    "points": 8.0,
     "started": false
   },
   {
@@ -172828,7 +172817,7 @@
     "player": "Wil Lutz",
     "position": "K",
     "slot": "K",
-    "points": 0,
+    "points": 8.0,
     "started": true
   },
   {
@@ -172850,7 +172839,7 @@
     "player": "Ashton Jeanty",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 31.9,
     "started": true
   },
   {
@@ -172861,7 +172850,7 @@
     "player": "Travis Etienne Jr.",
     "position": "RB",
     "slot": "RB/WR/TE",
-    "points": 6.5,
+    "points": 7.6,
     "started": true
   },
   {
@@ -172872,7 +172861,7 @@
     "player": "Jaylen Waddle",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 9.1,
     "started": true
   },
   {
@@ -172894,7 +172883,7 @@
     "player": "Tony Pollard",
     "position": "RB",
     "slot": "RB",
-    "points": 7.1,
+    "points": 13.0,
     "started": true
   },
   {
@@ -172916,7 +172905,7 @@
     "player": "Brandon Aubrey",
     "position": "K",
     "slot": "K",
-    "points": 4.0,
+    "points": 10.0,
     "started": true
   },
   {
@@ -172927,7 +172916,7 @@
     "player": "Josh Downs",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 7.6,
+    "points": 9.9,
     "started": true
   },
   {
@@ -172971,7 +172960,7 @@
     "player": "Devin Singletary",
     "position": "RB",
     "slot": "BE",
-    "points": 0,
+    "points": 2.0,
     "started": false
   },
   {
@@ -172982,7 +172971,7 @@
     "player": "Bryce Young",
     "position": "QB",
     "slot": "BE",
-    "points": 12.96,
+    "points": 15.96,
     "started": false
   },
   {
@@ -172993,7 +172982,7 @@
     "player": "Tyler Shough",
     "position": "QB",
     "slot": "QB",
-    "points": 9.72,
+    "points": 14.28,
     "started": true
   },
   {
@@ -173015,7 +173004,7 @@
     "player": "Devaughn Vele",
     "position": "WR",
     "slot": "BE",
-    "points": 6.9,
+    "points": 14.6,
     "started": false
   },
   {
@@ -173026,7 +173015,7 @@
     "player": "Malik Nabers",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 18.5,
     "started": true
   },
   {
@@ -173059,7 +173048,7 @@
     "player": "Jared Goff",
     "position": "QB",
     "slot": "BE",
-    "points": 22.62,
+    "points": 24.36,
     "started": false
   },
   {
@@ -173092,7 +173081,7 @@
     "player": "Buccaneers D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 3.0,
+    "points": -1.0,
     "started": true
   },
   {
@@ -173103,7 +173092,7 @@
     "player": "Tre Tucker",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 7.0,
     "started": false
   },
   {
@@ -173125,7 +173114,7 @@
     "player": "Emeka Egbuka",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 1.6,
+    "points": 3.8,
     "started": true
   },
   {
@@ -173158,7 +173147,7 @@
     "player": "Elic Ayomanor",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 2.2,
+    "points": 5.7,
     "started": true
   },
   {
@@ -173169,7 +173158,7 @@
     "player": "Chase McLaughlin",
     "position": "K",
     "slot": "K",
-    "points": 1.0,
+    "points": 3.0,
     "started": true
   },
   {
@@ -173180,7 +173169,7 @@
     "player": "Cam Ward",
     "position": "QB",
     "slot": "QB",
-    "points": 20.1,
+    "points": 26.22,
     "started": true
   },
   {
@@ -173202,7 +173191,7 @@
     "player": "Tommy Tremble",
     "position": "TE",
     "slot": "TE",
-    "points": 0.0,
+    "points": 2.8,
     "started": true
   },
   {
@@ -173224,7 +173213,7 @@
     "player": "Vikings D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 0,
+    "points": 0.0,
     "started": true
   },
   {
@@ -173246,7 +173235,7 @@
     "player": "Saquon Barkley",
     "position": "RB",
     "slot": "RB",
-    "points": 11.8,
+    "points": 13.5,
     "started": true
   },
   {
@@ -173257,7 +173246,7 @@
     "player": "Emmett Johnson",
     "position": "RB",
     "slot": "RB",
-    "points": 21.9,
+    "points": 26.3,
     "started": true
   },
   {
@@ -173301,7 +173290,7 @@
     "player": "Kaelon Black",
     "position": "RB",
     "slot": "BE",
-    "points": 0,
+    "points": 2.5,
     "started": false
   },
   {
@@ -173312,7 +173301,7 @@
     "player": "Zay Flowers",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 13.9,
+    "points": 16.4,
     "started": true
   },
   {
@@ -173334,7 +173323,7 @@
     "player": "Garrett Wilson",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 6.9,
     "started": true
   },
   {
@@ -173356,7 +173345,7 @@
     "player": "DeVonta Smith",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 7.4,
+    "points": 9.1,
     "started": true
   },
   {
@@ -173367,7 +173356,7 @@
     "player": "Parker Washington",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 20.3,
     "started": true
   },
   {
@@ -173411,7 +173400,7 @@
     "player": "Mark Andrews",
     "position": "TE",
     "slot": "BE",
-    "points": 0.0,
+    "points": 3.4,
     "started": false
   },
   {
@@ -173422,7 +173411,7 @@
     "player": "CeeDee Lamb",
     "position": "WR",
     "slot": "WR",
-    "points": 27.3,
+    "points": 32.2,
     "started": true
   },
   {
@@ -173433,7 +173422,7 @@
     "player": "Omarion Hampton",
     "position": "RB",
     "slot": "RB/WR/TE",
-    "points": 0,
+    "points": 10.3,
     "started": true
   },
   {
@@ -173444,7 +173433,7 @@
     "player": "Tetairoa McMillan",
     "position": "WR",
     "slot": "WR",
-    "points": 10.7,
+    "points": 19.1,
     "started": true
   },
   {
@@ -173455,7 +173444,7 @@
     "player": "D'Andre Swift",
     "position": "RB",
     "slot": "RB",
-    "points": 13.5,
+    "points": 11.9,
     "started": true
   },
   {
@@ -173477,7 +173466,7 @@
     "player": "George Kittle",
     "position": "TE",
     "slot": "TE",
-    "points": 0,
+    "points": 18.4,
     "started": true
   },
   {
@@ -173488,7 +173477,7 @@
     "player": "Kyle Monangai",
     "position": "RB",
     "slot": "RB",
-    "points": 0.9,
+    "points": 1.8,
     "started": true
   },
   {
@@ -173510,7 +173499,7 @@
     "player": "Jake Bates",
     "position": "K",
     "slot": "K",
-    "points": 6.0,
+    "points": 8.0,
     "started": true
   },
   {
@@ -173521,7 +173510,7 @@
     "player": "Dak Prescott",
     "position": "QB",
     "slot": "QB",
-    "points": 21.8,
+    "points": 37.9,
     "started": true
   },
   {
@@ -173576,7 +173565,7 @@
     "player": "Steelers D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 9.0,
+    "points": 7.0,
     "started": true
   },
   {
@@ -173587,7 +173576,7 @@
     "player": "Xavier Worthy",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 3.0,
+    "points": 11.8,
     "started": true
   },
   {
@@ -173598,7 +173587,7 @@
     "player": "Christian McCaffrey",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 14.2,
     "started": true
   },
   {
@@ -173609,7 +173598,7 @@
     "player": "George Pickens",
     "position": "WR",
     "slot": "WR",
-    "points": 17.6,
+    "points": 25.8,
     "started": true
   },
   {
@@ -173620,7 +173609,7 @@
     "player": "Jameson Williams",
     "position": "WR",
     "slot": "WR",
-    "points": 22.0,
+    "points": 23.3,
     "started": true
   },
   {
@@ -173675,7 +173664,7 @@
     "player": "De'Zhaun Stribling",
     "position": "WR",
     "slot": "IR",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -173708,7 +173697,7 @@
     "player": "Darren Waller",
     "position": "TE",
     "slot": "BE",
-    "points": 3.5,
+    "points": 7.2,
     "started": false
   },
   {
@@ -173719,7 +173708,7 @@
     "player": "Brock Purdy",
     "position": "QB",
     "slot": "QB",
-    "points": 0,
+    "points": 22.2,
     "started": true
   },
   {
@@ -173730,7 +173719,7 @@
     "player": "Braelon Allen",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 9.4,
     "started": true
   },
   {
@@ -173763,7 +173752,7 @@
     "player": "Bears D/ST",
     "position": "D/ST",
     "slot": "BE",
-    "points": 12.0,
+    "points": 15.0,
     "started": false
   },
   {
@@ -173785,7 +173774,7 @@
     "player": "49ers D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 0,
+    "points": 14.0,
     "started": true
   },
   {
@@ -173796,7 +173785,7 @@
     "player": "James Cook III",
     "position": "RB",
     "slot": "RB",
-    "points": 13.5,
+    "points": 17.2,
     "started": true
   },
   {
@@ -173807,7 +173796,7 @@
     "player": "Ladd McConkey",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 20.7,
     "started": false
   },
   {
@@ -173873,7 +173862,7 @@
     "player": "Chris Boswell",
     "position": "K",
     "slot": "K",
-    "points": 7.0,
+    "points": 13.0,
     "started": true
   },
   {
@@ -173884,7 +173873,7 @@
     "player": "Bucky Irving",
     "position": "RB",
     "slot": "RB",
-    "points": 9.9,
+    "points": 19.0,
     "started": true
   },
   {
@@ -173906,7 +173895,7 @@
     "player": "Jonah Coleman",
     "position": "RB",
     "slot": "RB/WR/TE",
-    "points": 0,
+    "points": 36.9,
     "started": true
   },
   {
@@ -173917,7 +173906,7 @@
     "player": "Courtland Sutton",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 0,
+    "points": 0.0,
     "started": true
   },
   {
@@ -173928,7 +173917,7 @@
     "player": "Adonai Mitchell",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 5.0,
     "started": false
   },
   {
@@ -173950,7 +173939,7 @@
     "player": "Aaron Rodgers",
     "position": "QB",
     "slot": "QB",
-    "points": 6.88,
+    "points": 15.98,
     "started": true
   },
   {
@@ -173972,7 +173961,7 @@
     "player": "Chargers D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 0,
+    "points": 1.0,
     "started": true
   },
   {
@@ -173983,7 +173972,7 @@
     "player": "Dawson Knox",
     "position": "TE",
     "slot": "TE",
-    "points": 3.3,
+    "points": 5.1,
     "started": true
   },
   {
@@ -173994,7 +173983,7 @@
     "player": "Amon-Ra St. Brown",
     "position": "WR",
     "slot": "WR",
-    "points": 13.0,
+    "points": 14.7,
     "started": true
   },
   {
@@ -174027,7 +174016,7 @@
     "player": "Breece Hall",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 19.0,
     "started": true
   },
   {
@@ -174060,7 +174049,7 @@
     "player": "Jakobi Meyers",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 12.5,
     "started": true
   },
   {
@@ -174071,7 +174060,7 @@
     "player": "Isaiah Likely",
     "position": "TE",
     "slot": "TE",
-    "points": 0,
+    "points": 4.5,
     "started": true
   },
   {
@@ -174093,18 +174082,7 @@
     "player": "Tyler Allgeier",
     "position": "RB",
     "slot": "BE",
-    "points": 1.7,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 12,
-    "team": "Project X",
-    "owner": "Xavier",
-    "player": "Terrance Ferguson",
-    "position": "TE",
-    "slot": "BE",
-    "points": 0,
+    "points": 2.3,
     "started": false
   },
   {
@@ -174126,7 +174104,7 @@
     "player": "Brandon Aiyuk",
     "position": "WR",
     "slot": "IR",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -174148,7 +174126,7 @@
     "player": "Jason Sanders",
     "position": "K",
     "slot": "K",
-    "points": 0,
+    "points": 11.0,
     "started": true
   },
   {
@@ -174159,7 +174137,7 @@
     "player": "Derrick Henry",
     "position": "RB",
     "slot": "RB",
-    "points": 8.3,
+    "points": 19.1,
     "started": true
   },
   {
@@ -174170,7 +174148,7 @@
     "player": "Bo Nix",
     "position": "QB",
     "slot": "QB",
-    "points": 0,
+    "points": 11.5,
     "started": true
   },
   {
@@ -174181,7 +174159,7 @@
     "player": "Lions D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 7.0,
+    "points": 6.0,
     "started": true
   },
   {
@@ -174203,7 +174181,7 @@
     "player": "Brock Bowers",
     "position": "TE",
     "slot": "BE",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -174236,7 +174214,7 @@
     "player": "Will Reichard",
     "position": "K",
     "slot": "K",
-    "points": 0,
+    "points": 3.0,
     "started": true
   },
   {
@@ -174258,7 +174236,7 @@
     "player": "Aaron Jones Sr.",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 11.3,
     "started": true
   },
   {
@@ -174269,7 +174247,7 @@
     "player": "Kirk Cousins",
     "position": "QB",
     "slot": "QB",
-    "points": 0,
+    "points": 7.4,
     "started": true
   },
   {
@@ -174291,7 +174269,7 @@
     "player": "Khalil Shakir",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 4.4,
+    "points": 17.3,
     "started": true
   },
   {
@@ -174302,7 +174280,7 @@
     "player": "Bam Knight",
     "position": "RB",
     "slot": "BE",
-    "points": 2.6,
+    "points": 5.5,
     "started": false
   },
   {
@@ -174335,7 +174313,7 @@
     "player": "Michael Mayer",
     "position": "TE",
     "slot": "RB/WR/TE",
-    "points": 0,
+    "points": 1.4,
     "started": true
   },
   {
@@ -174357,7 +174335,7 @@
     "player": "Pat Freiermuth",
     "position": "TE",
     "slot": "TE",
-    "points": 6.6,
+    "points": 9.0,
     "started": true
   },
   {
@@ -174379,7 +174357,7 @@
     "player": "Javonte Williams",
     "position": "RB",
     "slot": "RB",
-    "points": 20.0,
+    "points": 24.1,
     "started": true
   },
   {
@@ -174390,7 +174368,7 @@
     "player": "Trey McBride",
     "position": "TE",
     "slot": "TE",
-    "points": 7.0,
+    "points": 14.8,
     "started": true
   },
   {
@@ -174401,7 +174379,7 @@
     "player": "DJ Moore",
     "position": "WR",
     "slot": "WR",
-    "points": 20.9,
+    "points": 23.1,
     "started": true
   },
   {
@@ -174412,7 +174390,7 @@
     "player": "Patrick Mahomes",
     "position": "QB",
     "slot": "QB",
-    "points": 18.68,
+    "points": 26.96,
     "started": true
   },
   {
@@ -174423,7 +174401,7 @@
     "player": "Jordan Mason",
     "position": "RB",
     "slot": "BE",
-    "points": 0,
+    "points": 4.7,
     "started": false
   },
   {
@@ -174434,7 +174412,7 @@
     "player": "Jalen Coker",
     "position": "WR",
     "slot": "WR",
-    "points": 4.5,
+    "points": 8.7,
     "started": true
   },
   {
@@ -174456,7 +174434,7 @@
     "player": "Jaguars D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 0,
+    "points": 5.0,
     "started": true
   },
   {
@@ -174478,7 +174456,7 @@
     "player": "Cam Skattebo",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 5.8,
     "started": true
   },
   {
@@ -174489,7 +174467,7 @@
     "player": "Colston Loveland",
     "position": "TE",
     "slot": "RB/WR/TE",
-    "points": 10.7,
+    "points": 11.9,
     "started": true
   },
   {
@@ -174533,7 +174511,7 @@
     "player": "Pat Bryant",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 6.2,
     "started": false
   },
   {
@@ -174555,7 +174533,7 @@
     "player": "Jahmyr Gibbs",
     "position": "RB",
     "slot": "RB",
-    "points": 6.0,
+    "points": 27.8,
     "started": true
   },
   {
@@ -174577,7 +174555,7 @@
     "player": "Chris Olave",
     "position": "WR",
     "slot": "WR",
-    "points": 11.3,
+    "points": 21.2,
     "started": true
   },
   {
@@ -174588,7 +174566,7 @@
     "player": "Bhayshul Tuten",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 8.3,
     "started": true
   },
   {
@@ -174610,7 +174588,7 @@
     "player": "Jaylen Warren",
     "position": "RB",
     "slot": "RB/WR/TE",
-    "points": 3.8,
+    "points": 4.9,
     "started": true
   },
   {
@@ -174621,7 +174599,7 @@
     "player": "Rico Dowdle",
     "position": "RB",
     "slot": "BE",
-    "points": 6.2,
+    "points": 7.4,
     "started": false
   },
   {
@@ -174643,7 +174621,7 @@
     "player": "Trevor Lawrence",
     "position": "QB",
     "slot": "QB",
-    "points": 0,
+    "points": 14.74,
     "started": true
   },
   {
@@ -174654,7 +174632,7 @@
     "player": "Broncos D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 0,
+    "points": 12.0,
     "started": true
   },
   {
@@ -174665,7 +174643,7 @@
     "player": "Cam Little",
     "position": "K",
     "slot": "K",
-    "points": 0,
+    "points": 13.0,
     "started": true
   },
   {
@@ -174676,7 +174654,7 @@
     "player": "Jordan Addison",
     "position": "WR",
     "slot": "IR",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -174687,7 +174665,7 @@
     "player": "Brenton Strange",
     "position": "TE",
     "slot": "TE",
-    "points": 0,
+    "points": 4.6,
     "started": true
   },
   {
@@ -174709,7 +174687,7 @@
     "player": "Brian Thomas Jr.",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 8.8,
     "started": false
   },
   {
@@ -174731,7 +174709,7 @@
     "player": "Justice Hill",
     "position": "RB",
     "slot": "BE",
-    "points": 14.7,
+    "points": 17.6,
     "started": false
   },
   {
@@ -174742,7 +174720,7 @@
     "player": "Jauan Jennings",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 5.0,
     "started": false
   },
   {
@@ -174753,7 +174731,7 @@
     "player": "Caleb Williams",
     "position": "QB",
     "slot": "BE",
-    "points": 13.82,
+    "points": 14.34,
     "started": false
   },
   {
@@ -174775,7 +174753,7 @@
     "player": "T.J. Hockenson",
     "position": "TE",
     "slot": "TE",
-    "points": 0,
+    "points": 11.5,
     "started": true
   },
   {
@@ -174786,7 +174764,7 @@
     "player": "J.K. Dobbins",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 0.0,
     "started": true
   },
   {
@@ -174830,7 +174808,7 @@
     "player": "Josh Allen",
     "position": "QB",
     "slot": "QB",
-    "points": 8.12,
+    "points": 14.16,
     "started": true
   },
   {
@@ -174841,7 +174819,7 @@
     "player": "Tyler Bass",
     "position": "K",
     "slot": "BE",
-    "points": 10.0,
+    "points": 17.0,
     "started": false
   },
   {
@@ -174852,7 +174830,7 @@
     "player": "Bills D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 12.0,
+    "points": 11.0,
     "started": true
   },
   {
@@ -174863,7 +174841,7 @@
     "player": "Justin Jefferson",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 13.7,
     "started": true
   },
   {
@@ -174874,7 +174852,7 @@
     "player": "Omar Cooper Jr.",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -174885,7 +174863,7 @@
     "player": "Mike Evans",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 0,
+    "points": 24.9,
     "started": true
   },
   {
@@ -174907,7 +174885,7 @@
     "player": "Gavin Bartholomew",
     "position": "TE",
     "slot": "BE",
-    "points": 0,
+    "points": 1.5,
     "started": false
   },
   {
@@ -174951,7 +174929,7 @@
     "player": "Ollie Gordon II",
     "position": "RB",
     "slot": "RB/WR/TE",
-    "points": 4.1,
+    "points": 8.7,
     "started": true
   },
   {
@@ -174973,7 +174951,7 @@
     "player": "Chuba Hubbard",
     "position": "RB",
     "slot": "RB",
-    "points": 23.0,
+    "points": 28.0,
     "started": true
   },
   {
@@ -174984,7 +174962,7 @@
     "player": "Matt Gay",
     "position": "K",
     "slot": "BE",
-    "points": 0,
+    "points": 6.0,
     "started": false
   },
   {
@@ -175006,7 +174984,7 @@
     "player": "Keenan Allen",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 0,
+    "points": 6.8,
     "started": true
   },
   {
@@ -175017,7 +174995,7 @@
     "player": "Chris Rodriguez Jr.",
     "position": "RB",
     "slot": "BE",
-    "points": 0,
+    "points": 5.1,
     "started": false
   },
   {
@@ -175039,7 +175017,7 @@
     "player": "Deebo Samuel Sr.",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 7.7,
     "started": true
   },
   {
@@ -175050,7 +175028,7 @@
     "player": "Chiefs D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 10.0,
+    "points": 8.0,
     "started": true
   },
   {
@@ -175094,7 +175072,7 @@
     "player": "Jets D/ST",
     "position": "D/ST",
     "slot": "BE",
-    "points": 0,
+    "points": 8.0,
     "started": false
   },
   {
@@ -175105,7 +175083,7 @@
     "player": "Wil Lutz",
     "position": "K",
     "slot": "K",
-    "points": 0,
+    "points": 8.0,
     "started": true
   },
   {
@@ -175127,7 +175105,7 @@
     "player": "Ashton Jeanty",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 31.9,
     "started": true
   },
   {
@@ -175138,7 +175116,7 @@
     "player": "Travis Etienne Jr.",
     "position": "RB",
     "slot": "RB/WR/TE",
-    "points": 6.5,
+    "points": 7.6,
     "started": true
   },
   {
@@ -175149,7 +175127,7 @@
     "player": "Jaylen Waddle",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 9.1,
     "started": true
   },
   {
@@ -175171,7 +175149,7 @@
     "player": "Tony Pollard",
     "position": "RB",
     "slot": "RB",
-    "points": 7.1,
+    "points": 13.0,
     "started": true
   },
   {
@@ -175193,7 +175171,7 @@
     "player": "Brandon Aubrey",
     "position": "K",
     "slot": "K",
-    "points": 4.0,
+    "points": 10.0,
     "started": true
   },
   {
@@ -175204,7 +175182,7 @@
     "player": "Josh Downs",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 7.6,
+    "points": 9.9,
     "started": true
   },
   {
@@ -175248,7 +175226,7 @@
     "player": "Devin Singletary",
     "position": "RB",
     "slot": "BE",
-    "points": 0,
+    "points": 2.0,
     "started": false
   },
   {
@@ -175259,7 +175237,7 @@
     "player": "Bryce Young",
     "position": "QB",
     "slot": "BE",
-    "points": 12.96,
+    "points": 15.96,
     "started": false
   },
   {
@@ -175270,7 +175248,7 @@
     "player": "Tyler Shough",
     "position": "QB",
     "slot": "QB",
-    "points": 9.72,
+    "points": 14.28,
     "started": true
   },
   {
@@ -175292,7 +175270,7 @@
     "player": "Devaughn Vele",
     "position": "WR",
     "slot": "BE",
-    "points": 6.9,
+    "points": 14.6,
     "started": false
   },
   {
@@ -175303,7 +175281,7 @@
     "player": "Malik Nabers",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 18.5,
     "started": true
   },
   {
@@ -175336,7 +175314,7 @@
     "player": "Jared Goff",
     "position": "QB",
     "slot": "BE",
-    "points": 22.62,
+    "points": 24.36,
     "started": false
   },
   {
@@ -175369,7 +175347,7 @@
     "player": "Buccaneers D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 3.0,
+    "points": -1.0,
     "started": true
   },
   {
@@ -175380,7 +175358,7 @@
     "player": "Tre Tucker",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 7.0,
     "started": false
   },
   {
@@ -175402,7 +175380,7 @@
     "player": "Emeka Egbuka",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 1.6,
+    "points": 3.8,
     "started": true
   },
   {
@@ -175435,7 +175413,7 @@
     "player": "Elic Ayomanor",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 2.2,
+    "points": 5.7,
     "started": true
   },
   {
@@ -175446,7 +175424,7 @@
     "player": "Chase McLaughlin",
     "position": "K",
     "slot": "K",
-    "points": 1.0,
+    "points": 3.0,
     "started": true
   },
   {
@@ -175457,7 +175435,7 @@
     "player": "Cam Ward",
     "position": "QB",
     "slot": "QB",
-    "points": 20.1,
+    "points": 26.22,
     "started": true
   },
   {
@@ -175479,7 +175457,7 @@
     "player": "Tommy Tremble",
     "position": "TE",
     "slot": "TE",
-    "points": 0.0,
+    "points": 2.8,
     "started": true
   },
   {
@@ -175501,7 +175479,7 @@
     "player": "Vikings D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 0,
+    "points": 0.0,
     "started": true
   },
   {
@@ -175523,7 +175501,7 @@
     "player": "Saquon Barkley",
     "position": "RB",
     "slot": "RB",
-    "points": 11.8,
+    "points": 13.5,
     "started": true
   },
   {
@@ -175534,7 +175512,7 @@
     "player": "Emmett Johnson",
     "position": "RB",
     "slot": "RB",
-    "points": 21.9,
+    "points": 26.3,
     "started": true
   },
   {
@@ -175578,7 +175556,7 @@
     "player": "Kaelon Black",
     "position": "RB",
     "slot": "BE",
-    "points": 0,
+    "points": 2.5,
     "started": false
   },
   {
@@ -175589,7 +175567,7 @@
     "player": "Zay Flowers",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 13.9,
+    "points": 16.4,
     "started": true
   },
   {
@@ -175611,7 +175589,7 @@
     "player": "Garrett Wilson",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 6.9,
     "started": true
   },
   {
@@ -175633,7 +175611,7 @@
     "player": "DeVonta Smith",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 7.4,
+    "points": 9.1,
     "started": true
   },
   {
@@ -175644,7 +175622,7 @@
     "player": "Parker Washington",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 20.3,
     "started": true
   },
   {
@@ -175688,7 +175666,7 @@
     "player": "Mark Andrews",
     "position": "TE",
     "slot": "BE",
-    "points": 0.0,
+    "points": 3.4,
     "started": false
   },
   {
@@ -175699,7 +175677,7 @@
     "player": "CeeDee Lamb",
     "position": "WR",
     "slot": "WR",
-    "points": 27.3,
+    "points": 32.2,
     "started": true
   },
   {
@@ -175710,7 +175688,7 @@
     "player": "Omarion Hampton",
     "position": "RB",
     "slot": "RB/WR/TE",
-    "points": 0,
+    "points": 10.3,
     "started": true
   },
   {
@@ -175721,7 +175699,7 @@
     "player": "Tetairoa McMillan",
     "position": "WR",
     "slot": "WR",
-    "points": 10.7,
+    "points": 19.1,
     "started": true
   },
   {
@@ -175732,7 +175710,7 @@
     "player": "D'Andre Swift",
     "position": "RB",
     "slot": "RB",
-    "points": 13.5,
+    "points": 11.9,
     "started": true
   },
   {
@@ -175754,7 +175732,7 @@
     "player": "George Kittle",
     "position": "TE",
     "slot": "TE",
-    "points": 0,
+    "points": 18.4,
     "started": true
   },
   {
@@ -175765,7 +175743,7 @@
     "player": "Kyle Monangai",
     "position": "RB",
     "slot": "RB",
-    "points": 0.9,
+    "points": 1.8,
     "started": true
   },
   {
@@ -175787,7 +175765,7 @@
     "player": "Jake Bates",
     "position": "K",
     "slot": "K",
-    "points": 6.0,
+    "points": 8.0,
     "started": true
   },
   {
@@ -175798,7 +175776,7 @@
     "player": "Dak Prescott",
     "position": "QB",
     "slot": "QB",
-    "points": 21.8,
+    "points": 37.9,
     "started": true
   },
   {
@@ -175853,7 +175831,7 @@
     "player": "Steelers D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 9.0,
+    "points": 7.0,
     "started": true
   },
   {
@@ -175864,7 +175842,7 @@
     "player": "Xavier Worthy",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 3.0,
+    "points": 11.8,
     "started": true
   },
   {
@@ -175875,7 +175853,7 @@
     "player": "Christian McCaffrey",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 14.2,
     "started": true
   },
   {
@@ -175886,7 +175864,7 @@
     "player": "George Pickens",
     "position": "WR",
     "slot": "WR",
-    "points": 17.6,
+    "points": 25.8,
     "started": true
   },
   {
@@ -175897,7 +175875,7 @@
     "player": "Jameson Williams",
     "position": "WR",
     "slot": "WR",
-    "points": 22.0,
+    "points": 23.3,
     "started": true
   },
   {
@@ -175952,7 +175930,7 @@
     "player": "De'Zhaun Stribling",
     "position": "WR",
     "slot": "IR",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -175985,7 +175963,7 @@
     "player": "Darren Waller",
     "position": "TE",
     "slot": "BE",
-    "points": 3.5,
+    "points": 7.2,
     "started": false
   },
   {
@@ -175996,7 +175974,7 @@
     "player": "Brock Purdy",
     "position": "QB",
     "slot": "QB",
-    "points": 0,
+    "points": 22.2,
     "started": true
   },
   {
@@ -176007,7 +175985,7 @@
     "player": "Braelon Allen",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 9.4,
     "started": true
   },
   {
@@ -176040,7 +176018,7 @@
     "player": "Bears D/ST",
     "position": "D/ST",
     "slot": "BE",
-    "points": 12.0,
+    "points": 15.0,
     "started": false
   },
   {
@@ -176062,7 +176040,7 @@
     "player": "49ers D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 0,
+    "points": 14.0,
     "started": true
   },
   {
@@ -176073,7 +176051,7 @@
     "player": "James Cook III",
     "position": "RB",
     "slot": "RB",
-    "points": 13.5,
+    "points": 17.2,
     "started": true
   },
   {
@@ -176084,7 +176062,7 @@
     "player": "Ladd McConkey",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 20.7,
     "started": false
   },
   {
@@ -176150,7 +176128,7 @@
     "player": "Chris Boswell",
     "position": "K",
     "slot": "K",
-    "points": 7.0,
+    "points": 13.0,
     "started": true
   },
   {
@@ -176161,7 +176139,7 @@
     "player": "Bucky Irving",
     "position": "RB",
     "slot": "RB",
-    "points": 9.9,
+    "points": 19.0,
     "started": true
   },
   {
@@ -176183,7 +176161,7 @@
     "player": "Jonah Coleman",
     "position": "RB",
     "slot": "RB/WR/TE",
-    "points": 0,
+    "points": 36.9,
     "started": true
   },
   {
@@ -176194,7 +176172,7 @@
     "player": "Courtland Sutton",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 0,
+    "points": 0.0,
     "started": true
   },
   {
@@ -176205,7 +176183,7 @@
     "player": "Adonai Mitchell",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 5.0,
     "started": false
   },
   {
@@ -176227,7 +176205,7 @@
     "player": "Aaron Rodgers",
     "position": "QB",
     "slot": "QB",
-    "points": 6.88,
+    "points": 15.98,
     "started": true
   },
   {
@@ -176249,7 +176227,7 @@
     "player": "Chargers D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 0,
+    "points": 1.0,
     "started": true
   },
   {
@@ -176260,7 +176238,7 @@
     "player": "Dawson Knox",
     "position": "TE",
     "slot": "TE",
-    "points": 3.3,
+    "points": 5.1,
     "started": true
   },
   {
@@ -176271,7 +176249,7 @@
     "player": "Amon-Ra St. Brown",
     "position": "WR",
     "slot": "WR",
-    "points": 13.0,
+    "points": 14.7,
     "started": true
   },
   {
@@ -176304,7 +176282,7 @@
     "player": "Breece Hall",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 19.0,
     "started": true
   },
   {
@@ -176337,7 +176315,7 @@
     "player": "Jakobi Meyers",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 12.5,
     "started": true
   },
   {
@@ -176348,7 +176326,7 @@
     "player": "Isaiah Likely",
     "position": "TE",
     "slot": "TE",
-    "points": 0,
+    "points": 4.5,
     "started": true
   },
   {
@@ -176370,18 +176348,7 @@
     "player": "Tyler Allgeier",
     "position": "RB",
     "slot": "BE",
-    "points": 1.7,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 13,
-    "team": "Project X",
-    "owner": "Xavier",
-    "player": "Terrance Ferguson",
-    "position": "TE",
-    "slot": "BE",
-    "points": 0,
+    "points": 2.3,
     "started": false
   },
   {
@@ -176403,7 +176370,7 @@
     "player": "Brandon Aiyuk",
     "position": "WR",
     "slot": "IR",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -176425,7 +176392,7 @@
     "player": "Jason Sanders",
     "position": "K",
     "slot": "K",
-    "points": 0,
+    "points": 11.0,
     "started": true
   },
   {
@@ -176436,7 +176403,7 @@
     "player": "Derrick Henry",
     "position": "RB",
     "slot": "RB",
-    "points": 8.3,
+    "points": 19.1,
     "started": true
   },
   {
@@ -176447,7 +176414,7 @@
     "player": "Bo Nix",
     "position": "QB",
     "slot": "QB",
-    "points": 0,
+    "points": 11.5,
     "started": true
   },
   {
@@ -176458,7 +176425,7 @@
     "player": "Lions D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 7.0,
+    "points": 6.0,
     "started": true
   },
   {
@@ -176480,7 +176447,7 @@
     "player": "Brock Bowers",
     "position": "TE",
     "slot": "BE",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -176513,7 +176480,7 @@
     "player": "Will Reichard",
     "position": "K",
     "slot": "K",
-    "points": 0,
+    "points": 3.0,
     "started": true
   },
   {
@@ -176535,7 +176502,7 @@
     "player": "Aaron Jones Sr.",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 11.3,
     "started": true
   },
   {
@@ -176546,7 +176513,7 @@
     "player": "Kirk Cousins",
     "position": "QB",
     "slot": "QB",
-    "points": 0,
+    "points": 7.4,
     "started": true
   },
   {
@@ -176568,7 +176535,7 @@
     "player": "Khalil Shakir",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 4.4,
+    "points": 17.3,
     "started": true
   },
   {
@@ -176579,7 +176546,7 @@
     "player": "Bam Knight",
     "position": "RB",
     "slot": "BE",
-    "points": 2.6,
+    "points": 5.5,
     "started": false
   },
   {
@@ -176612,7 +176579,7 @@
     "player": "Michael Mayer",
     "position": "TE",
     "slot": "RB/WR/TE",
-    "points": 0,
+    "points": 1.4,
     "started": true
   },
   {
@@ -176634,7 +176601,7 @@
     "player": "Pat Freiermuth",
     "position": "TE",
     "slot": "TE",
-    "points": 6.6,
+    "points": 9.0,
     "started": true
   },
   {
@@ -176656,7 +176623,7 @@
     "player": "Javonte Williams",
     "position": "RB",
     "slot": "RB",
-    "points": 20.0,
+    "points": 24.1,
     "started": true
   },
   {
@@ -176667,7 +176634,7 @@
     "player": "Trey McBride",
     "position": "TE",
     "slot": "TE",
-    "points": 7.0,
+    "points": 14.8,
     "started": true
   },
   {
@@ -176678,7 +176645,7 @@
     "player": "DJ Moore",
     "position": "WR",
     "slot": "WR",
-    "points": 20.9,
+    "points": 23.1,
     "started": true
   },
   {
@@ -176689,7 +176656,7 @@
     "player": "Patrick Mahomes",
     "position": "QB",
     "slot": "QB",
-    "points": 18.68,
+    "points": 26.96,
     "started": true
   },
   {
@@ -176700,7 +176667,7 @@
     "player": "Jordan Mason",
     "position": "RB",
     "slot": "BE",
-    "points": 0,
+    "points": 4.7,
     "started": false
   },
   {
@@ -176711,7 +176678,7 @@
     "player": "Jalen Coker",
     "position": "WR",
     "slot": "WR",
-    "points": 4.5,
+    "points": 8.7,
     "started": true
   },
   {
@@ -176733,7 +176700,7 @@
     "player": "Jaguars D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 0,
+    "points": 5.0,
     "started": true
   },
   {
@@ -176755,7 +176722,7 @@
     "player": "Cam Skattebo",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 5.8,
     "started": true
   },
   {
@@ -176766,7 +176733,7 @@
     "player": "Colston Loveland",
     "position": "TE",
     "slot": "RB/WR/TE",
-    "points": 10.7,
+    "points": 11.9,
     "started": true
   },
   {
@@ -176810,7 +176777,7 @@
     "player": "Pat Bryant",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 6.2,
     "started": false
   },
   {
@@ -176832,7 +176799,7 @@
     "player": "Jahmyr Gibbs",
     "position": "RB",
     "slot": "RB",
-    "points": 6.0,
+    "points": 27.8,
     "started": true
   },
   {
@@ -176854,7 +176821,7 @@
     "player": "Chris Olave",
     "position": "WR",
     "slot": "WR",
-    "points": 11.3,
+    "points": 21.2,
     "started": true
   },
   {
@@ -176865,7 +176832,7 @@
     "player": "Bhayshul Tuten",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 8.3,
     "started": true
   },
   {
@@ -176887,7 +176854,7 @@
     "player": "Jaylen Warren",
     "position": "RB",
     "slot": "RB/WR/TE",
-    "points": 3.8,
+    "points": 4.9,
     "started": true
   },
   {
@@ -176898,7 +176865,7 @@
     "player": "Rico Dowdle",
     "position": "RB",
     "slot": "BE",
-    "points": 6.2,
+    "points": 7.4,
     "started": false
   },
   {
@@ -176920,7 +176887,7 @@
     "player": "Trevor Lawrence",
     "position": "QB",
     "slot": "QB",
-    "points": 0,
+    "points": 14.74,
     "started": true
   },
   {
@@ -176931,7 +176898,7 @@
     "player": "Broncos D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 0,
+    "points": 12.0,
     "started": true
   },
   {
@@ -176942,7 +176909,7 @@
     "player": "Cam Little",
     "position": "K",
     "slot": "K",
-    "points": 0,
+    "points": 13.0,
     "started": true
   },
   {
@@ -176953,7 +176920,7 @@
     "player": "Jordan Addison",
     "position": "WR",
     "slot": "IR",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -176964,7 +176931,7 @@
     "player": "Brenton Strange",
     "position": "TE",
     "slot": "TE",
-    "points": 0,
+    "points": 4.6,
     "started": true
   },
   {
@@ -176986,7 +176953,7 @@
     "player": "Brian Thomas Jr.",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 8.8,
     "started": false
   },
   {
@@ -177008,7 +176975,7 @@
     "player": "Justice Hill",
     "position": "RB",
     "slot": "BE",
-    "points": 14.7,
+    "points": 17.6,
     "started": false
   },
   {
@@ -177019,7 +176986,7 @@
     "player": "Jauan Jennings",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 5.0,
     "started": false
   },
   {
@@ -177030,7 +176997,7 @@
     "player": "Caleb Williams",
     "position": "QB",
     "slot": "BE",
-    "points": 13.82,
+    "points": 14.34,
     "started": false
   },
   {
@@ -177052,7 +177019,7 @@
     "player": "T.J. Hockenson",
     "position": "TE",
     "slot": "TE",
-    "points": 0,
+    "points": 11.5,
     "started": true
   },
   {
@@ -177063,7 +177030,7 @@
     "player": "J.K. Dobbins",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 0.0,
     "started": true
   },
   {
@@ -177107,7 +177074,7 @@
     "player": "Josh Allen",
     "position": "QB",
     "slot": "QB",
-    "points": 8.12,
+    "points": 14.16,
     "started": true
   },
   {
@@ -177118,7 +177085,7 @@
     "player": "Tyler Bass",
     "position": "K",
     "slot": "BE",
-    "points": 10.0,
+    "points": 17.0,
     "started": false
   },
   {
@@ -177129,7 +177096,7 @@
     "player": "Bills D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 12.0,
+    "points": 11.0,
     "started": true
   },
   {
@@ -177140,7 +177107,7 @@
     "player": "Justin Jefferson",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 13.7,
     "started": true
   },
   {
@@ -177151,7 +177118,7 @@
     "player": "Omar Cooper Jr.",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -177162,7 +177129,7 @@
     "player": "Mike Evans",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 0,
+    "points": 24.9,
     "started": true
   },
   {
@@ -177184,7 +177151,7 @@
     "player": "Gavin Bartholomew",
     "position": "TE",
     "slot": "BE",
-    "points": 0,
+    "points": 1.5,
     "started": false
   },
   {
@@ -177228,7 +177195,7 @@
     "player": "Ollie Gordon II",
     "position": "RB",
     "slot": "RB/WR/TE",
-    "points": 4.1,
+    "points": 8.7,
     "started": true
   },
   {
@@ -177250,7 +177217,7 @@
     "player": "Chuba Hubbard",
     "position": "RB",
     "slot": "RB",
-    "points": 23.0,
+    "points": 28.0,
     "started": true
   },
   {
@@ -177261,7 +177228,7 @@
     "player": "Matt Gay",
     "position": "K",
     "slot": "BE",
-    "points": 0,
+    "points": 6.0,
     "started": false
   },
   {
@@ -177283,7 +177250,7 @@
     "player": "Keenan Allen",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 0,
+    "points": 6.8,
     "started": true
   },
   {
@@ -177294,7 +177261,7 @@
     "player": "Chris Rodriguez Jr.",
     "position": "RB",
     "slot": "BE",
-    "points": 0,
+    "points": 5.1,
     "started": false
   },
   {
@@ -177316,7 +177283,7 @@
     "player": "Deebo Samuel Sr.",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 7.7,
     "started": true
   },
   {
@@ -177327,7 +177294,7 @@
     "player": "Chiefs D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 10.0,
+    "points": 8.0,
     "started": true
   },
   {
@@ -177371,7 +177338,7 @@
     "player": "Jets D/ST",
     "position": "D/ST",
     "slot": "BE",
-    "points": 0,
+    "points": 8.0,
     "started": false
   },
   {
@@ -177382,7 +177349,7 @@
     "player": "Wil Lutz",
     "position": "K",
     "slot": "K",
-    "points": 0,
+    "points": 8.0,
     "started": true
   },
   {
@@ -177404,7 +177371,7 @@
     "player": "Ashton Jeanty",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 31.9,
     "started": true
   },
   {
@@ -177415,7 +177382,7 @@
     "player": "Travis Etienne Jr.",
     "position": "RB",
     "slot": "RB/WR/TE",
-    "points": 6.5,
+    "points": 7.6,
     "started": true
   },
   {
@@ -177426,7 +177393,7 @@
     "player": "Jaylen Waddle",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 9.1,
     "started": true
   },
   {
@@ -177448,7 +177415,7 @@
     "player": "Tony Pollard",
     "position": "RB",
     "slot": "RB",
-    "points": 7.1,
+    "points": 13.0,
     "started": true
   },
   {
@@ -177470,7 +177437,7 @@
     "player": "Brandon Aubrey",
     "position": "K",
     "slot": "K",
-    "points": 4.0,
+    "points": 10.0,
     "started": true
   },
   {
@@ -177481,7 +177448,7 @@
     "player": "Josh Downs",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 7.6,
+    "points": 9.9,
     "started": true
   },
   {
@@ -177525,7 +177492,7 @@
     "player": "Devin Singletary",
     "position": "RB",
     "slot": "BE",
-    "points": 0,
+    "points": 2.0,
     "started": false
   },
   {
@@ -177536,7 +177503,7 @@
     "player": "Bryce Young",
     "position": "QB",
     "slot": "BE",
-    "points": 12.96,
+    "points": 15.96,
     "started": false
   },
   {
@@ -177547,7 +177514,7 @@
     "player": "Tyler Shough",
     "position": "QB",
     "slot": "QB",
-    "points": 9.72,
+    "points": 14.28,
     "started": true
   },
   {
@@ -177569,7 +177536,7 @@
     "player": "Devaughn Vele",
     "position": "WR",
     "slot": "BE",
-    "points": 6.9,
+    "points": 14.6,
     "started": false
   },
   {
@@ -177580,7 +177547,7 @@
     "player": "Malik Nabers",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 18.5,
     "started": true
   },
   {
@@ -177613,7 +177580,7 @@
     "player": "Jared Goff",
     "position": "QB",
     "slot": "BE",
-    "points": 22.62,
+    "points": 24.36,
     "started": false
   },
   {
@@ -177646,7 +177613,7 @@
     "player": "Buccaneers D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 3.0,
+    "points": -1.0,
     "started": true
   },
   {
@@ -177657,7 +177624,7 @@
     "player": "Tre Tucker",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 7.0,
     "started": false
   },
   {
@@ -177679,7 +177646,7 @@
     "player": "Emeka Egbuka",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 1.6,
+    "points": 3.8,
     "started": true
   },
   {
@@ -177712,7 +177679,7 @@
     "player": "Elic Ayomanor",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 2.2,
+    "points": 5.7,
     "started": true
   },
   {
@@ -177723,7 +177690,7 @@
     "player": "Chase McLaughlin",
     "position": "K",
     "slot": "K",
-    "points": 1.0,
+    "points": 3.0,
     "started": true
   },
   {
@@ -177734,7 +177701,7 @@
     "player": "Cam Ward",
     "position": "QB",
     "slot": "QB",
-    "points": 20.1,
+    "points": 26.22,
     "started": true
   },
   {
@@ -177756,7 +177723,7 @@
     "player": "Tommy Tremble",
     "position": "TE",
     "slot": "TE",
-    "points": 0.0,
+    "points": 2.8,
     "started": true
   },
   {
@@ -177778,7 +177745,7 @@
     "player": "Vikings D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 0,
+    "points": 0.0,
     "started": true
   },
   {
@@ -177800,7 +177767,7 @@
     "player": "Saquon Barkley",
     "position": "RB",
     "slot": "RB",
-    "points": 11.8,
+    "points": 13.5,
     "started": true
   },
   {
@@ -177811,7 +177778,7 @@
     "player": "Emmett Johnson",
     "position": "RB",
     "slot": "RB",
-    "points": 21.9,
+    "points": 26.3,
     "started": true
   },
   {
@@ -177855,7 +177822,7 @@
     "player": "Kaelon Black",
     "position": "RB",
     "slot": "BE",
-    "points": 0,
+    "points": 2.5,
     "started": false
   },
   {
@@ -177866,7 +177833,7 @@
     "player": "Zay Flowers",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 13.9,
+    "points": 16.4,
     "started": true
   },
   {
@@ -177888,7 +177855,7 @@
     "player": "Garrett Wilson",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 6.9,
     "started": true
   },
   {
@@ -177910,7 +177877,7 @@
     "player": "DeVonta Smith",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 7.4,
+    "points": 9.1,
     "started": true
   },
   {
@@ -177921,7 +177888,7 @@
     "player": "Parker Washington",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 20.3,
     "started": true
   },
   {
@@ -177965,7 +177932,7 @@
     "player": "Mark Andrews",
     "position": "TE",
     "slot": "BE",
-    "points": 0.0,
+    "points": 3.4,
     "started": false
   },
   {
@@ -177976,7 +177943,7 @@
     "player": "CeeDee Lamb",
     "position": "WR",
     "slot": "WR",
-    "points": 27.3,
+    "points": 32.2,
     "started": true
   },
   {
@@ -177987,7 +177954,7 @@
     "player": "Omarion Hampton",
     "position": "RB",
     "slot": "RB/WR/TE",
-    "points": 0,
+    "points": 10.3,
     "started": true
   },
   {
@@ -177998,7 +177965,7 @@
     "player": "Tetairoa McMillan",
     "position": "WR",
     "slot": "WR",
-    "points": 10.7,
+    "points": 19.1,
     "started": true
   },
   {
@@ -178009,7 +177976,7 @@
     "player": "D'Andre Swift",
     "position": "RB",
     "slot": "RB",
-    "points": 13.5,
+    "points": 11.9,
     "started": true
   },
   {
@@ -178031,7 +177998,7 @@
     "player": "George Kittle",
     "position": "TE",
     "slot": "TE",
-    "points": 0,
+    "points": 18.4,
     "started": true
   },
   {
@@ -178042,7 +178009,7 @@
     "player": "Kyle Monangai",
     "position": "RB",
     "slot": "RB",
-    "points": 0.9,
+    "points": 1.8,
     "started": true
   },
   {
@@ -178064,7 +178031,7 @@
     "player": "Jake Bates",
     "position": "K",
     "slot": "K",
-    "points": 6.0,
+    "points": 8.0,
     "started": true
   },
   {
@@ -178075,7 +178042,7 @@
     "player": "Dak Prescott",
     "position": "QB",
     "slot": "QB",
-    "points": 21.8,
+    "points": 37.9,
     "started": true
   },
   {
@@ -178130,7 +178097,7 @@
     "player": "Steelers D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 9.0,
+    "points": 7.0,
     "started": true
   },
   {
@@ -178141,7 +178108,7 @@
     "player": "Xavier Worthy",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 3.0,
+    "points": 11.8,
     "started": true
   },
   {
@@ -178152,7 +178119,7 @@
     "player": "Christian McCaffrey",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 14.2,
     "started": true
   },
   {
@@ -178163,7 +178130,7 @@
     "player": "George Pickens",
     "position": "WR",
     "slot": "WR",
-    "points": 17.6,
+    "points": 25.8,
     "started": true
   },
   {
@@ -178174,7 +178141,7 @@
     "player": "Jameson Williams",
     "position": "WR",
     "slot": "WR",
-    "points": 22.0,
+    "points": 23.3,
     "started": true
   },
   {
@@ -178229,7 +178196,7 @@
     "player": "De'Zhaun Stribling",
     "position": "WR",
     "slot": "IR",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -178262,7 +178229,7 @@
     "player": "Darren Waller",
     "position": "TE",
     "slot": "BE",
-    "points": 3.5,
+    "points": 7.2,
     "started": false
   },
   {
@@ -178273,7 +178240,7 @@
     "player": "Brock Purdy",
     "position": "QB",
     "slot": "QB",
-    "points": 0,
+    "points": 22.2,
     "started": true
   },
   {
@@ -178284,7 +178251,7 @@
     "player": "Braelon Allen",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 9.4,
     "started": true
   },
   {
@@ -178317,7 +178284,7 @@
     "player": "Bears D/ST",
     "position": "D/ST",
     "slot": "BE",
-    "points": 12.0,
+    "points": 15.0,
     "started": false
   },
   {
@@ -178339,7 +178306,7 @@
     "player": "49ers D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 0,
+    "points": 14.0,
     "started": true
   },
   {
@@ -178350,7 +178317,7 @@
     "player": "James Cook III",
     "position": "RB",
     "slot": "RB",
-    "points": 13.5,
+    "points": 17.2,
     "started": true
   },
   {
@@ -178361,7 +178328,7 @@
     "player": "Ladd McConkey",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 20.7,
     "started": false
   },
   {
@@ -178427,7 +178394,7 @@
     "player": "Chris Boswell",
     "position": "K",
     "slot": "K",
-    "points": 7.0,
+    "points": 13.0,
     "started": true
   },
   {
@@ -178438,7 +178405,7 @@
     "player": "Bucky Irving",
     "position": "RB",
     "slot": "RB",
-    "points": 9.9,
+    "points": 19.0,
     "started": true
   },
   {
@@ -178460,7 +178427,7 @@
     "player": "Jonah Coleman",
     "position": "RB",
     "slot": "RB/WR/TE",
-    "points": 0,
+    "points": 36.9,
     "started": true
   },
   {
@@ -178471,7 +178438,7 @@
     "player": "Courtland Sutton",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 0,
+    "points": 0.0,
     "started": true
   },
   {
@@ -178482,7 +178449,7 @@
     "player": "Adonai Mitchell",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 5.0,
     "started": false
   },
   {
@@ -178504,7 +178471,7 @@
     "player": "Aaron Rodgers",
     "position": "QB",
     "slot": "QB",
-    "points": 6.88,
+    "points": 15.98,
     "started": true
   },
   {
@@ -178526,7 +178493,7 @@
     "player": "Chargers D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 0,
+    "points": 1.0,
     "started": true
   },
   {
@@ -178537,7 +178504,7 @@
     "player": "Dawson Knox",
     "position": "TE",
     "slot": "TE",
-    "points": 3.3,
+    "points": 5.1,
     "started": true
   },
   {
@@ -178548,7 +178515,7 @@
     "player": "Amon-Ra St. Brown",
     "position": "WR",
     "slot": "WR",
-    "points": 13.0,
+    "points": 14.7,
     "started": true
   },
   {
@@ -178581,7 +178548,7 @@
     "player": "Breece Hall",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 19.0,
     "started": true
   },
   {
@@ -178614,7 +178581,7 @@
     "player": "Jakobi Meyers",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 12.5,
     "started": true
   },
   {
@@ -178625,7 +178592,7 @@
     "player": "Isaiah Likely",
     "position": "TE",
     "slot": "TE",
-    "points": 0,
+    "points": 4.5,
     "started": true
   },
   {
@@ -178647,18 +178614,7 @@
     "player": "Tyler Allgeier",
     "position": "RB",
     "slot": "BE",
-    "points": 1.7,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 14,
-    "team": "Project X",
-    "owner": "Xavier",
-    "player": "Terrance Ferguson",
-    "position": "TE",
-    "slot": "BE",
-    "points": 0,
+    "points": 2.3,
     "started": false
   },
   {
@@ -178680,7 +178636,7 @@
     "player": "Brandon Aiyuk",
     "position": "WR",
     "slot": "IR",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -178702,7 +178658,7 @@
     "player": "Jason Sanders",
     "position": "K",
     "slot": "K",
-    "points": 0,
+    "points": 11.0,
     "started": true
   },
   {
@@ -178713,7 +178669,7 @@
     "player": "Derrick Henry",
     "position": "RB",
     "slot": "RB",
-    "points": 8.3,
+    "points": 19.1,
     "started": true
   },
   {
@@ -178724,7 +178680,7 @@
     "player": "Bo Nix",
     "position": "QB",
     "slot": "QB",
-    "points": 0,
+    "points": 11.5,
     "started": true
   },
   {
@@ -178735,7 +178691,7 @@
     "player": "Lions D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 7.0,
+    "points": 6.0,
     "started": true
   },
   {
@@ -178757,7 +178713,7 @@
     "player": "Brock Bowers",
     "position": "TE",
     "slot": "BE",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -178790,7 +178746,7 @@
     "player": "Will Reichard",
     "position": "K",
     "slot": "K",
-    "points": 0,
+    "points": 3.0,
     "started": true
   },
   {
@@ -178812,7 +178768,7 @@
     "player": "Aaron Jones Sr.",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 11.3,
     "started": true
   },
   {
@@ -178823,7 +178779,7 @@
     "player": "Kirk Cousins",
     "position": "QB",
     "slot": "QB",
-    "points": 0,
+    "points": 7.4,
     "started": true
   },
   {
@@ -178845,7 +178801,7 @@
     "player": "Khalil Shakir",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 4.4,
+    "points": 17.3,
     "started": true
   },
   {
@@ -178856,7 +178812,7 @@
     "player": "Bam Knight",
     "position": "RB",
     "slot": "BE",
-    "points": 2.6,
+    "points": 5.5,
     "started": false
   },
   {
@@ -178889,7 +178845,7 @@
     "player": "Michael Mayer",
     "position": "TE",
     "slot": "RB/WR/TE",
-    "points": 0,
+    "points": 1.4,
     "started": true
   },
   {
@@ -178911,7 +178867,7 @@
     "player": "Pat Freiermuth",
     "position": "TE",
     "slot": "TE",
-    "points": 6.6,
+    "points": 9.0,
     "started": true
   },
   {
@@ -178933,7 +178889,7 @@
     "player": "Javonte Williams",
     "position": "RB",
     "slot": "RB",
-    "points": 20.0,
+    "points": 24.1,
     "started": true
   },
   {
@@ -178944,7 +178900,7 @@
     "player": "Trey McBride",
     "position": "TE",
     "slot": "TE",
-    "points": 7.0,
+    "points": 14.8,
     "started": true
   },
   {
@@ -178955,7 +178911,7 @@
     "player": "DJ Moore",
     "position": "WR",
     "slot": "WR",
-    "points": 20.9,
+    "points": 23.1,
     "started": true
   },
   {
@@ -178966,7 +178922,7 @@
     "player": "Patrick Mahomes",
     "position": "QB",
     "slot": "QB",
-    "points": 18.68,
+    "points": 26.96,
     "started": true
   },
   {
@@ -178977,7 +178933,7 @@
     "player": "Jordan Mason",
     "position": "RB",
     "slot": "BE",
-    "points": 0,
+    "points": 4.7,
     "started": false
   },
   {
@@ -178988,7 +178944,7 @@
     "player": "Jalen Coker",
     "position": "WR",
     "slot": "WR",
-    "points": 4.5,
+    "points": 8.7,
     "started": true
   },
   {
@@ -179010,7 +178966,7 @@
     "player": "Jaguars D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 0,
+    "points": 5.0,
     "started": true
   },
   {
@@ -179032,7 +178988,7 @@
     "player": "Cam Skattebo",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 5.8,
     "started": true
   },
   {
@@ -179043,7 +178999,7 @@
     "player": "Colston Loveland",
     "position": "TE",
     "slot": "RB/WR/TE",
-    "points": 10.7,
+    "points": 11.9,
     "started": true
   },
   {
@@ -179087,7 +179043,7 @@
     "player": "Pat Bryant",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 6.2,
     "started": false
   },
   {
@@ -179109,7 +179065,7 @@
     "player": "Jahmyr Gibbs",
     "position": "RB",
     "slot": "RB",
-    "points": 6.0,
+    "points": 27.8,
     "started": true
   },
   {
@@ -179131,7 +179087,7 @@
     "player": "Chris Olave",
     "position": "WR",
     "slot": "WR",
-    "points": 11.3,
+    "points": 21.2,
     "started": true
   },
   {
@@ -179142,7 +179098,7 @@
     "player": "Bhayshul Tuten",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 8.3,
     "started": true
   },
   {
@@ -179164,7 +179120,7 @@
     "player": "Jaylen Warren",
     "position": "RB",
     "slot": "RB/WR/TE",
-    "points": 3.8,
+    "points": 4.9,
     "started": true
   },
   {
@@ -179175,7 +179131,7 @@
     "player": "Rico Dowdle",
     "position": "RB",
     "slot": "BE",
-    "points": 6.2,
+    "points": 7.4,
     "started": false
   },
   {
@@ -179197,7 +179153,7 @@
     "player": "Trevor Lawrence",
     "position": "QB",
     "slot": "QB",
-    "points": 0,
+    "points": 14.74,
     "started": true
   },
   {
@@ -179208,7 +179164,7 @@
     "player": "Broncos D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 0,
+    "points": 12.0,
     "started": true
   },
   {
@@ -179219,7 +179175,7 @@
     "player": "Cam Little",
     "position": "K",
     "slot": "K",
-    "points": 0,
+    "points": 13.0,
     "started": true
   },
   {
@@ -179230,7 +179186,7 @@
     "player": "Jordan Addison",
     "position": "WR",
     "slot": "IR",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -179241,7 +179197,7 @@
     "player": "Brenton Strange",
     "position": "TE",
     "slot": "TE",
-    "points": 0,
+    "points": 4.6,
     "started": true
   },
   {
@@ -179263,7 +179219,7 @@
     "player": "Brian Thomas Jr.",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 8.8,
     "started": false
   },
   {
@@ -179285,7 +179241,7 @@
     "player": "Justice Hill",
     "position": "RB",
     "slot": "BE",
-    "points": 14.7,
+    "points": 17.6,
     "started": false
   },
   {
@@ -179296,7 +179252,7 @@
     "player": "Jauan Jennings",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 5.0,
     "started": false
   },
   {
@@ -179307,7 +179263,7 @@
     "player": "Caleb Williams",
     "position": "QB",
     "slot": "BE",
-    "points": 13.82,
+    "points": 14.34,
     "started": false
   },
   {
@@ -179329,7 +179285,7 @@
     "player": "T.J. Hockenson",
     "position": "TE",
     "slot": "TE",
-    "points": 0,
+    "points": 11.5,
     "started": true
   },
   {
@@ -179340,7 +179296,7 @@
     "player": "J.K. Dobbins",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 0.0,
     "started": true
   },
   {
@@ -179384,7 +179340,7 @@
     "player": "Josh Allen",
     "position": "QB",
     "slot": "QB",
-    "points": 8.12,
+    "points": 14.16,
     "started": true
   },
   {
@@ -179395,7 +179351,7 @@
     "player": "Tyler Bass",
     "position": "K",
     "slot": "BE",
-    "points": 10.0,
+    "points": 17.0,
     "started": false
   },
   {
@@ -179406,7 +179362,7 @@
     "player": "Bills D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 12.0,
+    "points": 11.0,
     "started": true
   },
   {
@@ -179417,7 +179373,7 @@
     "player": "Justin Jefferson",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 13.7,
     "started": true
   },
   {
@@ -179428,7 +179384,7 @@
     "player": "Omar Cooper Jr.",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -179439,7 +179395,7 @@
     "player": "Mike Evans",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 0,
+    "points": 24.9,
     "started": true
   },
   {
@@ -179461,7 +179417,7 @@
     "player": "Gavin Bartholomew",
     "position": "TE",
     "slot": "BE",
-    "points": 0,
+    "points": 1.5,
     "started": false
   },
   {
@@ -179505,7 +179461,7 @@
     "player": "Ollie Gordon II",
     "position": "RB",
     "slot": "RB/WR/TE",
-    "points": 4.1,
+    "points": 8.7,
     "started": true
   },
   {
@@ -179527,7 +179483,7 @@
     "player": "Chuba Hubbard",
     "position": "RB",
     "slot": "RB",
-    "points": 23.0,
+    "points": 28.0,
     "started": true
   },
   {
@@ -179538,7 +179494,7 @@
     "player": "Matt Gay",
     "position": "K",
     "slot": "BE",
-    "points": 0,
+    "points": 6.0,
     "started": false
   },
   {
@@ -179560,7 +179516,7 @@
     "player": "Keenan Allen",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 0,
+    "points": 6.8,
     "started": true
   },
   {
@@ -179571,7 +179527,7 @@
     "player": "Chris Rodriguez Jr.",
     "position": "RB",
     "slot": "BE",
-    "points": 0,
+    "points": 5.1,
     "started": false
   },
   {
@@ -179593,7 +179549,7 @@
     "player": "Deebo Samuel Sr.",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 7.7,
     "started": true
   },
   {
@@ -179604,7 +179560,7 @@
     "player": "Chiefs D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 10.0,
+    "points": 8.0,
     "started": true
   },
   {
@@ -179648,7 +179604,7 @@
     "player": "Jets D/ST",
     "position": "D/ST",
     "slot": "BE",
-    "points": 0,
+    "points": 8.0,
     "started": false
   },
   {
@@ -179659,7 +179615,7 @@
     "player": "Wil Lutz",
     "position": "K",
     "slot": "K",
-    "points": 0,
+    "points": 8.0,
     "started": true
   },
   {
@@ -179681,7 +179637,7 @@
     "player": "Ashton Jeanty",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 31.9,
     "started": true
   },
   {
@@ -179692,7 +179648,7 @@
     "player": "Travis Etienne Jr.",
     "position": "RB",
     "slot": "RB/WR/TE",
-    "points": 6.5,
+    "points": 7.6,
     "started": true
   },
   {
@@ -179703,7 +179659,7 @@
     "player": "Jaylen Waddle",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 9.1,
     "started": true
   },
   {
@@ -179725,7 +179681,7 @@
     "player": "Tony Pollard",
     "position": "RB",
     "slot": "RB",
-    "points": 7.1,
+    "points": 13.0,
     "started": true
   },
   {
@@ -179747,7 +179703,7 @@
     "player": "Brandon Aubrey",
     "position": "K",
     "slot": "K",
-    "points": 4.0,
+    "points": 10.0,
     "started": true
   },
   {
@@ -179758,7 +179714,7 @@
     "player": "Josh Downs",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 7.6,
+    "points": 9.9,
     "started": true
   },
   {
@@ -179802,7 +179758,7 @@
     "player": "Devin Singletary",
     "position": "RB",
     "slot": "BE",
-    "points": 0,
+    "points": 2.0,
     "started": false
   },
   {
@@ -179813,7 +179769,7 @@
     "player": "Bryce Young",
     "position": "QB",
     "slot": "BE",
-    "points": 12.96,
+    "points": 15.96,
     "started": false
   },
   {
@@ -179824,7 +179780,7 @@
     "player": "Tyler Shough",
     "position": "QB",
     "slot": "QB",
-    "points": 9.72,
+    "points": 14.28,
     "started": true
   },
   {
@@ -179846,7 +179802,7 @@
     "player": "Devaughn Vele",
     "position": "WR",
     "slot": "BE",
-    "points": 6.9,
+    "points": 14.6,
     "started": false
   },
   {
@@ -179857,7 +179813,7 @@
     "player": "Malik Nabers",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 18.5,
     "started": true
   },
   {
@@ -179890,7 +179846,7 @@
     "player": "Jared Goff",
     "position": "QB",
     "slot": "BE",
-    "points": 22.62,
+    "points": 24.36,
     "started": false
   },
   {
@@ -179923,7 +179879,7 @@
     "player": "Buccaneers D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 3.0,
+    "points": -1.0,
     "started": true
   },
   {
@@ -179934,7 +179890,7 @@
     "player": "Tre Tucker",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 7.0,
     "started": false
   },
   {
@@ -179956,7 +179912,7 @@
     "player": "Emeka Egbuka",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 1.6,
+    "points": 3.8,
     "started": true
   },
   {
@@ -179989,7 +179945,7 @@
     "player": "Elic Ayomanor",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 2.2,
+    "points": 5.7,
     "started": true
   },
   {
@@ -180000,7 +179956,7 @@
     "player": "Chase McLaughlin",
     "position": "K",
     "slot": "K",
-    "points": 1.0,
+    "points": 3.0,
     "started": true
   },
   {
@@ -180011,7 +179967,7 @@
     "player": "Cam Ward",
     "position": "QB",
     "slot": "QB",
-    "points": 20.1,
+    "points": 26.22,
     "started": true
   },
   {
@@ -180033,7 +179989,7 @@
     "player": "Tommy Tremble",
     "position": "TE",
     "slot": "TE",
-    "points": 0.0,
+    "points": 2.8,
     "started": true
   },
   {
@@ -180055,7 +180011,7 @@
     "player": "Vikings D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 0,
+    "points": 0.0,
     "started": true
   },
   {
@@ -180077,7 +180033,7 @@
     "player": "Saquon Barkley",
     "position": "RB",
     "slot": "RB",
-    "points": 11.8,
+    "points": 13.5,
     "started": true
   },
   {
@@ -180088,7 +180044,7 @@
     "player": "Emmett Johnson",
     "position": "RB",
     "slot": "RB",
-    "points": 21.9,
+    "points": 26.3,
     "started": true
   },
   {
@@ -180132,7 +180088,7 @@
     "player": "Kaelon Black",
     "position": "RB",
     "slot": "BE",
-    "points": 0,
+    "points": 2.5,
     "started": false
   },
   {
@@ -180143,7 +180099,7 @@
     "player": "Zay Flowers",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 13.9,
+    "points": 16.4,
     "started": true
   },
   {
@@ -180165,7 +180121,7 @@
     "player": "Garrett Wilson",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 6.9,
     "started": true
   },
   {
@@ -180187,7 +180143,7 @@
     "player": "DeVonta Smith",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 7.4,
+    "points": 9.1,
     "started": true
   },
   {
@@ -180198,7 +180154,7 @@
     "player": "Parker Washington",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 20.3,
     "started": true
   },
   {
@@ -180242,7 +180198,7 @@
     "player": "Mark Andrews",
     "position": "TE",
     "slot": "BE",
-    "points": 0.0,
+    "points": 3.4,
     "started": false
   },
   {
@@ -180253,7 +180209,7 @@
     "player": "CeeDee Lamb",
     "position": "WR",
     "slot": "WR",
-    "points": 27.3,
+    "points": 32.2,
     "started": true
   },
   {
@@ -180264,7 +180220,7 @@
     "player": "Omarion Hampton",
     "position": "RB",
     "slot": "RB/WR/TE",
-    "points": 0,
+    "points": 10.3,
     "started": true
   },
   {
@@ -180275,7 +180231,7 @@
     "player": "Tetairoa McMillan",
     "position": "WR",
     "slot": "WR",
-    "points": 10.7,
+    "points": 19.1,
     "started": true
   },
   {
@@ -180286,7 +180242,7 @@
     "player": "D'Andre Swift",
     "position": "RB",
     "slot": "RB",
-    "points": 13.5,
+    "points": 11.9,
     "started": true
   },
   {
@@ -180308,7 +180264,7 @@
     "player": "George Kittle",
     "position": "TE",
     "slot": "TE",
-    "points": 0,
+    "points": 18.4,
     "started": true
   },
   {
@@ -180319,7 +180275,7 @@
     "player": "Kyle Monangai",
     "position": "RB",
     "slot": "RB",
-    "points": 0.9,
+    "points": 1.8,
     "started": true
   },
   {
@@ -180341,7 +180297,7 @@
     "player": "Jake Bates",
     "position": "K",
     "slot": "K",
-    "points": 6.0,
+    "points": 8.0,
     "started": true
   },
   {
@@ -180352,7 +180308,7 @@
     "player": "Dak Prescott",
     "position": "QB",
     "slot": "QB",
-    "points": 21.8,
+    "points": 37.9,
     "started": true
   },
   {
@@ -180407,7 +180363,7 @@
     "player": "Steelers D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 9.0,
+    "points": 7.0,
     "started": true
   },
   {
@@ -180418,7 +180374,7 @@
     "player": "Xavier Worthy",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 3.0,
+    "points": 11.8,
     "started": true
   },
   {
@@ -180429,7 +180385,7 @@
     "player": "Christian McCaffrey",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 14.2,
     "started": true
   },
   {
@@ -180440,7 +180396,7 @@
     "player": "George Pickens",
     "position": "WR",
     "slot": "WR",
-    "points": 17.6,
+    "points": 25.8,
     "started": true
   },
   {
@@ -180451,7 +180407,7 @@
     "player": "Jameson Williams",
     "position": "WR",
     "slot": "WR",
-    "points": 22.0,
+    "points": 23.3,
     "started": true
   },
   {
@@ -180506,7 +180462,7 @@
     "player": "De'Zhaun Stribling",
     "position": "WR",
     "slot": "IR",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -180539,7 +180495,7 @@
     "player": "Darren Waller",
     "position": "TE",
     "slot": "BE",
-    "points": 3.5,
+    "points": 7.2,
     "started": false
   },
   {
@@ -180550,7 +180506,7 @@
     "player": "Brock Purdy",
     "position": "QB",
     "slot": "QB",
-    "points": 0,
+    "points": 22.2,
     "started": true
   },
   {
@@ -180561,7 +180517,7 @@
     "player": "Braelon Allen",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 9.4,
     "started": true
   },
   {
@@ -180594,7 +180550,7 @@
     "player": "Bears D/ST",
     "position": "D/ST",
     "slot": "BE",
-    "points": 12.0,
+    "points": 15.0,
     "started": false
   },
   {
@@ -180616,7 +180572,7 @@
     "player": "49ers D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 0,
+    "points": 14.0,
     "started": true
   },
   {
@@ -180627,7 +180583,7 @@
     "player": "James Cook III",
     "position": "RB",
     "slot": "RB",
-    "points": 13.5,
+    "points": 17.2,
     "started": true
   },
   {
@@ -180638,7 +180594,7 @@
     "player": "Ladd McConkey",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 20.7,
     "started": false
   },
   {
@@ -180704,7 +180660,7 @@
     "player": "Chris Boswell",
     "position": "K",
     "slot": "K",
-    "points": 7.0,
+    "points": 13.0,
     "started": true
   },
   {
@@ -180715,7 +180671,7 @@
     "player": "Bucky Irving",
     "position": "RB",
     "slot": "RB",
-    "points": 9.9,
+    "points": 19.0,
     "started": true
   },
   {
@@ -180737,7 +180693,7 @@
     "player": "Jonah Coleman",
     "position": "RB",
     "slot": "RB/WR/TE",
-    "points": 0,
+    "points": 36.9,
     "started": true
   },
   {
@@ -180748,7 +180704,7 @@
     "player": "Courtland Sutton",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 0,
+    "points": 0.0,
     "started": true
   },
   {
@@ -180759,7 +180715,7 @@
     "player": "Adonai Mitchell",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 5.0,
     "started": false
   },
   {
@@ -180781,7 +180737,7 @@
     "player": "Aaron Rodgers",
     "position": "QB",
     "slot": "QB",
-    "points": 6.88,
+    "points": 15.98,
     "started": true
   },
   {
@@ -180803,7 +180759,7 @@
     "player": "Chargers D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 0,
+    "points": 1.0,
     "started": true
   },
   {
@@ -180814,7 +180770,7 @@
     "player": "Dawson Knox",
     "position": "TE",
     "slot": "TE",
-    "points": 3.3,
+    "points": 5.1,
     "started": true
   },
   {
@@ -180825,7 +180781,7 @@
     "player": "Amon-Ra St. Brown",
     "position": "WR",
     "slot": "WR",
-    "points": 13.0,
+    "points": 14.7,
     "started": true
   },
   {
@@ -180858,7 +180814,7 @@
     "player": "Breece Hall",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 19.0,
     "started": true
   },
   {
@@ -180891,7 +180847,7 @@
     "player": "Jakobi Meyers",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 12.5,
     "started": true
   },
   {
@@ -180902,7 +180858,7 @@
     "player": "Isaiah Likely",
     "position": "TE",
     "slot": "TE",
-    "points": 0,
+    "points": 4.5,
     "started": true
   },
   {
@@ -180924,18 +180880,7 @@
     "player": "Tyler Allgeier",
     "position": "RB",
     "slot": "BE",
-    "points": 1.7,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 15,
-    "team": "Project X",
-    "owner": "Xavier",
-    "player": "Terrance Ferguson",
-    "position": "TE",
-    "slot": "BE",
-    "points": 0,
+    "points": 2.3,
     "started": false
   },
   {
@@ -180957,7 +180902,7 @@
     "player": "Brandon Aiyuk",
     "position": "WR",
     "slot": "IR",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -180979,7 +180924,7 @@
     "player": "Jason Sanders",
     "position": "K",
     "slot": "K",
-    "points": 0,
+    "points": 11.0,
     "started": true
   },
   {
@@ -180990,7 +180935,7 @@
     "player": "Derrick Henry",
     "position": "RB",
     "slot": "RB",
-    "points": 8.3,
+    "points": 19.1,
     "started": true
   },
   {
@@ -181001,7 +180946,7 @@
     "player": "Bo Nix",
     "position": "QB",
     "slot": "QB",
-    "points": 0,
+    "points": 11.5,
     "started": true
   },
   {
@@ -181012,7 +180957,7 @@
     "player": "Lions D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 7.0,
+    "points": 6.0,
     "started": true
   },
   {
@@ -181034,7 +180979,7 @@
     "player": "Brock Bowers",
     "position": "TE",
     "slot": "BE",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -181067,7 +181012,7 @@
     "player": "Will Reichard",
     "position": "K",
     "slot": "K",
-    "points": 0,
+    "points": 3.0,
     "started": true
   },
   {
@@ -181089,7 +181034,7 @@
     "player": "Aaron Jones Sr.",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 11.3,
     "started": true
   },
   {
@@ -181100,7 +181045,7 @@
     "player": "Kirk Cousins",
     "position": "QB",
     "slot": "QB",
-    "points": 0,
+    "points": 7.4,
     "started": true
   },
   {
@@ -181122,7 +181067,7 @@
     "player": "Khalil Shakir",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 4.4,
+    "points": 17.3,
     "started": true
   },
   {
@@ -181133,7 +181078,7 @@
     "player": "Bam Knight",
     "position": "RB",
     "slot": "BE",
-    "points": 2.6,
+    "points": 5.5,
     "started": false
   },
   {
@@ -181166,7 +181111,7 @@
     "player": "Michael Mayer",
     "position": "TE",
     "slot": "RB/WR/TE",
-    "points": 0,
+    "points": 1.4,
     "started": true
   },
   {
@@ -181188,7 +181133,7 @@
     "player": "Pat Freiermuth",
     "position": "TE",
     "slot": "TE",
-    "points": 6.6,
+    "points": 9.0,
     "started": true
   },
   {
@@ -181210,7 +181155,7 @@
     "player": "Javonte Williams",
     "position": "RB",
     "slot": "RB",
-    "points": 20.0,
+    "points": 24.1,
     "started": true
   },
   {
@@ -181221,7 +181166,7 @@
     "player": "Trey McBride",
     "position": "TE",
     "slot": "TE",
-    "points": 7.0,
+    "points": 14.8,
     "started": true
   },
   {
@@ -181232,7 +181177,7 @@
     "player": "DJ Moore",
     "position": "WR",
     "slot": "WR",
-    "points": 20.9,
+    "points": 23.1,
     "started": true
   },
   {
@@ -181243,7 +181188,7 @@
     "player": "Patrick Mahomes",
     "position": "QB",
     "slot": "QB",
-    "points": 18.68,
+    "points": 26.96,
     "started": true
   },
   {
@@ -181254,7 +181199,7 @@
     "player": "Jordan Mason",
     "position": "RB",
     "slot": "BE",
-    "points": 0,
+    "points": 4.7,
     "started": false
   },
   {
@@ -181265,7 +181210,7 @@
     "player": "Jalen Coker",
     "position": "WR",
     "slot": "WR",
-    "points": 4.5,
+    "points": 8.7,
     "started": true
   },
   {
@@ -181287,7 +181232,7 @@
     "player": "Jaguars D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 0,
+    "points": 5.0,
     "started": true
   },
   {
@@ -181309,7 +181254,7 @@
     "player": "Cam Skattebo",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 5.8,
     "started": true
   },
   {
@@ -181320,7 +181265,7 @@
     "player": "Colston Loveland",
     "position": "TE",
     "slot": "RB/WR/TE",
-    "points": 10.7,
+    "points": 11.9,
     "started": true
   },
   {
@@ -181364,7 +181309,7 @@
     "player": "Pat Bryant",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 6.2,
     "started": false
   },
   {
@@ -181386,7 +181331,7 @@
     "player": "Jahmyr Gibbs",
     "position": "RB",
     "slot": "RB",
-    "points": 6.0,
+    "points": 27.8,
     "started": true
   },
   {
@@ -181408,7 +181353,7 @@
     "player": "Chris Olave",
     "position": "WR",
     "slot": "WR",
-    "points": 11.3,
+    "points": 21.2,
     "started": true
   },
   {
@@ -181419,7 +181364,7 @@
     "player": "Bhayshul Tuten",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 8.3,
     "started": true
   },
   {
@@ -181441,7 +181386,7 @@
     "player": "Jaylen Warren",
     "position": "RB",
     "slot": "RB/WR/TE",
-    "points": 3.8,
+    "points": 4.9,
     "started": true
   },
   {
@@ -181452,7 +181397,7 @@
     "player": "Rico Dowdle",
     "position": "RB",
     "slot": "BE",
-    "points": 6.2,
+    "points": 7.4,
     "started": false
   },
   {
@@ -181474,7 +181419,7 @@
     "player": "Trevor Lawrence",
     "position": "QB",
     "slot": "QB",
-    "points": 0,
+    "points": 14.74,
     "started": true
   },
   {
@@ -181485,7 +181430,7 @@
     "player": "Broncos D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 0,
+    "points": 12.0,
     "started": true
   },
   {
@@ -181496,7 +181441,7 @@
     "player": "Cam Little",
     "position": "K",
     "slot": "K",
-    "points": 0,
+    "points": 13.0,
     "started": true
   },
   {
@@ -181507,7 +181452,7 @@
     "player": "Jordan Addison",
     "position": "WR",
     "slot": "IR",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -181518,7 +181463,7 @@
     "player": "Brenton Strange",
     "position": "TE",
     "slot": "TE",
-    "points": 0,
+    "points": 4.6,
     "started": true
   },
   {
@@ -181540,7 +181485,7 @@
     "player": "Brian Thomas Jr.",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 8.8,
     "started": false
   },
   {
@@ -181562,7 +181507,7 @@
     "player": "Justice Hill",
     "position": "RB",
     "slot": "BE",
-    "points": 14.7,
+    "points": 17.6,
     "started": false
   },
   {
@@ -181573,7 +181518,7 @@
     "player": "Jauan Jennings",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 5.0,
     "started": false
   },
   {
@@ -181584,7 +181529,7 @@
     "player": "Caleb Williams",
     "position": "QB",
     "slot": "BE",
-    "points": 13.82,
+    "points": 14.34,
     "started": false
   },
   {
@@ -181606,7 +181551,7 @@
     "player": "T.J. Hockenson",
     "position": "TE",
     "slot": "TE",
-    "points": 0,
+    "points": 11.5,
     "started": true
   },
   {
@@ -181617,7 +181562,7 @@
     "player": "J.K. Dobbins",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 0.0,
     "started": true
   },
   {
@@ -181661,7 +181606,7 @@
     "player": "Josh Allen",
     "position": "QB",
     "slot": "QB",
-    "points": 8.12,
+    "points": 14.16,
     "started": true
   },
   {
@@ -181672,7 +181617,7 @@
     "player": "Tyler Bass",
     "position": "K",
     "slot": "BE",
-    "points": 10.0,
+    "points": 17.0,
     "started": false
   },
   {
@@ -181683,7 +181628,7 @@
     "player": "Bills D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 12.0,
+    "points": 11.0,
     "started": true
   },
   {
@@ -181694,7 +181639,7 @@
     "player": "Justin Jefferson",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 13.7,
     "started": true
   },
   {
@@ -181705,7 +181650,7 @@
     "player": "Omar Cooper Jr.",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -181716,7 +181661,7 @@
     "player": "Mike Evans",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 0,
+    "points": 24.9,
     "started": true
   },
   {
@@ -181738,7 +181683,7 @@
     "player": "Gavin Bartholomew",
     "position": "TE",
     "slot": "BE",
-    "points": 0,
+    "points": 1.5,
     "started": false
   },
   {
@@ -181782,7 +181727,7 @@
     "player": "Ollie Gordon II",
     "position": "RB",
     "slot": "RB/WR/TE",
-    "points": 4.1,
+    "points": 8.7,
     "started": true
   },
   {
@@ -181804,7 +181749,7 @@
     "player": "Chuba Hubbard",
     "position": "RB",
     "slot": "RB",
-    "points": 23.0,
+    "points": 28.0,
     "started": true
   },
   {
@@ -181815,7 +181760,7 @@
     "player": "Matt Gay",
     "position": "K",
     "slot": "BE",
-    "points": 0,
+    "points": 6.0,
     "started": false
   },
   {
@@ -181837,7 +181782,7 @@
     "player": "Keenan Allen",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 0,
+    "points": 6.8,
     "started": true
   },
   {
@@ -181848,7 +181793,7 @@
     "player": "Chris Rodriguez Jr.",
     "position": "RB",
     "slot": "BE",
-    "points": 0,
+    "points": 5.1,
     "started": false
   },
   {
@@ -181870,7 +181815,7 @@
     "player": "Deebo Samuel Sr.",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 7.7,
     "started": true
   },
   {
@@ -181881,7 +181826,7 @@
     "player": "Chiefs D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 10.0,
+    "points": 8.0,
     "started": true
   },
   {
@@ -181925,7 +181870,7 @@
     "player": "Jets D/ST",
     "position": "D/ST",
     "slot": "BE",
-    "points": 0,
+    "points": 8.0,
     "started": false
   },
   {
@@ -181936,7 +181881,7 @@
     "player": "Wil Lutz",
     "position": "K",
     "slot": "K",
-    "points": 0,
+    "points": 8.0,
     "started": true
   },
   {
@@ -181958,7 +181903,7 @@
     "player": "Ashton Jeanty",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 31.9,
     "started": true
   },
   {
@@ -181969,7 +181914,7 @@
     "player": "Travis Etienne Jr.",
     "position": "RB",
     "slot": "RB/WR/TE",
-    "points": 6.5,
+    "points": 7.6,
     "started": true
   },
   {
@@ -181980,7 +181925,7 @@
     "player": "Jaylen Waddle",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 9.1,
     "started": true
   },
   {
@@ -182002,7 +181947,7 @@
     "player": "Tony Pollard",
     "position": "RB",
     "slot": "RB",
-    "points": 7.1,
+    "points": 13.0,
     "started": true
   },
   {
@@ -182024,7 +181969,7 @@
     "player": "Brandon Aubrey",
     "position": "K",
     "slot": "K",
-    "points": 4.0,
+    "points": 10.0,
     "started": true
   },
   {
@@ -182035,7 +181980,7 @@
     "player": "Josh Downs",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 7.6,
+    "points": 9.9,
     "started": true
   },
   {
@@ -182079,7 +182024,7 @@
     "player": "Devin Singletary",
     "position": "RB",
     "slot": "BE",
-    "points": 0,
+    "points": 2.0,
     "started": false
   },
   {
@@ -182090,7 +182035,7 @@
     "player": "Bryce Young",
     "position": "QB",
     "slot": "BE",
-    "points": 12.96,
+    "points": 15.96,
     "started": false
   },
   {
@@ -182101,7 +182046,7 @@
     "player": "Tyler Shough",
     "position": "QB",
     "slot": "QB",
-    "points": 9.72,
+    "points": 14.28,
     "started": true
   },
   {
@@ -182123,7 +182068,7 @@
     "player": "Devaughn Vele",
     "position": "WR",
     "slot": "BE",
-    "points": 6.9,
+    "points": 14.6,
     "started": false
   },
   {
@@ -182134,7 +182079,7 @@
     "player": "Malik Nabers",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 18.5,
     "started": true
   },
   {
@@ -182167,7 +182112,7 @@
     "player": "Jared Goff",
     "position": "QB",
     "slot": "BE",
-    "points": 22.62,
+    "points": 24.36,
     "started": false
   },
   {
@@ -182200,7 +182145,7 @@
     "player": "Buccaneers D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 3.0,
+    "points": -1.0,
     "started": true
   },
   {
@@ -182211,7 +182156,7 @@
     "player": "Tre Tucker",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 7.0,
     "started": false
   },
   {
@@ -182233,7 +182178,7 @@
     "player": "Emeka Egbuka",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 1.6,
+    "points": 3.8,
     "started": true
   },
   {
@@ -182266,7 +182211,7 @@
     "player": "Elic Ayomanor",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 2.2,
+    "points": 5.7,
     "started": true
   },
   {
@@ -182277,7 +182222,7 @@
     "player": "Chase McLaughlin",
     "position": "K",
     "slot": "K",
-    "points": 1.0,
+    "points": 3.0,
     "started": true
   },
   {
@@ -182288,7 +182233,7 @@
     "player": "Cam Ward",
     "position": "QB",
     "slot": "QB",
-    "points": 20.1,
+    "points": 26.22,
     "started": true
   },
   {
@@ -182310,7 +182255,7 @@
     "player": "Tommy Tremble",
     "position": "TE",
     "slot": "TE",
-    "points": 0.0,
+    "points": 2.8,
     "started": true
   },
   {
@@ -182332,7 +182277,7 @@
     "player": "Vikings D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 0,
+    "points": 0.0,
     "started": true
   },
   {
@@ -182354,7 +182299,7 @@
     "player": "Saquon Barkley",
     "position": "RB",
     "slot": "RB",
-    "points": 11.8,
+    "points": 13.5,
     "started": true
   },
   {
@@ -182365,7 +182310,7 @@
     "player": "Emmett Johnson",
     "position": "RB",
     "slot": "RB",
-    "points": 21.9,
+    "points": 26.3,
     "started": true
   },
   {
@@ -182409,7 +182354,7 @@
     "player": "Kaelon Black",
     "position": "RB",
     "slot": "BE",
-    "points": 0,
+    "points": 2.5,
     "started": false
   },
   {
@@ -182420,7 +182365,7 @@
     "player": "Zay Flowers",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 13.9,
+    "points": 16.4,
     "started": true
   },
   {
@@ -182442,7 +182387,7 @@
     "player": "Garrett Wilson",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 6.9,
     "started": true
   },
   {
@@ -182464,7 +182409,7 @@
     "player": "DeVonta Smith",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 7.4,
+    "points": 9.1,
     "started": true
   },
   {
@@ -182475,7 +182420,7 @@
     "player": "Parker Washington",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 20.3,
     "started": true
   },
   {
@@ -182519,7 +182464,7 @@
     "player": "Mark Andrews",
     "position": "TE",
     "slot": "BE",
-    "points": 0.0,
+    "points": 3.4,
     "started": false
   },
   {
@@ -182530,7 +182475,7 @@
     "player": "CeeDee Lamb",
     "position": "WR",
     "slot": "WR",
-    "points": 27.3,
+    "points": 32.2,
     "started": true
   },
   {
@@ -182541,7 +182486,7 @@
     "player": "Omarion Hampton",
     "position": "RB",
     "slot": "RB/WR/TE",
-    "points": 0,
+    "points": 10.3,
     "started": true
   },
   {
@@ -182552,7 +182497,7 @@
     "player": "Tetairoa McMillan",
     "position": "WR",
     "slot": "WR",
-    "points": 10.7,
+    "points": 19.1,
     "started": true
   },
   {
@@ -182563,7 +182508,7 @@
     "player": "D'Andre Swift",
     "position": "RB",
     "slot": "RB",
-    "points": 13.5,
+    "points": 11.9,
     "started": true
   },
   {
@@ -182585,7 +182530,7 @@
     "player": "George Kittle",
     "position": "TE",
     "slot": "TE",
-    "points": 0,
+    "points": 18.4,
     "started": true
   },
   {
@@ -182596,7 +182541,7 @@
     "player": "Kyle Monangai",
     "position": "RB",
     "slot": "RB",
-    "points": 0.9,
+    "points": 1.8,
     "started": true
   },
   {
@@ -182618,7 +182563,7 @@
     "player": "Jake Bates",
     "position": "K",
     "slot": "K",
-    "points": 6.0,
+    "points": 8.0,
     "started": true
   },
   {
@@ -182629,7 +182574,7 @@
     "player": "Dak Prescott",
     "position": "QB",
     "slot": "QB",
-    "points": 21.8,
+    "points": 37.9,
     "started": true
   },
   {
@@ -182684,7 +182629,7 @@
     "player": "Steelers D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 9.0,
+    "points": 7.0,
     "started": true
   },
   {
@@ -182695,7 +182640,7 @@
     "player": "Xavier Worthy",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 3.0,
+    "points": 11.8,
     "started": true
   },
   {
@@ -182706,7 +182651,7 @@
     "player": "Christian McCaffrey",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 14.2,
     "started": true
   },
   {
@@ -182717,7 +182662,7 @@
     "player": "George Pickens",
     "position": "WR",
     "slot": "WR",
-    "points": 17.6,
+    "points": 25.8,
     "started": true
   },
   {
@@ -182728,7 +182673,7 @@
     "player": "Jameson Williams",
     "position": "WR",
     "slot": "WR",
-    "points": 22.0,
+    "points": 23.3,
     "started": true
   },
   {
@@ -182783,7 +182728,7 @@
     "player": "De'Zhaun Stribling",
     "position": "WR",
     "slot": "IR",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -182816,7 +182761,7 @@
     "player": "Darren Waller",
     "position": "TE",
     "slot": "BE",
-    "points": 3.5,
+    "points": 7.2,
     "started": false
   },
   {
@@ -182827,7 +182772,7 @@
     "player": "Brock Purdy",
     "position": "QB",
     "slot": "QB",
-    "points": 0,
+    "points": 22.2,
     "started": true
   },
   {
@@ -182838,7 +182783,7 @@
     "player": "Braelon Allen",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 9.4,
     "started": true
   },
   {
@@ -182871,7 +182816,7 @@
     "player": "Bears D/ST",
     "position": "D/ST",
     "slot": "BE",
-    "points": 12.0,
+    "points": 15.0,
     "started": false
   },
   {
@@ -182893,7 +182838,7 @@
     "player": "49ers D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 0,
+    "points": 14.0,
     "started": true
   },
   {
@@ -182904,7 +182849,7 @@
     "player": "James Cook III",
     "position": "RB",
     "slot": "RB",
-    "points": 13.5,
+    "points": 17.2,
     "started": true
   },
   {
@@ -182915,7 +182860,7 @@
     "player": "Ladd McConkey",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 20.7,
     "started": false
   },
   {
@@ -182981,7 +182926,7 @@
     "player": "Chris Boswell",
     "position": "K",
     "slot": "K",
-    "points": 7.0,
+    "points": 13.0,
     "started": true
   },
   {
@@ -182992,7 +182937,7 @@
     "player": "Bucky Irving",
     "position": "RB",
     "slot": "RB",
-    "points": 9.9,
+    "points": 19.0,
     "started": true
   },
   {
@@ -183014,7 +182959,7 @@
     "player": "Jonah Coleman",
     "position": "RB",
     "slot": "RB/WR/TE",
-    "points": 0,
+    "points": 36.9,
     "started": true
   },
   {
@@ -183025,7 +182970,7 @@
     "player": "Courtland Sutton",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 0,
+    "points": 0.0,
     "started": true
   },
   {
@@ -183036,7 +182981,7 @@
     "player": "Adonai Mitchell",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 5.0,
     "started": false
   },
   {
@@ -183058,7 +183003,7 @@
     "player": "Aaron Rodgers",
     "position": "QB",
     "slot": "QB",
-    "points": 6.88,
+    "points": 15.98,
     "started": true
   },
   {
@@ -183080,7 +183025,7 @@
     "player": "Chargers D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 0,
+    "points": 1.0,
     "started": true
   },
   {
@@ -183091,7 +183036,7 @@
     "player": "Dawson Knox",
     "position": "TE",
     "slot": "TE",
-    "points": 3.3,
+    "points": 5.1,
     "started": true
   },
   {
@@ -183102,7 +183047,7 @@
     "player": "Amon-Ra St. Brown",
     "position": "WR",
     "slot": "WR",
-    "points": 13.0,
+    "points": 14.7,
     "started": true
   },
   {
@@ -183135,7 +183080,7 @@
     "player": "Breece Hall",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 19.0,
     "started": true
   },
   {
@@ -183168,7 +183113,7 @@
     "player": "Jakobi Meyers",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 12.5,
     "started": true
   },
   {
@@ -183179,7 +183124,7 @@
     "player": "Isaiah Likely",
     "position": "TE",
     "slot": "TE",
-    "points": 0,
+    "points": 4.5,
     "started": true
   },
   {
@@ -183201,18 +183146,7 @@
     "player": "Tyler Allgeier",
     "position": "RB",
     "slot": "BE",
-    "points": 1.7,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 16,
-    "team": "Project X",
-    "owner": "Xavier",
-    "player": "Terrance Ferguson",
-    "position": "TE",
-    "slot": "BE",
-    "points": 0,
+    "points": 2.3,
     "started": false
   },
   {
@@ -183234,7 +183168,7 @@
     "player": "Brandon Aiyuk",
     "position": "WR",
     "slot": "IR",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -183256,7 +183190,7 @@
     "player": "Jason Sanders",
     "position": "K",
     "slot": "K",
-    "points": 0,
+    "points": 11.0,
     "started": true
   },
   {
@@ -183267,7 +183201,7 @@
     "player": "Derrick Henry",
     "position": "RB",
     "slot": "RB",
-    "points": 8.3,
+    "points": 19.1,
     "started": true
   },
   {
@@ -183278,7 +183212,7 @@
     "player": "Bo Nix",
     "position": "QB",
     "slot": "QB",
-    "points": 0,
+    "points": 11.5,
     "started": true
   },
   {
@@ -183289,7 +183223,7 @@
     "player": "Lions D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 7.0,
+    "points": 6.0,
     "started": true
   },
   {
@@ -183311,7 +183245,7 @@
     "player": "Brock Bowers",
     "position": "TE",
     "slot": "BE",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -183344,7 +183278,7 @@
     "player": "Will Reichard",
     "position": "K",
     "slot": "K",
-    "points": 0,
+    "points": 3.0,
     "started": true
   },
   {
@@ -183366,7 +183300,7 @@
     "player": "Aaron Jones Sr.",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 11.3,
     "started": true
   },
   {
@@ -183377,7 +183311,7 @@
     "player": "Kirk Cousins",
     "position": "QB",
     "slot": "QB",
-    "points": 0,
+    "points": 7.4,
     "started": true
   },
   {
@@ -183399,7 +183333,7 @@
     "player": "Khalil Shakir",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 4.4,
+    "points": 17.3,
     "started": true
   },
   {
@@ -183410,7 +183344,7 @@
     "player": "Bam Knight",
     "position": "RB",
     "slot": "BE",
-    "points": 2.6,
+    "points": 5.5,
     "started": false
   },
   {
@@ -183443,7 +183377,7 @@
     "player": "Michael Mayer",
     "position": "TE",
     "slot": "RB/WR/TE",
-    "points": 0,
+    "points": 1.4,
     "started": true
   },
   {
@@ -183465,7 +183399,7 @@
     "player": "Pat Freiermuth",
     "position": "TE",
     "slot": "TE",
-    "points": 6.6,
+    "points": 9.0,
     "started": true
   },
   {
@@ -183487,7 +183421,7 @@
     "player": "Javonte Williams",
     "position": "RB",
     "slot": "RB",
-    "points": 20.0,
+    "points": 24.1,
     "started": true
   },
   {
@@ -183498,7 +183432,7 @@
     "player": "Trey McBride",
     "position": "TE",
     "slot": "TE",
-    "points": 7.0,
+    "points": 14.8,
     "started": true
   },
   {
@@ -183509,7 +183443,7 @@
     "player": "DJ Moore",
     "position": "WR",
     "slot": "WR",
-    "points": 20.9,
+    "points": 23.1,
     "started": true
   },
   {
@@ -183520,7 +183454,7 @@
     "player": "Patrick Mahomes",
     "position": "QB",
     "slot": "QB",
-    "points": 18.68,
+    "points": 26.96,
     "started": true
   },
   {
@@ -183531,7 +183465,7 @@
     "player": "Jordan Mason",
     "position": "RB",
     "slot": "BE",
-    "points": 0,
+    "points": 4.7,
     "started": false
   },
   {
@@ -183542,7 +183476,7 @@
     "player": "Jalen Coker",
     "position": "WR",
     "slot": "WR",
-    "points": 4.5,
+    "points": 8.7,
     "started": true
   },
   {
@@ -183564,7 +183498,7 @@
     "player": "Jaguars D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 0,
+    "points": 5.0,
     "started": true
   },
   {
@@ -183586,7 +183520,7 @@
     "player": "Cam Skattebo",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 5.8,
     "started": true
   },
   {
@@ -183597,7 +183531,7 @@
     "player": "Colston Loveland",
     "position": "TE",
     "slot": "RB/WR/TE",
-    "points": 10.7,
+    "points": 11.9,
     "started": true
   },
   {
@@ -183641,7 +183575,7 @@
     "player": "Pat Bryant",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 6.2,
     "started": false
   },
   {
@@ -183663,7 +183597,7 @@
     "player": "Jahmyr Gibbs",
     "position": "RB",
     "slot": "RB",
-    "points": 6.0,
+    "points": 27.8,
     "started": true
   },
   {
@@ -183685,7 +183619,7 @@
     "player": "Chris Olave",
     "position": "WR",
     "slot": "WR",
-    "points": 11.3,
+    "points": 21.2,
     "started": true
   },
   {
@@ -183696,7 +183630,7 @@
     "player": "Bhayshul Tuten",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 8.3,
     "started": true
   },
   {
@@ -183718,7 +183652,7 @@
     "player": "Jaylen Warren",
     "position": "RB",
     "slot": "RB/WR/TE",
-    "points": 3.8,
+    "points": 4.9,
     "started": true
   },
   {
@@ -183729,7 +183663,7 @@
     "player": "Rico Dowdle",
     "position": "RB",
     "slot": "BE",
-    "points": 6.2,
+    "points": 7.4,
     "started": false
   },
   {
@@ -183751,7 +183685,7 @@
     "player": "Trevor Lawrence",
     "position": "QB",
     "slot": "QB",
-    "points": 0,
+    "points": 14.74,
     "started": true
   },
   {
@@ -183762,7 +183696,7 @@
     "player": "Broncos D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 0,
+    "points": 12.0,
     "started": true
   },
   {
@@ -183773,7 +183707,7 @@
     "player": "Cam Little",
     "position": "K",
     "slot": "K",
-    "points": 0,
+    "points": 13.0,
     "started": true
   },
   {
@@ -183784,7 +183718,7 @@
     "player": "Jordan Addison",
     "position": "WR",
     "slot": "IR",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -183795,7 +183729,7 @@
     "player": "Brenton Strange",
     "position": "TE",
     "slot": "TE",
-    "points": 0,
+    "points": 4.6,
     "started": true
   },
   {
@@ -183817,7 +183751,7 @@
     "player": "Brian Thomas Jr.",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 8.8,
     "started": false
   },
   {
@@ -183839,7 +183773,7 @@
     "player": "Justice Hill",
     "position": "RB",
     "slot": "BE",
-    "points": 14.7,
+    "points": 17.6,
     "started": false
   },
   {
@@ -183850,7 +183784,7 @@
     "player": "Jauan Jennings",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 5.0,
     "started": false
   },
   {
@@ -183861,7 +183795,7 @@
     "player": "Caleb Williams",
     "position": "QB",
     "slot": "BE",
-    "points": 13.82,
+    "points": 14.34,
     "started": false
   },
   {
@@ -183883,7 +183817,7 @@
     "player": "T.J. Hockenson",
     "position": "TE",
     "slot": "TE",
-    "points": 0,
+    "points": 11.5,
     "started": true
   },
   {
@@ -183894,7 +183828,7 @@
     "player": "J.K. Dobbins",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 0.0,
     "started": true
   },
   {
@@ -183938,7 +183872,7 @@
     "player": "Josh Allen",
     "position": "QB",
     "slot": "QB",
-    "points": 8.12,
+    "points": 14.16,
     "started": true
   },
   {
@@ -183949,7 +183883,7 @@
     "player": "Tyler Bass",
     "position": "K",
     "slot": "BE",
-    "points": 10.0,
+    "points": 17.0,
     "started": false
   },
   {
@@ -183960,7 +183894,7 @@
     "player": "Bills D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 12.0,
+    "points": 11.0,
     "started": true
   },
   {
@@ -183971,7 +183905,7 @@
     "player": "Justin Jefferson",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 13.7,
     "started": true
   },
   {
@@ -183982,7 +183916,7 @@
     "player": "Omar Cooper Jr.",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -183993,7 +183927,7 @@
     "player": "Mike Evans",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 0,
+    "points": 24.9,
     "started": true
   },
   {
@@ -184015,7 +183949,7 @@
     "player": "Gavin Bartholomew",
     "position": "TE",
     "slot": "BE",
-    "points": 0,
+    "points": 1.5,
     "started": false
   },
   {
@@ -184059,7 +183993,7 @@
     "player": "Ollie Gordon II",
     "position": "RB",
     "slot": "RB/WR/TE",
-    "points": 4.1,
+    "points": 8.7,
     "started": true
   },
   {
@@ -184081,7 +184015,7 @@
     "player": "Chuba Hubbard",
     "position": "RB",
     "slot": "RB",
-    "points": 23.0,
+    "points": 28.0,
     "started": true
   },
   {
@@ -184092,7 +184026,7 @@
     "player": "Matt Gay",
     "position": "K",
     "slot": "BE",
-    "points": 0,
+    "points": 6.0,
     "started": false
   },
   {
@@ -184114,7 +184048,7 @@
     "player": "Keenan Allen",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 0,
+    "points": 6.8,
     "started": true
   },
   {
@@ -184125,7 +184059,7 @@
     "player": "Chris Rodriguez Jr.",
     "position": "RB",
     "slot": "BE",
-    "points": 0,
+    "points": 5.1,
     "started": false
   },
   {
@@ -184147,7 +184081,7 @@
     "player": "Deebo Samuel Sr.",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 7.7,
     "started": true
   },
   {
@@ -184158,7 +184092,7 @@
     "player": "Chiefs D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 10.0,
+    "points": 8.0,
     "started": true
   },
   {
@@ -184202,7 +184136,7 @@
     "player": "Jets D/ST",
     "position": "D/ST",
     "slot": "BE",
-    "points": 0,
+    "points": 8.0,
     "started": false
   },
   {
@@ -184213,7 +184147,7 @@
     "player": "Wil Lutz",
     "position": "K",
     "slot": "K",
-    "points": 0,
+    "points": 8.0,
     "started": true
   },
   {
@@ -184235,7 +184169,7 @@
     "player": "Ashton Jeanty",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 31.9,
     "started": true
   },
   {
@@ -184246,7 +184180,7 @@
     "player": "Travis Etienne Jr.",
     "position": "RB",
     "slot": "RB/WR/TE",
-    "points": 6.5,
+    "points": 7.6,
     "started": true
   },
   {
@@ -184257,7 +184191,7 @@
     "player": "Jaylen Waddle",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 9.1,
     "started": true
   },
   {
@@ -184279,7 +184213,7 @@
     "player": "Tony Pollard",
     "position": "RB",
     "slot": "RB",
-    "points": 7.1,
+    "points": 13.0,
     "started": true
   },
   {
@@ -184301,7 +184235,7 @@
     "player": "Brandon Aubrey",
     "position": "K",
     "slot": "K",
-    "points": 4.0,
+    "points": 10.0,
     "started": true
   },
   {
@@ -184312,7 +184246,7 @@
     "player": "Josh Downs",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 7.6,
+    "points": 9.9,
     "started": true
   },
   {
@@ -184356,7 +184290,7 @@
     "player": "Devin Singletary",
     "position": "RB",
     "slot": "BE",
-    "points": 0,
+    "points": 2.0,
     "started": false
   },
   {
@@ -184367,7 +184301,7 @@
     "player": "Bryce Young",
     "position": "QB",
     "slot": "BE",
-    "points": 12.96,
+    "points": 15.96,
     "started": false
   },
   {
@@ -184378,7 +184312,7 @@
     "player": "Tyler Shough",
     "position": "QB",
     "slot": "QB",
-    "points": 9.72,
+    "points": 14.28,
     "started": true
   },
   {
@@ -184400,7 +184334,7 @@
     "player": "Devaughn Vele",
     "position": "WR",
     "slot": "BE",
-    "points": 6.9,
+    "points": 14.6,
     "started": false
   },
   {
@@ -184411,7 +184345,7 @@
     "player": "Malik Nabers",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 18.5,
     "started": true
   },
   {
@@ -184444,7 +184378,7 @@
     "player": "Jared Goff",
     "position": "QB",
     "slot": "BE",
-    "points": 22.62,
+    "points": 24.36,
     "started": false
   },
   {
@@ -184477,7 +184411,7 @@
     "player": "Buccaneers D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 3.0,
+    "points": -1.0,
     "started": true
   },
   {
@@ -184488,7 +184422,7 @@
     "player": "Tre Tucker",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 7.0,
     "started": false
   },
   {
@@ -184510,7 +184444,7 @@
     "player": "Emeka Egbuka",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 1.6,
+    "points": 3.8,
     "started": true
   },
   {
@@ -184543,7 +184477,7 @@
     "player": "Elic Ayomanor",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 2.2,
+    "points": 5.7,
     "started": true
   },
   {
@@ -184554,7 +184488,7 @@
     "player": "Chase McLaughlin",
     "position": "K",
     "slot": "K",
-    "points": 1.0,
+    "points": 3.0,
     "started": true
   },
   {
@@ -184565,7 +184499,7 @@
     "player": "Cam Ward",
     "position": "QB",
     "slot": "QB",
-    "points": 20.1,
+    "points": 26.22,
     "started": true
   },
   {
@@ -184587,7 +184521,7 @@
     "player": "Tommy Tremble",
     "position": "TE",
     "slot": "TE",
-    "points": 0.0,
+    "points": 2.8,
     "started": true
   },
   {
@@ -184609,7 +184543,7 @@
     "player": "Vikings D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 0,
+    "points": 0.0,
     "started": true
   },
   {
@@ -184631,7 +184565,7 @@
     "player": "Saquon Barkley",
     "position": "RB",
     "slot": "RB",
-    "points": 11.8,
+    "points": 13.5,
     "started": true
   },
   {
@@ -184642,7 +184576,7 @@
     "player": "Emmett Johnson",
     "position": "RB",
     "slot": "RB",
-    "points": 21.9,
+    "points": 26.3,
     "started": true
   },
   {
@@ -184686,7 +184620,7 @@
     "player": "Kaelon Black",
     "position": "RB",
     "slot": "BE",
-    "points": 0,
+    "points": 2.5,
     "started": false
   },
   {
@@ -184697,7 +184631,7 @@
     "player": "Zay Flowers",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 13.9,
+    "points": 16.4,
     "started": true
   },
   {
@@ -184719,7 +184653,7 @@
     "player": "Garrett Wilson",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 6.9,
     "started": true
   },
   {
@@ -184741,7 +184675,7 @@
     "player": "DeVonta Smith",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 7.4,
+    "points": 9.1,
     "started": true
   },
   {
@@ -184752,7 +184686,7 @@
     "player": "Parker Washington",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 20.3,
     "started": true
   },
   {
@@ -184796,7 +184730,7 @@
     "player": "Mark Andrews",
     "position": "TE",
     "slot": "BE",
-    "points": 0.0,
+    "points": 3.4,
     "started": false
   },
   {
@@ -184807,7 +184741,7 @@
     "player": "CeeDee Lamb",
     "position": "WR",
     "slot": "WR",
-    "points": 27.3,
+    "points": 32.2,
     "started": true
   },
   {
@@ -184818,7 +184752,7 @@
     "player": "Omarion Hampton",
     "position": "RB",
     "slot": "RB/WR/TE",
-    "points": 0,
+    "points": 10.3,
     "started": true
   },
   {
@@ -184829,7 +184763,7 @@
     "player": "Tetairoa McMillan",
     "position": "WR",
     "slot": "WR",
-    "points": 10.7,
+    "points": 19.1,
     "started": true
   },
   {
@@ -184840,7 +184774,7 @@
     "player": "D'Andre Swift",
     "position": "RB",
     "slot": "RB",
-    "points": 13.5,
+    "points": 11.9,
     "started": true
   },
   {
@@ -184862,7 +184796,7 @@
     "player": "George Kittle",
     "position": "TE",
     "slot": "TE",
-    "points": 0,
+    "points": 18.4,
     "started": true
   },
   {
@@ -184873,7 +184807,7 @@
     "player": "Kyle Monangai",
     "position": "RB",
     "slot": "RB",
-    "points": 0.9,
+    "points": 1.8,
     "started": true
   },
   {
@@ -184895,7 +184829,7 @@
     "player": "Jake Bates",
     "position": "K",
     "slot": "K",
-    "points": 6.0,
+    "points": 8.0,
     "started": true
   },
   {
@@ -184906,7 +184840,7 @@
     "player": "Dak Prescott",
     "position": "QB",
     "slot": "QB",
-    "points": 21.8,
+    "points": 37.9,
     "started": true
   },
   {
@@ -184961,7 +184895,7 @@
     "player": "Steelers D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 9.0,
+    "points": 7.0,
     "started": true
   },
   {
@@ -184972,7 +184906,7 @@
     "player": "Xavier Worthy",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 3.0,
+    "points": 11.8,
     "started": true
   },
   {
@@ -184983,7 +184917,7 @@
     "player": "Christian McCaffrey",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 14.2,
     "started": true
   },
   {
@@ -184994,7 +184928,7 @@
     "player": "George Pickens",
     "position": "WR",
     "slot": "WR",
-    "points": 17.6,
+    "points": 25.8,
     "started": true
   },
   {
@@ -185005,7 +184939,7 @@
     "player": "Jameson Williams",
     "position": "WR",
     "slot": "WR",
-    "points": 22.0,
+    "points": 23.3,
     "started": true
   },
   {
@@ -185060,7 +184994,7 @@
     "player": "De'Zhaun Stribling",
     "position": "WR",
     "slot": "IR",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -185093,7 +185027,7 @@
     "player": "Darren Waller",
     "position": "TE",
     "slot": "BE",
-    "points": 3.5,
+    "points": 7.2,
     "started": false
   },
   {
@@ -185104,7 +185038,7 @@
     "player": "Brock Purdy",
     "position": "QB",
     "slot": "QB",
-    "points": 0,
+    "points": 22.2,
     "started": true
   },
   {
@@ -185115,7 +185049,7 @@
     "player": "Braelon Allen",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 9.4,
     "started": true
   },
   {
@@ -185148,7 +185082,7 @@
     "player": "Bears D/ST",
     "position": "D/ST",
     "slot": "BE",
-    "points": 12.0,
+    "points": 15.0,
     "started": false
   },
   {
@@ -185170,7 +185104,7 @@
     "player": "49ers D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 0,
+    "points": 14.0,
     "started": true
   },
   {
@@ -185181,7 +185115,7 @@
     "player": "James Cook III",
     "position": "RB",
     "slot": "RB",
-    "points": 13.5,
+    "points": 17.2,
     "started": true
   },
   {
@@ -185192,7 +185126,7 @@
     "player": "Ladd McConkey",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 20.7,
     "started": false
   },
   {
@@ -185258,7 +185192,7 @@
     "player": "Chris Boswell",
     "position": "K",
     "slot": "K",
-    "points": 7.0,
+    "points": 13.0,
     "started": true
   },
   {
@@ -185269,7 +185203,7 @@
     "player": "Bucky Irving",
     "position": "RB",
     "slot": "RB",
-    "points": 9.9,
+    "points": 19.0,
     "started": true
   },
   {
@@ -185291,7 +185225,7 @@
     "player": "Jonah Coleman",
     "position": "RB",
     "slot": "RB/WR/TE",
-    "points": 0,
+    "points": 36.9,
     "started": true
   },
   {
@@ -185302,7 +185236,7 @@
     "player": "Courtland Sutton",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 0,
+    "points": 0.0,
     "started": true
   },
   {
@@ -185313,7 +185247,7 @@
     "player": "Adonai Mitchell",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 5.0,
     "started": false
   },
   {
@@ -185335,7 +185269,7 @@
     "player": "Aaron Rodgers",
     "position": "QB",
     "slot": "QB",
-    "points": 6.88,
+    "points": 15.98,
     "started": true
   },
   {
@@ -185357,7 +185291,7 @@
     "player": "Chargers D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 0,
+    "points": 1.0,
     "started": true
   },
   {
@@ -185368,7 +185302,7 @@
     "player": "Dawson Knox",
     "position": "TE",
     "slot": "TE",
-    "points": 3.3,
+    "points": 5.1,
     "started": true
   },
   {
@@ -185379,7 +185313,7 @@
     "player": "Amon-Ra St. Brown",
     "position": "WR",
     "slot": "WR",
-    "points": 13.0,
+    "points": 14.7,
     "started": true
   },
   {
@@ -185412,7 +185346,7 @@
     "player": "Breece Hall",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 19.0,
     "started": true
   },
   {
@@ -185445,7 +185379,7 @@
     "player": "Jakobi Meyers",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 12.5,
     "started": true
   },
   {
@@ -185456,7 +185390,7 @@
     "player": "Isaiah Likely",
     "position": "TE",
     "slot": "TE",
-    "points": 0,
+    "points": 4.5,
     "started": true
   },
   {
@@ -185478,18 +185412,7 @@
     "player": "Tyler Allgeier",
     "position": "RB",
     "slot": "BE",
-    "points": 1.7,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 17,
-    "team": "Project X",
-    "owner": "Xavier",
-    "player": "Terrance Ferguson",
-    "position": "TE",
-    "slot": "BE",
-    "points": 0,
+    "points": 2.3,
     "started": false
   },
   {
@@ -185511,7 +185434,7 @@
     "player": "Brandon Aiyuk",
     "position": "WR",
     "slot": "IR",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -185533,7 +185456,7 @@
     "player": "Jason Sanders",
     "position": "K",
     "slot": "K",
-    "points": 0,
+    "points": 11.0,
     "started": true
   },
   {
@@ -185544,7 +185467,7 @@
     "player": "Derrick Henry",
     "position": "RB",
     "slot": "RB",
-    "points": 8.3,
+    "points": 19.1,
     "started": true
   },
   {
@@ -185555,7 +185478,7 @@
     "player": "Bo Nix",
     "position": "QB",
     "slot": "QB",
-    "points": 0,
+    "points": 11.5,
     "started": true
   },
   {
@@ -185566,7 +185489,7 @@
     "player": "Lions D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 7.0,
+    "points": 6.0,
     "started": true
   },
   {
@@ -185588,7 +185511,7 @@
     "player": "Brock Bowers",
     "position": "TE",
     "slot": "BE",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -185621,7 +185544,7 @@
     "player": "Will Reichard",
     "position": "K",
     "slot": "K",
-    "points": 0,
+    "points": 3.0,
     "started": true
   },
   {
@@ -185643,7 +185566,7 @@
     "player": "Aaron Jones Sr.",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 11.3,
     "started": true
   },
   {
@@ -185654,7 +185577,7 @@
     "player": "Kirk Cousins",
     "position": "QB",
     "slot": "QB",
-    "points": 0,
+    "points": 7.4,
     "started": true
   },
   {
@@ -185676,7 +185599,7 @@
     "player": "Khalil Shakir",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 4.4,
+    "points": 17.3,
     "started": true
   },
   {
@@ -185687,7 +185610,7 @@
     "player": "Bam Knight",
     "position": "RB",
     "slot": "BE",
-    "points": 2.6,
+    "points": 5.5,
     "started": false
   },
   {
@@ -185720,7 +185643,7 @@
     "player": "Michael Mayer",
     "position": "TE",
     "slot": "RB/WR/TE",
-    "points": 0,
+    "points": 1.4,
     "started": true
   },
   {
@@ -185742,7 +185665,7 @@
     "player": "Pat Freiermuth",
     "position": "TE",
     "slot": "TE",
-    "points": 6.6,
+    "points": 9.0,
     "started": true
   },
   {
@@ -185764,7 +185687,7 @@
     "player": "Javonte Williams",
     "position": "RB",
     "slot": "RB",
-    "points": 20.0,
+    "points": 24.1,
     "started": true
   },
   {
@@ -185775,7 +185698,7 @@
     "player": "Trey McBride",
     "position": "TE",
     "slot": "TE",
-    "points": 7.0,
+    "points": 14.8,
     "started": true
   },
   {
@@ -185786,7 +185709,7 @@
     "player": "DJ Moore",
     "position": "WR",
     "slot": "WR",
-    "points": 20.9,
+    "points": 23.1,
     "started": true
   },
   {
@@ -185797,7 +185720,7 @@
     "player": "Patrick Mahomes",
     "position": "QB",
     "slot": "QB",
-    "points": 18.68,
+    "points": 26.96,
     "started": true
   },
   {
@@ -185808,7 +185731,7 @@
     "player": "Jordan Mason",
     "position": "RB",
     "slot": "BE",
-    "points": 0,
+    "points": 4.7,
     "started": false
   },
   {
@@ -185819,7 +185742,7 @@
     "player": "Jalen Coker",
     "position": "WR",
     "slot": "WR",
-    "points": 4.5,
+    "points": 8.7,
     "started": true
   },
   {
@@ -185841,7 +185764,7 @@
     "player": "Jaguars D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 0,
+    "points": 5.0,
     "started": true
   },
   {
@@ -185863,7 +185786,7 @@
     "player": "Cam Skattebo",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 5.8,
     "started": true
   },
   {
@@ -185874,7 +185797,7 @@
     "player": "Colston Loveland",
     "position": "TE",
     "slot": "RB/WR/TE",
-    "points": 10.7,
+    "points": 11.9,
     "started": true
   },
   {
@@ -185918,7 +185841,7 @@
     "player": "Pat Bryant",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 6.2,
     "started": false
   },
   {
@@ -185940,7 +185863,7 @@
     "player": "Jahmyr Gibbs",
     "position": "RB",
     "slot": "RB",
-    "points": 6.0,
+    "points": 27.8,
     "started": true
   },
   {
@@ -185962,7 +185885,7 @@
     "player": "Chris Olave",
     "position": "WR",
     "slot": "WR",
-    "points": 11.3,
+    "points": 21.2,
     "started": true
   },
   {
@@ -185973,7 +185896,7 @@
     "player": "Bhayshul Tuten",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 8.3,
     "started": true
   },
   {
@@ -185995,7 +185918,7 @@
     "player": "Jaylen Warren",
     "position": "RB",
     "slot": "RB/WR/TE",
-    "points": 3.8,
+    "points": 4.9,
     "started": true
   },
   {
@@ -186006,7 +185929,7 @@
     "player": "Rico Dowdle",
     "position": "RB",
     "slot": "BE",
-    "points": 6.2,
+    "points": 7.4,
     "started": false
   },
   {
@@ -186028,7 +185951,7 @@
     "player": "Trevor Lawrence",
     "position": "QB",
     "slot": "QB",
-    "points": 0,
+    "points": 14.74,
     "started": true
   },
   {
@@ -186039,7 +185962,7 @@
     "player": "Broncos D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 0,
+    "points": 12.0,
     "started": true
   },
   {
@@ -186050,7 +185973,7 @@
     "player": "Cam Little",
     "position": "K",
     "slot": "K",
-    "points": 0,
+    "points": 13.0,
     "started": true
   },
   {
@@ -186061,7 +185984,7 @@
     "player": "Jordan Addison",
     "position": "WR",
     "slot": "IR",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -186072,7 +185995,7 @@
     "player": "Brenton Strange",
     "position": "TE",
     "slot": "TE",
-    "points": 0,
+    "points": 4.6,
     "started": true
   },
   {
@@ -186094,7 +186017,7 @@
     "player": "Brian Thomas Jr.",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 8.8,
     "started": false
   },
   {
@@ -186116,7 +186039,7 @@
     "player": "Justice Hill",
     "position": "RB",
     "slot": "BE",
-    "points": 14.7,
+    "points": 17.6,
     "started": false
   },
   {
@@ -186127,7 +186050,7 @@
     "player": "Jauan Jennings",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 5.0,
     "started": false
   },
   {
@@ -186138,7 +186061,7 @@
     "player": "Caleb Williams",
     "position": "QB",
     "slot": "BE",
-    "points": 13.82,
+    "points": 14.34,
     "started": false
   },
   {
@@ -186160,7 +186083,7 @@
     "player": "T.J. Hockenson",
     "position": "TE",
     "slot": "TE",
-    "points": 0,
+    "points": 11.5,
     "started": true
   },
   {
@@ -186171,7 +186094,7 @@
     "player": "J.K. Dobbins",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 0.0,
     "started": true
   },
   {
@@ -186215,7 +186138,7 @@
     "player": "Josh Allen",
     "position": "QB",
     "slot": "QB",
-    "points": 8.12,
+    "points": 14.16,
     "started": true
   },
   {
@@ -186226,7 +186149,7 @@
     "player": "Tyler Bass",
     "position": "K",
     "slot": "BE",
-    "points": 10.0,
+    "points": 17.0,
     "started": false
   },
   {
@@ -186237,7 +186160,7 @@
     "player": "Bills D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 12.0,
+    "points": 11.0,
     "started": true
   },
   {
@@ -186248,7 +186171,7 @@
     "player": "Justin Jefferson",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 13.7,
     "started": true
   },
   {
@@ -186259,7 +186182,7 @@
     "player": "Omar Cooper Jr.",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -186270,7 +186193,7 @@
     "player": "Mike Evans",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 0,
+    "points": 24.9,
     "started": true
   },
   {
@@ -186292,7 +186215,7 @@
     "player": "Gavin Bartholomew",
     "position": "TE",
     "slot": "BE",
-    "points": 0,
+    "points": 1.5,
     "started": false
   },
   {
