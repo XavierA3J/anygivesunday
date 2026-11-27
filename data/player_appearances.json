@@ -172674,7 +172674,7 @@
     "player": "Travis Kelce",
     "position": "TE",
     "slot": "TE",
-    "points": 0,
+    "points": 11.1,
     "started": true
   },
   {
@@ -172762,7 +172762,7 @@
     "player": "Chiefs D/ST",
     "position": "D/ST",
     "slot": "BE",
-    "points": 0,
+    "points": 11.0,
     "started": false
   },
   {
@@ -172817,7 +172817,7 @@
     "player": "Wil Lutz",
     "position": "K",
     "slot": "K",
-    "points": 0,
+    "points": 4.0,
     "started": true
   },
   {
@@ -172839,7 +172839,7 @@
     "player": "Roman Wilson",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -172872,7 +172872,7 @@
     "player": "Makai Lemon",
     "position": "WR",
     "slot": "BE",
-    "points": 0.0,
+    "points": 16.1,
     "started": false
   },
   {
@@ -172927,7 +172927,7 @@
     "player": "Rashee Rice",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 3.9,
     "started": true
   },
   {
@@ -173015,7 +173015,7 @@
     "player": "George Pickens",
     "position": "WR",
     "slot": "WR",
-    "points": 0.0,
+    "points": 11.7,
     "started": true
   },
   {
@@ -173147,7 +173147,7 @@
     "player": "Kenneth Walker III",
     "position": "RB",
     "slot": "BE",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -173169,7 +173169,7 @@
     "player": "Bears D/ST",
     "position": "D/ST",
     "slot": "BE",
-    "points": -4.0,
+    "points": -3.0,
     "started": false
   },
   {
@@ -173188,7 +173188,7 @@
     "week": 12,
     "team": "The substation",
     "owner": "Daniel",
-    "player": "Geno Smith",
+    "player": "Mac Jones",
     "position": "QB",
     "slot": "BE",
     "points": 0,
@@ -173367,7 +173367,7 @@
     "player": "Bo Nix",
     "position": "QB",
     "slot": "BE",
-    "points": 0,
+    "points": -1.28,
     "started": false
   },
   {
@@ -173432,9 +173432,9 @@
     "owner": "Jose",
     "player": "Bhayshul Tuten",
     "position": "RB",
-    "slot": "RB",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -173454,8 +173454,8 @@
     "owner": "Jose",
     "player": "Jaylen Warren",
     "position": "RB",
-    "slot": "RB/WR/TE",
-    "points": 0,
+    "slot": "RB",
+    "points": 3.6,
     "started": true
   },
   {
@@ -173465,9 +173465,9 @@
     "owner": "Jose",
     "player": "Rico Dowdle",
     "position": "RB",
-    "slot": "BE",
-    "points": 0,
-    "started": false
+    "slot": "RB/WR/TE",
+    "points": 2.9,
+    "started": true
   },
   {
     "year": 2026,
@@ -173499,7 +173499,7 @@
     "player": "Broncos D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 0,
+    "points": 10.0,
     "started": true
   },
   {
@@ -173620,7 +173620,7 @@
     "player": "J.K. Dobbins",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 0.0,
     "started": true
   },
   {
@@ -173664,7 +173664,7 @@
     "player": "Josh Allen",
     "position": "QB",
     "slot": "QB",
-    "points": 0,
+    "points": 3.54,
     "started": true
   },
   {
@@ -173675,7 +173675,7 @@
     "player": "Tyler Bass",
     "position": "K",
     "slot": "BE",
-    "points": 0,
+    "points": 11.0,
     "started": false
   },
   {
@@ -173686,7 +173686,7 @@
     "player": "Bills D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 0,
+    "points": 6.0,
     "started": true
   },
   {
@@ -173796,7 +173796,7 @@
     "player": "Jaylen Waddle",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 4.7,
     "started": true
   },
   {
@@ -173829,7 +173829,7 @@
     "player": "Michael Pittman Jr.",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 1.7,
     "started": false
   },
   {
@@ -173840,7 +173840,7 @@
     "player": "Brandon Aubrey",
     "position": "K",
     "slot": "K",
-    "points": 1.0,
+    "points": 8.0,
     "started": true
   },
   {
@@ -173851,7 +173851,7 @@
     "player": "Josh Downs",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 0,
+    "points": 2.3,
     "started": true
   },
   {
@@ -173862,7 +173862,7 @@
     "player": "Dallas Goedert",
     "position": "TE",
     "slot": "BE",
-    "points": 0.0,
+    "points": 1.9,
     "started": false
   },
   {
@@ -173961,7 +173961,7 @@
     "player": "Javonte Williams",
     "position": "RB",
     "slot": "RB",
-    "points": 11.0,
+    "points": 35.3,
     "started": true
   },
   {
@@ -173983,7 +173983,7 @@
     "player": "DJ Moore",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 3.5,
     "started": true
   },
   {
@@ -173994,7 +173994,7 @@
     "player": "Patrick Mahomes",
     "position": "QB",
     "slot": "QB",
-    "points": 0,
+    "points": 7.16,
     "started": true
   },
   {
@@ -174225,7 +174225,7 @@
     "player": "Keon Coleman",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -174236,7 +174236,7 @@
     "player": "Khalil Shakir",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 0,
+    "points": 6.3,
     "started": true
   },
   {
@@ -174313,7 +174313,7 @@
     "player": "CeeDee Lamb",
     "position": "WR",
     "slot": "WR",
-    "points": 3.8,
+    "points": 22.4,
     "started": true
   },
   {
@@ -174412,7 +174412,7 @@
     "player": "Dak Prescott",
     "position": "QB",
     "slot": "QB",
-    "points": 1.32,
+    "points": 25.54,
     "started": true
   },
   {
@@ -174467,7 +174467,7 @@
     "player": "Xavier Worthy",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -174475,10 +174475,10 @@
     "week": 12,
     "team": "Franklin's Football Turtles",
     "owner": "Frankie",
-    "player": "Giants D/ST",
+    "player": "Steelers D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 0,
+    "points": 26.0,
     "started": true
   },
   {
@@ -174489,7 +174489,7 @@
     "player": "James Cook III",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 21.5,
     "started": true
   },
   {
@@ -174511,7 +174511,7 @@
     "player": "DK Metcalf",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 12.6,
     "started": false
   },
   {
@@ -174544,7 +174544,7 @@
     "player": "Dalton Kincaid",
     "position": "TE",
     "slot": "IR",
-    "points": 0,
+    "points": 3.3,
     "started": false
   },
   {
@@ -174566,7 +174566,7 @@
     "player": "Chris Boswell",
     "position": "K",
     "slot": "K",
-    "points": 0,
+    "points": 7.0,
     "started": true
   },
   {
@@ -174599,7 +174599,7 @@
     "player": "Jonah Coleman",
     "position": "RB",
     "slot": "RB/WR/TE",
-    "points": 0,
+    "points": 6.9,
     "started": true
   },
   {
@@ -174610,7 +174610,7 @@
     "player": "Courtland Sutton",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 1.4,
     "started": false
   },
   {
@@ -174665,7 +174665,7 @@
     "player": "Dawson Knox",
     "position": "TE",
     "slot": "BE",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -174709,7 +174709,7 @@
     "player": "Saquon Barkley",
     "position": "RB",
     "slot": "RB",
-    "points": 0.2,
+    "points": 0.7,
     "started": true
   },
   {
@@ -174720,7 +174720,7 @@
     "player": "Emmett Johnson",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 19.6,
     "started": true
   },
   {
@@ -174805,21 +174805,10 @@
     "week": 12,
     "team": "Kangaroo Bouncers",
     "owner": "Sway",
-    "player": "Jonathon Brooks",
-    "position": "RB",
-    "slot": "IR",
-    "points": 0,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 12,
-    "team": "Kangaroo Bouncers",
-    "owner": "Sway",
     "player": "DeVonta Smith",
     "position": "WR",
     "slot": "WR",
-    "points": 0.0,
+    "points": 51.0,
     "started": true
   },
   {
@@ -174829,9 +174818,9 @@
     "owner": "Sway",
     "player": "Parker Washington",
     "position": "WR",
-    "slot": "WR",
+    "slot": "IR",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -174851,9 +174840,9 @@
     "owner": "Sway",
     "player": "Xavier Hutchinson",
     "position": "WR",
-    "slot": "BE",
+    "slot": "WR",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -174875,6 +174864,17 @@
     "position": "WR",
     "slot": "BE",
     "points": 0,
+    "started": false
+  },
+  {
+    "year": 2026,
+    "week": 12,
+    "team": "Kangaroo Bouncers",
+    "owner": "Sway",
+    "player": "Pat Bryant",
+    "position": "WR",
+    "slot": "BE",
+    "points": 3.0,
     "started": false
   },
   {
@@ -174918,7 +174918,7 @@
     "player": "Travis Kelce",
     "position": "TE",
     "slot": "TE",
-    "points": 0,
+    "points": 11.1,
     "started": true
   },
   {
@@ -175006,7 +175006,7 @@
     "player": "Chiefs D/ST",
     "position": "D/ST",
     "slot": "BE",
-    "points": 0,
+    "points": 11.0,
     "started": false
   },
   {
@@ -175061,7 +175061,7 @@
     "player": "Wil Lutz",
     "position": "K",
     "slot": "K",
-    "points": 0,
+    "points": 4.0,
     "started": true
   },
   {
@@ -175083,7 +175083,7 @@
     "player": "Roman Wilson",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -175116,7 +175116,7 @@
     "player": "Makai Lemon",
     "position": "WR",
     "slot": "BE",
-    "points": 0.0,
+    "points": 16.1,
     "started": false
   },
   {
@@ -175171,7 +175171,7 @@
     "player": "Rashee Rice",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 3.9,
     "started": true
   },
   {
@@ -175259,7 +175259,7 @@
     "player": "George Pickens",
     "position": "WR",
     "slot": "WR",
-    "points": 0.0,
+    "points": 11.7,
     "started": true
   },
   {
@@ -175391,7 +175391,7 @@
     "player": "Kenneth Walker III",
     "position": "RB",
     "slot": "BE",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -175413,7 +175413,7 @@
     "player": "Bears D/ST",
     "position": "D/ST",
     "slot": "BE",
-    "points": -4.0,
+    "points": -3.0,
     "started": false
   },
   {
@@ -175432,7 +175432,7 @@
     "week": 13,
     "team": "The substation",
     "owner": "Daniel",
-    "player": "Geno Smith",
+    "player": "Mac Jones",
     "position": "QB",
     "slot": "BE",
     "points": 0,
@@ -175611,7 +175611,7 @@
     "player": "Bo Nix",
     "position": "QB",
     "slot": "BE",
-    "points": 0,
+    "points": -1.28,
     "started": false
   },
   {
@@ -175676,9 +175676,9 @@
     "owner": "Jose",
     "player": "Bhayshul Tuten",
     "position": "RB",
-    "slot": "RB",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -175698,8 +175698,8 @@
     "owner": "Jose",
     "player": "Jaylen Warren",
     "position": "RB",
-    "slot": "RB/WR/TE",
-    "points": 0,
+    "slot": "RB",
+    "points": 3.6,
     "started": true
   },
   {
@@ -175709,9 +175709,9 @@
     "owner": "Jose",
     "player": "Rico Dowdle",
     "position": "RB",
-    "slot": "BE",
-    "points": 0,
-    "started": false
+    "slot": "RB/WR/TE",
+    "points": 2.9,
+    "started": true
   },
   {
     "year": 2026,
@@ -175743,7 +175743,7 @@
     "player": "Broncos D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 0,
+    "points": 10.0,
     "started": true
   },
   {
@@ -175864,7 +175864,7 @@
     "player": "J.K. Dobbins",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 0.0,
     "started": true
   },
   {
@@ -175908,7 +175908,7 @@
     "player": "Josh Allen",
     "position": "QB",
     "slot": "QB",
-    "points": 0,
+    "points": 3.54,
     "started": true
   },
   {
@@ -175919,7 +175919,7 @@
     "player": "Tyler Bass",
     "position": "K",
     "slot": "BE",
-    "points": 0,
+    "points": 11.0,
     "started": false
   },
   {
@@ -175930,7 +175930,7 @@
     "player": "Bills D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 0,
+    "points": 6.0,
     "started": true
   },
   {
@@ -176040,7 +176040,7 @@
     "player": "Jaylen Waddle",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 4.7,
     "started": true
   },
   {
@@ -176073,7 +176073,7 @@
     "player": "Michael Pittman Jr.",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 1.7,
     "started": false
   },
   {
@@ -176084,7 +176084,7 @@
     "player": "Brandon Aubrey",
     "position": "K",
     "slot": "K",
-    "points": 1.0,
+    "points": 8.0,
     "started": true
   },
   {
@@ -176095,7 +176095,7 @@
     "player": "Josh Downs",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 0,
+    "points": 2.3,
     "started": true
   },
   {
@@ -176106,7 +176106,7 @@
     "player": "Dallas Goedert",
     "position": "TE",
     "slot": "BE",
-    "points": 0.0,
+    "points": 1.9,
     "started": false
   },
   {
@@ -176205,7 +176205,7 @@
     "player": "Javonte Williams",
     "position": "RB",
     "slot": "RB",
-    "points": 11.0,
+    "points": 35.3,
     "started": true
   },
   {
@@ -176227,7 +176227,7 @@
     "player": "DJ Moore",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 3.5,
     "started": true
   },
   {
@@ -176238,7 +176238,7 @@
     "player": "Patrick Mahomes",
     "position": "QB",
     "slot": "QB",
-    "points": 0,
+    "points": 7.16,
     "started": true
   },
   {
@@ -176469,7 +176469,7 @@
     "player": "Keon Coleman",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -176480,7 +176480,7 @@
     "player": "Khalil Shakir",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 0,
+    "points": 6.3,
     "started": true
   },
   {
@@ -176557,7 +176557,7 @@
     "player": "CeeDee Lamb",
     "position": "WR",
     "slot": "WR",
-    "points": 3.8,
+    "points": 22.4,
     "started": true
   },
   {
@@ -176656,7 +176656,7 @@
     "player": "Dak Prescott",
     "position": "QB",
     "slot": "QB",
-    "points": 1.32,
+    "points": 25.54,
     "started": true
   },
   {
@@ -176711,7 +176711,7 @@
     "player": "Xavier Worthy",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -176719,10 +176719,10 @@
     "week": 13,
     "team": "Franklin's Football Turtles",
     "owner": "Frankie",
-    "player": "Giants D/ST",
+    "player": "Steelers D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 0,
+    "points": 26.0,
     "started": true
   },
   {
@@ -176733,7 +176733,7 @@
     "player": "James Cook III",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 21.5,
     "started": true
   },
   {
@@ -176755,7 +176755,7 @@
     "player": "DK Metcalf",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 12.6,
     "started": false
   },
   {
@@ -176788,7 +176788,7 @@
     "player": "Dalton Kincaid",
     "position": "TE",
     "slot": "IR",
-    "points": 0,
+    "points": 3.3,
     "started": false
   },
   {
@@ -176810,7 +176810,7 @@
     "player": "Chris Boswell",
     "position": "K",
     "slot": "K",
-    "points": 0,
+    "points": 7.0,
     "started": true
   },
   {
@@ -176843,7 +176843,7 @@
     "player": "Jonah Coleman",
     "position": "RB",
     "slot": "RB/WR/TE",
-    "points": 0,
+    "points": 6.9,
     "started": true
   },
   {
@@ -176854,7 +176854,7 @@
     "player": "Courtland Sutton",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 1.4,
     "started": false
   },
   {
@@ -176909,7 +176909,7 @@
     "player": "Dawson Knox",
     "position": "TE",
     "slot": "BE",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -176953,7 +176953,7 @@
     "player": "Saquon Barkley",
     "position": "RB",
     "slot": "RB",
-    "points": 0.2,
+    "points": 0.7,
     "started": true
   },
   {
@@ -176964,7 +176964,7 @@
     "player": "Emmett Johnson",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 19.6,
     "started": true
   },
   {
@@ -177049,21 +177049,10 @@
     "week": 13,
     "team": "Kangaroo Bouncers",
     "owner": "Sway",
-    "player": "Jonathon Brooks",
-    "position": "RB",
-    "slot": "IR",
-    "points": 0,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 13,
-    "team": "Kangaroo Bouncers",
-    "owner": "Sway",
     "player": "DeVonta Smith",
     "position": "WR",
     "slot": "WR",
-    "points": 0.0,
+    "points": 51.0,
     "started": true
   },
   {
@@ -177073,9 +177062,9 @@
     "owner": "Sway",
     "player": "Parker Washington",
     "position": "WR",
-    "slot": "WR",
+    "slot": "IR",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -177095,9 +177084,9 @@
     "owner": "Sway",
     "player": "Xavier Hutchinson",
     "position": "WR",
-    "slot": "BE",
+    "slot": "WR",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -177119,6 +177108,17 @@
     "position": "WR",
     "slot": "BE",
     "points": 0,
+    "started": false
+  },
+  {
+    "year": 2026,
+    "week": 13,
+    "team": "Kangaroo Bouncers",
+    "owner": "Sway",
+    "player": "Pat Bryant",
+    "position": "WR",
+    "slot": "BE",
+    "points": 3.0,
     "started": false
   },
   {
@@ -177162,7 +177162,7 @@
     "player": "Travis Kelce",
     "position": "TE",
     "slot": "TE",
-    "points": 0,
+    "points": 11.1,
     "started": true
   },
   {
@@ -177250,7 +177250,7 @@
     "player": "Chiefs D/ST",
     "position": "D/ST",
     "slot": "BE",
-    "points": 0,
+    "points": 11.0,
     "started": false
   },
   {
@@ -177305,7 +177305,7 @@
     "player": "Wil Lutz",
     "position": "K",
     "slot": "K",
-    "points": 0,
+    "points": 4.0,
     "started": true
   },
   {
@@ -177327,7 +177327,7 @@
     "player": "Roman Wilson",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -177360,7 +177360,7 @@
     "player": "Makai Lemon",
     "position": "WR",
     "slot": "BE",
-    "points": 0.0,
+    "points": 16.1,
     "started": false
   },
   {
@@ -177415,7 +177415,7 @@
     "player": "Rashee Rice",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 3.9,
     "started": true
   },
   {
@@ -177503,7 +177503,7 @@
     "player": "George Pickens",
     "position": "WR",
     "slot": "WR",
-    "points": 0.0,
+    "points": 11.7,
     "started": true
   },
   {
@@ -177635,7 +177635,7 @@
     "player": "Kenneth Walker III",
     "position": "RB",
     "slot": "BE",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -177657,7 +177657,7 @@
     "player": "Bears D/ST",
     "position": "D/ST",
     "slot": "BE",
-    "points": -4.0,
+    "points": -3.0,
     "started": false
   },
   {
@@ -177676,7 +177676,7 @@
     "week": 14,
     "team": "The substation",
     "owner": "Daniel",
-    "player": "Geno Smith",
+    "player": "Mac Jones",
     "position": "QB",
     "slot": "BE",
     "points": 0,
@@ -177855,7 +177855,7 @@
     "player": "Bo Nix",
     "position": "QB",
     "slot": "BE",
-    "points": 0,
+    "points": -1.28,
     "started": false
   },
   {
@@ -177920,9 +177920,9 @@
     "owner": "Jose",
     "player": "Bhayshul Tuten",
     "position": "RB",
-    "slot": "RB",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -177942,8 +177942,8 @@
     "owner": "Jose",
     "player": "Jaylen Warren",
     "position": "RB",
-    "slot": "RB/WR/TE",
-    "points": 0,
+    "slot": "RB",
+    "points": 3.6,
     "started": true
   },
   {
@@ -177953,9 +177953,9 @@
     "owner": "Jose",
     "player": "Rico Dowdle",
     "position": "RB",
-    "slot": "BE",
-    "points": 0,
-    "started": false
+    "slot": "RB/WR/TE",
+    "points": 2.9,
+    "started": true
   },
   {
     "year": 2026,
@@ -177987,7 +177987,7 @@
     "player": "Broncos D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 0,
+    "points": 10.0,
     "started": true
   },
   {
@@ -178108,7 +178108,7 @@
     "player": "J.K. Dobbins",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 0.0,
     "started": true
   },
   {
@@ -178152,7 +178152,7 @@
     "player": "Josh Allen",
     "position": "QB",
     "slot": "QB",
-    "points": 0,
+    "points": 3.54,
     "started": true
   },
   {
@@ -178163,7 +178163,7 @@
     "player": "Tyler Bass",
     "position": "K",
     "slot": "BE",
-    "points": 0,
+    "points": 11.0,
     "started": false
   },
   {
@@ -178174,7 +178174,7 @@
     "player": "Bills D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 0,
+    "points": 6.0,
     "started": true
   },
   {
@@ -178284,7 +178284,7 @@
     "player": "Jaylen Waddle",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 4.7,
     "started": true
   },
   {
@@ -178317,7 +178317,7 @@
     "player": "Michael Pittman Jr.",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 1.7,
     "started": false
   },
   {
@@ -178328,7 +178328,7 @@
     "player": "Brandon Aubrey",
     "position": "K",
     "slot": "K",
-    "points": 1.0,
+    "points": 8.0,
     "started": true
   },
   {
@@ -178339,7 +178339,7 @@
     "player": "Josh Downs",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 0,
+    "points": 2.3,
     "started": true
   },
   {
@@ -178350,7 +178350,7 @@
     "player": "Dallas Goedert",
     "position": "TE",
     "slot": "BE",
-    "points": 0.0,
+    "points": 1.9,
     "started": false
   },
   {
@@ -178449,7 +178449,7 @@
     "player": "Javonte Williams",
     "position": "RB",
     "slot": "RB",
-    "points": 11.0,
+    "points": 35.3,
     "started": true
   },
   {
@@ -178471,7 +178471,7 @@
     "player": "DJ Moore",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 3.5,
     "started": true
   },
   {
@@ -178482,7 +178482,7 @@
     "player": "Patrick Mahomes",
     "position": "QB",
     "slot": "QB",
-    "points": 0,
+    "points": 7.16,
     "started": true
   },
   {
@@ -178713,7 +178713,7 @@
     "player": "Keon Coleman",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -178724,7 +178724,7 @@
     "player": "Khalil Shakir",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 0,
+    "points": 6.3,
     "started": true
   },
   {
@@ -178801,7 +178801,7 @@
     "player": "CeeDee Lamb",
     "position": "WR",
     "slot": "WR",
-    "points": 3.8,
+    "points": 22.4,
     "started": true
   },
   {
@@ -178900,7 +178900,7 @@
     "player": "Dak Prescott",
     "position": "QB",
     "slot": "QB",
-    "points": 1.32,
+    "points": 25.54,
     "started": true
   },
   {
@@ -178955,7 +178955,7 @@
     "player": "Xavier Worthy",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -178963,10 +178963,10 @@
     "week": 14,
     "team": "Franklin's Football Turtles",
     "owner": "Frankie",
-    "player": "Giants D/ST",
+    "player": "Steelers D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 0,
+    "points": 26.0,
     "started": true
   },
   {
@@ -178977,7 +178977,7 @@
     "player": "James Cook III",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 21.5,
     "started": true
   },
   {
@@ -178999,7 +178999,7 @@
     "player": "DK Metcalf",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 12.6,
     "started": false
   },
   {
@@ -179032,7 +179032,7 @@
     "player": "Dalton Kincaid",
     "position": "TE",
     "slot": "IR",
-    "points": 0,
+    "points": 3.3,
     "started": false
   },
   {
@@ -179054,7 +179054,7 @@
     "player": "Chris Boswell",
     "position": "K",
     "slot": "K",
-    "points": 0,
+    "points": 7.0,
     "started": true
   },
   {
@@ -179087,7 +179087,7 @@
     "player": "Jonah Coleman",
     "position": "RB",
     "slot": "RB/WR/TE",
-    "points": 0,
+    "points": 6.9,
     "started": true
   },
   {
@@ -179098,7 +179098,7 @@
     "player": "Courtland Sutton",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 1.4,
     "started": false
   },
   {
@@ -179153,7 +179153,7 @@
     "player": "Dawson Knox",
     "position": "TE",
     "slot": "BE",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -179197,7 +179197,7 @@
     "player": "Saquon Barkley",
     "position": "RB",
     "slot": "RB",
-    "points": 0.2,
+    "points": 0.7,
     "started": true
   },
   {
@@ -179208,7 +179208,7 @@
     "player": "Emmett Johnson",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 19.6,
     "started": true
   },
   {
@@ -179293,21 +179293,10 @@
     "week": 14,
     "team": "Kangaroo Bouncers",
     "owner": "Sway",
-    "player": "Jonathon Brooks",
-    "position": "RB",
-    "slot": "IR",
-    "points": 0,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 14,
-    "team": "Kangaroo Bouncers",
-    "owner": "Sway",
     "player": "DeVonta Smith",
     "position": "WR",
     "slot": "WR",
-    "points": 0.0,
+    "points": 51.0,
     "started": true
   },
   {
@@ -179317,9 +179306,9 @@
     "owner": "Sway",
     "player": "Parker Washington",
     "position": "WR",
-    "slot": "WR",
+    "slot": "IR",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -179339,9 +179328,9 @@
     "owner": "Sway",
     "player": "Xavier Hutchinson",
     "position": "WR",
-    "slot": "BE",
+    "slot": "WR",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -179363,6 +179352,17 @@
     "position": "WR",
     "slot": "BE",
     "points": 0,
+    "started": false
+  },
+  {
+    "year": 2026,
+    "week": 14,
+    "team": "Kangaroo Bouncers",
+    "owner": "Sway",
+    "player": "Pat Bryant",
+    "position": "WR",
+    "slot": "BE",
+    "points": 3.0,
     "started": false
   },
   {
@@ -179406,7 +179406,7 @@
     "player": "Travis Kelce",
     "position": "TE",
     "slot": "TE",
-    "points": 0,
+    "points": 11.1,
     "started": true
   },
   {
@@ -179494,7 +179494,7 @@
     "player": "Chiefs D/ST",
     "position": "D/ST",
     "slot": "BE",
-    "points": 0,
+    "points": 11.0,
     "started": false
   },
   {
@@ -179549,7 +179549,7 @@
     "player": "Wil Lutz",
     "position": "K",
     "slot": "K",
-    "points": 0,
+    "points": 4.0,
     "started": true
   },
   {
@@ -179571,7 +179571,7 @@
     "player": "Roman Wilson",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -179604,7 +179604,7 @@
     "player": "Makai Lemon",
     "position": "WR",
     "slot": "BE",
-    "points": 0.0,
+    "points": 16.1,
     "started": false
   },
   {
@@ -179659,7 +179659,7 @@
     "player": "Rashee Rice",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 3.9,
     "started": true
   },
   {
@@ -179747,7 +179747,7 @@
     "player": "George Pickens",
     "position": "WR",
     "slot": "WR",
-    "points": 0.0,
+    "points": 11.7,
     "started": true
   },
   {
@@ -179879,7 +179879,7 @@
     "player": "Kenneth Walker III",
     "position": "RB",
     "slot": "BE",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -179901,7 +179901,7 @@
     "player": "Bears D/ST",
     "position": "D/ST",
     "slot": "BE",
-    "points": -4.0,
+    "points": -3.0,
     "started": false
   },
   {
@@ -179920,7 +179920,7 @@
     "week": 15,
     "team": "The substation",
     "owner": "Daniel",
-    "player": "Geno Smith",
+    "player": "Mac Jones",
     "position": "QB",
     "slot": "BE",
     "points": 0,
@@ -180099,7 +180099,7 @@
     "player": "Bo Nix",
     "position": "QB",
     "slot": "BE",
-    "points": 0,
+    "points": -1.28,
     "started": false
   },
   {
@@ -180164,9 +180164,9 @@
     "owner": "Jose",
     "player": "Bhayshul Tuten",
     "position": "RB",
-    "slot": "RB",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -180186,8 +180186,8 @@
     "owner": "Jose",
     "player": "Jaylen Warren",
     "position": "RB",
-    "slot": "RB/WR/TE",
-    "points": 0,
+    "slot": "RB",
+    "points": 3.6,
     "started": true
   },
   {
@@ -180197,9 +180197,9 @@
     "owner": "Jose",
     "player": "Rico Dowdle",
     "position": "RB",
-    "slot": "BE",
-    "points": 0,
-    "started": false
+    "slot": "RB/WR/TE",
+    "points": 2.9,
+    "started": true
   },
   {
     "year": 2026,
@@ -180231,7 +180231,7 @@
     "player": "Broncos D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 0,
+    "points": 10.0,
     "started": true
   },
   {
@@ -180352,7 +180352,7 @@
     "player": "J.K. Dobbins",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 0.0,
     "started": true
   },
   {
@@ -180396,7 +180396,7 @@
     "player": "Josh Allen",
     "position": "QB",
     "slot": "QB",
-    "points": 0,
+    "points": 3.54,
     "started": true
   },
   {
@@ -180407,7 +180407,7 @@
     "player": "Tyler Bass",
     "position": "K",
     "slot": "BE",
-    "points": 0,
+    "points": 11.0,
     "started": false
   },
   {
@@ -180418,7 +180418,7 @@
     "player": "Bills D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 0,
+    "points": 6.0,
     "started": true
   },
   {
@@ -180528,7 +180528,7 @@
     "player": "Jaylen Waddle",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 4.7,
     "started": true
   },
   {
@@ -180561,7 +180561,7 @@
     "player": "Michael Pittman Jr.",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 1.7,
     "started": false
   },
   {
@@ -180572,7 +180572,7 @@
     "player": "Brandon Aubrey",
     "position": "K",
     "slot": "K",
-    "points": 1.0,
+    "points": 8.0,
     "started": true
   },
   {
@@ -180583,7 +180583,7 @@
     "player": "Josh Downs",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 0,
+    "points": 2.3,
     "started": true
   },
   {
@@ -180594,7 +180594,7 @@
     "player": "Dallas Goedert",
     "position": "TE",
     "slot": "BE",
-    "points": 0.0,
+    "points": 1.9,
     "started": false
   },
   {
@@ -180693,7 +180693,7 @@
     "player": "Javonte Williams",
     "position": "RB",
     "slot": "RB",
-    "points": 11.0,
+    "points": 35.3,
     "started": true
   },
   {
@@ -180715,7 +180715,7 @@
     "player": "DJ Moore",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 3.5,
     "started": true
   },
   {
@@ -180726,7 +180726,7 @@
     "player": "Patrick Mahomes",
     "position": "QB",
     "slot": "QB",
-    "points": 0,
+    "points": 7.16,
     "started": true
   },
   {
@@ -180957,7 +180957,7 @@
     "player": "Keon Coleman",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -180968,7 +180968,7 @@
     "player": "Khalil Shakir",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 0,
+    "points": 6.3,
     "started": true
   },
   {
@@ -181045,7 +181045,7 @@
     "player": "CeeDee Lamb",
     "position": "WR",
     "slot": "WR",
-    "points": 3.8,
+    "points": 22.4,
     "started": true
   },
   {
@@ -181144,7 +181144,7 @@
     "player": "Dak Prescott",
     "position": "QB",
     "slot": "QB",
-    "points": 1.32,
+    "points": 25.54,
     "started": true
   },
   {
@@ -181199,7 +181199,7 @@
     "player": "Xavier Worthy",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -181207,10 +181207,10 @@
     "week": 15,
     "team": "Franklin's Football Turtles",
     "owner": "Frankie",
-    "player": "Giants D/ST",
+    "player": "Steelers D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 0,
+    "points": 26.0,
     "started": true
   },
   {
@@ -181221,7 +181221,7 @@
     "player": "James Cook III",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 21.5,
     "started": true
   },
   {
@@ -181243,7 +181243,7 @@
     "player": "DK Metcalf",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 12.6,
     "started": false
   },
   {
@@ -181276,7 +181276,7 @@
     "player": "Dalton Kincaid",
     "position": "TE",
     "slot": "IR",
-    "points": 0,
+    "points": 3.3,
     "started": false
   },
   {
@@ -181298,7 +181298,7 @@
     "player": "Chris Boswell",
     "position": "K",
     "slot": "K",
-    "points": 0,
+    "points": 7.0,
     "started": true
   },
   {
@@ -181331,7 +181331,7 @@
     "player": "Jonah Coleman",
     "position": "RB",
     "slot": "RB/WR/TE",
-    "points": 0,
+    "points": 6.9,
     "started": true
   },
   {
@@ -181342,7 +181342,7 @@
     "player": "Courtland Sutton",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 1.4,
     "started": false
   },
   {
@@ -181397,7 +181397,7 @@
     "player": "Dawson Knox",
     "position": "TE",
     "slot": "BE",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -181441,7 +181441,7 @@
     "player": "Saquon Barkley",
     "position": "RB",
     "slot": "RB",
-    "points": 0.2,
+    "points": 0.7,
     "started": true
   },
   {
@@ -181452,7 +181452,7 @@
     "player": "Emmett Johnson",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 19.6,
     "started": true
   },
   {
@@ -181537,21 +181537,10 @@
     "week": 15,
     "team": "Kangaroo Bouncers",
     "owner": "Sway",
-    "player": "Jonathon Brooks",
-    "position": "RB",
-    "slot": "IR",
-    "points": 0,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 15,
-    "team": "Kangaroo Bouncers",
-    "owner": "Sway",
     "player": "DeVonta Smith",
     "position": "WR",
     "slot": "WR",
-    "points": 0.0,
+    "points": 51.0,
     "started": true
   },
   {
@@ -181561,9 +181550,9 @@
     "owner": "Sway",
     "player": "Parker Washington",
     "position": "WR",
-    "slot": "WR",
+    "slot": "IR",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -181583,9 +181572,9 @@
     "owner": "Sway",
     "player": "Xavier Hutchinson",
     "position": "WR",
-    "slot": "BE",
+    "slot": "WR",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -181607,6 +181596,17 @@
     "position": "WR",
     "slot": "BE",
     "points": 0,
+    "started": false
+  },
+  {
+    "year": 2026,
+    "week": 15,
+    "team": "Kangaroo Bouncers",
+    "owner": "Sway",
+    "player": "Pat Bryant",
+    "position": "WR",
+    "slot": "BE",
+    "points": 3.0,
     "started": false
   },
   {
@@ -181650,7 +181650,7 @@
     "player": "Travis Kelce",
     "position": "TE",
     "slot": "TE",
-    "points": 0,
+    "points": 11.1,
     "started": true
   },
   {
@@ -181738,7 +181738,7 @@
     "player": "Chiefs D/ST",
     "position": "D/ST",
     "slot": "BE",
-    "points": 0,
+    "points": 11.0,
     "started": false
   },
   {
@@ -181793,7 +181793,7 @@
     "player": "Wil Lutz",
     "position": "K",
     "slot": "K",
-    "points": 0,
+    "points": 4.0,
     "started": true
   },
   {
@@ -181815,7 +181815,7 @@
     "player": "Roman Wilson",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -181848,7 +181848,7 @@
     "player": "Makai Lemon",
     "position": "WR",
     "slot": "BE",
-    "points": 0.0,
+    "points": 16.1,
     "started": false
   },
   {
@@ -181903,7 +181903,7 @@
     "player": "Rashee Rice",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 3.9,
     "started": true
   },
   {
@@ -181991,7 +181991,7 @@
     "player": "George Pickens",
     "position": "WR",
     "slot": "WR",
-    "points": 0.0,
+    "points": 11.7,
     "started": true
   },
   {
@@ -182123,7 +182123,7 @@
     "player": "Kenneth Walker III",
     "position": "RB",
     "slot": "BE",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -182145,7 +182145,7 @@
     "player": "Bears D/ST",
     "position": "D/ST",
     "slot": "BE",
-    "points": -4.0,
+    "points": -3.0,
     "started": false
   },
   {
@@ -182164,7 +182164,7 @@
     "week": 16,
     "team": "The substation",
     "owner": "Daniel",
-    "player": "Geno Smith",
+    "player": "Mac Jones",
     "position": "QB",
     "slot": "BE",
     "points": 0,
@@ -182343,7 +182343,7 @@
     "player": "Bo Nix",
     "position": "QB",
     "slot": "BE",
-    "points": 0,
+    "points": -1.28,
     "started": false
   },
   {
@@ -182408,9 +182408,9 @@
     "owner": "Jose",
     "player": "Bhayshul Tuten",
     "position": "RB",
-    "slot": "RB",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -182430,8 +182430,8 @@
     "owner": "Jose",
     "player": "Jaylen Warren",
     "position": "RB",
-    "slot": "RB/WR/TE",
-    "points": 0,
+    "slot": "RB",
+    "points": 3.6,
     "started": true
   },
   {
@@ -182441,9 +182441,9 @@
     "owner": "Jose",
     "player": "Rico Dowdle",
     "position": "RB",
-    "slot": "BE",
-    "points": 0,
-    "started": false
+    "slot": "RB/WR/TE",
+    "points": 2.9,
+    "started": true
   },
   {
     "year": 2026,
@@ -182475,7 +182475,7 @@
     "player": "Broncos D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 0,
+    "points": 10.0,
     "started": true
   },
   {
@@ -182596,7 +182596,7 @@
     "player": "J.K. Dobbins",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 0.0,
     "started": true
   },
   {
@@ -182640,7 +182640,7 @@
     "player": "Josh Allen",
     "position": "QB",
     "slot": "QB",
-    "points": 0,
+    "points": 3.54,
     "started": true
   },
   {
@@ -182651,7 +182651,7 @@
     "player": "Tyler Bass",
     "position": "K",
     "slot": "BE",
-    "points": 0,
+    "points": 11.0,
     "started": false
   },
   {
@@ -182662,7 +182662,7 @@
     "player": "Bills D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 0,
+    "points": 6.0,
     "started": true
   },
   {
@@ -182772,7 +182772,7 @@
     "player": "Jaylen Waddle",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 4.7,
     "started": true
   },
   {
@@ -182805,7 +182805,7 @@
     "player": "Michael Pittman Jr.",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 1.7,
     "started": false
   },
   {
@@ -182816,7 +182816,7 @@
     "player": "Brandon Aubrey",
     "position": "K",
     "slot": "K",
-    "points": 1.0,
+    "points": 8.0,
     "started": true
   },
   {
@@ -182827,7 +182827,7 @@
     "player": "Josh Downs",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 0,
+    "points": 2.3,
     "started": true
   },
   {
@@ -182838,7 +182838,7 @@
     "player": "Dallas Goedert",
     "position": "TE",
     "slot": "BE",
-    "points": 0.0,
+    "points": 1.9,
     "started": false
   },
   {
@@ -182937,7 +182937,7 @@
     "player": "Javonte Williams",
     "position": "RB",
     "slot": "RB",
-    "points": 11.0,
+    "points": 35.3,
     "started": true
   },
   {
@@ -182959,7 +182959,7 @@
     "player": "DJ Moore",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 3.5,
     "started": true
   },
   {
@@ -182970,7 +182970,7 @@
     "player": "Patrick Mahomes",
     "position": "QB",
     "slot": "QB",
-    "points": 0,
+    "points": 7.16,
     "started": true
   },
   {
@@ -183201,7 +183201,7 @@
     "player": "Keon Coleman",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -183212,7 +183212,7 @@
     "player": "Khalil Shakir",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 0,
+    "points": 6.3,
     "started": true
   },
   {
@@ -183289,7 +183289,7 @@
     "player": "CeeDee Lamb",
     "position": "WR",
     "slot": "WR",
-    "points": 3.8,
+    "points": 22.4,
     "started": true
   },
   {
@@ -183388,7 +183388,7 @@
     "player": "Dak Prescott",
     "position": "QB",
     "slot": "QB",
-    "points": 1.32,
+    "points": 25.54,
     "started": true
   },
   {
@@ -183443,7 +183443,7 @@
     "player": "Xavier Worthy",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -183451,10 +183451,10 @@
     "week": 16,
     "team": "Franklin's Football Turtles",
     "owner": "Frankie",
-    "player": "Giants D/ST",
+    "player": "Steelers D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 0,
+    "points": 26.0,
     "started": true
   },
   {
@@ -183465,7 +183465,7 @@
     "player": "James Cook III",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 21.5,
     "started": true
   },
   {
@@ -183487,7 +183487,7 @@
     "player": "DK Metcalf",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 12.6,
     "started": false
   },
   {
@@ -183520,7 +183520,7 @@
     "player": "Dalton Kincaid",
     "position": "TE",
     "slot": "IR",
-    "points": 0,
+    "points": 3.3,
     "started": false
   },
   {
@@ -183542,7 +183542,7 @@
     "player": "Chris Boswell",
     "position": "K",
     "slot": "K",
-    "points": 0,
+    "points": 7.0,
     "started": true
   },
   {
@@ -183575,7 +183575,7 @@
     "player": "Jonah Coleman",
     "position": "RB",
     "slot": "RB/WR/TE",
-    "points": 0,
+    "points": 6.9,
     "started": true
   },
   {
@@ -183586,7 +183586,7 @@
     "player": "Courtland Sutton",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 1.4,
     "started": false
   },
   {
@@ -183641,7 +183641,7 @@
     "player": "Dawson Knox",
     "position": "TE",
     "slot": "BE",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -183685,7 +183685,7 @@
     "player": "Saquon Barkley",
     "position": "RB",
     "slot": "RB",
-    "points": 0.2,
+    "points": 0.7,
     "started": true
   },
   {
@@ -183696,7 +183696,7 @@
     "player": "Emmett Johnson",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 19.6,
     "started": true
   },
   {
@@ -183781,21 +183781,10 @@
     "week": 16,
     "team": "Kangaroo Bouncers",
     "owner": "Sway",
-    "player": "Jonathon Brooks",
-    "position": "RB",
-    "slot": "IR",
-    "points": 0,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 16,
-    "team": "Kangaroo Bouncers",
-    "owner": "Sway",
     "player": "DeVonta Smith",
     "position": "WR",
     "slot": "WR",
-    "points": 0.0,
+    "points": 51.0,
     "started": true
   },
   {
@@ -183805,9 +183794,9 @@
     "owner": "Sway",
     "player": "Parker Washington",
     "position": "WR",
-    "slot": "WR",
+    "slot": "IR",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -183827,9 +183816,9 @@
     "owner": "Sway",
     "player": "Xavier Hutchinson",
     "position": "WR",
-    "slot": "BE",
+    "slot": "WR",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -183851,6 +183840,17 @@
     "position": "WR",
     "slot": "BE",
     "points": 0,
+    "started": false
+  },
+  {
+    "year": 2026,
+    "week": 16,
+    "team": "Kangaroo Bouncers",
+    "owner": "Sway",
+    "player": "Pat Bryant",
+    "position": "WR",
+    "slot": "BE",
+    "points": 3.0,
     "started": false
   },
   {
@@ -183894,7 +183894,7 @@
     "player": "Travis Kelce",
     "position": "TE",
     "slot": "TE",
-    "points": 0,
+    "points": 11.1,
     "started": true
   },
   {
@@ -183982,7 +183982,7 @@
     "player": "Chiefs D/ST",
     "position": "D/ST",
     "slot": "BE",
-    "points": 0,
+    "points": 11.0,
     "started": false
   },
   {
@@ -184037,7 +184037,7 @@
     "player": "Wil Lutz",
     "position": "K",
     "slot": "K",
-    "points": 0,
+    "points": 4.0,
     "started": true
   },
   {
@@ -184059,7 +184059,7 @@
     "player": "Roman Wilson",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -184092,7 +184092,7 @@
     "player": "Makai Lemon",
     "position": "WR",
     "slot": "BE",
-    "points": 0.0,
+    "points": 16.1,
     "started": false
   },
   {
@@ -184147,7 +184147,7 @@
     "player": "Rashee Rice",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 3.9,
     "started": true
   },
   {
@@ -184235,7 +184235,7 @@
     "player": "George Pickens",
     "position": "WR",
     "slot": "WR",
-    "points": 0.0,
+    "points": 11.7,
     "started": true
   },
   {
@@ -184367,7 +184367,7 @@
     "player": "Kenneth Walker III",
     "position": "RB",
     "slot": "BE",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -184389,7 +184389,7 @@
     "player": "Bears D/ST",
     "position": "D/ST",
     "slot": "BE",
-    "points": -4.0,
+    "points": -3.0,
     "started": false
   },
   {
@@ -184408,7 +184408,7 @@
     "week": 17,
     "team": "The substation",
     "owner": "Daniel",
-    "player": "Geno Smith",
+    "player": "Mac Jones",
     "position": "QB",
     "slot": "BE",
     "points": 0,
@@ -184587,7 +184587,7 @@
     "player": "Bo Nix",
     "position": "QB",
     "slot": "BE",
-    "points": 0,
+    "points": -1.28,
     "started": false
   },
   {
@@ -184652,9 +184652,9 @@
     "owner": "Jose",
     "player": "Bhayshul Tuten",
     "position": "RB",
-    "slot": "RB",
+    "slot": "BE",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -184674,8 +184674,8 @@
     "owner": "Jose",
     "player": "Jaylen Warren",
     "position": "RB",
-    "slot": "RB/WR/TE",
-    "points": 0,
+    "slot": "RB",
+    "points": 3.6,
     "started": true
   },
   {
@@ -184685,9 +184685,9 @@
     "owner": "Jose",
     "player": "Rico Dowdle",
     "position": "RB",
-    "slot": "BE",
-    "points": 0,
-    "started": false
+    "slot": "RB/WR/TE",
+    "points": 2.9,
+    "started": true
   },
   {
     "year": 2026,
@@ -184719,7 +184719,7 @@
     "player": "Broncos D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 0,
+    "points": 10.0,
     "started": true
   },
   {
@@ -184840,7 +184840,7 @@
     "player": "J.K. Dobbins",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 0.0,
     "started": true
   },
   {
@@ -184884,7 +184884,7 @@
     "player": "Josh Allen",
     "position": "QB",
     "slot": "QB",
-    "points": 0,
+    "points": 3.54,
     "started": true
   },
   {
@@ -184895,7 +184895,7 @@
     "player": "Tyler Bass",
     "position": "K",
     "slot": "BE",
-    "points": 0,
+    "points": 11.0,
     "started": false
   },
   {
@@ -184906,7 +184906,7 @@
     "player": "Bills D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 0,
+    "points": 6.0,
     "started": true
   },
   {
@@ -185016,7 +185016,7 @@
     "player": "Jaylen Waddle",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 4.7,
     "started": true
   },
   {
@@ -185049,7 +185049,7 @@
     "player": "Michael Pittman Jr.",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 1.7,
     "started": false
   },
   {
@@ -185060,7 +185060,7 @@
     "player": "Brandon Aubrey",
     "position": "K",
     "slot": "K",
-    "points": 1.0,
+    "points": 8.0,
     "started": true
   },
   {
@@ -185071,7 +185071,7 @@
     "player": "Josh Downs",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 0,
+    "points": 2.3,
     "started": true
   },
   {
@@ -185082,7 +185082,7 @@
     "player": "Dallas Goedert",
     "position": "TE",
     "slot": "BE",
-    "points": 0.0,
+    "points": 1.9,
     "started": false
   },
   {
@@ -185181,7 +185181,7 @@
     "player": "Javonte Williams",
     "position": "RB",
     "slot": "RB",
-    "points": 11.0,
+    "points": 35.3,
     "started": true
   },
   {
@@ -185203,7 +185203,7 @@
     "player": "DJ Moore",
     "position": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 3.5,
     "started": true
   },
   {
@@ -185214,7 +185214,7 @@
     "player": "Patrick Mahomes",
     "position": "QB",
     "slot": "QB",
-    "points": 0,
+    "points": 7.16,
     "started": true
   },
   {
@@ -185445,7 +185445,7 @@
     "player": "Keon Coleman",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -185456,7 +185456,7 @@
     "player": "Khalil Shakir",
     "position": "WR",
     "slot": "RB/WR/TE",
-    "points": 0,
+    "points": 6.3,
     "started": true
   },
   {
@@ -185533,7 +185533,7 @@
     "player": "CeeDee Lamb",
     "position": "WR",
     "slot": "WR",
-    "points": 3.8,
+    "points": 22.4,
     "started": true
   },
   {
@@ -185632,7 +185632,7 @@
     "player": "Dak Prescott",
     "position": "QB",
     "slot": "QB",
-    "points": 1.32,
+    "points": 25.54,
     "started": true
   },
   {
@@ -185687,7 +185687,7 @@
     "player": "Xavier Worthy",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -185695,10 +185695,10 @@
     "week": 17,
     "team": "Franklin's Football Turtles",
     "owner": "Frankie",
-    "player": "Giants D/ST",
+    "player": "Steelers D/ST",
     "position": "D/ST",
     "slot": "D/ST",
-    "points": 0,
+    "points": 26.0,
     "started": true
   },
   {
@@ -185709,7 +185709,7 @@
     "player": "James Cook III",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 21.5,
     "started": true
   },
   {
@@ -185731,7 +185731,7 @@
     "player": "DK Metcalf",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 12.6,
     "started": false
   },
   {
@@ -185764,7 +185764,7 @@
     "player": "Dalton Kincaid",
     "position": "TE",
     "slot": "IR",
-    "points": 0,
+    "points": 3.3,
     "started": false
   },
   {
@@ -185786,7 +185786,7 @@
     "player": "Chris Boswell",
     "position": "K",
     "slot": "K",
-    "points": 0,
+    "points": 7.0,
     "started": true
   },
   {
@@ -185819,7 +185819,7 @@
     "player": "Jonah Coleman",
     "position": "RB",
     "slot": "RB/WR/TE",
-    "points": 0,
+    "points": 6.9,
     "started": true
   },
   {
@@ -185830,7 +185830,7 @@
     "player": "Courtland Sutton",
     "position": "WR",
     "slot": "BE",
-    "points": 0,
+    "points": 1.4,
     "started": false
   },
   {
@@ -185885,7 +185885,7 @@
     "player": "Dawson Knox",
     "position": "TE",
     "slot": "BE",
-    "points": 0,
+    "points": 0.0,
     "started": false
   },
   {
@@ -185929,7 +185929,7 @@
     "player": "Saquon Barkley",
     "position": "RB",
     "slot": "RB",
-    "points": 0.2,
+    "points": 0.7,
     "started": true
   },
   {
@@ -185940,7 +185940,7 @@
     "player": "Emmett Johnson",
     "position": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 19.6,
     "started": true
   },
   {
@@ -186025,21 +186025,10 @@
     "week": 17,
     "team": "Kangaroo Bouncers",
     "owner": "Sway",
-    "player": "Jonathon Brooks",
-    "position": "RB",
-    "slot": "IR",
-    "points": 0,
-    "started": false
-  },
-  {
-    "year": 2026,
-    "week": 17,
-    "team": "Kangaroo Bouncers",
-    "owner": "Sway",
     "player": "DeVonta Smith",
     "position": "WR",
     "slot": "WR",
-    "points": 0.0,
+    "points": 51.0,
     "started": true
   },
   {
@@ -186049,9 +186038,9 @@
     "owner": "Sway",
     "player": "Parker Washington",
     "position": "WR",
-    "slot": "WR",
+    "slot": "IR",
     "points": 0,
-    "started": true
+    "started": false
   },
   {
     "year": 2026,
@@ -186071,9 +186060,9 @@
     "owner": "Sway",
     "player": "Xavier Hutchinson",
     "position": "WR",
-    "slot": "BE",
+    "slot": "WR",
     "points": 0,
-    "started": false
+    "started": true
   },
   {
     "year": 2026,
@@ -186095,6 +186084,17 @@
     "position": "WR",
     "slot": "BE",
     "points": 0,
+    "started": false
+  },
+  {
+    "year": 2026,
+    "week": 17,
+    "team": "Kangaroo Bouncers",
+    "owner": "Sway",
+    "player": "Pat Bryant",
+    "position": "WR",
+    "slot": "BE",
+    "points": 3.0,
     "started": false
   }
 ]
